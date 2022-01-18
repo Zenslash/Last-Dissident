@@ -231,7 +231,12 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
+/I E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Inc\Cyberpunk2022
 /I E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Source
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
+/I Runtime\AugmentedReality\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\MRMesh
+/I Runtime\MRMesh\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf

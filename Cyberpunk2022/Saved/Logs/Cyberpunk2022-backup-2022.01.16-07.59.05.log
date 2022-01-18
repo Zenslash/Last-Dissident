@@ -1,0 +1,1514 @@
+﻿Log file open, 01/16/22 10:55:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Cyberpunk2022
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.310565
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: E:/UE4/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.01.16-07.55.26:572][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.01.16-07.55.26:572][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.01.16-07.55.26:572][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-07.55.26:572][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.01.16-07.55.26:572][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-07.55.26:572][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-07.55.26:572][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.01.16-07.55.26:572][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.01.16-07.55.26:572][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.01.16-07.55.26:572][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.01.16-07.55.26:573][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.01.16-07.55.26:574][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.01.16-07.55.26:574][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-07.55.26:574][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-07.55.26:578][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-07.55.26:578][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.16-07.55.26:578][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.16-07.55.26:578][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-07.55.26:578][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.16-07.55.26:578][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-07.55.26:578][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.16-07.55.26:578][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.16-07.55.26:579][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.16-07.55.26:580][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.16-07.55.26:581][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.16-07.55.26:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.16-07.55.26:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.16-07.55.26:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.16-07.55.26:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.16-07.55.26:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.16-07.55.26:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.16-07.55.26:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.16-07.55.26:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.16-07.55.26:582][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.16-07.55.26:582][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-07.55.26:582][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.16-07.55.26:582][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.16-07.55.26:582][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-07.55.26:582][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.16-07.55.26:582][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.16-07.55.26:582][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.16-07.55.26:582][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.16-07.55.26:582][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.01.16-07.55.26:582][  0]LogHAL: Display: Platform has ~ 16 GB [16487870464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.16-07.55.26:582][  0]LogInit: Going up to parent DeviceProfile []
+[2022.01.16-07.55.26:582][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.16-07.55.26:583][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.16-07.55.26:584][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.16-07.55.26:585][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.16-07.55.26:586][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.01.16-07.55.26:586][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.01.16-07.55.26:586][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.01.16-07.55.26:586][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.01.16-07.55.26:586][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-07.55.26:586][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Editor.ini]
+[2022.01.16-07.55.26:586][  0]LogInit: Computer: DESKTOP-P6OQVGL
+[2022.01.16-07.55.26:586][  0]LogInit: User: Artem
+[2022.01.16-07.55.26:586][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.01.16-07.55.26:586][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.01.16-07.55.26:586][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.01.16-07.55.26:586][  0]LogMemory: Platform Memory Stats for Windows
+[2022.01.16-07.55.26:586][  0]LogMemory: Process Physical Memory: 144.57 MB used, 144.58 MB peak
+[2022.01.16-07.55.26:586][  0]LogMemory: Process Virtual Memory: 123.00 MB used, 123.00 MB peak
+[2022.01.16-07.55.26:586][  0]LogMemory: Physical Memory: 9256.20 MB used,  6467.86 MB free, 15724.06 MB total
+[2022.01.16-07.55.26:587][  0]LogMemory: Virtual Memory: 134207304.00 MB used,  10423.21 MB free, 134217728.00 MB total
+[2022.01.16-07.55.26:595][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.01.16-07.55.26:705][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.01.16-07.55.26:707][  0]LogInit: Using OS detected language (en-US).
+[2022.01.16-07.55.26:707][  0]LogInit: Using OS detected locale (en-US).
+[2022.01.16-07.55.26:710][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.01.16-07.55.26:977][  0]LogInit: Setting process to per monitor DPI aware
+[2022.01.16-07.55.27:001][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.16-07.55.27:248][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.01.16-07.55.27:248][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.01.16-07.55.27:346][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.01.16-07.55.27:361][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.16-07.55.27:361][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.01.16-07.55.27:361][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.01.16-07.55.27:361][  0]LogD3D11RHI: D3D11 adapters:
+[2022.01.16-07.55.27:457][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_0)
+[2022.01.16-07.55.27:457][  0]LogD3D11RHI:       6023/0/7862 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.01.16-07.55.27:502][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2022.01.16-07.55.27:502][  0]LogD3D11RHI:       496/0/7862 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2022.01.16-07.55.27:506][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.01.16-07.55.27:506][  0]LogD3D11RHI:       0/0/7862 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.01.16-07.55.27:506][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.01.16-07.55.27:506][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.01.16-07.55.27:506][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.16-07.55.27:506][  0]LogD3D11RHI:     DeviceId    : 2520
+[2022.01.16-07.55.27:506][  0]LogD3D11RHI:     SubSysId    : 151f1025
+[2022.01.16-07.55.27:506][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.16-07.55.27:507][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.01.16-07.55.27:507][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.16-07.55.27:507][  0]LogD3D11RHI:     SharedSystemMemory : 8243935232 bytes
+[2022.01.16-07.55.27:507][  0]LogD3D11RHI:     AdapterLuid : 0 58078
+[2022.01.16-07.55.27:514][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.01.16-07.55.27:514][  0]LogD3D11RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2022.01.16-07.55.27:514][  0]LogWindows: EnumDisplayDevices:
+[2022.01.16-07.55.27:514][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2022.01.16-07.55.27:514][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.01.16-07.55.27:515][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.01.16-07.55.27:515][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2022.01.16-07.55.27:515][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.01.16-07.55.27:515][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.01.16-07.55.27:515][  0]LogD3D11RHI:   Driver Version: 497.09 (internal:30.0.14.9709, unified:497.09)
+[2022.01.16-07.55.27:515][  0]LogD3D11RHI:      Driver Date: 11-26-2021
+[2022.01.16-07.55.27:515][  0]LogRHI: Texture pool is 4216 MB (70% of 6023 MB)
+[2022.01.16-07.55.27:515][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.01.16-07.55.27:515][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.01.16-07.55.27:515][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.16-07.55.27:515][  0]LogD3D11RHI:     DeviceId    : 2520
+[2022.01.16-07.55.27:515][  0]LogD3D11RHI:     SubSysId    : 151f1025
+[2022.01.16-07.55.27:515][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.16-07.55.27:515][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.01.16-07.55.27:516][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.16-07.55.27:516][  0]LogD3D11RHI:     SharedSystemMemory : 8243935232 bytes
+[2022.01.16-07.55.27:516][  0]LogD3D11RHI:     AdapterLuid : 0 58078
+[2022.01.16-07.55.27:570][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.01.16-07.55.27:571][  0]LogD3D11RHI: Async texture creation enabled
+[2022.01.16-07.55.27:571][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.01.16-07.55.27:597][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.01.16-07.55.27:619][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.01.16-07.55.27:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.16-07.55.27:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.16-07.55.27:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.16-07.55.27:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.16-07.55.27:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.16-07.55.27:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.16-07.55.27:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.16-07.55.27:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.16-07.55.27:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.16-07.55.27:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.16-07.55.27:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.16-07.55.27:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.16-07.55.27:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.16-07.55.27:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.16-07.55.27:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.16-07.55.27:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.16-07.55.27:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.16-07.55.27:912][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.16-07.55.27:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.16-07.55.27:921][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.16-07.55.27:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.16-07.55.27:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.16-07.55.27:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.16-07.55.27:952][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.16-07.55.27:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.16-07.55.27:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.16-07.55.27:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.16-07.55.27:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.16-07.55.27:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.16-07.55.27:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.16-07.55.27:986][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.16-07.55.27:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.16-07.55.27:991][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.16-07.55.28:000][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.16-07.55.28:032][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.01.16-07.55.28:073][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.01.16-07.55.28:073][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../Projects/WargamingAcademy/Cyberpunk2022/Intermediate/Shaders/WorkingDirectory/10084/).
+[2022.01.16-07.55.28:073][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Artem/AppData/Local/Temp/UnrealShaderWorkingDir/5DE2F18C41D61037439657963A9A2DC5/'.
+[2022.01.16-07.55.28:074][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.01.16-07.55.28:074][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.01.16-07.55.28:074][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.16-07.55.28:677][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.16-07.55.28:729][  0]LogDerivedDataCache: Loaded boot cache 0.05s 99MB C:/Users/Artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.16-07.55.28:729][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.01.16-07.55.28:729][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projects/WargamingAcademy/Cyberpunk2022/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.01.16-07.55.28:729][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.01.16-07.55.28:729][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projects/WargamingAcademy/Cyberpunk2022/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.16-07.55.28:729][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.01.16-07.55.28:746][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.16-07.55.28:746][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.16-07.55.28:746][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.01.16-07.55.28:751][  0]LogDerivedDataCache: Speed tests for C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.01.16-07.55.28:751][  0]LogDerivedDataCache: Display: Performance to C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1715.92MBs, RandomWriteSpeed=205.62MBs. Assigned SpeedClass 'Local'
+[2022.01.16-07.55.28:753][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.01.16-07.55.28:753][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.01.16-07.55.28:753][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.01.16-07.55.28:792][  0]LogSlate: Using FreeType 2.10.0
+[2022.01.16-07.55.28:792][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.01.16-07.55.28:815][  0]LogAssetRegistry: FAssetRegistry took 0.0036 seconds to start up
+[2022.01.16-07.55.29:008][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.16-07.55.29:008][  0]LogInit: Active device profile: [0000014F20232C00][0000014F1FD4A400 49] Windows
+[2022.01.16-07.55.29:008][  0]LogInit: Profiles: [0000014F20232C00][0000014F1FD4A400 49] Windows, [0000014F201E5600][0000014F19BFE540 49] WindowsNoEditor, [0000014F20231600][0000014F1796A680 49] WindowsServer, [0000014F201E6300][0000014F19B807C0 49] WindowsClient, [0000014F20232200][0000014F2115A900 49] IOS, [0000014F201E6600][0000014F184C4A80 49] iPadAir, [0000014F20232900][0000014F184D2C00 49] iPadAir2, [0000014F2017AC00][0000014F184DAEC0 49] IPadPro, [0000014F2017AD00][0000014F184D6F00 49] iPadAir3, [0000014F20233400][0000014F184DF080 49] iPadAir4, [0000014F2017B400][0000014F20DC1200 49] iPadMini2, [0000014F20231D00][0000014F20DC5380 49] iPadMini3, [0000014F20179200][0000014F20DC9500 49] iPadMini4, [0000014F20230B00][0000014F178C3680 49] iPadMini5, [0000014F201C2500][0000014F178CB940 49] iPhone6, [0000014F201C2600][0000014F178C7980 49] iPodTouch6, [0000014F20179F00][0000014F178E60C0 49] iPhone7, [0000014F2017A000][0000014F178CE100 49] iPodTouch7, [0000014F201C2900][0000014F178EA280 49] iPhone5S, [0000014F20178A00][0000014F178F6400 49] iPhone6Plus, [0000014F201C1200][0000014F178FA580 49] iPhone6S, [0000014F2017BB00][0000014F178FE700 49] iPhone6SPlus, [0000014F201C3C00][0000014F19B84840 49] iPhone7Plus, [0000014F2017B700][0000014F17902980 49] iPhoneSE, [0000014F201C2F00][0000014F1790AAC0 49] iPhone8, [0000014F20178700][0000014F20E00C40 49] iPhone8Plus, [0000014F201C1800][0000014F2150CDC0 49] iPhoneX, [0000014F2017B000][0000014F19B60F40 49] iPhoneXS, [0000014F201C3F00][0000014F19B650C0 49] iPhoneXSMax, [0000014F2017A400][0000014F19B69240 49] iPhoneXR, [0000014F201C3E00][0000014F19B6D3C0 49] iPhone11, [0000014F20178F00][0000014F19B71540 49] iPhone11Pro, [0000014F201C3000][0000014F19B756C0 49] iPhone11ProMax, [0000014F2017AE00][0000014F17907840 49] iPhoneSE2, [0000014F201C0500][0000014F215099C0 49] iPhone12Mini, [0000014F2017BD00][0000014F19B79B40 49] iPhone12, [0000014F201C0600][0000014F19B7C140 49] iPhone12Pro, [0000014F20178800][0000014F184782C0 49] iPhone12ProMax, [0000014F201C3300][0000014F214CC440 49] iPadPro105, [0000014F20178600][0000014F214D05C0 49] iPadPro129, [0000014F201C0A00][0000014F214D4740 49] iPadPro97, [0000014F2017B900][0000014F214D88C0 49] iPadPro2_129, [0000014F201C1F00][0000014F1790EA00 49] iPad5, [0000014F2017B800][0000014F1FC44B40 49] iPad6, [0000014F201C0B00][0000014F1FA30C80 49] iPad7, [0000014F2017B100][0000014F1FA34DC0 49] iPad8, [0000014F201C0700][0000014F19BDAF40 49] iPadPro11, [0000014F2017A300][0000014F19BDF0C0 49] iPadPro2_11, [0000014F201C0C00][0000014F19BE3240 49] iPadPro3_129, [0000014F20178300][0000014F19BE73C0 49] iPadPro4_129, [0000014F201E5900][0000014F19BEB540 49] AppleTV, [0000014F20290800][0000014F19BEF6C0 49] AppleTV4K, [0000014F201E7500][0000014F19BF3840 49] TVOS, [0000014F20291C00][0000014F19BF79C0 49] Mac, [0000014F201E7200][0000014F19BFBB40 49] MacClient, [0000014F20291600][0000014F214DC140 49] MacNoEditor, [0000014F201E7900][0000014F214E02C0 49] MacServer, [0000014F20292100][0000014F214E4440 49] Linux, [0000014F201E6400][0000014F214E85C0 49] LinuxAArch64, [0000014F20290C00][0000014F214EC740 49] LinuxNoEditor, [0000014F201E7600][0000014F214F08C0 49] LinuxAArch64NoEditor, [0000014F20291100][0000014F214F4A40 49] LinuxClient, [0000014F201E6900][0000014F19BD6B80 49] LinuxAArch64Client, [0000014F20291A00][0000014F214F8CC0 49] LinuxServer, [0000014F201E5000][0000014F214FCE00 49] LinuxAArch64Server, [0000014F20291800][0000014F21500F40 49] Android, [0000014F201E4C00][0000014F1847D0C0 49] Android_Low, [0000014F20291000][0000014F18481240 49] Android_Mid, [0000014F20179A00][0000014F184853C0 49] Android_High, [0000014F201C0300][0000014F18489540 49] Android_Default, [0000014F2017B200][0000014F1848D6C0 49] Android_Adreno4xx, [0000014F201C1A00][0000014F18491840 49] Android_Adreno5xx_Low, [0000014F2017BF00][0000014F184959C0 49] Android_Adreno5xx, [0000014F201C2B00][0000014F18499B40 49] Android_Adreno6xx, [0000014F2017BC00][0000014F1849C140 49] Android_Adreno6xx_Vulkan, [0000014F201C2000][0000014F184A02C0 49] Android_Mali_T6xx, [0000014F20179B00][0000014F184A4440 49] Android_Mali_T7xx, [0000014F201C1100][0000014F184A85C0 49] Android_Mali_T8xx, [0000014F20179C00][0000014F184AC740 49] Android_Mali_G71, [0000014F201C2200][0000014F184B08C0 49] Android_Mali_G72, [0000014F2017A600][0000014F184B4A40 49] Android_Mali_G72_Vulkan, [0000014F201C2C00][0000014F184B8BC0 49] Android_Mali_G76, [0000014F20178400][0000014F184BCD40 49] Android_Mali_G76_Vulkan, [0000014F201C2A00][0000014F21504E80 49] Android_Mali_G77, [0000014F2017A900][0000014F184C0FC0 49] Android_Mali_G77_Vulkan, [0000014F20290600][0000014F1FBA9100 49] Android_Mali_G78, [0000014F2017A800][0000014F1FBB1280 49] Android_Mali_G78_Vulkan, [0000014F20291400][0000014F1FBB5400 49] Android_Mali_G710, [0000014F2017BE00][0000014F1FBB9580 49] Android_Mali_G710_Vulkan, [0000014F201C0800][0000014F1FBBD700 49] Android_Vulkan_SM5, [0000014F20179700][0000014F1FBC1880 49] Android_PowerVR_G6xxx, [0000014F201C1500][0000014F1FBC5A00 49] Android_PowerVR_GT7xxx, [0000014F2017B600][0000014F1FBC9B80 49] Android_PowerVR_GE8xxx, [0000014F201C0900][0000014F1FBCC180 49] Android_PowerVR_GM9xxx, [0000014F20179600][0000014F1FBD0300 49] Android_PowerVR_GM9xxx_Vulkan, [0000014F201C0F00][0000014F1FBD4480 49] Android_TegraK1, [0000014F2017AB00][0000014F1FBD8600 49] Android_Unknown_Vulkan, [0000014F201C1700][0000014F1FBDC780 49] Lumin, [0000014F20179500][0000014F1FBE0900 49] Lumin_Desktop, [0000014F201C3900][0000014F1FBE4A80 49] HoloLens, 
+[2022.01.16-07.55.29:122][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.01.16-07.55.29:122][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.01.16-07.55.29:122][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.01.16-07.55.29:122][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.01.16-07.55.29:122][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.01.16-07.55.29:135][  0]LogNetVersion: Cyberpunk2022 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1028016206)
+[2022.01.16-07.55.29:442][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.16-07.55.29:488][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.16-07.55.29:494][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.01.16-07.55.29:495][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.01.16-07.55.29:495][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.01.16-07.55.29:779][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: EB2D86D349D20B71917B9E8745DFD7B6 | Instance: B9C223D64077E74043E3D5855552A2D9 (DESKTOP-P6OQVGL-10084).
+[2022.01.16-07.55.29:892][  0]LogPython: Using Python 3.7.7
+[2022.01.16-07.55.30:322][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.01.16-07.55.30:328][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.01.16-07.55.30:661][  0]SourceControl: Source control is disabled
+[2022.01.16-07.55.30:662][  0]SourceControl: Source control is disabled
+[2022.01.16-07.55.30:668][  0]SourceControl: Source control is disabled
+[2022.01.16-07.55.30:671][  0]SourceControl: Source control is disabled
+[2022.01.16-07.55.30:678][  0]SourceControl: Source control is disabled
+[2022.01.16-07.55.30:685][  0]LogUProjectInfo: Found projects:
+[2022.01.16-07.55.30:913][  0]LogOpenImageDenoise: OIDN starting up
+[2022.01.16-07.55.30:952][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.01.16-07.55.30:975][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.16-07.55.30:975][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.16-07.55.31:094][  0]LogCollectionManager: Loaded 0 collections in 0.000543 seconds
+[2022.01.16-07.55.31:120][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Collections/' took 0.00s
+[2022.01.16-07.55.31:121][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/Developers/Artem/Collections/' took 0.00s
+[2022.01.16-07.55.31:121][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/Collections/' took 0.00s
+[2022.01.16-07.55.31:121][  0]LogOcInput: OculusInput pre-init called
+[2022.01.16-07.55.31:316][  0]LogEngine: Initializing Engine...
+[2022.01.16-07.55.31:319][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.01.16-07.55.31:320][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.16-07.55.31:320][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.01.16-07.55.31:320][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.01.16-07.55.31:414][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.01.16-07.55.31:422][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.01.16-07.55.31:431][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.01.16-07.55.31:434][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.01.16-07.55.31:435][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.01.16-07.55.31:435][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.01.16-07.55.31:435][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.01.16-07.55.31:435][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.16-07.55.31:435][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.16-07.55.31:435][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.16-07.55.31:435][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.16-07.55.31:435][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.16-07.55.31:435][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.16-07.55.31:435][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.16-07.55.31:435][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.16-07.55.31:436][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.16-07.55.31:436][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.16-07.55.31:436][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.16-07.55.31:436][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.16-07.55.31:447][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.16-07.55.31:447][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.01.16-07.55.31:527][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.01.16-07.55.31:530][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.16-07.55.31:532][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.16-07.55.31:532][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.16-07.55.31:533][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.16-07.55.31:533][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.16-07.55.31:533][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.16-07.55.31:535][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.16-07.55.31:535][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.16-07.55.31:535][  0]LogInit: FAudioDevice initialized.
+[2022.01.16-07.55.31:535][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.01.16-07.55.31:535][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.01.16-07.55.31:584][  0]LogDerivedDataCache: Saved boot cache 0.05s 99MB C:/Users/Artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.16-07.55.31:585][  0]LogInit: Texture streaming: Enabled
+[2022.01.16-07.55.31:598][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.01.16-07.55.31:601][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.01.16-07.55.31:602][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.01.16-07.55.31:603][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.01.16-07.55.31:622][  0]LogInit: Transaction tracking system initialized
+[2022.01.16-07.55.31:646][  0]BlueprintLog: New page: Editor Load
+[2022.01.16-07.55.31:706][  0]LocalizationService: Localization service is disabled
+[2022.01.16-07.55.31:731][  0]TimingProfiler: Initialize
+[2022.01.16-07.55.31:731][  0]TimingProfiler: OnSessionChanged
+[2022.01.16-07.55.31:731][  0]LoadingProfiler: Initialize
+[2022.01.16-07.55.31:731][  0]LoadingProfiler: OnSessionChanged
+[2022.01.16-07.55.31:731][  0]NetworkingProfiler: Initialize
+[2022.01.16-07.55.31:732][  0]NetworkingProfiler: OnSessionChanged
+[2022.01.16-07.55.31:732][  0]MemoryProfiler: Initialize
+[2022.01.16-07.55.31:732][  0]MemoryProfiler: OnSessionChanged
+[2022.01.16-07.55.31:868][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.16-07.55.31:868][  0]LogCook: Display: Mobile HDR setting 1
+[2022.01.16-07.55.32:072][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/' took 0.00s
+[2022.01.16-07.55.32:211][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.01.16-07.55.32:212][  0]SourceControl: Source control is disabled
+[2022.01.16-07.55.32:212][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.804
+[2022.01.16-07.55.32:213][  0]Cmd: MAP LOAD FILE="../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.16-07.55.32:213][  0]LightingResults: New page: Lighting Build
+[2022.01.16-07.55.32:214][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-07.55.32:214][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.55.32:215][  0]MapCheck: New page: Map Check
+[2022.01.16-07.55.32:215][  0]LightingResults: New page: Lighting Build
+[2022.01.16-07.55.32:219][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.16-07.55.32:223][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.01.16-07.55.32:257][  0]LogTexture: Display: Building textures: DeprecatedTextureD5B55AC7496CD3FBF6154CA3715BB71F (BGRA8, 128X128)
+[2022.01.16-07.55.32:273][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2022.01.16-07.55.32:274][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.16-07.55.32:282][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.16-07.55.32:294][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.01.16-07.55.32:295][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.16-07.55.32:295][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2022.01.16-07.55.32:295][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.082
+[2022.01.16-07.55.32:297][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.887
+[2022.01.16-07.55.32:397][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.55.32:402][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.55.32:408][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.55.32:413][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.55.32:425][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0087 seconds. Added 3828 classes and 930 folders.
+[2022.01.16-07.55.32:427][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.16-07.55.32:428][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.16-07.55.32:428][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.16-07.55.32:428][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:428][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.01.16-07.55.32:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2022.01.16-07.55.32:429][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.16-07.55.32:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.16-07.55.32:429][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:429][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.01.16-07.55.32:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2022.01.16-07.55.32:429][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.01.16-07.55.32:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.01.16-07.55.32:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.01.16-07.55.32:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2022.01.16-07.55.32:430][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.16-07.55.32:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.16-07.55.32:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.01.16-07.55.32:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2022.01.16-07.55.32:431][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.16-07.55.32:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.16-07.55.32:431][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:431][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.01.16-07.55.32:431][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2022.01.16-07.55.32:431][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.16-07.55.32:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.16-07.55.32:431][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:431][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.01.16-07.55.32:431][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2022.01.16-07.55.32:431][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.16-07.55.32:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.16-07.55.32:431][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.01.16-07.55.32:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2022.01.16-07.55.32:432][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.16-07.55.32:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.16-07.55.32:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.01.16-07.55.32:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2022.01.16-07.55.32:433][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.16-07.55.32:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.16-07.55.32:433][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:433][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.01.16-07.55.32:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2022.01.16-07.55.32:433][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.16-07.55.32:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.16-07.55.32:434][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:434][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.01.16-07.55.32:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2022.01.16-07.55.32:434][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.16-07.55.32:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.16-07.55.32:434][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:434][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.01.16-07.55.32:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.01.16-07.55.32:435][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.16-07.55.32:435][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:435][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.16-07.55.32:435][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:435][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.01.16-07.55.32:435][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2022.01.16-07.55.32:435][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.16-07.55.32:436][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:436][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.16-07.55.32:436][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:436][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.01.16-07.55.32:436][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2022.01.16-07.55.32:436][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.16-07.55.32:436][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:436][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.16-07.55.32:436][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:436][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.01.16-07.55.32:436][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2022.01.16-07.55.32:437][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.16-07.55.32:437][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:437][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.16-07.55.32:437][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:437][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.01.16-07.55.32:437][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2022.01.16-07.55.32:437][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.16-07.55.32:437][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:438][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.16-07.55.32:438][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:438][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.01.16-07.55.32:438][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2022.01.16-07.55.32:438][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.16-07.55.32:438][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:438][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.16-07.55.32:438][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:438][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.01.16-07.55.32:438][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2022.01.16-07.55.32:439][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.16-07.55.32:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.16-07.55.32:439][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:439][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.01.16-07.55.32:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2022.01.16-07.55.32:439][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.16-07.55.32:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.16-07.55.32:439][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:439][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.01.16-07.55.32:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2022.01.16-07.55.32:439][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.16-07.55.32:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.16-07.55.32:439][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:439][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.01.16-07.55.32:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2022.01.16-07.55.32:440][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.16-07.55.32:440][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:440][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.16-07.55.32:440][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:440][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.01.16-07.55.32:440][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2022.01.16-07.55.32:440][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.16-07.55.32:441][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:441][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.16-07.55.32:441][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:441][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.01.16-07.55.32:441][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2022.01.16-07.55.32:441][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.01.16-07.55.32:441][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:441][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.01.16-07.55.32:441][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:441][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.01.16-07.55.32:441][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2022.01.16-07.55.32:442][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.16-07.55.32:442][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:442][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.16-07.55.32:442][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:442][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.01.16-07.55.32:442][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.01.16-07.55.32:443][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.16-07.55.32:443][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:443][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.16-07.55.32:443][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:443][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.01.16-07.55.32:443][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2022.01.16-07.55.32:443][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.16-07.55.32:443][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-07.55.32:443][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.16-07.55.32:443][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-07.55.32:443][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.01.16-07.55.32:444][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2022.01.16-07.55.32:472][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.16-07.55.32:477][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.01.16-07.55.32:577][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.16-07.55.32:578][  0]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.16-07.55.32:579][  0]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.16-07.55.32:643][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2022.01.16-07.55.32:683][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.16-07.55.32:773][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.16-07.55.32:773][  0]LogLoad: (Engine Initialization) Total time: 7.36 seconds
+[2022.01.16-07.55.32:773][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.01.16-07.55.32:821][  0]LogAssetRegistry: Asset discovery search completed in 4.0085 seconds
+[2022.01.16-07.55.32:827][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.01.16-07.55.32:829][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.16-07.55.37:570][279]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.16-07.55.37:589][279]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.16-07.55.37:751][279]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.01.16-07.55.38:491][279]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.16-07.55.38:547][280]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.16-07.55.47:413][773]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.16-07.55.48:602][828]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.16-07.55.48:604][828]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Meshes\BelicaGuns.uasset: Failed to load '/Game/FirstPersonCPP/Weapons/Materials/M_Belica_Guns': Can't find file.
+[2022.01.16-07.55.48:604][828]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Meshes\BelicaGuns.uasset: Failed to load '/Game/FirstPersonCPP/Weapons/Materials/M_Belica_Guns': Can't find file.
+[2022.01.16-07.55.48:604][828]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Meshes\BelicaGuns.uasset: Failed to load '/Game/FirstPersonCPP/Weapons/Materials/M_Belica_Guns': Can't find file.
+[2022.01.16-07.55.48:605][828]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Meshes\BelicaGuns.uasset: Failed to load '/Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns_Skeleton': Can't find file.
+[2022.01.16-07.55.48:605][828]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Meshes\BelicaGuns.uasset: Failed to load '/Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns_Skeleton': Can't find file.
+[2022.01.16-07.55.48:605][828]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Meshes\BelicaGuns.uasset: Failed to load '/Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns_Skeleton': Can't find file.
+[2022.01.16-07.55.48:607][828]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Meshes\BelicaGuns.uasset: Failed to load '/Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns_Skeleton': Can't find file.
+[2022.01.16-07.55.48:607][828]LoadErrors: Failed to load /Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns_Skeleton.BelicaGuns_Skeleton Referenced by BelicaGuns
+[2022.01.16-07.55.48:607][828]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Meshes\BelicaGuns.uasset: Failed to load '/Game/FirstPersonCPP/Weapons/Materials/M_Belica_Guns': Can't find file.
+[2022.01.16-07.55.48:607][828]LoadErrors: Failed to load /Game/FirstPersonCPP/Weapons/Materials/M_Belica_Guns.M_Belica_Guns Referenced by BelicaGuns
+[2022.01.16-07.57.09:988][255]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.01.16-07.57.10:056][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.01.16-07.57.10:092][255]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.16-07.57.10:652][280]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/FirstPersonCharacter488291CC405D0CBA50400EB8DDFDDB3C.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset'
+[2022.01.16-07.57.10:668][280]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.01.16-07.57.10:669][280]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.16-07.57.12:332][380]LogTemp: Repeating last play command: Simulate
+[2022.01.16-07.57.12:337][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.16-07.57.12:337][380]PIE: New page: SIE session: FirstPersonExampleMap (Jan 16, 2022, 1:57:12 PM)
+[2022.01.16-07.57.12:339][380]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.16-07.57.12:341][380]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.16-07.57.12:341][380]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-07.57.12:354][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012567s)
+[2022.01.16-07.57.12:356][380]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.16-07.57.12:356][380]LogPlayLevel: PIE: World Init took: (0.002041s)
+[2022.01.16-07.57.12:356][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015057s)
+[2022.01.16-07.57.12:377][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.01.16-07.57.12:378][380]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.01.16-07.57.12:378][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.16-07.57.12:378][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.16-07.57.12:378][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.16-07.57.12:378][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.16-07.57.12:378][380]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.16-07.57.12:378][380]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.16-07.57.12:378][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.16-07.57.12:378][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.16-07.57.12:378][380]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.16-07.57.12:379][380]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.16-07.57.12:379][380]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.16-07.57.12:379][380]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.16-07.57.12:380][380]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.16-07.57.12:380][380]LogAudioMixer: Display: 1: FrontRight
+[2022.01.16-07.57.12:457][380]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.01.16-07.57.12:458][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.16-07.57.12:458][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.16-07.57.12:458][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.16-07.57.12:459][380]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.16-07.57.12:459][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.16-07.57.12:459][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.16-07.57.12:460][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.16-07.57.12:460][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.16-07.57.12:461][380]LogInit: FAudioDevice initialized.
+[2022.01.16-07.57.12:461][380]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2022.01.16-07.57.12:471][380]LogLoad: Game class is 'Cyberpunk2022GameMode'
+[2022.01.16-07.57.12:473][380]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.16-10.57.12
+[2022.01.16-07.57.12:474][380]LogWorld: Bringing up level for play took: 0.001589
+[2022.01.16-07.57.12:474][380]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.01.16-07.57.12:478][380]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.01.16-07.57.12:478][380]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter_C_0)
+[2022.01.16-07.57.12:478][380]PIE: Server logged in
+[2022.01.16-07.57.12:480][380]PIE: Play in editor total start time 0.144 seconds.
+[2022.01.16-07.57.12:483][380]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue_1
+	ParkourMovement_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.ParkourMovement
+	Function /Game/FirstPersonCPP/Components/ParkourMovement.ParkourMovement_C:CameraTilt:008F
+[2022.01.16-07.57.12:483][380]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:483][380]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ParkourMovement_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.ParkourMovement
+	Function /Game/FirstPersonCPP/Components/ParkourMovement.ParkourMovement_C:CameraTilt:0155
+[2022.01.16-07.57.12:483][380]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:768][381]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue_1
+	ParkourMovement_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.ParkourMovement
+	Function /Game/FirstPersonCPP/Components/ParkourMovement.ParkourMovement_C:CameraTilt:008F
+[2022.01.16-07.57.12:768][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:768][381]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ParkourMovement_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.ParkourMovement
+	Function /Game/FirstPersonCPP/Components/ParkourMovement.ParkourMovement_C:CameraTilt:0155
+[2022.01.16-07.57.12:768][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:783][382]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue_1
+	ParkourMovement_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.ParkourMovement
+	Function /Game/FirstPersonCPP/Components/ParkourMovement.ParkourMovement_C:CameraTilt:008F
+[2022.01.16-07.57.12:784][382]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:784][382]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ParkourMovement_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.ParkourMovement
+	Function /Game/FirstPersonCPP/Components/ParkourMovement.ParkourMovement_C:CameraTilt:0155
+[2022.01.16-07.57.12:784][382]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:809][383]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue_1
+	ParkourMovement_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.ParkourMovement
+	Function /Game/FirstPersonCPP/Components/ParkourMovement.ParkourMovement_C:CameraTilt:008F
+[2022.01.16-07.57.12:810][383]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:810][383]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ParkourMovement_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.ParkourMovement
+	Function /Game/FirstPersonCPP/Components/ParkourMovement.ParkourMovement_C:CameraTilt:0155
+[2022.01.16-07.57.12:810][383]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:831][384]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue_1
+	ParkourMovement_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.ParkourMovement
+	Function /Game/FirstPersonCPP/Components/ParkourMovement.ParkourMovement_C:CameraTilt:008F
+[2022.01.16-07.57.12:831][384]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:831][384]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ParkourMovement_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.ParkourMovement
+	Function /Game/FirstPersonCPP/Components/ParkourMovement.ParkourMovement_C:CameraTilt:0155
+[2022.01.16-07.57.12:831][384]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:847][385]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue_1
+	ParkourMovement_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.ParkourMovement
+	Function /Game/FirstPersonCPP/Components/ParkourMovement.ParkourMovement_C:CameraTilt:008F
+[2022.01.16-07.57.12:848][385]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:848][385]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ParkourMovement_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.ParkourMovement
+	Function /Game/FirstPersonCPP/Components/ParkourMovement.ParkourMovement_C:CameraTilt:0155
+[2022.01.16-07.57.12:848][385]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:864][386]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue_1
+	ParkourMovement_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.ParkourMovement
+	Function /Game/FirstPersonCPP/Components/ParkourMovement.ParkourMovement_C:CameraTilt:008F
+[2022.01.16-07.57.12:864][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:865][386]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ParkourMovement_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.ParkourMovement
+	Function /Game/FirstPersonCPP/Components/ParkourMovement.ParkourMovement_C:CameraTilt:0155
+[2022.01.16-07.57.12:865][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:881][387]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue_1
+	ParkourMovement_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.ParkourMovement
+	Function /Game/FirstPersonCPP/Components/ParkourMovement.ParkourMovement_C:CameraTilt:008F
+[2022.01.16-07.57.12:881][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:881][387]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ParkourMovement_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.ParkourMovement
+	Function /Game/FirstPersonCPP/Components/ParkourMovement.ParkourMovement_C:CameraTilt:0155
+[2022.01.16-07.57.12:881][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:898][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:898][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:914][389]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:915][389]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:931][390]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:931][390]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:948][391]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:948][391]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:964][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:965][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:981][393]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:981][393]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:998][394]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.12:998][394]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:014][395]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:015][395]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:031][396]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:031][396]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:048][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:048][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:064][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:064][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:081][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:081][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:097][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:098][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:114][401]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:114][401]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:131][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:131][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:147][403]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:147][403]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:164][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:164][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:181][405]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:181][405]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:197][406]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:198][406]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:214][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:214][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:230][408]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:231][408]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:247][409]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:247][409]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:264][410]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:264][410]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:280][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:281][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:297][412]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:298][412]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:314][413]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:314][413]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:330][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:331][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:347][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:347][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:364][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:364][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:381][417]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:381][417]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:397][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:398][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:414][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:414][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:431][420]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:431][420]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:448][421]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:448][421]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:464][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:465][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:481][423]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:481][423]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:497][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:498][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:514][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:514][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:531][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:531][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:552][427]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:552][427]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:564][428]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:564][428]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:581][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:581][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:597][430]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:598][430]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:614][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:614][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:635][432]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2022.01.16-07.57.13:651][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:651][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:667][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:667][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:684][434]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:684][434]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:701][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:701][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:717][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:717][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:734][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:734][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:751][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:751][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:767][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:768][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:784][440]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:784][440]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:801][441]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:801][441]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:818][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:818][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:834][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:834][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:851][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:851][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:868][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:868][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:884][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:884][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:901][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:901][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:918][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:918][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:934][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:934][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:951][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:951][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:967][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:968][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:984][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.13:984][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:001][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:001][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:017][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:018][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:034][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:034][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:050][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:051][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:067][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:068][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:084][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:084][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:101][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:101][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:117][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:117][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:134][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:134][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:151][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:151][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:167][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:167][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:184][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:184][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:201][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:201][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:217][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:217][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:234][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:234][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:251][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:251][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:267][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:267][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:284][470]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:284][470]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:301][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:301][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:317][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:318][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:334][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:334][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:350][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:351][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:367][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:367][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:384][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:384][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:401][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:401][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:417][478]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:418][478]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:434][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:434][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:451][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:451][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:467][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:468][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:484][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:485][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:501][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:501][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:517][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:518][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:534][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:534][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:551][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:551][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:567][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:568][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:584][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:584][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:601][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:601][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:618][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:618][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:635][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:635][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:652][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:653][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:667][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:668][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:684][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:685][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:701][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:701][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:718][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:718][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:735][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:735][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:750][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:751][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:767][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:767][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:784][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:784][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:800][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:801][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:817][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:818][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:834][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:834][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:850][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:851][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:867][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:867][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:884][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:884][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:901][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:901][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:917][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:918][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:934][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:934][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:952][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue_1". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.14:952][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  ParkourMovement Function:  Camera Tilt Graph:  CameraTilt Node:  Set Control Rotation
+[2022.01.16-07.57.18:623][730]Set new viewmode: Wireframe
+[2022.01.16-07.57.19:604][789]Set new viewmode: Wireframe
+[2022.01.16-07.57.20:770][859]Set new viewmode: Wireframe
+[2022.01.16-07.57.21:120][880]Set new viewmode: Unlit
+[2022.01.16-07.57.21:970][931]Set new viewmode: Lit
+[2022.01.16-07.57.23:154][  2]Set new viewmode: Lit_DetailLighting
+[2022.01.16-07.57.24:788][100]Set new viewmode: Lit
+[2022.01.16-07.57.34:999][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.57.34:999][710]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-07.57.35:000][710]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-07.57.35:000][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.57.35:008][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.16-07.57.35:012][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.57.35:037][710]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.16-07.57.35:037][710]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-07.57.35:039][710]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-07.57.35:045][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.57.35:068][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.01.16-07.57.35:163][711]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.01.16-07.57.45:930][257]LogSlate: Window 'Message Log' being destroyed
+[2022.01.16-07.57.45:952][257]LogSlate: Window 'Message Log' being destroyed
+[2022.01.16-07.57.58:408][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.16-07.57.58:409][838]PIE: New page: PIE session: FirstPersonExampleMap (Jan 16, 2022, 1:57:58 PM)
+[2022.01.16-07.57.58:409][838]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-07.57.58:417][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008540s)
+[2022.01.16-07.57.58:419][838]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.16-07.57.58:419][838]LogPlayLevel: PIE: World Init took: (0.001792s)
+[2022.01.16-07.57.58:419][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010663s)
+[2022.01.16-07.57.58:445][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.01.16-07.57.58:447][838]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.01.16-07.57.58:448][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.16-07.57.58:448][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.16-07.57.58:448][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.16-07.57.58:448][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.16-07.57.58:448][838]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.16-07.57.58:448][838]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.16-07.57.58:448][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.16-07.57.58:448][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.16-07.57.58:448][838]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.16-07.57.58:448][838]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.16-07.57.58:448][838]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.16-07.57.58:448][838]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.16-07.57.58:450][838]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.16-07.57.58:450][838]LogAudioMixer: Display: 1: FrontRight
+[2022.01.16-07.57.58:520][838]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.01.16-07.57.58:520][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.16-07.57.58:520][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.16-07.57.58:520][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.16-07.57.58:521][838]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.16-07.57.58:521][838]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.16-07.57.58:521][838]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.16-07.57.58:522][838]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.16-07.57.58:522][838]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.16-07.57.58:522][838]LogInit: FAudioDevice initialized.
+[2022.01.16-07.57.58:522][838]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2022.01.16-07.57.58:538][838]LogLoad: Game class is 'Cyberpunk2022GameMode'
+[2022.01.16-07.57.58:539][838]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.16-10.57.58
+[2022.01.16-07.57.58:540][838]LogWorld: Bringing up level for play took: 0.001519
+[2022.01.16-07.57.58:540][838]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.01.16-07.57.58:543][838]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter_C_0)
+[2022.01.16-07.57.58:543][838]PIE: Server logged in
+[2022.01.16-07.57.58:544][838]PIE: Play in editor total start time 0.136 seconds.
+[2022.01.16-07.58.01:709][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.58.01:709][ 19]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-07.58.01:709][ 19]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-07.58.01:709][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.58.01:724][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.16-07.58.01:728][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.58.01:746][ 19]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.16-07.58.01:746][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-07.58.01:748][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-07.58.01:765][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.58.01:769][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.01.16-07.58.01:790][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.01.16-07.58.14:503][696]LogSlate: Window 'Message Log' being destroyed
+[2022.01.16-07.58.14:525][696]LogSlate: Window 'Message Log' being destroyed
+[2022.01.16-07.58.16:030][785]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.16-07.58.16:035][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.16-07.58.16:035][785]PIE: New page: PIE session: FirstPersonExampleMap (Jan 16, 2022, 1:58:16 PM)
+[2022.01.16-07.58.16:065][785]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-07.58.16:075][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009526s)
+[2022.01.16-07.58.16:076][785]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.16-07.58.16:077][785]LogPlayLevel: PIE: World Init took: (0.001505s)
+[2022.01.16-07.58.16:077][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011436s)
+[2022.01.16-07.58.16:102][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.01.16-07.58.16:104][785]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.01.16-07.58.16:104][785]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.16-07.58.16:104][785]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.16-07.58.16:104][785]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.16-07.58.16:104][785]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.16-07.58.16:104][785]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.16-07.58.16:104][785]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.16-07.58.16:104][785]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.16-07.58.16:104][785]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.16-07.58.16:105][785]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.16-07.58.16:105][785]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.16-07.58.16:105][785]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.16-07.58.16:105][785]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.16-07.58.16:107][785]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.16-07.58.16:107][785]LogAudioMixer: Display: 1: FrontRight
+[2022.01.16-07.58.16:185][785]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.01.16-07.58.16:185][785]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.16-07.58.16:185][785]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.16-07.58.16:185][785]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.16-07.58.16:186][785]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.16-07.58.16:186][785]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.16-07.58.16:186][785]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.16-07.58.16:188][785]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.16-07.58.16:188][785]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.16-07.58.16:188][785]LogInit: FAudioDevice initialized.
+[2022.01.16-07.58.16:188][785]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2022.01.16-07.58.16:202][785]LogLoad: Game class is 'Cyberpunk2022GameMode'
+[2022.01.16-07.58.16:204][785]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.16-10.58.16
+[2022.01.16-07.58.16:204][785]LogWorld: Bringing up level for play took: 0.001567
+[2022.01.16-07.58.16:204][785]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.01.16-07.58.16:207][785]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter_C_0)
+[2022.01.16-07.58.16:207][785]PIE: Server logged in
+[2022.01.16-07.58.16:208][785]PIE: Play in editor total start time 0.174 seconds.
+[2022.01.16-07.58.26:744][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1240.949 Y=-296.146 Z=323.207] for [FirstPersonProjectile_C]
+[2022.01.16-07.58.28:557][523]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.16-07.58.32:237][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.58.32:237][741]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-07.58.32:237][741]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-07.58.32:237][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.58.32:248][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.16-07.58.32:252][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.58.32:270][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.58.32:270][741]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-07.58.32:272][741]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-07.58.32:280][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.01.16-07.58.32:300][742]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.01.16-07.58.50:575][712]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.01.16-07.58.50:623][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.01.16-07.58.51:047][731]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/FirstPersonCharacter5C8141B54829D348910BD0B03040F30B.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset'
+[2022.01.16-07.58.51:064][731]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.01.16-07.58.51:064][731]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.16-07.58.52:772][831]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.16-07.58.52:776][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.16-07.58.52:776][831]PIE: New page: PIE session: FirstPersonExampleMap (Jan 16, 2022, 1:58:52 PM)
+[2022.01.16-07.58.52:801][831]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-07.58.52:811][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009050s)
+[2022.01.16-07.58.52:812][831]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.16-07.58.52:812][831]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2022.01.16-07.58.52:812][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010881s)
+[2022.01.16-07.58.52:837][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.01.16-07.58.52:838][831]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.01.16-07.58.52:838][831]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.16-07.58.52:838][831]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.16-07.58.52:838][831]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.16-07.58.52:838][831]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.16-07.58.52:838][831]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.16-07.58.52:838][831]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.16-07.58.52:839][831]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.16-07.58.52:839][831]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.16-07.58.52:839][831]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.16-07.58.52:839][831]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.16-07.58.52:839][831]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.16-07.58.52:839][831]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.16-07.58.52:841][831]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.16-07.58.52:841][831]LogAudioMixer: Display: 1: FrontRight
+[2022.01.16-07.58.52:922][831]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.01.16-07.58.52:922][831]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.16-07.58.52:923][831]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.16-07.58.52:923][831]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.16-07.58.52:923][831]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.16-07.58.52:923][831]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.16-07.58.52:923][831]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.16-07.58.52:925][831]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.16-07.58.52:925][831]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.16-07.58.52:925][831]LogInit: FAudioDevice initialized.
+[2022.01.16-07.58.52:925][831]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2022.01.16-07.58.52:937][831]LogLoad: Game class is 'Cyberpunk2022GameMode'
+[2022.01.16-07.58.52:938][831]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.16-10.58.52
+[2022.01.16-07.58.52:939][831]LogWorld: Bringing up level for play took: 0.001463
+[2022.01.16-07.58.52:939][831]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.01.16-07.58.52:942][831]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter_C_0)
+[2022.01.16-07.58.52:942][831]PIE: Server logged in
+[2022.01.16-07.58.52:943][831]PIE: Play in editor total start time 0.167 seconds.
+[2022.01.16-07.58.56:962][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.58.56:963][ 69]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-07.58.56:963][ 69]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-07.58.56:963][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.58.56:977][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.16-07.58.56:980][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.58.56:998][ 69]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.16-07.58.56:998][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-07.58.57:000][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-07.58.57:004][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.58.57:008][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.01.16-07.58.57:027][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.01.16-07.58.59:972][246]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.16-07.58.59:976][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.16-07.58.59:977][246]PIE: New page: PIE session: FirstPersonExampleMap (Jan 16, 2022, 1:58:59 PM)
+[2022.01.16-07.58.59:977][246]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-07.58.59:986][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009381s)
+[2022.01.16-07.58.59:987][246]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.16-07.58.59:988][246]LogPlayLevel: PIE: World Init took: (0.001211s)
+[2022.01.16-07.58.59:988][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010937s)
+[2022.01.16-07.59.00:011][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.01.16-07.59.00:012][246]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.01.16-07.59.00:012][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.16-07.59.00:012][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.16-07.59.00:012][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.16-07.59.00:012][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.16-07.59.00:013][246]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.16-07.59.00:013][246]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.16-07.59.00:013][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.16-07.59.00:013][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.16-07.59.00:013][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.16-07.59.00:013][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.16-07.59.00:013][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.16-07.59.00:013][246]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.16-07.59.00:015][246]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.16-07.59.00:015][246]LogAudioMixer: Display: 1: FrontRight
+[2022.01.16-07.59.00:085][246]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.01.16-07.59.00:085][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.16-07.59.00:085][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.16-07.59.00:085][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.16-07.59.00:086][246]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.16-07.59.00:086][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.16-07.59.00:086][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.16-07.59.00:088][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.16-07.59.00:088][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.16-07.59.00:088][246]LogInit: FAudioDevice initialized.
+[2022.01.16-07.59.00:088][246]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2022.01.16-07.59.00:100][246]LogLoad: Game class is 'Cyberpunk2022GameMode'
+[2022.01.16-07.59.00:102][246]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.16-10.59.00
+[2022.01.16-07.59.00:102][246]LogWorld: Bringing up level for play took: 0.001328
+[2022.01.16-07.59.00:102][246]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.01.16-07.59.00:105][246]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter_C_0)
+[2022.01.16-07.59.00:105][246]PIE: Server logged in
+[2022.01.16-07.59.00:106][246]PIE: Play in editor total start time 0.13 seconds.
+[2022.01.16-07.59.03:213][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.59.03:213][430]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-07.59.03:213][430]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-07.59.03:213][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.59.03:222][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.16-07.59.03:226][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.59.03:244][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.59.03:244][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-07.59.03:246][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-07.59.03:255][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.01.16-07.59.03:298][432]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.01.16-07.59.05:655][567]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).

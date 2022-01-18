@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Cyberpunk2022.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{EC64B456-9E25-4E77-ADF2-834B0F19B08B}</UniqueIdentifier>
+      <UniqueIdentifier>{F31432E5-186D-4BD2-A912-22E5E69F8C28}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Cyberpunk2022.Target.cs">
       <Filter>Source</Filter>
@@ -11,9 +11,8 @@
     <None Include="..\..\Source\Cyberpunk2022Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
-    <None Include="..\..\Test.txt" />
     <Filter Include="Config">
-      <UniqueIdentifier>{1DBBEE1D-0BD6-4B79-A1A5-51F37522AA6E}</UniqueIdentifier>
+      <UniqueIdentifier>{93AD6EFD-8044-4532-8707-1702725D830C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -31,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Cyberpunk2022">
-      <UniqueIdentifier>{3D593528-F7C1-421D-BCFF-5E12FBAAEA30}</UniqueIdentifier>
+      <UniqueIdentifier>{1BB48774-C6ED-4FF9-A66B-3B366DD75FBB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Cyberpunk2022\Cyberpunk2022.Build.cs">
       <Filter>Source\Cyberpunk2022</Filter>
@@ -42,14 +41,41 @@
     <ClInclude Include="..\..\Source\Cyberpunk2022\Cyberpunk2022.h">
       <Filter>Source\Cyberpunk2022</Filter>
     </ClInclude>
-    <Filter Include="Source\Cyberpunk2022\Item">
-      <UniqueIdentifier>{E7386625-C250-466C-9320-FF63A0ADDE97}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Source\Cyberpunk2022\Item\Item.cpp">
-      <Filter>Source\Cyberpunk2022\Item</Filter>
+    <ClCompile Include="..\..\Source\Cyberpunk2022\Cyberpunk2022Character.cpp">
+      <Filter>Source\Cyberpunk2022</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\Cyberpunk2022\Item\Item.h">
-      <Filter>Source\Cyberpunk2022\Item</Filter>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\Cyberpunk2022Character.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cyberpunk2022\Cyberpunk2022GameMode.cpp">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\Cyberpunk2022GameMode.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cyberpunk2022\Cyberpunk2022HUD.cpp">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\Cyberpunk2022HUD.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cyberpunk2022\Cyberpunk2022Projectile.cpp">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\Cyberpunk2022Projectile.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cyberpunk2022\Item.cpp">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\Item.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cyberpunk2022\Weapon.cpp">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\Weapon.h">
+      <Filter>Source\Cyberpunk2022</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

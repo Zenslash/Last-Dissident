@@ -1,0 +1,2 @@
+E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4\Development\Cyberpunk2022\Definitions.Cyberpunk2022.h
+E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Source\Cyberpunk2022\Cyberpunk2022.h

@@ -1,0 +1,1340 @@
+﻿Log file open, 01/16/22 09:50:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Cyberpunk2022
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.335188
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: E:/UE4/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.01.16-06.50.31:855][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.01.16-06.50.31:855][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.01.16-06.50.31:855][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-06.50.31:855][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.01.16-06.50.31:855][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-06.50.31:855][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-06.50.31:855][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.01.16-06.50.31:855][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.01.16-06.50.31:855][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.01.16-06.50.31:855][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.01.16-06.50.31:855][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.01.16-06.50.31:855][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.01.16-06.50.31:855][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.01.16-06.50.31:855][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.01.16-06.50.31:855][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.01.16-06.50.31:856][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-06.50.31:856][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-06.50.31:861][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-06.50.31:861][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.16-06.50.31:861][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.16-06.50.31:861][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-06.50.31:861][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.16-06.50.31:861][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-06.50.31:861][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.16-06.50.31:861][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.16-06.50.31:861][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.16-06.50.31:861][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.16-06.50.31:861][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.16-06.50.31:862][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.16-06.50.31:863][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.16-06.50.31:864][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.16-06.50.31:865][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-06.50.31:865][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.16-06.50.31:865][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.16-06.50.31:865][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-06.50.31:865][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.16-06.50.31:865][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.16-06.50.31:865][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.16-06.50.31:865][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.16-06.50.31:865][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.01.16-06.50.31:865][  0]LogHAL: Display: Platform has ~ 16 GB [16487870464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.16-06.50.31:865][  0]LogInit: Going up to parent DeviceProfile []
+[2022.01.16-06.50.31:865][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-06.50.31:865][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.16-06.50.31:865][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.16-06.50.31:865][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-06.50.31:865][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.16-06.50.31:865][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-06.50.31:865][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.16-06.50.31:865][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.16-06.50.31:865][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.16-06.50.31:865][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.16-06.50.31:865][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.16-06.50.31:865][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.16-06.50.31:865][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.16-06.50.31:866][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.16-06.50.31:867][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.01.16-06.50.31:868][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-06.50.31:868][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Editor.ini]
+[2022.01.16-06.50.31:869][  0]LogInit: Computer: DESKTOP-P6OQVGL
+[2022.01.16-06.50.31:869][  0]LogInit: User: Artem
+[2022.01.16-06.50.31:869][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.01.16-06.50.31:869][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.01.16-06.50.31:869][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.01.16-06.50.31:869][  0]LogMemory: Platform Memory Stats for Windows
+[2022.01.16-06.50.31:869][  0]LogMemory: Process Physical Memory: 144.39 MB used, 144.40 MB peak
+[2022.01.16-06.50.31:869][  0]LogMemory: Process Virtual Memory: 123.82 MB used, 123.82 MB peak
+[2022.01.16-06.50.31:869][  0]LogMemory: Physical Memory: 8857.16 MB used,  6866.89 MB free, 15724.06 MB total
+[2022.01.16-06.50.31:869][  0]LogMemory: Virtual Memory: 134205576.00 MB used,  12152.64 MB free, 134217728.00 MB total
+[2022.01.16-06.50.31:877][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.01.16-06.50.31:979][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.01.16-06.50.31:980][  0]LogInit: Using OS detected language (en-US).
+[2022.01.16-06.50.31:980][  0]LogInit: Using OS detected locale (en-US).
+[2022.01.16-06.50.31:982][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.01.16-06.50.32:151][  0]LogInit: Setting process to per monitor DPI aware
+[2022.01.16-06.50.32:167][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.16-06.50.32:181][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.01.16-06.50.32:181][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.01.16-06.50.32:296][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.01.16-06.50.32:312][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.16-06.50.32:312][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.01.16-06.50.32:312][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.01.16-06.50.32:312][  0]LogD3D11RHI: D3D11 adapters:
+[2022.01.16-06.50.32:405][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_0)
+[2022.01.16-06.50.32:405][  0]LogD3D11RHI:       6023/0/7862 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.01.16-06.50.32:446][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2022.01.16-06.50.32:446][  0]LogD3D11RHI:       496/0/7862 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2022.01.16-06.50.32:450][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.01.16-06.50.32:450][  0]LogD3D11RHI:       0/0/7862 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.01.16-06.50.32:450][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.01.16-06.50.32:450][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.01.16-06.50.32:450][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.16-06.50.32:450][  0]LogD3D11RHI:     DeviceId    : 2520
+[2022.01.16-06.50.32:450][  0]LogD3D11RHI:     SubSysId    : 151f1025
+[2022.01.16-06.50.32:450][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.16-06.50.32:450][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.01.16-06.50.32:450][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.16-06.50.32:450][  0]LogD3D11RHI:     SharedSystemMemory : 8243935232 bytes
+[2022.01.16-06.50.32:450][  0]LogD3D11RHI:     AdapterLuid : 0 58078
+[2022.01.16-06.50.32:457][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.01.16-06.50.32:457][  0]LogD3D11RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2022.01.16-06.50.32:457][  0]LogWindows: EnumDisplayDevices:
+[2022.01.16-06.50.32:457][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2022.01.16-06.50.32:458][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.01.16-06.50.32:458][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.01.16-06.50.32:458][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2022.01.16-06.50.32:458][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.01.16-06.50.32:458][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.01.16-06.50.32:458][  0]LogD3D11RHI:   Driver Version: 497.09 (internal:30.0.14.9709, unified:497.09)
+[2022.01.16-06.50.32:458][  0]LogD3D11RHI:      Driver Date: 11-26-2021
+[2022.01.16-06.50.32:458][  0]LogRHI: Texture pool is 4216 MB (70% of 6023 MB)
+[2022.01.16-06.50.32:458][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.01.16-06.50.32:458][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.01.16-06.50.32:458][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.16-06.50.32:458][  0]LogD3D11RHI:     DeviceId    : 2520
+[2022.01.16-06.50.32:459][  0]LogD3D11RHI:     SubSysId    : 151f1025
+[2022.01.16-06.50.32:459][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.16-06.50.32:459][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.01.16-06.50.32:459][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.16-06.50.32:459][  0]LogD3D11RHI:     SharedSystemMemory : 8243935232 bytes
+[2022.01.16-06.50.32:459][  0]LogD3D11RHI:     AdapterLuid : 0 58078
+[2022.01.16-06.50.32:514][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.01.16-06.50.32:514][  0]LogD3D11RHI: Async texture creation enabled
+[2022.01.16-06.50.32:514][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.01.16-06.50.32:540][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.01.16-06.50.32:563][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.01.16-06.50.32:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.16-06.50.32:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.16-06.50.32:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.16-06.50.32:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.16-06.50.32:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.16-06.50.32:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.16-06.50.32:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.16-06.50.32:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.16-06.50.32:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.16-06.50.32:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.16-06.50.32:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.16-06.50.32:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.16-06.50.32:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.16-06.50.32:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.16-06.50.32:829][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.16-06.50.32:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.16-06.50.32:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.16-06.50.32:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.16-06.50.32:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.16-06.50.32:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.16-06.50.32:879][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.16-06.50.32:879][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.16-06.50.32:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.16-06.50.32:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.16-06.50.32:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.16-06.50.32:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.16-06.50.32:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.16-06.50.32:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.16-06.50.32:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.16-06.50.32:923][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.16-06.50.32:928][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.16-06.50.32:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.16-06.50.32:932][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.16-06.50.32:942][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.16-06.50.32:975][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.01.16-06.50.33:016][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.01.16-06.50.33:016][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../Projects/WargamingAcademy/Cyberpunk2022/Intermediate/Shaders/WorkingDirectory/18260/).
+[2022.01.16-06.50.33:016][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Artem/AppData/Local/Temp/UnrealShaderWorkingDir/BF590F4E4575D32309271097702A9B47/'.
+[2022.01.16-06.50.33:016][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.01.16-06.50.33:016][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.01.16-06.50.33:016][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.16-06.50.33:621][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.16-06.50.33:668][  0]LogDerivedDataCache: Loaded boot cache 0.05s 99MB C:/Users/Artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.16-06.50.33:668][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.01.16-06.50.33:668][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projects/WargamingAcademy/Cyberpunk2022/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.01.16-06.50.33:668][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.01.16-06.50.33:669][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projects/WargamingAcademy/Cyberpunk2022/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.16-06.50.33:669][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.01.16-06.50.33:684][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.16-06.50.33:684][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.16-06.50.33:684][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.01.16-06.50.33:692][  0]LogDerivedDataCache: Speed tests for C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.01.16-06.50.33:692][  0]LogDerivedDataCache: Display: Performance to C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1694.35MBs, RandomWriteSpeed=161.15MBs. Assigned SpeedClass 'Local'
+[2022.01.16-06.50.33:694][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.01.16-06.50.33:694][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.01.16-06.50.33:694][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.01.16-06.50.33:734][  0]LogSlate: Using FreeType 2.10.0
+[2022.01.16-06.50.33:735][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.01.16-06.50.33:756][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2022.01.16-06.50.33:960][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.16-06.50.33:960][  0]LogInit: Active device profile: [0000025E59F96C00][0000025E51C70AC0 49] Windows
+[2022.01.16-06.50.33:960][  0]LogInit: Profiles: [0000025E59F96C00][0000025E51C70AC0 49] Windows, [0000025E59FA9600][0000025E51C74C40 49] WindowsNoEditor, [0000025E59F95600][0000025E51C78DC0 49] WindowsServer, [0000025E59FAA300][0000025E51C7CF40 49] WindowsClient, [0000025E59F96200][0000025E5A48D0C0 49] IOS, [0000025E59FAA600][0000025E5A491240 49] iPadAir, [0000025E59F96900][0000025E5A4953C0 49] iPadAir2, [0000025E59F22C00][0000025E5A4CB680 49] IPadPro, [0000025E59F22D00][0000025E5A4996C0 49] iPadAir3, [0000025E59F97400][0000025E5A4E7840 49] iPadAir4, [0000025E59F23400][0000025E536679C0 49] iPadMini2, [0000025E59F95D00][0000025E5A4F3B40 49] iPadMini3, [0000025E59F21200][0000025E5A4F6140 49] iPadMini4, [0000025E59F94B00][0000025E5A4FA2C0 49] iPadMini5, [0000025E59F92500][0000025E5A502580 49] iPhone6, [0000025E59F92600][0000025E5A4FE5C0 49] iPodTouch6, [0000025E59F21F00][0000025E51E1C840 49] iPhone7, [0000025E59F22000][0000025E5A50A880 49] iPodTouch7, [0000025E59F92900][0000025E590B29C0 49] iPhone5S, [0000025E59F20A00][0000025E590BAB00 49] iPhone6Plus, [0000025E59F91200][0000025E590C2C80 49] iPhone6S, [0000025E59F23B00][0000025E51C14E00 49] iPhone6SPlus, [0000025E59F93C00][0000025E51C18F80 49] iPhone7Plus, [0000025E59F23700][0000025E51C1D100 49] iPhoneSE, [0000025E59F92F00][0000025E51C21280 49] iPhone8, [0000025E59F20700][0000025E51C25400 49] iPhone8Plus, [0000025E59F91800][0000025E590B7580 49] iPhoneX, [0000025E59F23000][0000025E5A507700 49] iPhoneXS, [0000025E59F93F00][0000025E50D3F880 49] iPhoneXSMax, [0000025E59F22400][0000025E50D43A00 49] iPhoneXR, [0000025E59F93E00][0000025E50D47B80 49] iPhone11, [0000025E59F20F00][0000025E50D4A180 49] iPhone11Pro, [0000025E59F93000][0000025E59076300 49] iPhone11ProMax, [0000025E59F22E00][0000025E5907A480 49] iPhoneSE2, [0000025E59F90500][0000025E5907E600 49] iPhone12Mini, [0000025E59F23D00][0000025E59082780 49] iPhone12, [0000025E59F90600][0000025E59086900 49] iPhone12Pro, [0000025E59F20800][0000025E590BEA40 49] iPhone12ProMax, [0000025E59F93300][0000025E50DC6B80 49] iPadPro105, [0000025E59F20600][0000025E590EECC0 49] iPadPro129, [0000025E59F90A00][0000025E51DC8E40 49] iPadPro97, [0000025E59F23900][0000025E51DCCFC0 49] iPadPro2_129, [0000025E59F91F00][0000025E51DD1140 49] iPad5, [0000025E59F23800][0000025E51DD52C0 49] iPad6, [0000025E59F90B00][0000025E51DD9440 49] iPad7, [0000025E59F23100][0000025E51DDD5C0 49] iPad8, [0000025E59F90700][0000025E51DE1740 49] iPadPro11, [0000025E59F22300][0000025E51DE58C0 49] iPadPro2_11, [0000025E59F90C00][0000025E51DE9A40 49] iPadPro3_129, [0000025E59F20300][0000025E51DEDBC0 49] iPadPro4_129, [0000025E59FA9900][0000025E5908A1C0 49] AppleTV, [0000025E5A040800][0000025E5908E340 49] AppleTV4K, [0000025E59FAB500][0000025E590924C0 49] TVOS, [0000025E5A041C00][0000025E59096640 49] Mac, [0000025E59FAB200][0000025E5909A7C0 49] MacClient, [0000025E5A041600][0000025E5909E940 49] MacNoEditor, [0000025E59FAB900][0000025E590A2AC0 49] MacServer, [0000025E5A042100][0000025E590F2C00 49] Linux, [0000025E59FAA400][0000025E590A6D40 49] LinuxAArch64, [0000025E5A040C00][0000025E590AAE80 49] LinuxNoEditor, [0000025E59FAB600][0000025E590AEFC0 49] LinuxAArch64NoEditor, [0000025E5A041100][0000025E50D53140 49] LinuxClient, [0000025E59FAA900][0000025E50D572C0 49] LinuxAArch64Client, [0000025E5A041A00][0000025E50D5B440 49] LinuxServer, [0000025E59FA9000][0000025E50D5F5C0 49] LinuxAArch64Server, [0000025E5A041800][0000025E50D63740 49] Android, [0000025E59FA8C00][0000025E50D678C0 49] Android_Low, [0000025E5A041000][0000025E50D6BA40 49] Android_Mid, [0000025E59F21A00][0000025E50D6FBC0 49] Android_High, [0000025E59F90300][0000025E50D721C0 49] Android_Default, [0000025E59F23200][0000025E50D76340 49] Android_Adreno4xx, [0000025E59F91A00][0000025E50D7A4C0 49] Android_Adreno5xx_Low, [0000025E59F23F00][0000025E50D7E640 49] Android_Adreno5xx, [0000025E59F92B00][0000025E50D827C0 49] Android_Adreno6xx, [0000025E59F23C00][0000025E50D86940 49] Android_Adreno6xx_Vulkan, [0000025E59F92000][0000025E50D8AAC0 49] Android_Mali_T6xx, [0000025E59F21B00][0000025E50D8EC40 49] Android_Mali_T7xx, [0000025E59F91100][0000025E50D4ED80 49] Android_Mali_T8xx, [0000025E59F21C00][0000025E50D92EC0 49] Android_Mali_G71, [0000025E59F92200][0000025E5A3C9000 49] Android_Mali_G72, [0000025E59F22600][0000025E5A3CD140 49] Android_Mali_G72_Vulkan, [0000025E59F92C00][0000025E5A3D52C0 49] Android_Mali_G76, [0000025E59F20400][0000025E5A3D9440 49] Android_Mali_G76_Vulkan, [0000025E59F92A00][0000025E5A3DD5C0 49] Android_Mali_G77, [0000025E59F22900][0000025E5A3E1740 49] Android_Mali_G77_Vulkan, [0000025E5A040600][0000025E5A3E58C0 49] Android_Mali_G78, [0000025E59F22800][0000025E5A3E9A40 49] Android_Mali_G78_Vulkan, [0000025E5A041400][0000025E5A3EDBC0 49] Android_Mali_G710, [0000025E59F23E00][0000025E5A3F01C0 49] Android_Mali_G710_Vulkan, [0000025E59F90800][0000025E5A3F4340 49] Android_Vulkan_SM5, [0000025E59F21700][0000025E5A3F84C0 49] Android_PowerVR_G6xxx, [0000025E59F91500][0000025E5A3FC640 49] Android_PowerVR_GT7xxx, [0000025E59F23600][0000025E5A4007C0 49] Android_PowerVR_GE8xxx, [0000025E59F90900][0000025E5A404940 49] Android_PowerVR_GM9xxx, [0000025E59F21600][0000025E5A408AC0 49] Android_PowerVR_GM9xxx_Vulkan, [0000025E59F90F00][0000025E5A40CC40 49] Android_TegraK1, [0000025E59F22B00][0000025E5A410DC0 49] Android_Unknown_Vulkan, [0000025E59F91700][0000025E5A414F40 49] Lumin, [0000025E59F21500][0000025E5A3D1080 49] Lumin_Desktop, [0000025E59F93900][0000025E5A4191C0 49] HoloLens, 
+[2022.01.16-06.50.34:076][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.01.16-06.50.34:076][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.01.16-06.50.34:076][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.01.16-06.50.34:076][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.01.16-06.50.34:076][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.01.16-06.50.34:089][  0]LogNetVersion: Cyberpunk2022 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1028016206)
+[2022.01.16-06.50.34:380][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.16-06.50.34:426][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.16-06.50.34:430][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.01.16-06.50.34:430][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.01.16-06.50.34:431][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.01.16-06.50.34:688][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E046B074432C5851DF6C06AED072CCE1 | Instance: D40A4E9942E18926F1C6AC8E344CCA51 (DESKTOP-P6OQVGL-18260).
+[2022.01.16-06.50.34:794][  0]LogPython: Using Python 3.7.7
+[2022.01.16-06.50.35:218][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.01.16-06.50.35:224][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.01.16-06.50.35:541][  0]SourceControl: Source control is disabled
+[2022.01.16-06.50.35:542][  0]SourceControl: Source control is disabled
+[2022.01.16-06.50.35:546][  0]SourceControl: Source control is disabled
+[2022.01.16-06.50.35:549][  0]SourceControl: Source control is disabled
+[2022.01.16-06.50.35:560][  0]SourceControl: Source control is disabled
+[2022.01.16-06.50.35:567][  0]LogUProjectInfo: Found projects:
+[2022.01.16-06.50.35:795][  0]LogOpenImageDenoise: OIDN starting up
+[2022.01.16-06.50.35:829][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.01.16-06.50.35:848][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.16-06.50.35:848][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.16-06.50.35:971][  0]LogCollectionManager: Loaded 0 collections in 0.000557 seconds
+[2022.01.16-06.50.35:997][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Collections/' took 0.00s
+[2022.01.16-06.50.35:997][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/Developers/Artem/Collections/' took 0.00s
+[2022.01.16-06.50.35:997][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/Collections/' took 0.00s
+[2022.01.16-06.50.35:997][  0]LogOcInput: OculusInput pre-init called
+[2022.01.16-06.50.36:186][  0]LogEngine: Initializing Engine...
+[2022.01.16-06.50.36:190][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.01.16-06.50.36:190][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.16-06.50.36:190][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.01.16-06.50.36:190][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.01.16-06.50.36:278][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.01.16-06.50.36:287][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.01.16-06.50.36:298][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.01.16-06.50.36:301][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.01.16-06.50.36:302][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.01.16-06.50.36:303][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.01.16-06.50.36:303][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.01.16-06.50.36:303][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.16-06.50.36:303][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.16-06.50.36:303][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.16-06.50.36:303][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.16-06.50.36:303][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.16-06.50.36:303][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.16-06.50.36:303][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.16-06.50.36:303][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.16-06.50.36:303][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.16-06.50.36:303][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.16-06.50.36:304][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.16-06.50.36:304][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.16-06.50.36:316][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.16-06.50.36:316][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.01.16-06.50.36:390][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.01.16-06.50.36:391][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.16-06.50.36:392][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.16-06.50.36:393][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.16-06.50.36:394][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.16-06.50.36:394][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.16-06.50.36:394][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.16-06.50.36:396][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.16-06.50.36:396][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.16-06.50.36:396][  0]LogInit: FAudioDevice initialized.
+[2022.01.16-06.50.36:396][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.01.16-06.50.36:396][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.01.16-06.50.36:471][  0]LogDerivedDataCache: Saved boot cache 0.08s 99MB C:/Users/Artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.16-06.50.36:471][  0]LogInit: Texture streaming: Enabled
+[2022.01.16-06.50.36:487][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.01.16-06.50.36:491][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.01.16-06.50.36:491][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Debugger, SessionId={D0DB54FD-425D-B692-97A3-2C9712B2A8B4}
+[2022.01.16-06.50.36:492][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Debugger, SessionId={713132FA-48B4-2037-E63C-71A85C35AC50}
+[2022.01.16-06.50.36:492][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.01.16-06.50.36:493][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.01.16-06.50.36:511][  0]LogInit: Transaction tracking system initialized
+[2022.01.16-06.50.36:536][  0]BlueprintLog: New page: Editor Load
+[2022.01.16-06.50.36:601][  0]LocalizationService: Localization service is disabled
+[2022.01.16-06.50.36:625][  0]TimingProfiler: Initialize
+[2022.01.16-06.50.36:625][  0]TimingProfiler: OnSessionChanged
+[2022.01.16-06.50.36:625][  0]LoadingProfiler: Initialize
+[2022.01.16-06.50.36:625][  0]LoadingProfiler: OnSessionChanged
+[2022.01.16-06.50.36:625][  0]NetworkingProfiler: Initialize
+[2022.01.16-06.50.36:625][  0]NetworkingProfiler: OnSessionChanged
+[2022.01.16-06.50.36:626][  0]MemoryProfiler: Initialize
+[2022.01.16-06.50.36:626][  0]MemoryProfiler: OnSessionChanged
+[2022.01.16-06.50.36:746][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.16-06.50.36:746][  0]LogCook: Display: Mobile HDR setting 1
+[2022.01.16-06.50.36:793][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/' took 0.00s
+[2022.01.16-06.50.37:087][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.01.16-06.50.37:090][  0]SourceControl: Source control is disabled
+[2022.01.16-06.50.37:090][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.447
+[2022.01.16-06.50.37:090][  0]Cmd: MAP LOAD FILE="../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.16-06.50.37:090][  0]LightingResults: New page: Lighting Build
+[2022.01.16-06.50.37:090][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-06.50.37:090][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-06.50.37:091][  0]MapCheck: New page: Map Check
+[2022.01.16-06.50.37:091][  0]LightingResults: New page: Lighting Build
+[2022.01.16-06.50.37:102][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.16-06.50.37:107][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.01.16-06.50.37:139][  0]LogTexture: Display: Building textures: DeprecatedTextureD5B55AC7496CD3FBF6154CA3715BB71F (BGRA8, 128X128)
+[2022.01.16-06.50.37:155][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2022.01.16-06.50.37:156][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.16-06.50.37:161][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.16-06.50.37:173][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.01.16-06.50.37:174][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.16-06.50.37:174][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2022.01.16-06.50.37:174][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.085
+[2022.01.16-06.50.37:177][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.534
+[2022.01.16-06.50.37:285][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-06.50.37:290][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-06.50.37:296][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-06.50.37:300][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-06.50.37:312][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0087 seconds. Added 3828 classes and 930 folders.
+[2022.01.16-06.50.37:314][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.01.16-06.50.37:315][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.16-06.50.37:316][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:316][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.16-06.50.37:316][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:316][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.01.16-06.50.37:316][  0]LogPakFile: OnPakFileMounted2Time == 0.000131
+[2022.01.16-06.50.37:316][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.16-06.50.37:316][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:316][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.16-06.50.37:316][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:316][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.01.16-06.50.37:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2022.01.16-06.50.37:317][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.01.16-06.50.37:317][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:317][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.01.16-06.50.37:317][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:317][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.01.16-06.50.37:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2022.01.16-06.50.37:317][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.16-06.50.37:317][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:317][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.16-06.50.37:317][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:317][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.01.16-06.50.37:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2022.01.16-06.50.37:317][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.16-06.50.37:317][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:318][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.16-06.50.37:318][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:318][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.01.16-06.50.37:318][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
+[2022.01.16-06.50.37:318][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.16-06.50.37:318][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:318][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.16-06.50.37:318][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:318][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.01.16-06.50.37:318][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2022.01.16-06.50.37:319][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.16-06.50.37:319][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:319][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.16-06.50.37:319][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:319][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.01.16-06.50.37:319][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.01.16-06.50.37:319][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.16-06.50.37:319][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:320][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.16-06.50.37:320][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:320][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.01.16-06.50.37:320][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2022.01.16-06.50.37:320][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.16-06.50.37:320][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:320][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.16-06.50.37:320][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:320][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.01.16-06.50.37:320][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2022.01.16-06.50.37:321][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.16-06.50.37:321][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:321][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.16-06.50.37:321][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:321][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.01.16-06.50.37:321][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2022.01.16-06.50.37:321][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.16-06.50.37:321][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:321][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.16-06.50.37:322][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:322][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.01.16-06.50.37:322][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2022.01.16-06.50.37:322][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.16-06.50.37:322][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:322][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.16-06.50.37:322][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:322][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.01.16-06.50.37:322][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2022.01.16-06.50.37:323][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.16-06.50.37:323][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:323][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.16-06.50.37:323][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:323][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.01.16-06.50.37:323][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2022.01.16-06.50.37:323][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.16-06.50.37:323][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:323][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.16-06.50.37:323][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:323][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.01.16-06.50.37:323][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2022.01.16-06.50.37:324][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.16-06.50.37:324][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:324][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.16-06.50.37:324][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:324][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.01.16-06.50.37:324][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2022.01.16-06.50.37:325][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.16-06.50.37:325][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:325][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.16-06.50.37:325][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:325][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.01.16-06.50.37:325][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2022.01.16-06.50.37:325][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.16-06.50.37:325][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:325][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.16-06.50.37:325][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:325][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.01.16-06.50.37:325][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2022.01.16-06.50.37:326][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.16-06.50.37:326][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:326][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.16-06.50.37:326][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:326][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.01.16-06.50.37:326][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2022.01.16-06.50.37:326][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.16-06.50.37:326][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:326][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.16-06.50.37:326][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:326][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.01.16-06.50.37:326][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2022.01.16-06.50.37:326][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.16-06.50.37:326][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:326][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.16-06.50.37:326][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:326][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.01.16-06.50.37:326][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2022.01.16-06.50.37:327][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.16-06.50.37:327][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:327][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.16-06.50.37:327][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:327][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.01.16-06.50.37:327][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2022.01.16-06.50.37:327][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.16-06.50.37:327][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:327][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.16-06.50.37:327][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:327][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.01.16-06.50.37:327][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2022.01.16-06.50.37:328][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.01.16-06.50.37:328][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:328][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.01.16-06.50.37:328][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:328][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.01.16-06.50.37:328][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2022.01.16-06.50.37:328][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.16-06.50.37:329][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:329][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.16-06.50.37:329][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:329][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.01.16-06.50.37:329][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2022.01.16-06.50.37:329][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.16-06.50.37:329][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:329][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.16-06.50.37:329][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:329][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.01.16-06.50.37:329][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2022.01.16-06.50.37:330][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.16-06.50.37:330][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-06.50.37:330][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.16-06.50.37:330][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-06.50.37:330][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.01.16-06.50.37:330][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2022.01.16-06.50.37:358][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.16-06.50.37:362][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.01.16-06.50.37:457][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.16-06.50.37:459][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.16-06.50.37:460][  0]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.16-06.50.37:523][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2022.01.16-06.50.37:565][  0]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.16-06.50.37:647][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.16-06.50.37:647][  0]LogLoad: (Engine Initialization) Total time: 7.00 seconds
+[2022.01.16-06.50.37:647][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.01.16-06.50.37:757][  0]LogAssetRegistry: Asset discovery search completed in 4.0031 seconds
+[2022.01.16-06.50.37:761][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.01.16-06.50.37:762][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.16-06.50.48:191][599]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.16-06.50.48:205][599]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.16-06.50.50:742][752]LogContentBrowser: Attempting asset rename: NewFolder -> BaseWEapon
+[2022.01.16-06.50.50:743][752]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.16-06.50.55:977][ 56]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.16-06.50.55:990][ 56]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.16-06.50.58:544][210]LogContentBrowser: Attempting asset rename: NewFolder -> BaseWeapon
+[2022.01.16-06.50.58:545][210]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.16-06.51.02:025][410]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.16-06.51.02:052][410]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.16-06.51.07:387][410]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.01.16-06.51.07:392][410]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.01.16-06.51.07:400][410]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.01.16-06.51.12:304][705]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_BaseWeapon
+[2022.01.16-06.51.12:307][705]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.01.16-06.51.13:663][785]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Weapons/BaseWeapon/BP_BaseWeapon.BP_BaseWeapon
+[2022.01.16-06.51.13:862][785]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.01.16-06.51.14:642][785]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2022.01.16-06.51.15:813][849]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/BP_BaseWeaponEA8F96AD41C723BE8BDC9ABB3E7036A7.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Weapons/BaseWeapon/BP_BaseWeapon.uasset'
+[2022.01.16-06.51.15:836][849]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.01.16-06.51.15:836][849]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonCPP/Weapons/BaseWeapon/BP_BaseWeapon.BP_BaseWeapon
+[2022.01.16-06.51.16:904][912]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.16-06.51.23:387][263]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2022.01.16-06.53.35:480][382]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.16-06.53.35:495][382]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.16-06.53.37:181][484]LogContentBrowser: Attempting asset rename: NewFolder -> Meshes
+[2022.01.16-06.53.37:182][484]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.16-06.53.53:498][809]AssetReimport: New page: Outstanding source content changes 12:53:53 PM
+[2022.01.16-06.53.53:501][809]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Weapons/Meshes/BelicaGuns.fbx)
+[2022.01.16-06.53.53:538][809]LogFbx: Loading FBX Scene from E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Weapons/Meshes/BelicaGuns.fbx
+[2022.01.16-06.53.53:559][809]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.16-07.09.51:759][809]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.01.16-07.09.51:789][809]LogFbx: Valid bind pose for Pose (Belica.001) - SMGandPistol
+[2022.01.16-07.09.52:138][809]LogSkeletalMesh: Section 0: Material=0, 14606 triangles
+[2022.01.16-07.09.52:141][809]LogSkeletalMesh: Building Skeletal Mesh BelicaGuns...
+[2022.01.16-07.09.52:370][809]LogSkeletalMesh: Section 0: Material=0, 14606 triangles
+[2022.01.16-07.09.52:392][809]LogSkeletalMesh: Built Skeletal Mesh [0.25s] /Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns.BelicaGuns
+[2022.01.16-07.09.52:403][809]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-07.09.52:403][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.09.52:501][809]LogSlate: Took 0.007689 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.16-07.09.52:575][810]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.16-07.09.52:579][810]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.16-07.09.52:579][810]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.16-07.09.52:579][810]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.16-07.09.52:600][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns" FILE="../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Weapons/Meshes/BelicaGuns.uasset" SILENT=true
+[2022.01.16-07.09.52:630][810]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/BelicaGunsFE192EED4EE3F7123892538432C0E4BD.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Weapons/Meshes/BelicaGuns.uasset'
+[2022.01.16-07.09.52:691][811]AssetCheck: New page: Asset Save: BelicaGuns
+[2022.01.16-07.09.52:691][811]LogContentValidation: Display: Validating SkeletalMesh /Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns.BelicaGuns
+[2022.01.16-07.09.52:793][812]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.16-07.09.52:793][812]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.01.16-07.09.52:793][812]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.01.16-07.09.52:793][812]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.16-07.09.52:811][812]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2022.01.16-07.09.52:811][812]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2022.01.16-07.09.52:811][812]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2022.01.16-07.09.52:811][812]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.01.16-07.09.52:811][812]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2022.01.16-07.09.52:811][812]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Normal' priority
+[2022.01.16-07.09.53:925][840]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2022.01.16-07.09.53:926][840]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2022.01.16-07.09.53:926][840]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.01.16-07.09.53:935][840]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.16-07.09.53:936][840]LogShaderCompilers: Display: Total job queries 64, among them cache hits 0 (0.00%)
+[2022.01.16-07.09.53:938][840]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2022.01.16-07.09.53:939][840]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.01.16-07.09.53:939][840]LogShaderCompilers: Display: ================================================
+[2022.01.16-07.09.53:996][842]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.01.16-07.09.53:998][842]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.16-07.09.54:041][843]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.01.16-07.09.54:043][843]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.16-07.09.54:745][860]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.01.16-07.09.54:745][860]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.16-07.09.54:920][865]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.01.16-07.09.54:921][865]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.16-07.09.54:988][867]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.01.16-07.09.54:988][867]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.16-07.09.55:199][873]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.01.16-07.09.55:202][873]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.16-07.09.55:204][873]LogSlate: Window 'Message Log' being destroyed
+[2022.01.16-07.09.55:241][873]LogSlate: Window 'Message Log' being destroyed
+[2022.01.16-07.09.55:320][876]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.01.16-07.09.55:321][876]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.16-07.09.55:679][889]AssetReimport: Importing new asset /Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns.
+[2022.01.16-07.09.58:192][ 19]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns.BelicaGuns
+[2022.01.16-07.09.58:228][ 19]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2022.01.16-07.09.58:236][ 19]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.01.16-07.09.58:314][ 19]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.16-07.09.58:392][ 19]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-07.09.58:401][ 19]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2022.01.16-07.09.59:000][ 20]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:1).
+[2022.01.16-07.10.06:315][440]LogSlate: Window 'BelicaGuns' being destroyed
+[2022.01.16-07.10.06:320][440]LogSlate: Window 'BelicaGuns' being destroyed
+[2022.01.16-07.10.06:323][440]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-07.10.06:323][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.10.06:376][440]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-07.10.06:376][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.10.08:103][540]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns_PhysicsAsset.BelicaGuns_PhysicsAsset
+[2022.01.16-07.10.08:137][540]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2022.01.16-07.10.08:151][540]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.01.16-07.10.08:628][540]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.16-07.10.17:724][ 53]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/BelicaGuns_PhysicsAsset371276FB49D6115BE9686CBAE7F22445.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Weapons/Meshes/BelicaGuns_PhysicsAsset.uasset'
+[2022.01.16-07.10.17:746][ 53]AssetCheck: New page: Asset Save: BelicaGuns_PhysicsAsset
+[2022.01.16-07.10.17:746][ 53]LogContentValidation: Display: Validating PhysicsAsset /Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns_PhysicsAsset.BelicaGuns_PhysicsAsset
+[2022.01.16-07.10.18:733][110]LogSlate: Window 'BelicaGuns_PhysicsAsset' being destroyed
+[2022.01.16-07.10.18:738][110]LogSlate: Window 'BelicaGuns_PhysicsAsset' being destroyed
+[2022.01.16-07.10.18:738][110]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-07.10.18:738][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.12.43:458][128]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Weapons/BaseWeapon/BP_BaseWeapon.BP_BaseWeapon
+[2022.01.16-07.12.45:265][211]LogSlate: Window 'BP_BaseWeapon' being destroyed
+[2022.01.16-07.12.45:290][211]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-07.12.45:290][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.12.45:348][211]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Weapons/BaseWeapon/BP_BaseWeapon.BP_BaseWeapon
+[2022.01.16-07.12.53:860][638]BlueprintLog: New page: Compile BP_BaseWeapon
+[2022.01.16-07.12.54:020][638]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2022.01.16-07.12.54:526][660]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/BP_BaseWeaponF0DDA60A4C3C7A07CAB5C99981A5EE63.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Weapons/BaseWeapon/BP_BaseWeapon.uasset'
+[2022.01.16-07.12.54:542][660]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.01.16-07.12.54:542][660]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonCPP/Weapons/BaseWeapon/BP_BaseWeapon.BP_BaseWeapon
+[2022.01.16-07.13.18:787][ 50]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.16-07.13.18:802][ 50]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.16-07.13.20:772][169]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2022.01.16-07.13.20:773][169]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.16-07.13.50:993][634]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.16-07.13.51:010][634]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.16-07.13.52:965][752]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2022.01.16-07.13.52:965][752]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.16-07.14.06:359][113]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns.BelicaGuns
+[2022.01.16-07.14.06:368][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-07.14.12:395][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MF_BaseColorTintAndContrast': Can't find file.
+[2022.01.16-07.14.12:396][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MF_BaseColorTintAndContrast': Can't find file.
+[2022.01.16-07.14.12:396][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MF_RoughnessAdjustment': Can't find file.
+[2022.01.16-07.14.12:396][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MF_RoughnessAdjustment': Can't find file.
+[2022.01.16-07.14.12:396][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_ScratchAndGrime': Can't find file.
+[2022.01.16-07.14.12:396][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_ScratchAndGrime': Can't find file.
+[2022.01.16-07.14.12:396][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_SolidValues': Can't find file.
+[2022.01.16-07.14.12:397][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_SolidValues': Can't find file.
+[2022.01.16-07.14.12:397][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_Standard': Can't find file.
+[2022.01.16-07.14.12:397][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_Standard': Can't find file.
+[2022.01.16-07.14.12:397][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_BrightnessAdjust': Can't find file.
+[2022.01.16-07.14.12:398][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_BrightnessAdjust': Can't find file.
+[2022.01.16-07.14.12:398][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_Character_MaterialLayerQuality': Can't find file.
+[2022.01.16-07.14.12:398][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_Character_MaterialLayerQuality': Can't find file.
+[2022.01.16-07.14.12:398][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_CharacterEffects': Can't find file.
+[2022.01.16-07.14.12:398][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_CharacterEffects': Can't find file.
+[2022.01.16-07.14.12:398][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_DeathFade': Can't find file.
+[2022.01.16-07.14.12:399][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_DeathFade': Can't find file.
+[2022.01.16-07.14.12:399][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_HitFlash': Can't find file.
+[2022.01.16-07.14.12:399][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_HitFlash': Can't find file.
+[2022.01.16-07.14.12:399][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_OrionCharacterAO': Can't find file.
+[2022.01.16-07.14.12:399][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_OrionCharacterAO': Can't find file.
+[2022.01.16-07.14.12:400][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_OrionRimlight': Can't find file.
+[2022.01.16-07.14.12:400][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_OrionRimlight': Can't find file.
+[2022.01.16-07.14.12:400][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/ML_blue_Metal': Can't find file.
+[2022.01.16-07.14.12:400][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/ML_blue_Metal': Can't find file.
+[2022.01.16-07.14.12:400][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/ML_LowContrastHardMetal': Can't find file.
+[2022.01.16-07.14.12:401][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/ML_LowContrastHardMetal': Can't find file.
+[2022.01.16-07.14.12:401][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/ML__Blank': Can't find file.
+[2022.01.16-07.14.12:401][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/ML__Blank': Can't find file.
+[2022.01.16-07.14.12:401][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/ML_FlatBlack': Can't find file.
+[2022.01.16-07.14.12:401][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/ML_FlatBlack': Can't find file.
+[2022.01.16-07.14.12:401][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Rubber/ML_Rubber_LowContrast': Can't find file.
+[2022.01.16-07.14.12:402][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Rubber/ML_Rubber_LowContrast': Can't find file.
+[2022.01.16-07.14.12:402][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/ML_Gem': Can't find file.
+[2022.01.16-07.14.12:402][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/ML_Gem': Can't find file.
+[2022.01.16-07.14.12:402][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/ML_RoughPlastic': Can't find file.
+[2022.01.16-07.14.12:402][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/ML_RoughPlastic': Can't find file.
+[2022.01.16-07.14.12:403][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Materials/MF_BelicaAnimatedScreen': Can't find file.
+[2022.01.16-07.14.12:403][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Materials/MF_BelicaAnimatedScreen': Can't find file.
+[2022.01.16-07.14.12:403][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/ParameterCollections/OrionGlobalGameplayCollection': Can't find file.
+[2022.01.16-07.14.12:403][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/ParameterCollections/OrionGlobalGameplayCollection': Can't find file.
+[2022.01.16-07.14.12:403][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MF_BaseColorTintAndContrast': Can't find file.
+[2022.01.16-07.14.12:403][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MF_RoughnessAdjustment': Can't find file.
+[2022.01.16-07.14.12:404][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_ScratchAndGrime': Can't find file.
+[2022.01.16-07.14.12:404][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_SolidValues': Can't find file.
+[2022.01.16-07.14.12:404][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_Standard': Can't find file.
+[2022.01.16-07.14.12:404][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_BrightnessAdjust': Can't find file.
+[2022.01.16-07.14.12:404][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_Character_MaterialLayerQuality': Can't find file.
+[2022.01.16-07.14.12:404][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_CharacterEffects': Can't find file.
+[2022.01.16-07.14.12:404][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_DeathFade': Can't find file.
+[2022.01.16-07.14.12:405][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_HitFlash': Can't find file.
+[2022.01.16-07.14.12:405][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_OrionCharacterAO': Can't find file.
+[2022.01.16-07.14.12:405][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_OrionRimlight': Can't find file.
+[2022.01.16-07.14.12:405][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/ParameterCollections/OrionGlobalGameplayCollection': Can't find file.
+[2022.01.16-07.14.12:405][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/ML_blue_Metal': Can't find file.
+[2022.01.16-07.14.12:405][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/ML_LowContrastHardMetal': Can't find file.
+[2022.01.16-07.14.12:405][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/ML__Blank': Can't find file.
+[2022.01.16-07.14.12:406][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/ML_FlatBlack': Can't find file.
+[2022.01.16-07.14.12:406][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Rubber/ML_Rubber_LowContrast': Can't find file.
+[2022.01.16-07.14.12:406][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/ML_Gem': Can't find file.
+[2022.01.16-07.14.12:406][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/ML_RoughPlastic': Can't find file.
+[2022.01.16-07.14.12:406][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Materials/MF_BelicaAnimatedScreen': Can't find file.
+[2022.01.16-07.14.12:406][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_MASK01': Can't find file.
+[2022.01.16-07.14.12:407][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_MASK01': Can't find file.
+[2022.01.16-07.14.12:407][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_MASK02': Can't find file.
+[2022.01.16-07.14.12:407][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_MASK02': Can't find file.
+[2022.01.16-07.14.12:407][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_N': Can't find file.
+[2022.01.16-07.14.12:407][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_N': Can't find file.
+[2022.01.16-07.14.12:407][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_RGB': Can't find file.
+[2022.01.16-07.14.12:408][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_RGB': Can't find file.
+[2022.01.16-07.14.12:408][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_ID_Belica_weapon_Decals': Can't find file.
+[2022.01.16-07.14.12:408][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_ID_Belica_weapon_Decals': Can't find file.
+[2022.01.16-07.14.12:408][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_MASK01': Can't find file.
+[2022.01.16-07.14.12:408][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_MASK02': Can't find file.
+[2022.01.16-07.14.12:408][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_N': Can't find file.
+[2022.01.16-07.14.12:409][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_RGB': Can't find file.
+[2022.01.16-07.14.12:409][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_ID_Belica_weapon_Decals': Can't find file.
+[2022.01.16-07.14.12:410][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_CharacterEffects': Can't find file.
+[2022.01.16-07.14.12:410][372]LoadErrors: Failed to load /Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_CharacterEffects.MF_CharacterEffects Referenced by MaterialExpressionMaterialFunctionCall_51
+[2022.01.16-07.14.12:410][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_OrionCharacterAO': Can't find file.
+[2022.01.16-07.14.12:410][372]LoadErrors: Failed to load /Game/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_OrionCharacterAO.MF_OrionCharacterAO Referenced by MaterialExpressionMaterialFunctionCall_52
+[2022.01.16-07.14.12:411][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/ML_FlatBlack': Can't find file.
+[2022.01.16-07.14.12:411][372]LoadErrors: Failed to load /Game/ParagonLtBelica/Characters/Global/MaterialLayers/ML_FlatBlack.ML_FlatBlack Referenced by MaterialExpressionMaterialFunctionCall_54
+[2022.01.16-07.14.12:411][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/ML_RoughPlastic': Can't find file.
+[2022.01.16-07.14.12:411][372]LoadErrors: Failed to load /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/ML_RoughPlastic.ML_RoughPlastic Referenced by MaterialExpressionMaterialFunctionCall_57
+[2022.01.16-07.14.12:411][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Rubber/ML_Rubber_LowContrast': Can't find file.
+[2022.01.16-07.14.12:411][372]LoadErrors: Failed to load /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Rubber/ML_Rubber_LowContrast.ML_Rubber_LowContrast Referenced by MaterialExpressionMaterialFunctionCall_65
+[2022.01.16-07.14.12:411][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/ML_LowContrastHardMetal': Can't find file.
+[2022.01.16-07.14.12:412][372]LoadErrors: Failed to load /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/ML_LowContrastHardMetal.ML_LowContrastHardMetal Referenced by MaterialExpressionMaterialFunctionCall_68
+[2022.01.16-07.14.12:412][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/ML_Gem': Can't find file.
+[2022.01.16-07.14.12:412][372]LoadErrors: Failed to load /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/ML_Gem.ML_Gem Referenced by MaterialExpressionMaterialFunctionCall_71
+[2022.01.16-07.14.12:412][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Materials/MF_BelicaAnimatedScreen': Can't find file.
+[2022.01.16-07.14.12:412][372]LoadErrors: Failed to load /Game/ParagonLtBelica/Characters/Heroes/Belica/Materials/MF_BelicaAnimatedScreen.MF_BelicaAnimatedScreen Referenced by MaterialExpressionMaterialFunctionCall_78
+[2022.01.16-07.14.12:412][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_RGB': Can't find file.
+[2022.01.16-07.14.12:412][372]LoadErrors: Failed to load /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_RGB.T_Belica_m03_Belica_guns_skin03_RGB Referenced by MaterialExpressionTextureObject_1
+[2022.01.16-07.14.12:413][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_ID_Belica_weapon_Decals': Can't find file.
+[2022.01.16-07.14.12:413][372]LoadErrors: Failed to load /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_ID_Belica_weapon_Decals.T_ID_Belica_weapon_Decals Referenced by MaterialExpressionTextureObject_8
+[2022.01.16-07.14.12:413][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_MASK01': Can't find file.
+[2022.01.16-07.14.12:413][372]LoadErrors: Failed to load /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_MASK01.T_Belica_m03_Belica_guns_skin03_MASK01 Referenced by MaterialExpressionTextureSample_13
+[2022.01.16-07.14.12:413][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_MASK02': Can't find file.
+[2022.01.16-07.14.12:413][372]LoadErrors: Failed to load /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_MASK02.T_Belica_m03_Belica_guns_skin03_MASK02 Referenced by MaterialExpressionTextureSample_14
+[2022.01.16-07.14.12:413][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_N': Can't find file.
+[2022.01.16-07.14.12:414][372]LoadErrors: Failed to load /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_N.T_Belica_m03_Belica_guns_skin03_N Referenced by MaterialExpressionTextureSample_15
+[2022.01.16-07.14.12:414][372]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_RGB': Can't find file.
+[2022.01.16-07.14.12:414][372]LoadErrors: Failed to load /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_RGB.T_Belica_m03_Belica_guns_skin03_RGB Referenced by MaterialExpressionTextureSample_4
+[2022.01.16-07.14.12:418][372]LogMaterial: Display: Missing cached shadermap for M_Belica_Guns in PCD3D_SM5, Default, SM5 (DDC key hash: 139DAC01048A89199010084AFE46C89364C6890B), compiling. 
+[2022.01.16-07.14.12:419][372]LogMaterial: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Materials\M_Belica_Guns.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.16-07.14.12:419][372]LogMaterial: Display: 	Missing Material Function
+[2022.01.16-07.14.18:228][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns" FILE="../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Weapons/Meshes/BelicaGuns.uasset" SILENT=true
+[2022.01.16-07.14.18:260][683]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/BelicaGuns29BF81E94747A033C1F7F4B615469D8E.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Weapons/Meshes/BelicaGuns.uasset'
+[2022.01.16-07.14.18:276][683]AssetCheck: New page: Asset Save: BelicaGuns
+[2022.01.16-07.14.18:276][683]LogContentValidation: Display: Validating SkeletalMesh /Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns.BelicaGuns
+[2022.01.16-07.14.24:415][ 39]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FirstPersonCPP/Weapons/Materials/M_Belica_Guns.M_Belica_Guns
+[2022.01.16-07.14.24:422][ 39]LogMaterial: Display: Missing cached shadermap for M_Belica_Guns in PCD3D_SM5, Default, SM5 (DDC key hash: 5D7E7F1EDDE97BB1933250740B28C8EA8C2E927F), compiling. 
+[2022.01.16-07.14.24:423][ 39]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Belica_Guns (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.16-07.14.24:423][ 39]LogMaterial: Display: 	Missing Material Function
+[2022.01.16-07.14.24:498][ 39]LogMaterial: Display: Missing cached shadermap for M_Belica_Guns in PCD3D_SM5, Default, SM5 (DDC key hash: 04D511622FB9E23B4AF62D275E066925FD6F3643), compiling. 
+[2022.01.16-07.14.24:499][ 39]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Belica_Guns (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.16-07.14.24:499][ 39]LogMaterial: Display: 	Missing Material Function
+[2022.01.16-07.14.24:501][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_13 in PCD3D_SM5, Default, SM5 (DDC key hash: 46A74D5C55DA72F220AC1D8E6C2FFBE7332F7867), compiling. 
+[2022.01.16-07.14.24:502][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_14 in PCD3D_SM5, Default, SM5 (DDC key hash: 265FFE4457B917A9AC05C830DF4F4790B8151569), compiling. 
+[2022.01.16-07.14.24:503][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_53 in PCD3D_SM5, Default, SM5 (DDC key hash: 353C678B93188AF40BF7C83380CF497A98FB7843), compiling. 
+[2022.01.16-07.14.24:504][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D2BF511F7EA493FC9CBFB1617C92D5068F3C9440), compiling. 
+[2022.01.16-07.14.24:506][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_15 in PCD3D_SM5, Default, SM5 (DDC key hash: B9B34B551539AF5EA82DFC6E63E173EC5FE42E5A), compiling. 
+[2022.01.16-07.14.24:507][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_51 in PCD3D_SM5, Default, SM5 (DDC key hash: 06A4308231FD9ACF3C31B8BC8845E352507E7E1E), compiling. 
+[2022.01.16-07.14.24:508][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_54 in PCD3D_SM5, Default, SM5 (DDC key hash: E482AD4657FB4E0A963741F04ED2F63B59391446), compiling. 
+[2022.01.16-07.14.24:509][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_60 in PCD3D_SM5, Default, SM5 (DDC key hash: 439AA4223F3F475F322720D01B766657637D2CDB), compiling. 
+[2022.01.16-07.14.24:511][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_59 in PCD3D_SM5, Default, SM5 (DDC key hash: 7A72722DF2EAD36826E6A74B1D600B0E9582C48E), compiling. 
+[2022.01.16-07.14.24:512][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 228A6E8CC99A17AEF729D05CBCEE90127DDE11A0), compiling. 
+[2022.01.16-07.14.24:513][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureObject_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 7633C059D2846E6DA417F2B5ADD8C727533EBD8F), compiling. 
+[2022.01.16-07.14.24:513][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_24 in PCD3D_SM5, Default, SM5 (DDC key hash: 8747AE2934AFC24EE96F3E69405725FE1A1F1A83), compiling. 
+[2022.01.16-07.14.24:515][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_25 in PCD3D_SM5, Default, SM5 (DDC key hash: 25A3F25E1B966CFAF7786312C19E606C86C431E0), compiling. 
+[2022.01.16-07.14.24:516][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_38 in PCD3D_SM5, Default, SM5 (DDC key hash: D52A66C9B10D801014DE0192D9EE2EBAFB9CBDBB), compiling. 
+[2022.01.16-07.14.24:517][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_39 in PCD3D_SM5, Default, SM5 (DDC key hash: CECF2D035C6C822AA9D4B0D8F40D2B3F6412515E), compiling. 
+[2022.01.16-07.14.24:519][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_44 in PCD3D_SM5, Default, SM5 (DDC key hash: 2158AC029E87A0058B760CEF0C969E90F77BB589), compiling. 
+[2022.01.16-07.14.24:520][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_45 in PCD3D_SM5, Default, SM5 (DDC key hash: E110C0E7AEA220C3DB9839209B167E9771F315D9), compiling. 
+[2022.01.16-07.14.24:521][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_26 in PCD3D_SM5, Default, SM5 (DDC key hash: EA5520CBE6AA31A7E9880548E40E22B99E465A3D), compiling. 
+[2022.01.16-07.14.24:521][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureObject_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B12FB1258469C68E91DF24EDA1D3D548BD3AC5E6), compiling. 
+[2022.01.16-07.14.24:522][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 57761A68CCA074C42FB55EA915CFA2D97677C7FC), compiling. 
+[2022.01.16-07.14.24:540][ 39]MaterialEditorStats: Error: [SM5] Missing Material Function
+[2022.01.16-07.14.52:321][507]LogMaterial: Display: Missing cached shadermap for M_Belica_Guns in PCD3D_SM5, Default, SM5 (DDC key hash: 64442BA687063258EC5DF9DEA808B4D28D29F622), compiling. 
+[2022.01.16-07.14.52:322][507]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Belica_Guns (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.16-07.14.52:322][507]LogMaterial: Display: 	Missing Material Function
+[2022.01.16-07.14.52:323][507]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureObject_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CE670FB5D6BB31751CA5DB34408576C6801D4710), compiling. 
+[2022.01.16-07.14.52:331][507]LogMaterial: Display: Missing cached shadermap for M_Belica_Guns in PCD3D_SM5, Default, SM5 (DDC key hash: 874A71A2BDC521C0F7394508315B7A11EF1C939A), compiling. 
+[2022.01.16-07.14.52:332][507]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Belica_Guns (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.16-07.14.52:332][507]LogMaterial: Display: 	Missing Material Function
+[2022.01.16-07.14.52:370][509]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.16-07.14.52:370][509]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.16-07.14.52:370][509]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.16-07.14.52:370][509]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.16-07.14.52:777][530]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.16-07.14.52:777][530]LogShaderCompilers: Display: Total job queries 66, among them cache hits 0 (0.00%)
+[2022.01.16-07.14.52:777][530]LogShaderCompilers: Display: Tracking 33 distinct input hashes that result in 24 distinct outputs (72.73%)
+[2022.01.16-07.14.52:778][530]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.01.16-07.14.52:778][530]LogShaderCompilers: Display: ================================================
+[2022.01.16-07.14.58:693][775]LogSlate: Window 'Message' being destroyed
+[2022.01.16-07.14.58:697][775]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/FirstPersonCPP/Weapons/Materials/M_Belica_Guns.M_Belica_Guns
+(Selecting 'No' will cause all changes to be lost!)
+[2022.01.16-07.14.58:703][775]LogSlate: Window 'M_Belica_Guns' being destroyed
+[2022.01.16-07.14.58:704][775]LogSlate: Window 'M_Belica_Guns' being destroyed
+[2022.01.16-07.14.58:706][775]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-07.14.58:706][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.14.58:753][775]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-07.14.58:753][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.14.58:809][775]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-07.14.58:809][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.15.00:273][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.01.16-07.15.02:800][858]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.16-07.15.02:847][858]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FirstPersonCPP/Weapons/Materials/M_Belica_Guns.M_Belica_Guns
+[2022.01.16-07.15.03:777][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.01.16-07.15.03:792][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.01.16-07.15.03:804][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.01.16-07.15.51:950][288]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/FirstPersonCPP/Weapons/Textures/T_Belica_m03_Belica_guns_skin03_RGB.T_Belica_m03_Belica_guns_skin03_RGB
+[2022.01.16-07.15.51:995][288]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.01.16-07.15.54:738][427]LogSlate: Window 'T_Belica_m03_Belica_guns_skin03_RGB' being destroyed
+[2022.01.16-07.15.54:743][427]LogSlate: Window 'T_Belica_m03_Belica_guns_skin03_RGB' being destroyed
+[2022.01.16-07.15.56:528][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.01.16-07.15.58:121][527]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.16-07.15.58:232][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.01.16-07.15.58:243][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.01.16-07.15.58:252][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.01.16-07.15.58:262][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.01.16-07.15.58:285][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.01.16-07.15.58:295][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.01.16-07.16.01:830][738]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Weapons/BaseWeapon/BP_BaseWeapon.BP_BaseWeapon
+[2022.01.16-07.16.37:932][554]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.16-07.16.37:939][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.16-07.16.37:940][554]PIE: New page: PIE session: FirstPersonExampleMap (Jan 16, 2022, 1:16:37 PM)
+[2022.01.16-07.16.37:942][554]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.16-07.16.37:944][554]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.16-07.16.37:944][554]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-07.16.37:953][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009481s)
+[2022.01.16-07.16.37:955][554]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.16-07.16.37:955][554]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2022.01.16-07.16.37:955][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011322s)
+[2022.01.16-07.16.37:976][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.01.16-07.16.37:978][554]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.01.16-07.16.37:978][554]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.16-07.16.37:978][554]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.16-07.16.37:978][554]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.16-07.16.37:978][554]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.16-07.16.37:978][554]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.16-07.16.37:979][554]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.16-07.16.37:979][554]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.16-07.16.37:979][554]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.16-07.16.37:979][554]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.16-07.16.37:979][554]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.16-07.16.37:979][554]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.16-07.16.37:979][554]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.16-07.16.37:981][554]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.16-07.16.37:981][554]LogAudioMixer: Display: 1: FrontRight
+[2022.01.16-07.16.38:058][554]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.01.16-07.16.38:059][554]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.16-07.16.38:059][554]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.16-07.16.38:059][554]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.16-07.16.38:060][554]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.16-07.16.38:060][554]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.16-07.16.38:060][554]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.16-07.16.38:062][554]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.16-07.16.38:062][554]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.16-07.16.38:062][554]LogInit: FAudioDevice initialized.
+[2022.01.16-07.16.38:062][554]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2022.01.16-07.16.38:077][554]LogLoad: Game class is 'Cyberpunk2022GameMode'
+[2022.01.16-07.16.38:079][554]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.16-10.16.38
+[2022.01.16-07.16.38:079][554]LogWorld: Bringing up level for play took: 0.001601
+[2022.01.16-07.16.38:080][554]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.01.16-07.16.38:086][554]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.01.16-07.16.38:087][554]PIE: Server logged in
+[2022.01.16-07.16.38:088][554]PIE: Play in editor total start time 0.152 seconds.
+[2022.01.16-07.16.51:729][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.16.51:729][353]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-07.16.51:729][353]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-07.16.51:730][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.16.51:741][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.16-07.16.51:765][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.16.51:783][353]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.16-07.16.51:783][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-07.16.51:785][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-07.16.51:790][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.16.51:815][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.01.16-07.16.51:838][354]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.01.16-07.16.54:774][526]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.16-07.17.01:757][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.01.16-07.17.01:775][881]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/FirstPersonExampleMap_Auto10FE08A014D790D2B08A7F395E953C44F.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2022.01.16-07.17.01:777][881]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.051
+[2022.01.16-07.17.01:777][881]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2022.01.16-07.17.01:778][881]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns] ([1] browsable assets)...
+[2022.01.16-07.17.01:789][881]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns.BelicaGuns]
+[2022.01.16-07.17.01:789][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns]
+[2022.01.16-07.17.01:820][881]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/BelicaGuns_Auto1E992775D48EFFF6D33BCCE9059EEDEF7.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/Autosaves/Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns_Auto1.uasset'
+[2022.01.16-07.17.01:821][881]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns_Skeleton] ([1] browsable assets)...
+[2022.01.16-07.17.01:821][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns_Skeleton]
+[2022.01.16-07.17.01:822][881]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/BelicaGuns_Skeleton_Auto1823DE5B548714B8455BAAFB03A40AF86.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/Autosaves/Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns_Skeleton_Auto1.uasset'
+[2022.01.16-07.17.01:822][881]LogFileHelpers: Auto-saving content packages took 0.045
+[2022.01.16-07.17.08:968][271]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.01.16-07.17.09:025][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.01.16-07.17.09:790][309]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/FirstPersonCharacterFD5763A44A1983C2632BEDBCDBD67877.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset'
+[2022.01.16-07.17.09:809][309]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.01.16-07.17.09:809][309]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.16-07.17.12:178][449]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.16-07.17.12:182][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.16-07.17.12:182][449]PIE: New page: PIE session: FirstPersonExampleMap (Jan 16, 2022, 1:17:12 PM)
+[2022.01.16-07.17.12:204][449]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-07.17.12:214][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009234s)
+[2022.01.16-07.17.12:215][449]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.16-07.17.12:215][449]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2022.01.16-07.17.12:215][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010927s)
+[2022.01.16-07.17.12:243][449]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.01.16-07.17.12:245][449]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.01.16-07.17.12:245][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.16-07.17.12:246][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.16-07.17.12:246][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.16-07.17.12:246][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.16-07.17.12:246][449]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.16-07.17.12:246][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.16-07.17.12:246][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.16-07.17.12:246][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.16-07.17.12:246][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.16-07.17.12:246][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.16-07.17.12:246][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.16-07.17.12:246][449]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.16-07.17.12:248][449]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.16-07.17.12:248][449]LogAudioMixer: Display: 1: FrontRight
+[2022.01.16-07.17.12:324][449]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.01.16-07.17.12:324][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.16-07.17.12:324][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.16-07.17.12:324][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.16-07.17.12:325][449]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.16-07.17.12:325][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.16-07.17.12:325][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.16-07.17.12:327][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.16-07.17.12:327][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.16-07.17.12:327][449]LogInit: FAudioDevice initialized.
+[2022.01.16-07.17.12:327][449]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2022.01.16-07.17.12:341][449]LogLoad: Game class is 'Cyberpunk2022GameMode'
+[2022.01.16-07.17.12:343][449]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.16-10.17.12
+[2022.01.16-07.17.12:343][449]LogWorld: Bringing up level for play took: 0.001627
+[2022.01.16-07.17.12:344][449]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.01.16-07.17.12:346][449]PIE: Server logged in
+[2022.01.16-07.17.12:347][449]PIE: Play in editor total start time 0.165 seconds.
+[2022.01.16-07.17.28:056][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.17.28:056][388]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-07.17.28:056][388]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-07.17.28:056][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.17.28:069][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.16-07.17.28:095][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-07.17.28:116][388]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.16-07.17.28:116][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-07.17.28:118][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-07.17.28:124][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-07.17.28:128][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.01.16-07.17.28:152][389]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.01.16-07.27.18:070][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.01.16-07.27.18:091][270]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/FirstPersonExampleMap_Auto2BA3EF9C540B9BA45527C958367EC7A5D.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2022.01.16-07.27.18:092][270]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.047
+[2022.01.16-07.27.18:092][270]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047

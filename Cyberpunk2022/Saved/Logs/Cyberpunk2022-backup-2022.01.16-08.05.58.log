@@ -1,0 +1,1301 @@
+﻿Log file open, 01/16/22 11:03:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Cyberpunk2022
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.327106
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: E:/UE4/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.01.16-08.03.28:023][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.01.16-08.03.28:023][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.01.16-08.03.28:023][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-08.03.28:023][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.01.16-08.03.28:023][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-08.03.28:023][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-08.03.28:023][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.01.16-08.03.28:023][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.01.16-08.03.28:023][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.01.16-08.03.28:023][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.01.16-08.03.28:023][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.01.16-08.03.28:024][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-08.03.28:024][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-08.03.28:030][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-08.03.28:030][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.16-08.03.28:030][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.16-08.03.28:030][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-08.03.28:030][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.16-08.03.28:030][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-08.03.28:030][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.16-08.03.28:030][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.16-08.03.28:030][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.16-08.03.28:030][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.16-08.03.28:030][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.16-08.03.28:031][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.16-08.03.28:032][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.16-08.03.28:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.16-08.03.28:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.16-08.03.28:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.16-08.03.28:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.16-08.03.28:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.16-08.03.28:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.16-08.03.28:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.16-08.03.28:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.16-08.03.28:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.16-08.03.28:034][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.16-08.03.28:034][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-08.03.28:034][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.16-08.03.28:034][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.16-08.03.28:034][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-08.03.28:034][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.16-08.03.28:034][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.16-08.03.28:034][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.16-08.03.28:034][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.16-08.03.28:034][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.01.16-08.03.28:034][  0]LogHAL: Display: Platform has ~ 16 GB [16487870464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.16-08.03.28:034][  0]LogInit: Going up to parent DeviceProfile []
+[2022.01.16-08.03.28:035][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.16-08.03.28:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.16-08.03.28:036][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.16-08.03.28:037][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.16-08.03.28:038][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.16-08.03.28:038][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.16-08.03.28:038][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.16-08.03.28:038][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.16-08.03.28:038][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-08.03.28:038][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.16-08.03.28:038][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.16-08.03.28:038][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.01.16-08.03.28:038][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.16-08.03.28:038][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.16-08.03.28:038][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.16-08.03.28:038][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.01.16-08.03.28:038][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.01.16-08.03.28:038][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.01.16-08.03.28:038][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.01.16-08.03.28:038][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.01.16-08.03.28:038][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Editor.ini]
+[2022.01.16-08.03.28:038][  0]LogInit: Computer: DESKTOP-P6OQVGL
+[2022.01.16-08.03.28:039][  0]LogInit: User: Artem
+[2022.01.16-08.03.28:039][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.01.16-08.03.28:039][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.01.16-08.03.28:039][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.01.16-08.03.28:039][  0]LogMemory: Platform Memory Stats for Windows
+[2022.01.16-08.03.28:039][  0]LogMemory: Process Physical Memory: 145.73 MB used, 145.73 MB peak
+[2022.01.16-08.03.28:039][  0]LogMemory: Process Virtual Memory: 128.01 MB used, 128.01 MB peak
+[2022.01.16-08.03.28:039][  0]LogMemory: Physical Memory: 9033.26 MB used,  6690.80 MB free, 15724.06 MB total
+[2022.01.16-08.03.28:039][  0]LogMemory: Virtual Memory: 134207128.00 MB used,  10597.19 MB free, 134217728.00 MB total
+[2022.01.16-08.03.28:050][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.01.16-08.03.28:167][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.01.16-08.03.28:168][  0]LogInit: Using OS detected language (en-US).
+[2022.01.16-08.03.28:168][  0]LogInit: Using OS detected locale (en-US).
+[2022.01.16-08.03.28:170][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.01.16-08.03.28:362][  0]LogInit: Setting process to per monitor DPI aware
+[2022.01.16-08.03.28:380][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.16-08.03.28:392][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.01.16-08.03.28:393][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.01.16-08.03.28:493][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.01.16-08.03.28:509][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.16-08.03.28:509][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.01.16-08.03.28:509][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.01.16-08.03.28:509][  0]LogD3D11RHI: D3D11 adapters:
+[2022.01.16-08.03.28:602][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_0)
+[2022.01.16-08.03.28:602][  0]LogD3D11RHI:       6023/0/7862 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.01.16-08.03.28:639][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2022.01.16-08.03.28:639][  0]LogD3D11RHI:       496/0/7862 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2022.01.16-08.03.28:643][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.01.16-08.03.28:643][  0]LogD3D11RHI:       0/0/7862 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.01.16-08.03.28:643][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.01.16-08.03.28:643][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.01.16-08.03.28:643][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.16-08.03.28:643][  0]LogD3D11RHI:     DeviceId    : 2520
+[2022.01.16-08.03.28:643][  0]LogD3D11RHI:     SubSysId    : 151f1025
+[2022.01.16-08.03.28:643][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.16-08.03.28:643][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.01.16-08.03.28:643][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.16-08.03.28:644][  0]LogD3D11RHI:     SharedSystemMemory : 8243935232 bytes
+[2022.01.16-08.03.28:644][  0]LogD3D11RHI:     AdapterLuid : 0 58078
+[2022.01.16-08.03.28:651][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.01.16-08.03.28:651][  0]LogD3D11RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2022.01.16-08.03.28:651][  0]LogWindows: EnumDisplayDevices:
+[2022.01.16-08.03.28:651][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2022.01.16-08.03.28:652][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.01.16-08.03.28:652][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.01.16-08.03.28:652][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2022.01.16-08.03.28:653][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.01.16-08.03.28:653][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.01.16-08.03.28:653][  0]LogD3D11RHI:   Driver Version: 497.09 (internal:30.0.14.9709, unified:497.09)
+[2022.01.16-08.03.28:653][  0]LogD3D11RHI:      Driver Date: 11-26-2021
+[2022.01.16-08.03.28:653][  0]LogRHI: Texture pool is 4216 MB (70% of 6023 MB)
+[2022.01.16-08.03.28:653][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.01.16-08.03.28:653][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.01.16-08.03.28:653][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.16-08.03.28:653][  0]LogD3D11RHI:     DeviceId    : 2520
+[2022.01.16-08.03.28:653][  0]LogD3D11RHI:     SubSysId    : 151f1025
+[2022.01.16-08.03.28:653][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.16-08.03.28:653][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.01.16-08.03.28:653][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.16-08.03.28:653][  0]LogD3D11RHI:     SharedSystemMemory : 8243935232 bytes
+[2022.01.16-08.03.28:653][  0]LogD3D11RHI:     AdapterLuid : 0 58078
+[2022.01.16-08.03.28:710][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.01.16-08.03.28:711][  0]LogD3D11RHI: Async texture creation enabled
+[2022.01.16-08.03.28:711][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.01.16-08.03.28:732][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.01.16-08.03.28:755][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.01.16-08.03.28:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.16-08.03.28:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.16-08.03.28:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.16-08.03.28:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.16-08.03.28:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.16-08.03.28:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.16-08.03.28:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.16-08.03.28:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.16-08.03.28:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.16-08.03.28:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.16-08.03.28:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.16-08.03.29:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.16-08.03.29:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.16-08.03.29:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.16-08.03.29:027][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.16-08.03.29:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.16-08.03.29:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.16-08.03.29:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.16-08.03.29:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.16-08.03.29:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.16-08.03.29:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.16-08.03.29:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.16-08.03.29:087][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.16-08.03.29:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.16-08.03.29:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.16-08.03.29:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.16-08.03.29:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.16-08.03.29:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.16-08.03.29:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.16-08.03.29:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.16-08.03.29:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.16-08.03.29:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.16-08.03.29:134][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.16-08.03.29:144][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.16-08.03.29:178][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.01.16-08.03.29:217][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.01.16-08.03.29:217][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../Projects/WargamingAcademy/Cyberpunk2022/Intermediate/Shaders/WorkingDirectory/21612/).
+[2022.01.16-08.03.29:218][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Artem/AppData/Local/Temp/UnrealShaderWorkingDir/19AE139E4DDCA816BE8AB59300AC23F0/'.
+[2022.01.16-08.03.29:218][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.01.16-08.03.29:218][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.01.16-08.03.29:218][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.16-08.03.29:828][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.16-08.03.29:878][  0]LogDerivedDataCache: Loaded boot cache 0.05s 101MB C:/Users/Artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.16-08.03.29:878][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.01.16-08.03.29:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projects/WargamingAcademy/Cyberpunk2022/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.01.16-08.03.29:878][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.01.16-08.03.29:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projects/WargamingAcademy/Cyberpunk2022/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.16-08.03.29:878][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.01.16-08.03.29:895][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.16-08.03.29:895][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.16-08.03.29:895][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.01.16-08.03.29:903][  0]LogDerivedDataCache: Speed tests for C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.01.16-08.03.29:903][  0]LogDerivedDataCache: Display: Performance to C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1783.74MBs, RandomWriteSpeed=141.82MBs. Assigned SpeedClass 'Local'
+[2022.01.16-08.03.29:905][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.01.16-08.03.29:905][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.01.16-08.03.29:905][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.01.16-08.03.29:946][  0]LogSlate: Using FreeType 2.10.0
+[2022.01.16-08.03.29:946][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.01.16-08.03.29:969][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2022.01.16-08.03.30:181][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.16-08.03.30:181][  0]LogInit: Active device profile: [000001E9A730AC00][000001E99B10C6C0 49] Windows
+[2022.01.16-08.03.30:181][  0]LogInit: Profiles: [000001E9A730AC00][000001E99B10C6C0 49] Windows, [000001E9A72BD600][000001E9A5A1A800 49] WindowsNoEditor, [000001E9A7309600][000001E99B114940 49] WindowsServer, [000001E9A72BE300][000001E99B11CAC0 49] WindowsClient, [000001E9A730A200][000001E9A54DCC40 49] IOS, [000001E9A72BE600][000001E9A54E0DC0 49] iPadAir, [000001E9A730A900][000001E99B110F40 49] iPadAir2, [000001E9A727AC00][000001E9A54F1200 49] IPadPro, [000001E9A727AD00][000001E9A611B240 49] iPadAir3, [000001E9A730B400][000001E9A54F53C0 49] iPadAir4, [000001E9A727B400][000001E9A54F9540 49] iPadMini2, [000001E9A7309D00][000001E9A552F6C0 49] iPadMini3, [000001E9A7279200][000001E9A5533840 49] iPadMini4, [000001E9A7308B00][000001E9A55379C0 49] iPadMini5, [000001E9A72BA500][000001E99B164100 49] iPhone6, [000001E9A72BA600][000001E9A553A140 49] iPodTouch6, [000001E9A7279F00][000001E9A6220400 49] iPhone7, [000001E9A727A000][000001E9A621C440 49] iPodTouch7, [000001E9A72BA900][000001E9A54945C0 49] iPhone5S, [000001E9A7278A00][000001E9A5498740 49] iPhone6Plus, [000001E9A72B9200][000001E99B118880 49] iPhone6S, [000001E9A727BB00][000001E9A549C9C0 49] iPhone6SPlus, [000001E9A72BBC00][000001E9A54A0B00 49] iPhone7Plus, [000001E9A727B700][000001E9A54A8C80 49] iPhoneSE, [000001E9A72BAF00][000001E9A54ACE00 49] iPhone8, [000001E9A7278700][000001E9A54B0F80 49] iPhone8Plus, [000001E9A72B9800][000001E9A54B5100 49] iPhoneX, [000001E9A727B000][000001E9A54B9280 49] iPhoneXS, [000001E9A72BBF00][000001E9A5621400 49] iPhoneXSMax, [000001E9A727A400][000001E9A5625580 49] iPhoneXR, [000001E9A72BBE00][000001E9A5629700 49] iPhone11, [000001E9A7278F00][000001E9A562D880 49] iPhone11Pro, [000001E9A72BB000][000001E9A5631A00 49] iPhone11ProMax, [000001E9A727AE00][000001E9A5635B80 49] iPhoneSE2, [000001E9A72B8500][000001E9A5638180 49] iPhone12Mini, [000001E9A727BD00][000001E9A563C300 49] iPhone12, [000001E9A72B8600][000001E9A5640480 49] iPhone12Pro, [000001E9A7278800][000001E9A5644600 49] iPhone12ProMax, [000001E9A72BB300][000001E9A5648780 49] iPadPro105, [000001E9A7278600][000001E9A564C900 49] iPadPro129, [000001E9A72B8A00][000001E9A54A4A40 49] iPadPro97, [000001E9A727B900][000001E9A5650B80 49] iPadPro2_129, [000001E9A72B9F00][000001E9A5654CC0 49] iPad5, [000001E9A727B800][000001E9A565CE40 49] iPad6, [000001E9A72B8B00][000001E9A5660FC0 49] iPad7, [000001E9A727B100][000001E9A5665140 49] iPad8, [000001E9A72B8700][000001E9A56692C0 49] iPadPro11, [000001E9A727A300][000001E9A566D440 49] iPadPro2_11, [000001E9A72B8C00][000001E9A56715C0 49] iPadPro3_129, [000001E9A7278300][000001E9A5675740 49] iPadPro4_129, [000001E9A72BD900][000001E9A56798C0 49] AppleTV, [000001E9A736C800][000001E9A567DA40 49] AppleTV4K, [000001E9A72BF500][000001E9A5681BC0 49] TVOS, [000001E9A736DC00][000001E9A56841C0 49] Mac, [000001E9A72BF200][000001E9A5688340 49] MacClient, [000001E9A736D600][000001E9A568C4C0 49] MacNoEditor, [000001E9A72BF900][000001E9A5690640 49] MacServer, [000001E9A736E100][000001E9A56947C0 49] Linux, [000001E9A72BE400][000001E9A5698940 49] LinuxAArch64, [000001E9A736CC00][000001E9A569CAC0 49] LinuxNoEditor, [000001E9A72BF600][000001E9A5658C00 49] LinuxAArch64NoEditor, [000001E9A736D100][000001E9A56A0D40 49] LinuxClient, [000001E9A72BE900][000001E9A56A4E80 49] LinuxAArch64Client, [000001E9A736DA00][000001E9A56A8FC0 49] LinuxServer, [000001E9A72BD000][000001E9A56B1140 49] LinuxAArch64Server, [000001E9A736D800][000001E9A56B52C0 49] Android, [000001E9A72BCC00][000001E9A56B9440 49] Android_Low, [000001E9A736D000][000001E9A56BD5C0 49] Android_Mid, [000001E9A7279A00][000001E9A56C1740 49] Android_High, [000001E9A72B8300][000001E9A56C58C0 49] Android_Default, [000001E9A727B200][000001E9A56C9A40 49] Android_Adreno4xx, [000001E9A72B9A00][000001E9A5BB5BC0 49] Android_Adreno5xx_Low, [000001E9A727BF00][000001E9A5BB81C0 49] Android_Adreno5xx, [000001E9A72BAB00][000001E9A5BBC340 49] Android_Adreno6xx, [000001E9A727BC00][000001E9A5BC04C0 49] Android_Adreno6xx_Vulkan, [000001E9A72BA000][000001E9A5BC4640 49] Android_Mali_T6xx, [000001E9A7279B00][000001E9A5BC87C0 49] Android_Mali_T7xx, [000001E9A72B9100][000001E9A5BCC940 49] Android_Mali_T8xx, [000001E9A7279C00][000001E9A5BD0AC0 49] Android_Mali_G71, [000001E9A72BA200][000001E9A5BD4C40 49] Android_Mali_G72, [000001E9A727A600][000001E9A56ACD80 49] Android_Mali_G72_Vulkan, [000001E9A72BAC00][000001E9A5BD8EC0 49] Android_Mali_G76, [000001E9A7278400][000001E9A5BDD000 49] Android_Mali_G76_Vulkan, [000001E9A72BAA00][000001E9A5BE1140 49] Android_Mali_G77, [000001E9A727A900][000001E9A5BE92C0 49] Android_Mali_G77_Vulkan, [000001E9A736C600][000001E9A5BED440 49] Android_Mali_G78, [000001E9A727A800][000001E9A5BF15C0 49] Android_Mali_G78_Vulkan, [000001E9A736D400][000001E9A5BF5740 49] Android_Mali_G710, [000001E9A727BE00][000001E9A5BF98C0 49] Android_Mali_G710_Vulkan, [000001E9A72B8800][000001E9A5BFDA40 49] Android_Vulkan_SM5, [000001E9A7279700][000001E9A5C01BC0 49] Android_PowerVR_G6xxx, [000001E9A72B9500][000001E9A5C041C0 49] Android_PowerVR_GT7xxx, [000001E9A727B600][000001E9A5C08340 49] Android_PowerVR_GE8xxx, [000001E9A72B8900][000001E9A5C0C4C0 49] Android_PowerVR_GM9xxx, [000001E9A7279600][000001E9A5C10640 49] Android_PowerVR_GM9xxx_Vulkan, [000001E9A72B8F00][000001E9A5C147C0 49] Android_TegraK1, [000001E9A727AB00][000001E9A5C18940 49] Android_Unknown_Vulkan, [000001E9A72B9700][000001E9A5C1CAC0 49] Lumin, [000001E9A7279500][000001E9A5C20C40 49] Lumin_Desktop, [000001E9A72BB900][000001E9A5C24DC0 49] HoloLens, 
+[2022.01.16-08.03.30:292][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.01.16-08.03.30:292][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.01.16-08.03.30:292][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.01.16-08.03.30:292][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.01.16-08.03.30:292][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.01.16-08.03.30:308][  0]LogNetVersion: Cyberpunk2022 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1028016206)
+[2022.01.16-08.03.30:604][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.16-08.03.30:652][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.16-08.03.30:657][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.01.16-08.03.30:657][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.01.16-08.03.30:657][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.01.16-08.03.30:928][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 2E7BEED74A9A3FD1E24B459A86F85C9D | Instance: EC4A59834279F5496A4193B4DD52C5B6 (DESKTOP-P6OQVGL-21612).
+[2022.01.16-08.03.30:961][  0]LogPython: Using Python 3.7.7
+[2022.01.16-08.03.31:477][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.01.16-08.03.31:482][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.01.16-08.03.31:617][  0]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Meshes\BelicaGuns.uasset: Failed to load '/Game/FirstPersonCPP/Weapons/Materials/M_Belica_Guns': Can't find file.
+[2022.01.16-08.03.31:617][  0]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Meshes\BelicaGuns.uasset: Failed to load '/Game/FirstPersonCPP/Weapons/Materials/M_Belica_Guns': Can't find file.
+[2022.01.16-08.03.31:617][  0]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Meshes\BelicaGuns.uasset: Failed to load '/Game/FirstPersonCPP/Weapons/Materials/M_Belica_Guns': Can't find file.
+[2022.01.16-08.03.31:618][  0]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Meshes\BelicaGuns.uasset: Failed to load '/Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns_Skeleton': Can't find file.
+[2022.01.16-08.03.31:618][  0]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Meshes\BelicaGuns.uasset: Failed to load '/Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns_Skeleton': Can't find file.
+[2022.01.16-08.03.31:618][  0]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Meshes\BelicaGuns.uasset: Failed to load '/Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns_Skeleton': Can't find file.
+[2022.01.16-08.03.31:656][  0]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Meshes\BelicaGuns.uasset: Failed to load '/Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns_Skeleton': Can't find file.
+[2022.01.16-08.03.31:657][  0]LoadErrors: Failed to load /Game/FirstPersonCPP/Weapons/Meshes/BelicaGuns_Skeleton.BelicaGuns_Skeleton Referenced by BelicaGuns
+[2022.01.16-08.03.31:657][  0]LogLinker: Warning: [AssetLog] E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Weapons\Meshes\BelicaGuns.uasset: Failed to load '/Game/FirstPersonCPP/Weapons/Materials/M_Belica_Guns': Can't find file.
+[2022.01.16-08.03.31:657][  0]LoadErrors: Failed to load /Game/FirstPersonCPP/Weapons/Materials/M_Belica_Guns.M_Belica_Guns Referenced by BelicaGuns
+[2022.01.16-08.03.31:866][  0]SourceControl: Source control is disabled
+[2022.01.16-08.03.31:866][  0]SourceControl: Source control is disabled
+[2022.01.16-08.03.31:898][  0]SourceControl: Source control is disabled
+[2022.01.16-08.03.31:903][  0]SourceControl: Source control is disabled
+[2022.01.16-08.03.31:912][  0]SourceControl: Source control is disabled
+[2022.01.16-08.03.31:924][  0]LogUProjectInfo: Found projects:
+[2022.01.16-08.03.32:074][  0]LogOpenImageDenoise: OIDN starting up
+[2022.01.16-08.03.32:123][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.01.16-08.03.32:144][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.16-08.03.32:144][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.16-08.03.32:263][  0]LogCollectionManager: Loaded 0 collections in 0.000567 seconds
+[2022.01.16-08.03.32:289][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Collections/' took 0.00s
+[2022.01.16-08.03.32:290][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/Developers/Artem/Collections/' took 0.00s
+[2022.01.16-08.03.32:290][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/Collections/' took 0.00s
+[2022.01.16-08.03.32:290][  0]LogOcInput: OculusInput pre-init called
+[2022.01.16-08.03.32:489][  0]LogEngine: Initializing Engine...
+[2022.01.16-08.03.32:492][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.01.16-08.03.32:492][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.16-08.03.32:493][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.01.16-08.03.32:493][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.01.16-08.03.32:595][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.01.16-08.03.32:604][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.01.16-08.03.32:612][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.01.16-08.03.32:616][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.01.16-08.03.32:617][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.01.16-08.03.32:617][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.01.16-08.03.32:617][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.01.16-08.03.32:617][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.16-08.03.32:617][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.16-08.03.32:617][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.16-08.03.32:617][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.16-08.03.32:617][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.16-08.03.32:618][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.16-08.03.32:618][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.16-08.03.32:618][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.16-08.03.32:618][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.16-08.03.32:618][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.16-08.03.32:618][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.16-08.03.32:618][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.16-08.03.32:628][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.16-08.03.32:628][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.01.16-08.03.32:706][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.01.16-08.03.32:709][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.16-08.03.32:710][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.16-08.03.32:710][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.16-08.03.32:711][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.16-08.03.32:711][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.16-08.03.32:711][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.16-08.03.32:713][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.16-08.03.32:713][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.16-08.03.32:713][  0]LogInit: FAudioDevice initialized.
+[2022.01.16-08.03.32:713][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.01.16-08.03.32:713][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.01.16-08.03.32:770][  0]LogDerivedDataCache: Saved boot cache 0.06s 101MB C:/Users/Artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.16-08.03.32:770][  0]LogInit: Texture streaming: Enabled
+[2022.01.16-08.03.32:784][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.01.16-08.03.32:788][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.01.16-08.03.32:788][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.01.16-08.03.32:789][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.01.16-08.03.32:808][  0]LogInit: Transaction tracking system initialized
+[2022.01.16-08.03.32:836][  0]BlueprintLog: New page: Editor Load
+[2022.01.16-08.03.32:898][  0]LocalizationService: Localization service is disabled
+[2022.01.16-08.03.32:921][  0]TimingProfiler: Initialize
+[2022.01.16-08.03.32:922][  0]TimingProfiler: OnSessionChanged
+[2022.01.16-08.03.32:922][  0]LoadingProfiler: Initialize
+[2022.01.16-08.03.32:922][  0]LoadingProfiler: OnSessionChanged
+[2022.01.16-08.03.32:922][  0]NetworkingProfiler: Initialize
+[2022.01.16-08.03.32:922][  0]NetworkingProfiler: OnSessionChanged
+[2022.01.16-08.03.32:922][  0]MemoryProfiler: Initialize
+[2022.01.16-08.03.32:922][  0]MemoryProfiler: OnSessionChanged
+[2022.01.16-08.03.33:043][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.16-08.03.33:043][  0]LogCook: Display: Mobile HDR setting 1
+[2022.01.16-08.03.33:246][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/' took 0.00s
+[2022.01.16-08.03.33:383][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.01.16-08.03.33:385][  0]SourceControl: Source control is disabled
+[2022.01.16-08.03.33:385][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.571
+[2022.01.16-08.03.33:385][  0]Cmd: MAP LOAD FILE="../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.16-08.03.33:386][  0]LightingResults: New page: Lighting Build
+[2022.01.16-08.03.33:387][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-08.03.33:387][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-08.03.33:387][  0]MapCheck: New page: Map Check
+[2022.01.16-08.03.33:387][  0]LightingResults: New page: Lighting Build
+[2022.01.16-08.03.33:396][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.16-08.03.33:400][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.01.16-08.03.33:450][  0]LogTexture: Display: Building textures: DeprecatedTextureD5B55AC7496CD3FBF6154CA3715BB71F (BGRA8, 128X128)
+[2022.01.16-08.03.33:453][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2022.01.16-08.03.33:454][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.16-08.03.33:459][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.16-08.03.33:471][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.01.16-08.03.33:471][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.16-08.03.33:471][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2022.01.16-08.03.33:471][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.086
+[2022.01.16-08.03.33:473][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.659
+[2022.01.16-08.03.33:576][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-08.03.33:582][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-08.03.33:586][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-08.03.33:591][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-08.03.33:603][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3828 classes and 930 folders.
+[2022.01.16-08.03.33:605][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.16-08.03.33:606][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.16-08.03.33:606][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:606][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.16-08.03.33:607][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:607][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.01.16-08.03.33:607][  0]LogPakFile: OnPakFileMounted2Time == 0.000130
+[2022.01.16-08.03.33:607][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.16-08.03.33:607][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:607][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.16-08.03.33:607][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:607][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.01.16-08.03.33:607][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2022.01.16-08.03.33:608][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.01.16-08.03.33:608][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:608][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.01.16-08.03.33:608][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:608][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.01.16-08.03.33:608][  0]LogPakFile: OnPakFileMounted2Time == 0.000121
+[2022.01.16-08.03.33:609][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.16-08.03.33:609][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:609][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.16-08.03.33:609][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:609][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.01.16-08.03.33:609][  0]LogPakFile: OnPakFileMounted2Time == 0.000124
+[2022.01.16-08.03.33:609][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.16-08.03.33:609][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:609][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.16-08.03.33:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.01.16-08.03.33:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000120
+[2022.01.16-08.03.33:610][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.16-08.03.33:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.16-08.03.33:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.01.16-08.03.33:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2022.01.16-08.03.33:611][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.16-08.03.33:611][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:611][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.16-08.03.33:611][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:611][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.01.16-08.03.33:611][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2022.01.16-08.03.33:611][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.16-08.03.33:612][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:612][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.16-08.03.33:612][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:612][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.01.16-08.03.33:612][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2022.01.16-08.03.33:612][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.16-08.03.33:612][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:612][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.16-08.03.33:612][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:612][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.01.16-08.03.33:612][  0]LogPakFile: OnPakFileMounted2Time == 0.000129
+[2022.01.16-08.03.33:613][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.16-08.03.33:613][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:613][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.16-08.03.33:613][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:613][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.01.16-08.03.33:613][  0]LogPakFile: OnPakFileMounted2Time == 0.000114
+[2022.01.16-08.03.33:614][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.16-08.03.33:614][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:614][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.16-08.03.33:614][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:614][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.01.16-08.03.33:614][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2022.01.16-08.03.33:615][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.16-08.03.33:615][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:615][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.16-08.03.33:615][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:615][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.01.16-08.03.33:615][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2022.01.16-08.03.33:615][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.16-08.03.33:615][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:615][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.16-08.03.33:615][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:615][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.01.16-08.03.33:615][  0]LogPakFile: OnPakFileMounted2Time == 0.000118
+[2022.01.16-08.03.33:616][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.16-08.03.33:616][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:616][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.16-08.03.33:616][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:616][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.01.16-08.03.33:616][  0]LogPakFile: OnPakFileMounted2Time == 0.000120
+[2022.01.16-08.03.33:617][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.16-08.03.33:617][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:617][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.16-08.03.33:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.01.16-08.03.33:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2022.01.16-08.03.33:617][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.16-08.03.33:617][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:617][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.16-08.03.33:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.01.16-08.03.33:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2022.01.16-08.03.33:618][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.16-08.03.33:618][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:618][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.16-08.03.33:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.01.16-08.03.33:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2022.01.16-08.03.33:619][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.16-08.03.33:619][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:619][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.16-08.03.33:619][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:619][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.01.16-08.03.33:619][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2022.01.16-08.03.33:619][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.16-08.03.33:619][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:619][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.16-08.03.33:619][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.01.16-08.03.33:620][  0]LogPakFile: OnPakFileMounted2Time == 0.000127
+[2022.01.16-08.03.33:620][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.16-08.03.33:620][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:620][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.16-08.03.33:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.01.16-08.03.33:620][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2022.01.16-08.03.33:621][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.16-08.03.33:621][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:621][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.16-08.03.33:621][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:621][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.01.16-08.03.33:621][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2022.01.16-08.03.33:621][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.16-08.03.33:621][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:621][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.16-08.03.33:622][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:622][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.01.16-08.03.33:622][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2022.01.16-08.03.33:622][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.01.16-08.03.33:622][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:622][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.01.16-08.03.33:622][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:622][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.01.16-08.03.33:622][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2022.01.16-08.03.33:623][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.16-08.03.33:623][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:623][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.16-08.03.33:623][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:623][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.01.16-08.03.33:623][  0]LogPakFile: OnPakFileMounted2Time == 0.000114
+[2022.01.16-08.03.33:624][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.16-08.03.33:624][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:624][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.16-08.03.33:624][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:624][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.01.16-08.03.33:624][  0]LogPakFile: OnPakFileMounted2Time == 0.000115
+[2022.01.16-08.03.33:624][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.16-08.03.33:624][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.16-08.03.33:624][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.16-08.03.33:624][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.16-08.03.33:624][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.01.16-08.03.33:624][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2022.01.16-08.03.33:653][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.16-08.03.33:657][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.01.16-08.03.33:776][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.16-08.03.33:777][  0]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.16-08.03.33:778][  0]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.16-08.03.33:844][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2022.01.16-08.03.33:888][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.16-08.03.33:905][  0]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.16-08.03.33:973][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.16-08.03.33:973][  0]LogLoad: (Engine Initialization) Total time: 7.16 seconds
+[2022.01.16-08.03.33:973][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.01.16-08.03.34:021][  0]LogAssetRegistry: Asset discovery search completed in 4.0549 seconds
+[2022.01.16-08.03.34:026][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.01.16-08.03.34:028][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.16-08.03.35:200][ 66]LogSlate: Window 'Message Log' being destroyed
+[2022.01.16-08.03.35:204][ 66]LogSlate: Window 'Message Log' being destroyed
+[2022.01.16-08.03.36:366][134]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.16-08.03.36:370][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.16-08.03.36:370][134]PIE: New page: PIE session: FirstPersonExampleMap (Jan 16, 2022, 2:03:36 PM)
+[2022.01.16-08.03.36:372][134]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.16-08.03.36:374][134]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.16-08.03.36:374][134]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-08.03.36:387][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012087s)
+[2022.01.16-08.03.36:387][134]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.16-08.03.36:388][134]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2022.01.16-08.03.36:388][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013554s)
+[2022.01.16-08.03.36:404][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.01.16-08.03.36:405][134]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.01.16-08.03.36:405][134]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.16-08.03.36:405][134]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.16-08.03.36:405][134]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.16-08.03.36:405][134]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.16-08.03.36:406][134]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.16-08.03.36:406][134]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.16-08.03.36:406][134]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.16-08.03.36:406][134]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.16-08.03.36:406][134]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.16-08.03.36:406][134]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.16-08.03.36:406][134]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.16-08.03.36:406][134]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.16-08.03.36:408][134]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.16-08.03.36:408][134]LogAudioMixer: Display: 1: FrontRight
+[2022.01.16-08.03.36:487][134]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.01.16-08.03.36:488][134]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.16-08.03.36:488][134]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.16-08.03.36:488][134]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.16-08.03.36:489][134]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.16-08.03.36:489][134]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.16-08.03.36:489][134]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.16-08.03.36:490][134]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.16-08.03.36:490][134]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.16-08.03.36:491][134]LogInit: FAudioDevice initialized.
+[2022.01.16-08.03.36:491][134]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2022.01.16-08.03.36:505][134]LogLoad: Game class is 'Cyberpunk2022GameMode'
+[2022.01.16-08.03.36:508][134]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.16-11.03.36
+[2022.01.16-08.03.36:508][134]LogWorld: Bringing up level for play took: 0.001630
+[2022.01.16-08.03.36:508][134]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.01.16-08.03.36:512][134]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.01.16-08.03.36:513][134]PIE: Server logged in
+[2022.01.16-08.03.36:514][134]PIE: Play in editor total start time 0.145 seconds.
+[2022.01.16-08.03.42:553][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-08.03.42:553][493]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-08.03.42:553][493]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-08.03.42:554][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-08.03.42:564][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.16-08.03.42:565][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-08.03.42:569][493]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.16-08.03.42:570][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-08.03.42:571][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-08.03.42:577][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-08.03.42:580][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.01.16-08.03.42:622][495]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.01.16-08.03.52:515][ 88]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.16-08.03.52:531][ 88]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.16-08.03.52:688][ 88]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.01.16-08.03.53:385][ 88]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.16-08.03.53:435][ 89]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.16-08.03.54:792][165]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2022.01.16-08.03.59:640][404]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2022.01.16-08.03.59:647][404]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.01.16-08.03.59:651][404]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.01.16-08.03.59:720][404]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.16-08.03.59:788][404]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-08.03.59:789][404]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.01.16-08.04.00:310][405]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:1).
+[2022.01.16-08.04.01:230][451]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton
+[2022.01.16-08.04.01:234][451]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-08.04.03:279][544]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/FirstPerson/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage
+[2022.01.16-08.04.03:287][544]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-08.04.09:564][814]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.09:655][816]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.09:718][818]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.09:796][820]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.09:874][822]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.09:964][824]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.10:043][826]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.10:119][828]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.10:193][830]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.10:268][832]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.10:343][834]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.10:417][836]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.10:495][838]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.10:572][840]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.10:651][842]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.10:738][844]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.10:797][846]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.10:870][848]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.10:977][850]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.11:017][852]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.11:090][854]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.11:164][856]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.11:237][858]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.11:309][860]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.11:386][862]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.11:457][864]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.19:910][287]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.20:072][291]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.20:110][293]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.20:183][295]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.20:262][297]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.20:324][299]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.20:397][301]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.20:474][303]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.20:548][305]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.20:622][307]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.20:700][309]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.20:774][311]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.20:848][313]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.20:923][315]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.20:984][317]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.21:045][319]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.21:110][321]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.21:172][323]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.21:234][325]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.21:294][327]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.21:358][329]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.21:420][331]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.21:480][333]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.21:543][335]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.21:606][337]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.21:663][339]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.21:728][341]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.21:791][343]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.21:851][345]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.21:912][347]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.21:976][349]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:037][351]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:097][353]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:157][355]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:224][357]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:283][359]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:343][361]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:403][363]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:467][365]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:467][365]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:491][366]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:526][367]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:559][368]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:586][369]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:617][370]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:644][371]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:677][372]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:705][373]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:736][374]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:763][375]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:794][376]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:821][377]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:852][378]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:881][379]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:912][380]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:939][381]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:970][382]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.22:998][383]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:029][384]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:056][385]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:090][386]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:118][387]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:149][388]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:179][389]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:238][390]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:255][391]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:279][392]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:313][393]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:351][394]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:385][395]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:426][396]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:463][397]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:499][398]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:535][399]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:571][400]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:607][401]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:643][402]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:679][403]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:715][404]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:750][405]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:786][406]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:822][407]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:858][408]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:894][409]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:931][410]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.23:967][411]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:002][412]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:038][413]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:075][414]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:111][415]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:147][416]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:187][417]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:252][418]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:272][419]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:292][420]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:328][421]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:363][422]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:404][423]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:468][424]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:484][425]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:507][426]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:543][427]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:579][428]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:620][429]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:654][430]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:690][431]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.24:765][432]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.34:698][929]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-08.04.34:698][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-08.04.36:230][ 10]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton
+[2022.01.16-08.04.36:237][ 10]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-08.04.36:237][ 10]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.04.39:108][158]Cmd: TRANSACTION UNDO
+[2022.01.16-08.04.39:108][158]LogEditorTransaction: Undo Attach Assets to Skeleton
+[2022.01.16-08.04.39:349][158]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-08.04.39:351][158]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-08.04.39:354][158]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-08.04.39:813][172]Cmd: TRANSACTION UNDO
+[2022.01.16-08.04.39:813][172]LogEditorTransaction: Undo Attach Assets to Skeleton
+[2022.01.16-08.04.40:037][172]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-08.04.40:039][172]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-08.04.40:041][172]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-08.04.44:447][386]LogSlate: Window 'SK_Mannequin_Arms_Skeleton' being destroyed
+[2022.01.16-08.04.44:451][386]LogSlate: Window 'SK_Mannequin_Arms_Skeleton' being destroyed
+[2022.01.16-08.04.44:455][386]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-08.04.44:455][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-08.04.44:512][386]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-08.04.44:512][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-08.04.44:566][386]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-08.04.44:567][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-08.04.44:613][386]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-08.04.44:613][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-08.04.44:630][386]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-08.04.44:630][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-08.04.48:618][617]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.16-08.04.53:029][828]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2022.01.16-08.04.53:033][828]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-08.04.56:049][969]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton
+[2022.01.16-08.04.56:053][969]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-08.05.00:554][168]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.00:693][171]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.00:759][173]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.00:822][175]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.00:897][177]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.00:959][179]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.01:020][181]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.01:084][183]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.01:147][185]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.01:209][187]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.01:273][189]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.01:332][191]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.01:392][193]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.01:455][195]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.01:516][197]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.01:576][199]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.01:636][201]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.01:698][203]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.01:758][205]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.01:820][207]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.01:880][209]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.01:942][211]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:001][213]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:064][215]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:126][217]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:185][219]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:243][221]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:303][223]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:363][225]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:422][227]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:484][229]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:485][229]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:512][230]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:546][231]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:580][232]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:607][233]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:637][234]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:664][235]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:695][236]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:722][237]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:753][238]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:784][239]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:817][240]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:845][241]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:875][242]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:902][243]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:933][244]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:959][245]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.02:995][246]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:022][247]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:051][248]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:081][249]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:110][250]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:139][251]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:168][252]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:197][253]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:226][254]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:255][255]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:288][256]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:346][258]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:372][259]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:404][260]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:464][261]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:480][262]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:505][263]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:571][264]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:588][265]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:611][266]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:649][267]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:685][268]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:720][269]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:755][270]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:798][271]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:832][272]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.03:909][273]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.07:042][444]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/FirstPerson/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage
+[2022.01.16-08.05.07:046][444]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-08.05.07:046][444]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.25:740][433]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/SK_Mannequin_Arms_Skeleton4899278E45A10008B00FAAAD3761362C.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2022.01.16-08.05.25:767][433]AssetCheck: New page: Asset Save: SK_Mannequin_Arms_Skeleton
+[2022.01.16-08.05.25:767][433]LogContentValidation: Display: Validating Skeleton /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton
+[2022.01.16-08.05.30:126][667]Cmd: TRANSACTION UNDO
+[2022.01.16-08.05.30:127][667]LogEditorTransaction: Undo Translate Socket
+[2022.01.16-08.05.30:338][667]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-08.05.30:338][667]LogAnimation: Warning: SkeletalMesh BelicaGuns has no skeleton. This needs to fixed before an animation can be set
+[2022.01.16-08.05.30:340][667]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-08.05.30:343][667]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.16-08.05.31:876][718]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/SK_Mannequin_Arms_SkeletonEE1176DB41176DB84B6A418AD29E08BC.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2022.01.16-08.05.31:922][718]AssetCheck: New page: Asset Save: SK_Mannequin_Arms_Skeleton
+[2022.01.16-08.05.31:922][718]LogContentValidation: Display: Validating Skeleton /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton
+[2022.01.16-08.05.43:585][344]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/SK_Mannequin_Arms_Skeleton87FC61F5419059649A95DBAB2896F677.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2022.01.16-08.05.43:611][344]AssetCheck: New page: Asset Save: SK_Mannequin_Arms_Skeleton
+[2022.01.16-08.05.43:611][344]LogContentValidation: Display: Validating Skeleton /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton
+[2022.01.16-08.05.45:178][434]LogSlate: Window 'FirstPersonFire_Montage' being destroyed
+[2022.01.16-08.05.45:181][434]LogSlate: Window 'FirstPersonFire_Montage' being destroyed
+[2022.01.16-08.05.45:186][434]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-08.05.45:186][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-08.05.45:241][434]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-08.05.45:241][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-08.05.45:292][434]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-08.05.45:292][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-08.05.45:339][434]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-08.05.45:339][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-08.05.45:388][434]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-08.05.45:388][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-08.05.46:165][479]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.16-08.05.46:170][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.16-08.05.46:170][479]PIE: New page: PIE session: FirstPersonExampleMap (Jan 16, 2022, 2:05:46 PM)
+[2022.01.16-08.05.46:200][479]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-08.05.46:210][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009739s)
+[2022.01.16-08.05.46:212][479]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.16-08.05.46:212][479]LogPlayLevel: PIE: World Init took: (0.001943s)
+[2022.01.16-08.05.46:212][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012179s)
+[2022.01.16-08.05.46:335][479]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2022.01.16-08.05.46:340][479]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.01.16-08.05.46:340][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.16-08.05.46:340][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.16-08.05.46:340][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.16-08.05.46:340][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.16-08.05.46:340][479]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.16-08.05.46:340][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.16-08.05.46:340][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.16-08.05.46:340][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.16-08.05.46:341][479]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.16-08.05.46:341][479]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.16-08.05.46:341][479]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.16-08.05.46:341][479]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.16-08.05.46:343][479]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.16-08.05.46:343][479]LogAudioMixer: Display: 1: FrontRight
+[2022.01.16-08.05.46:424][479]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.01.16-08.05.46:424][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.16-08.05.46:424][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.16-08.05.46:425][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.16-08.05.46:425][479]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.16-08.05.46:425][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.16-08.05.46:425][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.16-08.05.46:427][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.16-08.05.46:427][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.16-08.05.46:427][479]LogInit: FAudioDevice initialized.
+[2022.01.16-08.05.46:427][479]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2022.01.16-08.05.46:439][479]LogLoad: Game class is 'Cyberpunk2022GameMode'
+[2022.01.16-08.05.46:441][479]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.16-11.05.46
+[2022.01.16-08.05.46:441][479]LogWorld: Bringing up level for play took: 0.001452
+[2022.01.16-08.05.46:441][479]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.01.16-08.05.46:445][479]PIE: Server logged in
+[2022.01.16-08.05.46:446][479]PIE: Play in editor total start time 0.277 seconds.
+[2022.01.16-08.05.51:269][768]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.16-08.05.54:671][972]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.01.16-08.05.57:764][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-08.05.57:764][156]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.16-08.05.57:764][156]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.16-08.05.57:765][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-08.05.57:773][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.16-08.05.57:777][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.16-08.05.57:792][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.16-08.05.57:802][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-08.05.57:804][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.16-08.05.57:830][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.01.16-08.05.57:850][157]LogPlayLevel: Display: Destroying online subsystem :Context_21
