@@ -48,6 +48,7 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
+WargamingAcademy/Cyberpunk2022/Binaries/*
 
 # Builds
 Build/*
@@ -72,3 +73,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Cyberpunk2022/Binaries/Win64/Cyberpunk2022.pdb
+Cyberpunk2022/Binaries/Win64/Cyberpunk2022.pdb
