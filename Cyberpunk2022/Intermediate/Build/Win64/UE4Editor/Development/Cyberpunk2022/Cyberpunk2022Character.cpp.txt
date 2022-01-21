@@ -52,3 +52,7 @@ E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Source\Cyberpunk2022\Weapon.h
 E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Source\Cyberpunk2022\Item.h
 E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Inc\Cyberpunk2022\Item.generated.h
 E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Inc\Cyberpunk2022\Weapon.generated.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundCue.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundNode.h
+E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundNode.generated.h
+E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundCue.generated.h

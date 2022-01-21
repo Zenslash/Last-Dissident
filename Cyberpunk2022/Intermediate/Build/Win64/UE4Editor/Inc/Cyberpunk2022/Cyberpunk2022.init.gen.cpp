@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x8DBC5B1D,
+				0x88B4A613,
 				0x609B77FF,
 				METADATA_PARAMS(nullptr, 0)
 			};
