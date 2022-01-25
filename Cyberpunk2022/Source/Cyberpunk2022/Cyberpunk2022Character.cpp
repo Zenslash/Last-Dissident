@@ -14,6 +14,9 @@
 #include "Engine/SkeletalMeshSocket.h"
 #include "Weapon.h"
 #include <Sound/SoundCue.h>
+#include "DrawDebugHelpers.h"
+#include "Particles/ParticleSystem.h"
+#include "Particles/ParticleSystemComponent.h"
 
 DEFINE_LOG_CATEGORY_STATIC(LogFPChar, Warning, All);
 
@@ -225,10 +228,62 @@ void ACyberpunk2022Character::LookUpAtRate(float Rate)
 
 void ACyberpunk2022Character::FireWeapon()
 {
-	if (_fireSound)
+	if (_equippedWeapon->GetFireSound())
 	{
-		UGameplayStatics::PlaySound2D(this, _fireSound);
+		UGameplayStatics::PlaySound2D(this, _equippedWeapon->GetFireSound());
 	}
+	const USkeletalMeshComponent* itemMesh = _equippedWeapon->GetItemMesh();
+	if (!itemMesh)
+	{
+		UE_LOG(LogTemp, Error, TEXT("Weapon doesnt have USkeletalMeshComponent!"));
+	}
+
+	const USkeletalMeshSocket* barrelSocket = itemMesh->GetSocketByName("BarrelPoint");
+	if (barrelSocket)
+	{
+		const FTransform socketTransform = barrelSocket->GetSocketTransform(itemMesh);
+
+		if (_equippedWeapon->GetMuzzleFlash())
+		{
+			UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), _equippedWeapon->GetMuzzleFlash(), socketTransform);
+		}
+
+		//Line trace
+		FHitResult hitInfo;
+		const FVector startPoint{ socketTransform.GetLocation() };
+		FTransform cameraTransform = FirstPersonCameraComponent->GetComponentTransform();
+		const FVector rotationAxis{ cameraTransform.GetRotation().GetForwardVector() };
+		const FVector endPoint{ cameraTransform.GetLocation() + rotationAxis * 50'000.f};
+
+		FVector beamEndPoint{ endPoint };
+
+		GetWorld()->LineTraceSingleByChannel(hitInfo, startPoint, endPoint, ECollisionChannel::ECC_Visibility);
+		if (hitInfo.bBlockingHit)
+		{
+			/*DrawDebugLine(GetWorld(), startPoint, endPoint, FColor::Red, false, 2.f);
+			DrawDebugPoint(GetWorld(), hitInfo.Location, 5.f, FColor::Yellow, false, 2.f);*/
+
+			beamEndPoint = hitInfo.Location;
+
+			if(_equippedWeapon->GetImpactParticles())
+			{
+				UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), _equippedWeapon->GetImpactParticles(), hitInfo.Location);
+			}
+		}
+
+		if(_equippedWeapon->GetBeamParticles())
+		{
+			UParticleSystemComponent* beam = UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), _equippedWeapon->GetBeamParticles(),
+																						socketTransform);
+			if(beam)
+			{
+				beam->SetVectorParameter(FName("Target"), beamEndPoint);
+			}
+		}
+	}
+	//Play animation
+
+	
 }
 
 bool ACyberpunk2022Character::EnableTouchscreenMovement(class UInputComponent* PlayerInputComponent)

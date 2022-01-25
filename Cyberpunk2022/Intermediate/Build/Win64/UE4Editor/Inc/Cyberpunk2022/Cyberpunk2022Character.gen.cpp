@@ -25,7 +25,6 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 	ENGINE_API UClass* Z_Construct_UClass_USoundBase_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UAnimMontage_NoRegister();
 	CYBERPUNK2022_API UClass* Z_Construct_UClass_AWeapon_NoRegister();
-	ENGINE_API UClass* Z_Construct_UClass_USoundCue_NoRegister();
 // End Cross Module References
 	void ACyberpunk2022Character::StaticRegisterNativesACyberpunk2022Character()
 	{
@@ -85,10 +84,6 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_DefaultWeaponClass_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FClassPropertyParams NewProp_DefaultWeaponClass;
-#if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam NewProp__fireSound_MetaData[];
-#endif
-		static const UE4CodeGen_Private::FObjectPropertyParams NewProp__fireSound;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -208,14 +203,6 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 	};
 #endif
 	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_DefaultWeaponClass = { "DefaultWeaponClass", nullptr, (EPropertyFlags)0x0044000000010015, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACyberpunk2022Character, DefaultWeaponClass), Z_Construct_UClass_AWeapon_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_DefaultWeaponClass_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_DefaultWeaponClass_MetaData)) };
-#if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__fireSound_MetaData[] = {
-		{ "AllowPrivateAccess", "true" },
-		{ "Category", "Combat" },
-		{ "ModuleRelativePath", "Cyberpunk2022Character.h" },
-	};
-#endif
-	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__fireSound = { "_fireSound", nullptr, (EPropertyFlags)0x0040000000000005, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACyberpunk2022Character, _fireSound), Z_Construct_UClass_USoundCue_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__fireSound_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__fireSound_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ACyberpunk2022Character_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_Mesh1P,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_FirstPersonCameraComponent,
@@ -228,7 +215,6 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_bUsingMotionControllers,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__equippedWeapon,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_DefaultWeaponClass,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__fireSound,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ACyberpunk2022Character_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ACyberpunk2022Character>::IsAbstract,
@@ -257,7 +243,7 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ACyberpunk2022Character, 4242986854);
+	IMPLEMENT_CLASS(ACyberpunk2022Character, 1582160927);
 	template<> CYBERPUNK2022_API UClass* StaticClass<ACyberpunk2022Character>()
 	{
 		return ACyberpunk2022Character::StaticClass();

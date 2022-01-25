@@ -131,11 +131,5 @@ private:
 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
 	TSubclassOf<AWeapon> DefaultWeaponClass;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Combat, meta = (AllowPrivateAccess = "true"))
-	class USoundCue* _fireSound;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Combat, meta = (AllowPrivateAccess = "true"))
-	class UParticleSystem* _muzzleFlash;
-
 };
 

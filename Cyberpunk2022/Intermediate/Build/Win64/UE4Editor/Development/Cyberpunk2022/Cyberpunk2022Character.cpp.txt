@@ -56,3 +56,11 @@ E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundCue.h
 E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundNode.h
 E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundNode.generated.h
 E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundCue.generated.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h

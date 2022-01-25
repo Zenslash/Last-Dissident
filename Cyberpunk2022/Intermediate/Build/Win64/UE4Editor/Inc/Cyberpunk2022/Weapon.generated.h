@@ -60,7 +60,13 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AWeapon)
 
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_15_PRIVATE_PROPERTY_OFFSET
+#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_15_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO___fireSound() { return STRUCT_OFFSET(AWeapon, _fireSound); } \
+	FORCEINLINE static uint32 __PPO___muzzleFlash() { return STRUCT_OFFSET(AWeapon, _muzzleFlash); } \
+	FORCEINLINE static uint32 __PPO___impactParticles() { return STRUCT_OFFSET(AWeapon, _impactParticles); } \
+	FORCEINLINE static uint32 __PPO___beamParticles() { return STRUCT_OFFSET(AWeapon, _beamParticles); }
+
+
 #define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_12_PROLOG
 #define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \

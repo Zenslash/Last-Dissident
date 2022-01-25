@@ -62,8 +62,7 @@ public: \
 	FORCEINLINE static uint32 __PPO__Mesh1P() { return STRUCT_OFFSET(ACyberpunk2022Character, Mesh1P); } \
 	FORCEINLINE static uint32 __PPO__FirstPersonCameraComponent() { return STRUCT_OFFSET(ACyberpunk2022Character, FirstPersonCameraComponent); } \
 	FORCEINLINE static uint32 __PPO___equippedWeapon() { return STRUCT_OFFSET(ACyberpunk2022Character, _equippedWeapon); } \
-	FORCEINLINE static uint32 __PPO__DefaultWeaponClass() { return STRUCT_OFFSET(ACyberpunk2022Character, DefaultWeaponClass); } \
-	FORCEINLINE static uint32 __PPO___fireSound() { return STRUCT_OFFSET(ACyberpunk2022Character, _fireSound); }
+	FORCEINLINE static uint32 __PPO__DefaultWeaponClass() { return STRUCT_OFFSET(ACyberpunk2022Character, DefaultWeaponClass); }
 
 
 #define Cyberpunk2022_Source_Cyberpunk2022_Cyberpunk2022Character_h_17_PROLOG

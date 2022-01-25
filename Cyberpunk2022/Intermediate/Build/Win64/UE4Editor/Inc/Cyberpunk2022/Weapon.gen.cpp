@@ -17,6 +17,8 @@ void EmptyLinkFunctionForGeneratedCodeWeapon() {}
 	CYBERPUNK2022_API UClass* Z_Construct_UClass_AWeapon();
 	CYBERPUNK2022_API UClass* Z_Construct_UClass_AItem();
 	UPackage* Z_Construct_UPackage__Script_Cyberpunk2022();
+	ENGINE_API UClass* Z_Construct_UClass_USoundCue_NoRegister();
+	ENGINE_API UClass* Z_Construct_UClass_UParticleSystem_NoRegister();
 // End Cross Module References
 	void AWeapon::StaticRegisterNativesAWeapon()
 	{
@@ -31,6 +33,23 @@ void EmptyLinkFunctionForGeneratedCodeWeapon() {}
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp__fireSound_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp__fireSound;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp__muzzleFlash_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp__muzzleFlash;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp__impactParticles_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp__impactParticles;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp__beamParticles_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp__beamParticles;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
 	};
@@ -45,6 +64,44 @@ void EmptyLinkFunctionForGeneratedCodeWeapon() {}
 		{ "ModuleRelativePath", "Weapon.h" },
 	};
 #endif
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AWeapon_Statics::NewProp__fireSound_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Combat" },
+		{ "ModuleRelativePath", "Weapon.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AWeapon_Statics::NewProp__fireSound = { "_fireSound", nullptr, (EPropertyFlags)0x0040000000000005, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AWeapon, _fireSound), Z_Construct_UClass_USoundCue_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AWeapon_Statics::NewProp__fireSound_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AWeapon_Statics::NewProp__fireSound_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AWeapon_Statics::NewProp__muzzleFlash_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Combat" },
+		{ "ModuleRelativePath", "Weapon.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AWeapon_Statics::NewProp__muzzleFlash = { "_muzzleFlash", nullptr, (EPropertyFlags)0x0040000000000005, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AWeapon, _muzzleFlash), Z_Construct_UClass_UParticleSystem_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AWeapon_Statics::NewProp__muzzleFlash_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AWeapon_Statics::NewProp__muzzleFlash_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AWeapon_Statics::NewProp__impactParticles_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Combat" },
+		{ "ModuleRelativePath", "Weapon.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AWeapon_Statics::NewProp__impactParticles = { "_impactParticles", nullptr, (EPropertyFlags)0x0040000000000005, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AWeapon, _impactParticles), Z_Construct_UClass_UParticleSystem_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AWeapon_Statics::NewProp__impactParticles_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AWeapon_Statics::NewProp__impactParticles_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AWeapon_Statics::NewProp__beamParticles_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Combat" },
+		{ "ModuleRelativePath", "Weapon.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AWeapon_Statics::NewProp__beamParticles = { "_beamParticles", nullptr, (EPropertyFlags)0x0040000000000005, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AWeapon, _beamParticles), Z_Construct_UClass_UParticleSystem_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AWeapon_Statics::NewProp__beamParticles_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AWeapon_Statics::NewProp__beamParticles_MetaData)) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AWeapon_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AWeapon_Statics::NewProp__fireSound,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AWeapon_Statics::NewProp__muzzleFlash,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AWeapon_Statics::NewProp__impactParticles,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AWeapon_Statics::NewProp__beamParticles,
+	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AWeapon_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AWeapon>::IsAbstract,
 	};
@@ -54,11 +111,11 @@ void EmptyLinkFunctionForGeneratedCodeWeapon() {}
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		nullptr,
-		nullptr,
+		Z_Construct_UClass_AWeapon_Statics::PropPointers,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
 		0,
-		0,
+		UE_ARRAY_COUNT(Z_Construct_UClass_AWeapon_Statics::PropPointers),
 		0,
 		0x009000A4u,
 		METADATA_PARAMS(Z_Construct_UClass_AWeapon_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_AWeapon_Statics::Class_MetaDataParams))
@@ -72,7 +129,7 @@ void EmptyLinkFunctionForGeneratedCodeWeapon() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AWeapon, 3272655701);
+	IMPLEMENT_CLASS(AWeapon, 451607189);
 	template<> CYBERPUNK2022_API UClass* StaticClass<AWeapon>()
 	{
 		return AWeapon::StaticClass();
