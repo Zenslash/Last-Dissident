@@ -17,6 +17,7 @@
 #include "DrawDebugHelpers.h"
 #include "Particles/ParticleSystem.h"
 #include "Particles/ParticleSystemComponent.h"
+#include "TakingDamageInterface.h"
 
 DEFINE_LOG_CATEGORY_STATIC(LogFPChar, Warning, All);
 
@@ -262,6 +263,11 @@ void ACyberpunk2022Character::FireWeapon()
 		{
 			/*DrawDebugLine(GetWorld(), startPoint, endPoint, FColor::Red, false, 2.f);
 			DrawDebugPoint(GetWorld(), hitInfo.Location, 5.f, FColor::Yellow, false, 2.f);*/
+			bool bImplTakingDamage = UKismetSystemLibrary::DoesImplementInterface(hitInfo.GetActor(), UTakingDamageInterface::StaticClass());
+			if(bImplTakingDamage)
+			{
+				ITakingDamageInterface::Execute_TakingDamage(hitInfo.GetActor(), hitInfo.BoneName, 5, nullptr);
+			}
 
 			beamEndPoint = hitInfo.Location;
 
