@@ -64,3 +64,5 @@ E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComp
 E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
 E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
 E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h
+E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Source\Cyberpunk2022\TakingDamageInterface.h
+E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Inc\Cyberpunk2022\TakingDamageInterface.generated.h
