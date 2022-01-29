@@ -8,14 +8,23 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class USkeletalMeshComponent;
 #ifdef CYBERPUNK2022_Cyberpunk2022Character_generated_h
 #error "Cyberpunk2022Character.generated.h already included, missing '#pragma once' in Cyberpunk2022Character.h"
 #endif
 #define CYBERPUNK2022_Cyberpunk2022Character_generated_h
 
 #define Cyberpunk2022_Source_Cyberpunk2022_Cyberpunk2022Character_h_20_SPARSE_DATA
-#define Cyberpunk2022_Source_Cyberpunk2022_Cyberpunk2022Character_h_20_RPC_WRAPPERS
-#define Cyberpunk2022_Source_Cyberpunk2022_Cyberpunk2022Character_h_20_RPC_WRAPPERS_NO_PURE_DECLS
+#define Cyberpunk2022_Source_Cyberpunk2022_Cyberpunk2022Character_h_20_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execGetMesh1P);
+
+
+#define Cyberpunk2022_Source_Cyberpunk2022_Cyberpunk2022Character_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execGetMesh1P);
+
+
 #define Cyberpunk2022_Source_Cyberpunk2022_Cyberpunk2022Character_h_20_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACyberpunk2022Character(); \
@@ -61,6 +70,7 @@ public: \
 #define Cyberpunk2022_Source_Cyberpunk2022_Cyberpunk2022Character_h_20_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__Mesh1P() { return STRUCT_OFFSET(ACyberpunk2022Character, Mesh1P); } \
 	FORCEINLINE static uint32 __PPO__FirstPersonCameraComponent() { return STRUCT_OFFSET(ACyberpunk2022Character, FirstPersonCameraComponent); } \
+	FORCEINLINE static uint32 __PPO___ikLeftHandSocket() { return STRUCT_OFFSET(ACyberpunk2022Character, _ikLeftHandSocket); } \
 	FORCEINLINE static uint32 __PPO___equippedWeapon() { return STRUCT_OFFSET(ACyberpunk2022Character, _equippedWeapon); } \
 	FORCEINLINE static uint32 __PPO__DefaultWeaponClass() { return STRUCT_OFFSET(ACyberpunk2022Character, DefaultWeaponClass); }
 

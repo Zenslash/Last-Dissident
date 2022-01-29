@@ -317,6 +317,12 @@ void ACyberpunk2022Character::SpawnDefaultWeapon()
 			UE_LOG(LogTemp, Error, TEXT("Cannot find Grip socket!"));
 		}
 
+		_ikLeftHandSocket = DefaultWeapon->GetItemMesh()->GetSocketByName(FName("LeftHandIK"));
+		if(!_ikLeftHandSocket)
+		{
+			UE_LOG(LogTemp, Error, TEXT("Cannot find left hand IK socket"));
+		}
+
 		_equippedWeapon = DefaultWeapon;
 	}
 	else

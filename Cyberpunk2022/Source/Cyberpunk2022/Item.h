@@ -33,6 +33,7 @@ private:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Item Properties", meta = (AllowPrivateAccess = "true"))
 	class UWidgetComponent* _pickupWidget;
 public:
+	UFUNCTION(BlueprintCallable)
 	USkeletalMeshComponent* GetItemMesh() const
 	{
 		return _itemMesh;
