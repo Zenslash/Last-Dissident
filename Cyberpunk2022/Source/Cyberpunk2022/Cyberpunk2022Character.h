@@ -14,6 +14,16 @@ class UMotionControllerComponent;
 class UAnimMontage;
 class USoundBase;
 
+UENUM(BlueprintType)
+enum class ECombatState : uint8
+{
+	ECS_Unoccupied UMETA(DisplayName = "Unoccupied"),
+	ECS_FireTimerInProgress UMETA(DisplayName = "FireTimerInProgress"),
+	ECS_Reloading UMETA(DisplayName = "Reloading"),
+
+	ECS_MAX UMETA(DisplayName = "DefaultMax")
+};
+
 UCLASS(config=Game)
 class ACyberpunk2022Character : public ACharacter
 {
@@ -32,6 +42,7 @@ public:
 
 protected:
 	virtual void BeginPlay();
+	virtual void Tick(float DeltaTime);
 
 public:
 	/** Base turn rate, in deg/sec. Other scaling may affect final turn rate. */
@@ -87,6 +98,8 @@ protected:
 
 	/* Called when "Fire" is pressed */
 	void FireWeapon();
+	void PlayFireSound() const;
+	void SendBullet();
 
 	struct TouchData
 	{
@@ -117,12 +130,32 @@ protected:
 	void SpawnDefaultWeapon();
 	void EquipWeapon(class AWeapon* weaponToEquip);
 
+	void CalculateCrosshairSpread(float delta);
+
+	void StartCrosshairBulletFire();
+
+	UFUNCTION()
+	void FinishCrosshairBulletFire();
+
 public:
 	/** Returns Mesh1P subobject **/
 	UFUNCTION(BlueprintCallable)
 	USkeletalMeshComponent* GetMesh1P() const { return Mesh1P; }
 	/** Returns FirstPersonCameraComponent subobject **/
 	UCameraComponent* GetFirstPersonCameraComponent() const { return FirstPersonCameraComponent; }
+
+	UFUNCTION(BlueprintCallable)
+	float GetCrosshairSpreadMultiplier() const;
+
+	void FireButtonPressed();
+	void FireButtonReleased();
+
+	void StartFireTimer();
+
+	UFUNCTION()
+	void FireReset();
+
+	bool WeaponHasAmmo();
 
 private:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
@@ -133,6 +166,36 @@ private:
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
 	TSubclassOf<AWeapon> DefaultWeaponClass;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = Combat, meta = (AllowPrivateAccess = "true"))
+	int32 _maxAmmo;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
+	int32 _currentAmmo;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
+	ECombatState _combatState;
+
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Crosshairs, meta = (AllowPrivateAccess = "true"))
+	float _crosshairSpreadMultiplier;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Crosshairs, meta = (AllowPrivateAccess = "true"))
+	float _crosshairVelocityFactor;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Crosshairs, meta = (AllowPrivateAccess = "true"))
+	float _crosshairInAirFactor;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Crosshairs, meta = (AllowPrivateAccess = "true"))
+	float _crosshairInShootingFactor;
+
+	bool _bFireButtonPressed;
+	bool _bShouldFire;
+	FTimerHandle _fireTimer;
+
+	float _shootTimeDuration;
+	bool _bFiringBullet;
+	FTimerHandle _crosshairShootTimer;
 
 };
 
