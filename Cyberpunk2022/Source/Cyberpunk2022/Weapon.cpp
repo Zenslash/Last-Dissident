@@ -3,3 +3,16 @@
 
 #include "Weapon.h"
 
+AWeapon::AWeapon()
+{
+	_ammo = 0;
+}
+
+void AWeapon::DecrementAmmo()
+{
+	_ammo -= 1;
+	if(_ammo < 0)
+	{
+		_ammo = 0;
+	}
+}
