@@ -46,7 +46,6 @@ ACyberpunk2022Character::ACyberpunk2022Character()
 	_crosshairSpreadMultiplier = 0.f;
 	_shootTimeDuration = 0.05f;
 	_bFiringBullet = false;
-	_currentAmmo = _maxAmmo;
 	_combatState = ECombatState::ECS_Unoccupied;
 
 	_bShouldFire = true;
@@ -75,6 +74,7 @@ void ACyberpunk2022Character::BeginPlay()
 	Mesh1P->SetHiddenInGame(false, true);
 
 	SpawnDefaultWeapon();
+	InitializeAmmoMap();
 }
 
 void ACyberpunk2022Character::Tick(float DeltaTime)
@@ -99,6 +99,7 @@ void ACyberpunk2022Character::SetupPlayerInputComponent(class UInputComponent* P
 	// Bind fire event
 	PlayerInputComponent->BindAction("Fire", IE_Pressed, this, &ACyberpunk2022Character::FireButtonPressed);
 	PlayerInputComponent->BindAction("Fire", IE_Released, this, &ACyberpunk2022Character::FireButtonReleased);
+	PlayerInputComponent->BindAction("Reload", IE_Pressed, this, &ACyberpunk2022Character::ReloadButtonPressed);
 
 	// Enable touchscreen input
 	EnableTouchscreenMovement(PlayerInputComponent);
@@ -298,7 +299,7 @@ void ACyberpunk2022Character::SendBullet()
 		const FVector startPoint{ socketTransform.GetLocation() };
 		FTransform cameraTransform = FirstPersonCameraComponent->GetComponentTransform();
 		const FVector rotationAxis{ cameraTransform.GetRotation().GetForwardVector() };
-		const FVector endPoint{ cameraTransform.GetLocation() + rotationAxis * 50'000.f };
+		const FVector endPoint{ cameraTransform.GetLocation() + rotationAxis * 50'000.f + _equippedWeapon->GetRecoilOffset() };
 
 		FVector beamEndPoint{ endPoint };
 
@@ -332,6 +333,96 @@ void ACyberpunk2022Character::SendBullet()
 		}
 	}
 }
+
+void ACyberpunk2022Character::ReloadButtonPressed()
+{
+	ReloadWeapon();
+}
+
+void ACyberpunk2022Character::ReloadWeapon()
+{
+	if(_combatState != ECombatState::ECS_Unoccupied)
+	{
+		return;
+	}
+	if(_equippedWeapon == nullptr)
+	{
+		return;
+	}
+
+	//TODO Create bool CarryingAmmo()
+	//Do we have ammo?
+	if(CarryingAmmo())
+	{
+		_combatState = ECombatState::ECS_Reloading;
+
+		UAnimInstance* animInstance = GetMesh1P()->GetAnimInstance();
+		UAnimInstance* weaponInstance = _equippedWeapon->GetItemMesh()->GetAnimInstance();
+		if(animInstance && ReloadAnimation)
+		{
+			animInstance->Montage_Play(ReloadAnimation);
+			animInstance->Montage_JumpToSection(_equippedWeapon->GetReloadMontage());
+		}
+		if(weaponInstance)
+		{
+			weaponInstance->Montage_Play(_equippedWeapon->GetReloadAnimation());
+			weaponInstance->Montage_JumpToSection(_equippedWeapon->GetReloadMontage());
+		}
+	}
+}
+
+bool ACyberpunk2022Character::CarryingAmmo()
+{
+	if (_equippedWeapon == nullptr) return false;
+
+	auto ammoType = _equippedWeapon->GetAmmoType();
+
+	if(_ammoMap.Contains(ammoType))
+	{
+		return _ammoMap[ammoType] > 0;
+	}
+
+	return false;
+}
+
+void ACyberpunk2022Character::InitializeAmmoMap()
+{
+	_ammoMap.Add(EAmmoType::EAT_SMG, 90);
+}
+
+void ACyberpunk2022Character::FinishReloading()
+{
+	_combatState = ECombatState::ECS_Unoccupied;
+
+	if(_equippedWeapon == nullptr)
+	{
+		return;
+	}
+
+	const auto ammoType = _equippedWeapon->GetAmmoType();
+
+	if(_ammoMap.Contains(ammoType))
+	{
+		int32 carriedAmmo = _ammoMap[ammoType];
+
+		const int32 magEmptySpace =
+			_equippedWeapon->GetMagazineCapacity() -
+			_equippedWeapon->GetAmmo();
+
+		if(magEmptySpace > carriedAmmo)
+		{
+			_equippedWeapon->ReloadAmmo(carriedAmmo);
+			carriedAmmo = 0;
+		}
+		else
+		{
+			_equippedWeapon->ReloadAmmo(magEmptySpace);
+			carriedAmmo -= magEmptySpace;
+		}
+		_ammoMap.Add(ammoType, carriedAmmo);
+	}
+}
+
 
 bool ACyberpunk2022Character::EnableTouchscreenMovement(class UInputComponent* PlayerInputComponent)
 {
@@ -485,6 +576,7 @@ void ACyberpunk2022Character::FireReset()
 	else
 	{
 		//Reload weapon
+		ReloadWeapon();
 	}
 }
 
