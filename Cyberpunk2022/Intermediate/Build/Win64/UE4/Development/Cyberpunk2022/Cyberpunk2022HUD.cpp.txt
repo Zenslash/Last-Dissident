@@ -1,0 +1,17 @@
+E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4\Development\Cyberpunk2022\Definitions.Cyberpunk2022.h
+E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Source\Cyberpunk2022\Cyberpunk2022HUD.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\DebugTextInfo.generated.h
+E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\HUD.generated.h
+E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4\Inc\Cyberpunk2022\Cyberpunk2022HUD.generated.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\FontImportOptions.generated.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\FontProviderInterface.generated.h
+E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Font.generated.h
+E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Canvas.generated.h
