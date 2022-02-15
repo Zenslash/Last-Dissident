@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "Item.h"
 #include "AmmoType.h"
+//#include "Camera/CameraShake.h"
 #include "Weapon.generated.h"
 
 
@@ -68,6 +69,9 @@ private:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Animation Properties", meta = (AllowPrivateAccess = "true"))
 	UAnimMontage* _reloadAnimation;
 
+	UPROPERTY(EditDefaultsOnly, Category = "Camera Shake")
+	TSubclassOf<UCameraShakeBase> _cameraShakeClass;
+
 
 public:
 	AWeapon();
@@ -99,6 +103,7 @@ public:
 	FORCEINLINE EAmmoType GetAmmoType() const { return _ammoType; }
 	FORCEINLINE FName GetReloadMontage() const { return _reloadMontageSection; }
 	FORCEINLINE UAnimMontage* GetReloadAnimation() const { return _reloadAnimation; }
+	FORCEINLINE TSubclassOf<UCameraShakeBase> GetShakeClass() const { return _cameraShakeClass; }
 
 	FORCEINLINE void DecrementAmmo();
 

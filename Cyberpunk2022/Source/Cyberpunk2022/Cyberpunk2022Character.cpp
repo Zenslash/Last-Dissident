@@ -18,6 +18,7 @@
 #include "Particles/ParticleSystem.h"
 #include "Particles/ParticleSystemComponent.h"
 #include "TakingDamageInterface.h"
+#include "Camera/PlayerCameraManager.h"
 #include "GameFramework/CharacterMovementComponent.h"
 
 DEFINE_LOG_CATEGORY_STATIC(LogFPChar, Warning, All);
@@ -331,6 +332,10 @@ void ACyberpunk2022Character::SendBullet()
 				beam->SetVectorParameter(FName("Target"), beamEndPoint);
 			}
 		}
+
+		//Play camera shake
+		GetWorld()->GetFirstPlayerController()->ClientStartCameraShake(
+											_equippedWeapon->GetShakeClass());
 	}
 }
 

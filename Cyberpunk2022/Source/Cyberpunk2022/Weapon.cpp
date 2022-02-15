@@ -3,6 +3,7 @@
 
 #include "Weapon.h"
 #include "Curves/CurveFloat.h"
+#include "Camera/CameraShake.h"
 
 AWeapon::AWeapon()
 {
