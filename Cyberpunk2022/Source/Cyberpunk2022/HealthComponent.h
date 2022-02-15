@@ -28,6 +28,7 @@ public:
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
 	//Positive value dealing damage
+	UFUNCTION(BlueprintCallable)
 	void UpdateHealth(int value);
 
 private:

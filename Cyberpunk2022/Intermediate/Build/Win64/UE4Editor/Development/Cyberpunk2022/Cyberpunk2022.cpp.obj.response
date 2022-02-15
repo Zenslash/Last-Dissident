@@ -252,6 +252,16 @@
 /I Runtime\Portal
 /I Runtime\Portal\LauncherPlatform\Public
 /I ..\Plugins\FX\Niagara\Source\NiagaraVertexFactories\Public
+/I ..\Plugins\Cameras\GameplayCameras\Intermediate\Build\Win64\UE4Editor\Inc\GameplayCameras
+/I ..\Plugins\Cameras\GameplayCameras\Source
+/I ..\Plugins\Cameras\GameplayCameras\Source\GameplayCameras\Public
+/I ..\Plugins\MovieScene\TemplateSequence\Intermediate\Build\Win64\UE4Editor\Inc\TemplateSequence
+/I ..\Plugins\MovieScene\TemplateSequence\Source
+/I ..\Plugins\MovieScene\TemplateSequence\Source\TemplateSequence\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\CinematicCamera
+/I Runtime\CinematicCamera\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\LevelSequence
+/I Runtime\LevelSequence\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf

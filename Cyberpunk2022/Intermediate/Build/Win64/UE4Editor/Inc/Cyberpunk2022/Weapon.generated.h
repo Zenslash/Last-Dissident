@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define CYBERPUNK2022_Weapon_generated_h
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_SPARSE_DATA
-#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_RPC_WRAPPERS
-#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_RPC_WRAPPERS_NO_PURE_DECLS
-#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_INCLASS_NO_PURE_DECLS \
+#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_SPARSE_DATA
+#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_RPC_WRAPPERS
+#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_RPC_WRAPPERS_NO_PURE_DECLS
+#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAWeapon(); \
 	friend struct Z_Construct_UClass_AWeapon_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(AWeapon)
 
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_INCLASS \
+#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_INCLASS \
 private: \
 	static void StaticRegisterNativesAWeapon(); \
 	friend struct Z_Construct_UClass_AWeapon_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(AWeapon)
 
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_STANDARD_CONSTRUCTORS \
+#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AWeapon(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AWeapon) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_ENHANCED_CONSTRUCTORS \
+#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AWeapon(AWeapon&&); \
@@ -58,7 +58,7 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AWeapon)
 
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_PRIVATE_PROPERTY_OFFSET \
+#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO___fireSound() { return STRUCT_OFFSET(AWeapon, _fireSound); } \
 	FORCEINLINE static uint32 __PPO___muzzleFlash() { return STRUCT_OFFSET(AWeapon, _muzzleFlash); } \
 	FORCEINLINE static uint32 __PPO___impactParticles() { return STRUCT_OFFSET(AWeapon, _impactParticles); } \
@@ -72,30 +72,31 @@ public: \
 	FORCEINLINE static uint32 __PPO___damagePerBullet() { return STRUCT_OFFSET(AWeapon, _damagePerBullet); } \
 	FORCEINLINE static uint32 __PPO___recoilX() { return STRUCT_OFFSET(AWeapon, _recoilX); } \
 	FORCEINLINE static uint32 __PPO___recoilY() { return STRUCT_OFFSET(AWeapon, _recoilY); } \
-	FORCEINLINE static uint32 __PPO___reloadAnimation() { return STRUCT_OFFSET(AWeapon, _reloadAnimation); }
+	FORCEINLINE static uint32 __PPO___reloadAnimation() { return STRUCT_OFFSET(AWeapon, _reloadAnimation); } \
+	FORCEINLINE static uint32 __PPO___cameraShakeClass() { return STRUCT_OFFSET(AWeapon, _cameraShakeClass); }
 
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_22_PROLOG
-#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_GENERATED_BODY_LEGACY \
+#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_23_PROLOG
+#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_PRIVATE_PROPERTY_OFFSET \
-	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_SPARSE_DATA \
-	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_RPC_WRAPPERS \
-	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_INCLASS \
-	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_STANDARD_CONSTRUCTORS \
+	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_PRIVATE_PROPERTY_OFFSET \
+	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_SPARSE_DATA \
+	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_RPC_WRAPPERS \
+	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_INCLASS \
+	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_GENERATED_BODY \
+#define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_PRIVATE_PROPERTY_OFFSET \
-	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_SPARSE_DATA \
-	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
-	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_INCLASS_NO_PURE_DECLS \
-	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_25_ENHANCED_CONSTRUCTORS \
+	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_PRIVATE_PROPERTY_OFFSET \
+	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_SPARSE_DATA \
+	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
+	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_INCLASS_NO_PURE_DECLS \
+	Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_26_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
