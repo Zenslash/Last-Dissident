@@ -121,3 +121,6 @@ E:\UE4\UE_4.27\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieScene
 E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneCameraShakeSection.generated.h
 E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneCameraShakeTemplate.generated.h
 E:\UE4\UE_4.27\Engine\Plugins\Cameras\GameplayCameras\Intermediate\Build\Win64\UE4Editor\Inc\GameplayCameras\MatineeCameraShake.generated.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
