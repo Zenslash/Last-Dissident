@@ -66,6 +66,9 @@ private:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Properties", meta = (AllowPrivateAccess = "true"))
 	UCurveFloat* _recoilY;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Properties", meta = (AllowPrivateAccess = "true"))
+	class UDataTable* _bulletHolesDT;
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Animation Properties", meta = (AllowPrivateAccess = "true"))
 	UAnimMontage* _reloadAnimation;
 
@@ -110,4 +113,6 @@ public:
 	void ReloadAmmo(int32 amount);
 
 	FVector GetRecoilOffset();
+
+	UMaterialInterface* GetBulletHoleDecal(FName surfaceName);
 };

@@ -321,6 +321,8 @@ void ACyberpunk2022Character::SendBullet()
 			{
 				UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), _equippedWeapon->GetImpactParticles(), hitInfo.Location);
 			}
+			//Spawn bullet hole
+			
 		}
 
 		if (_equippedWeapon->GetBeamParticles())
@@ -332,6 +334,7 @@ void ACyberpunk2022Character::SendBullet()
 				beam->SetVectorParameter(FName("Target"), beamEndPoint);
 			}
 		}
+
 
 		//Play camera shake
 		GetWorld()->GetFirstPlayerController()->ClientStartCameraShake(

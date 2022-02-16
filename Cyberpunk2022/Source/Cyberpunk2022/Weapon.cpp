@@ -4,6 +4,7 @@
 #include "Weapon.h"
 #include "Curves/CurveFloat.h"
 #include "Camera/CameraShake.h"
+#include "Engine/DataTable.h"
 
 AWeapon::AWeapon()
 {
@@ -42,4 +43,14 @@ FVector AWeapon::GetRecoilOffset()
 	UE_LOG(LogTemp, Log, TEXT("randY: %f"), randY);
 	resultVector += FVector(0.f, randX, randY);
 	return resultVector;
+}
+
+UMaterialInterface* AWeapon::GetBulletHoleDecal(FName surfaceName)
+{
+	if(_bulletHolesDT)
+	{
+		
+	}
+
+	return nullptr;
 }

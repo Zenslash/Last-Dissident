@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Cyberpunk2022.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{42F9C9B9-EF5B-4E61-96C8-59BFBC9FCDB0}</UniqueIdentifier>
+      <UniqueIdentifier>{0872D351-7F9E-4D9E-ACA8-764F9A2409BA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Cyberpunk2022.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{ADC372ED-5C9F-4BDC-B8CA-E00D5CDC5CD1}</UniqueIdentifier>
+      <UniqueIdentifier>{93B542FA-94F4-4810-A9A4-C74A1C0426E1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Cyberpunk2022">
-      <UniqueIdentifier>{71A51F92-F67E-4B5D-B369-A361F8CDD790}</UniqueIdentifier>
+      <UniqueIdentifier>{6ED4453B-AF5A-44E2-8A28-A5FF9D1CFC33}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\Cyberpunk2022\AmmoType.h">
       <Filter>Source\Cyberpunk2022</Filter>
@@ -66,6 +66,9 @@
       <Filter>Source\Cyberpunk2022</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Cyberpunk2022\Cyberpunk2022Projectile.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\DecalStruct.h">
       <Filter>Source\Cyberpunk2022</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\Cyberpunk2022\HealthComponent.cpp">
