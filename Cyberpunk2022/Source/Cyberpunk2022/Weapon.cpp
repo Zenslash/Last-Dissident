@@ -4,6 +4,7 @@
 #include "Weapon.h"
 #include "Curves/CurveFloat.h"
 #include "Camera/CameraShake.h"
+#include "DecalStruct.h"
 #include "Engine/DataTable.h"
 
 AWeapon::AWeapon()
@@ -49,8 +50,15 @@ UMaterialInterface* AWeapon::GetBulletHoleDecal(FName surfaceName)
 {
 	if(_bulletHolesDT)
 	{
-		
+		FUDecalStruct* material = _bulletHolesDT->FindRow<FUDecalStruct>(surfaceName, "");
+		if(material != nullptr)
+		{
+			return material->Material;
+		}
+
+		UE_LOG(LogTemp, Error, TEXT("Cannot find required Decal!"));
 	}
 
+	UE_LOG(LogTemp, Error, TEXT("Cannot find decal table!"));
 	return nullptr;
 }

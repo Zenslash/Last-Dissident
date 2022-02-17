@@ -73,6 +73,7 @@ public: \
 	FORCEINLINE static uint32 __PPO___recoilX() { return STRUCT_OFFSET(AWeapon, _recoilX); } \
 	FORCEINLINE static uint32 __PPO___recoilY() { return STRUCT_OFFSET(AWeapon, _recoilY); } \
 	FORCEINLINE static uint32 __PPO___bulletHolesDT() { return STRUCT_OFFSET(AWeapon, _bulletHolesDT); } \
+	FORCEINLINE static uint32 __PPO___decalSize() { return STRUCT_OFFSET(AWeapon, _decalSize); } \
 	FORCEINLINE static uint32 __PPO___reloadAnimation() { return STRUCT_OFFSET(AWeapon, _reloadAnimation); } \
 	FORCEINLINE static uint32 __PPO___cameraShakeClass() { return STRUCT_OFFSET(AWeapon, _cameraShakeClass); }
 

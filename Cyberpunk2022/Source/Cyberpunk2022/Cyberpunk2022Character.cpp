@@ -19,6 +19,8 @@
 #include "Particles/ParticleSystemComponent.h"
 #include "TakingDamageInterface.h"
 #include "Camera/PlayerCameraManager.h"
+#include "Components/DecalComponent.h"
+#include "Kismet/KismetMathLibrary.h"
 #include "GameFramework/CharacterMovementComponent.h"
 
 DEFINE_LOG_CATEGORY_STATIC(LogFPChar, Warning, All);
@@ -321,8 +323,20 @@ void ACyberpunk2022Character::SendBullet()
 			{
 				UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), _equippedWeapon->GetImpactParticles(), hitInfo.Location);
 			}
+
 			//Spawn bullet hole
-			
+			UMaterialInterface* bulletHoleMat = _equippedWeapon->GetBulletHoleDecal("stone");
+			if(bulletHoleMat)
+			{
+				FRotator decalRot = UKismetMathLibrary::MakeRotFromX(hitInfo.Normal);
+
+				UDecalComponent* decal = UGameplayStatics::SpawnDecalAttached(bulletHoleMat,
+					_equippedWeapon->GetDecalSize(),
+					hitInfo.GetComponent(),NAME_None,
+					hitInfo.ImpactPoint,
+					decalRot,
+					EAttachLocation::KeepWorldPosition, 10.f);
+			}
 		}
 
 		if (_equippedWeapon->GetBeamParticles())

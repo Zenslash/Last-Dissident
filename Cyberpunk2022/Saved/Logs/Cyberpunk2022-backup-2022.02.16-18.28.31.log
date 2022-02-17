@@ -1,0 +1,1764 @@
+﻿Log file open, 02/16/22 20:23:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Cyberpunk2022
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.924768
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: E:/UE4/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.16-17.23.26:815][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.16-17.23.26:816][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.16-17.23.26:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.02.16-17.23.26:816][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.16-17.23.26:816][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.02.16-17.23.26:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.02.16-17.23.26:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.02.16-17.23.26:816][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.16-17.23.26:816][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.16-17.23.26:816][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.16-17.23.26:816][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.16-17.23.26:816][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.16-17.23.26:816][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.16-17.23.26:816][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.16-17.23.26:816][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.16-17.23.26:816][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.16-17.23.26:816][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.16-17.23.26:817][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.02.16-17.23.26:817][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.02.16-17.23.26:828][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.02.16-17.23.26:828][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.16-17.23.26:828][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.16-17.23.26:828][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.16-17.23.26:829][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.16-17.23.26:830][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.16-17.23.26:831][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.16-17.23.26:832][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.16-17.23.26:832][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.16-17.23.26:833][  0]LogHAL: Display: Platform has ~ 16 GB [16487870464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.16-17.23.26:833][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.16-17.23.26:834][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.16-17.23.26:834][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.16-17.23.26:834][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.16-17.23.26:834][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.16-17.23.26:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.16-17.23.26:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.02.16-17.23.26:837][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.02.16-17.23.26:837][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.16-17.23.26:837][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.16-17.23.26:837][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.02.16-17.23.26:837][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Editor.ini]
+[2022.02.16-17.23.26:839][  0]LogInit: Computer: DESKTOP-P6OQVGL
+[2022.02.16-17.23.26:839][  0]LogInit: User: Artem
+[2022.02.16-17.23.26:839][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.02.16-17.23.26:839][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.16-17.23.26:839][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.02.16-17.23.26:839][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.16-17.23.26:839][  0]LogMemory: Process Physical Memory: 146.05 MB used, 146.06 MB peak
+[2022.02.16-17.23.26:839][  0]LogMemory: Process Virtual Memory: 121.71 MB used, 121.71 MB peak
+[2022.02.16-17.23.26:839][  0]LogMemory: Physical Memory: 10037.78 MB used,  5686.28 MB free, 15724.06 MB total
+[2022.02.16-17.23.26:839][  0]LogMemory: Virtual Memory: 134205192.00 MB used,  12535.05 MB free, 134217728.00 MB total
+[2022.02.16-17.23.26:849][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.16-17.23.27:355][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.16-17.23.27:357][  0]LogInit: Using OS detected language (en-US).
+[2022.02.16-17.23.27:357][  0]LogInit: Using OS detected locale (en-US).
+[2022.02.16-17.23.27:370][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.02.16-17.23.27:854][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.16-17.23.27:898][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.16-17.23.27:973][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.16-17.23.27:973][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.16-17.23.30:527][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.02.16-17.23.30:544][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.16-17.23.30:544][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.16-17.23.30:544][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.16-17.23.30:544][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.16-17.23.30:646][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_0)
+[2022.02.16-17.23.30:646][  0]LogD3D11RHI:       6023/0/7862 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.02.16-17.23.30:702][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2022.02.16-17.23.30:702][  0]LogD3D11RHI:       496/0/7862 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2022.02.16-17.23.30:712][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.16-17.23.30:712][  0]LogD3D11RHI:       0/0/7862 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.16-17.23.30:712][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.02.16-17.23.30:712][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.02.16-17.23.30:712][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.16-17.23.30:712][  0]LogD3D11RHI:     DeviceId    : 2520
+[2022.02.16-17.23.30:712][  0]LogD3D11RHI:     SubSysId    : 151f1025
+[2022.02.16-17.23.30:713][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.16-17.23.30:713][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.02.16-17.23.30:713][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.16-17.23.30:713][  0]LogD3D11RHI:     SharedSystemMemory : 8243935232 bytes
+[2022.02.16-17.23.30:713][  0]LogD3D11RHI:     AdapterLuid : 0 59220
+[2022.02.16-17.23.30:722][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.16-17.23.30:722][  0]LogD3D11RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.16-17.23.30:722][  0]LogWindows: EnumDisplayDevices:
+[2022.02.16-17.23.30:722][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2022.02.16-17.23.30:722][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.02.16-17.23.30:722][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.02.16-17.23.30:723][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:1)
+[2022.02.16-17.23.30:723][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.02.16-17.23.30:723][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.02.16-17.23.30:724][  0]LogD3D11RHI:   Driver Version: 497.09 (internal:30.0.14.9709, unified:497.09)
+[2022.02.16-17.23.30:724][  0]LogD3D11RHI:      Driver Date: 11-26-2021
+[2022.02.16-17.23.30:724][  0]LogRHI: Texture pool is 4216 MB (70% of 6023 MB)
+[2022.02.16-17.23.30:724][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.02.16-17.23.30:724][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.02.16-17.23.30:724][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.16-17.23.30:724][  0]LogD3D11RHI:     DeviceId    : 2520
+[2022.02.16-17.23.30:724][  0]LogD3D11RHI:     SubSysId    : 151f1025
+[2022.02.16-17.23.30:724][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.16-17.23.30:724][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.02.16-17.23.30:724][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.16-17.23.30:724][  0]LogD3D11RHI:     SharedSystemMemory : 8243935232 bytes
+[2022.02.16-17.23.30:724][  0]LogD3D11RHI:     AdapterLuid : 0 59220
+[2022.02.16-17.23.30:785][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.16-17.23.30:786][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.16-17.23.30:786][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.16-17.23.30:851][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.16-17.23.30:951][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.16-17.23.31:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.16-17.23.31:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.16-17.23.31:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.16-17.23.31:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.16-17.23.31:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.16-17.23.31:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.16-17.23.31:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.16-17.23.31:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.16-17.23.31:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.16-17.23.31:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.16-17.23.31:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.16-17.23.31:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.16-17.23.31:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.16-17.23.31:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.16-17.23.31:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.16-17.23.31:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.16-17.23.31:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.16-17.23.31:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.16-17.23.31:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.16-17.23.31:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.16-17.23.31:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.16-17.23.31:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.16-17.23.31:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.16-17.23.31:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.16-17.23.31:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.16-17.23.31:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.16-17.23.31:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.16-17.23.31:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.16-17.23.31:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.16-17.23.31:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.16-17.23.31:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.16-17.23.31:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.16-17.23.31:749][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.16-17.23.31:835][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.16-17.23.32:081][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.02.16-17.23.32:504][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.16-17.23.32:506][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../Projects/WargamingAcademy/Cyberpunk2022/Intermediate/Shaders/WorkingDirectory/6504/).
+[2022.02.16-17.23.32:507][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Artem/AppData/Local/Temp/UnrealShaderWorkingDir/DF07A67A41ADBF01F9BF2AB803A9BD9C/'.
+[2022.02.16-17.23.32:508][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.02.16-17.23.32:508][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.16-17.23.32:508][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.16-17.23.37:139][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.16-17.23.37:270][  0]LogDerivedDataCache: Loaded boot cache 0.13s 102MB C:/Users/Artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.16-17.23.37:270][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.02.16-17.23.37:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projects/WargamingAcademy/Cyberpunk2022/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.16-17.23.37:270][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.16-17.23.37:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projects/WargamingAcademy/Cyberpunk2022/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.16-17.23.37:270][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.16-17.23.37:306][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.16-17.23.37:307][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.16-17.23.37:307][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.16-17.23.37:377][  0]LogDerivedDataCache: Speed tests for C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.07 seconds
+[2022.02.16-17.23.37:377][  0]LogDerivedDataCache: Display: Performance to C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.23ms. RandomReadSpeed=15.93MBs, RandomWriteSpeed=103.74MBs. Assigned SpeedClass 'Local'
+[2022.02.16-17.23.37:380][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.16-17.23.37:380][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.16-17.23.37:380][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.16-17.23.37:449][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.16-17.23.37:485][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.16-17.23.37:949][  0]LogAssetRegistry: FAssetRegistry took 0.0498 seconds to start up
+[2022.02.16-17.23.38:677][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.16-17.23.38:678][  0]LogInit: Active device profile: [000001E26C947200][000001E24F4A9200 49] Windows
+[2022.02.16-17.23.38:678][  0]LogInit: Profiles: [000001E26C947200][000001E24F4A9200 49] Windows, [000001E26C905000][000001E26D4E1380 49] WindowsNoEditor, [000001E26C945000][000001E26D38B500 49] WindowsServer, [000001E26C906900][000001E26D387680 49] WindowsClient, [000001E26C946800][000001E26C29B800 49] IOS, [000001E26C905A00][000001E26C297980 49] iPadAir, [000001E26C945900][000001E26C26BB00 49] iPadAir2, [000001E26C8FB700][000001E26C262240 49] IPadPro, [000001E26C8FB800][000001E26C266280 49] iPadAir3, [000001E26C946100][000001E26C25E400 49] iPadAir4, [000001E26C8F9500][000001E26C25A580 49] iPadMini2, [000001E26C946B00][000001E26C256700 49] iPadMini3, [000001E26C8FA300][000001E26DAB4840 49] iPadMini4, [000001E26C945100][000001E26C252980 49] iPadMini5, [000001E26CC13000][000001E26C16ABC0 49] iPhone6, [000001E26CC13100][000001E26ABA2C00 49] iPodTouch6, [000001E26C8F8700][000001E26DAB8EC0 49] iPhone7, [000001E26C8F8600][000001E2645B2F00 49] iPodTouch7, [000001E26CC11400][000001E26DABD080 49] iPhone5S, [000001E26C8FA100][000001E2645FF200 49] iPhone6Plus, [000001E26CC12400][000001E264603380 49] iPhone6S, [000001E26C8FAA00][000001E264607500 49] iPhone6SPlus, [000001E26CC13A00][000001E26460B680 49] iPhone7Plus, [000001E26C8FBB00][000001E26460F800 49] iPhoneSE, [000001E26CC13400][000001E264613980 49] iPhone8, [000001E26C8F8200][000001E264617B00 49] iPhone8Plus, [000001E26CC12300][000001E26461A100 49] iPhoneX, [000001E26C8FB000][000001E26461E280 49] iPhoneXS, [000001E26CC13200][000001E264622400 49] iPhoneXSMax, [000001E26C8FAC00][000001E264544580 49] iPhoneXR, [000001E26CC11500][000001E264548700 49] iPhone11, [000001E26C8F8500][000001E26454C880 49] iPhone11Pro, [000001E26CC13700][000001E26D6AA9C0 49] iPhone11ProMax, [000001E26C8F8100][000001E264550B00 49] iPhoneSE2, [000001E26CC11D00][000001E264554C40 49] iPhone12Mini, [000001E26C8FAB00][000001E264558D80 49] iPhone12, [000001E26CC10C00][000001E264560F00 49] iPhone12Pro, [000001E26C8F9800][000001E264565080 49] iPhone12ProMax, [000001E26CC13800][000001E264569200 49] iPadPro105, [000001E26C8F8300][000001E26456D380 49] iPadPro129, [000001E26CC10A00][000001E264571500 49] iPadPro97, [000001E26C8F8D00][000001E264D37680 49] iPadPro2_129, [000001E26CC11300][000001E264D3B800 49] iPad5, [000001E26C8F9B00][000001E264D3F980 49] iPad6, [000001E26CC10300][000001E264D43B00 49] iPad7, [000001E26C8FBF00][000001E264D46100 49] iPad8, [000001E26CC12B00][000001E264D4A280 49] iPadPro11, [000001E26C8F9E00][000001E264D4E400 49] iPadPro2_11, [000001E26CC12A00][000001E264D52580 49] iPadPro3_129, [000001E26C8FB500][000001E264D56700 49] iPadPro4_129, [000001E26CC13F00][000001E264D5A880 49] AppleTV, [000001E26C8FB600][000001E264D5EA00 49] AppleTV4K, [000001E26CC11100][000001E26455CB40 49] TVOS, [000001E26C8FA400][000001E264D62C80 49] Mac, [000001E26CC10700][000001E264D66DC0 49] MacClient, [000001E26C8FB900][000001E264D6AF00 49] MacNoEditor, [000001E26CC12F00][000001E26D33D080 49] MacServer, [000001E26C8F8900][000001E26D341200 49] Linux, [000001E26C906100][000001E26D345380 49] LinuxAArch64, [000001E26CA4C300][000001E26D349500 49] LinuxNoEditor, [000001E26C907400][000001E26D34D680 49] LinuxAArch64NoEditor, [000001E26CA4CD00][000001E26D351800 49] LinuxClient, [000001E26C907D00][000001E26D355980 49] LinuxAArch64Client, [000001E26CA4D900][000001E26D359B00 49] LinuxServer, [000001E26C906D00][000001E26D35C100 49] LinuxAArch64Server, [000001E26CA4D600][000001E26D360280 49] Android, [000001E26C907F00][000001E26D364400 49] Android_Low, [000001E26CA4D100][000001E26D368580 49] Android_Mid, [000001E26C907A00][000001E26D36C700 49] Android_High, [000001E26CA4DD00][000001E26D370880 49] Android_Default, [000001E26C906700][000001E26D374A00 49] Android_Adreno4xx, [000001E26CA4C500][000001E26D378B80 49] Android_Adreno5xx_Low, [000001E26C904700][000001E26AABED00 49] Android_Adreno5xx, [000001E26CA4DF00][000001E26D338E40 49] Android_Adreno6xx, [000001E26C904100][000001E26AAC2F80 49] Android_Adreno6xx_Vulkan, [000001E26CA4CC00][000001E26AAC70C0 49] Android_Mali_T6xx, [000001E26C905500][000001E26AACF240 49] Android_Mali_T7xx, [000001E26CA4D700][000001E26AAD33C0 49] Android_Mali_T8xx, [000001E26C8FAF00][000001E26AAD7540 49] Android_Mali_G71, [000001E26CC10800][000001E26AADB6C0 49] Android_Mali_G72, [000001E26C8FB300][000001E26AADF840 49] Android_Mali_G72_Vulkan, [000001E26CC12600][000001E26AAE39C0 49] Android_Mali_G76, [000001E26C8FA700][000001E26AAE7B40 49] Android_Mali_G76_Vulkan, [000001E26CC12E00][000001E26AAEA140 49] Android_Mali_G77, [000001E26C8FA200][000001E26AAEE2C0 49] Android_Mali_G77_Vulkan, [000001E26CC12100][000001E26AAF2440 49] Android_Mali_G78, [000001E26C8F8B00][000001E26AAF65C0 49] Android_Mali_G78_Vulkan, [000001E26CA4CA00][000001E26AAFA740 49] Android_Mali_G710, [000001E26C8F9300][000001E26AAFE8C0 49] Android_Mali_G710_Vulkan, [000001E26CA4E700][000001E26AB02A40 49] Android_Vulkan_SM5, [000001E26C8FA900][000001E26AB06BC0 49] Android_PowerVR_G6xxx, [000001E26CA4E000][000001E26AB0AD40 49] Android_PowerVR_GT7xxx, [000001E26C8FA500][000001E26AB0EEC0 49] Android_PowerVR_GE8xxx, [000001E26CA4C800][000001E26AACB000 49] Android_PowerVR_GM9xxx, [000001E26C8F9100][000001E26AB13140 49] Android_PowerVR_GM9xxx_Vulkan, [000001E26CA4D200][000001E26AB17280 49] Android_TegraK1, [000001E26C8FBC00][000001E26AB1B3C0 49] Android_Unknown_Vulkan, [000001E26CA4DA00][000001E26AB23540 49] Lumin, [000001E26C8F9900][000001E26AB276C0 49] Lumin_Desktop, [000001E26CC10200][000001E26AB2B840 49] HoloLens, 
+[2022.02.16-17.23.39:358][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.16-17.23.39:358][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.16-17.23.39:358][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.16-17.23.39:358][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.16-17.23.39:358][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.16-17.23.39:505][  0]LogNetVersion: Cyberpunk2022 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1028016206)
+[2022.02.16-17.23.42:877][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.16-17.23.43:045][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.16-17.23.43:054][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.02.16-17.23.43:054][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.02.16-17.23.43:054][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.16-17.23.44:608][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 9396FCB04176CB1569E6A58F2E682DA3 | Instance: 429EB0854E875CEC6E564D8CD1895CBE (DESKTOP-P6OQVGL-6504).
+[2022.02.16-17.23.45:402][  0]LogPython: Using Python 3.7.7
+[2022.02.16-17.23.46:167][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.16-17.23.46:221][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.16-17.23.48:540][  0]SourceControl: Source control is disabled
+[2022.02.16-17.23.48:541][  0]SourceControl: Source control is disabled
+[2022.02.16-17.23.48:625][  0]SourceControl: Source control is disabled
+[2022.02.16-17.23.48:711][  0]SourceControl: Source control is disabled
+[2022.02.16-17.23.48:738][  0]SourceControl: Source control is disabled
+[2022.02.16-17.23.48:778][  0]LogUProjectInfo: Found projects:
+[2022.02.16-17.23.50:509][  0]LogOpenImageDenoise: OIDN starting up
+[2022.02.16-17.23.50:644][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.16-17.23.50:857][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.16-17.23.50:857][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.16-17.23.52:152][  0]LogOcInput: OculusInput pre-init called
+[2022.02.16-17.23.52:518][  0]LogCollectionManager: Loaded 0 collections in 0.001485 seconds
+[2022.02.16-17.23.52:803][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Collections/' took 0.00s
+[2022.02.16-17.23.52:803][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/Developers/Artem/Collections/' took 0.00s
+[2022.02.16-17.23.52:804][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/Collections/' took 0.00s
+[2022.02.16-17.23.52:804][  0]LogClass: Warning: ObjectProperty FUDecalStruct::Material is not initialized properly. Module:Cyberpunk2022 File:DecalStruct.h
+[2022.02.16-17.23.52:805][  0]LogClass: Display: 1 Uninitialized script struct members found including 1 object properties
+[2022.02.16-17.23.52:808][  0]LogAutomationTest: Warning: ObjectProperty FUDecalStruct::Material is not initialized properly. Module:Cyberpunk2022 File:DecalStruct.h
+[2022.02.16-17.23.52:813][  0]LogEngine: Initializing Engine...
+[2022.02.16-17.23.52:860][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.02.16-17.23.52:861][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.16-17.23.52:861][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.16-17.23.52:865][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.02.16-17.23.53:251][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.16-17.23.53:345][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.16-17.23.53:355][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.16-17.23.53:379][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.02.16-17.23.53:385][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.02.16-17.23.53:395][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.16-17.23.53:395][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.16-17.23.53:402][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.16-17.23.53:402][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.16-17.23.53:402][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.16-17.23.53:402][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.16-17.23.53:402][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.16-17.23.53:402][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.16-17.23.53:402][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.16-17.23.53:402][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.16-17.23.53:419][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.16-17.23.53:419][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.16-17.23.53:419][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.16-17.23.53:425][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.16-17.23.53:494][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.16-17.23.53:494][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.16-17.23.53:581][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.02.16-17.23.53:585][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.16-17.23.53:610][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.16-17.23.53:611][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.16-17.23.53:613][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.16-17.23.53:614][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.16-17.23.53:614][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.16-17.23.53:615][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.16-17.23.53:616][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.16-17.23.53:616][  0]LogInit: FAudioDevice initialized.
+[2022.02.16-17.23.53:618][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.16-17.23.53:619][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.16-17.23.53:690][  0]LogDerivedDataCache: Saved boot cache 0.07s 103MB C:/Users/Artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.16-17.23.53:693][  0]LogInit: Texture streaming: Enabled
+[2022.02.16-17.23.53:776][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.02.16-17.23.53:797][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.16-17.23.53:798][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.16-17.23.53:801][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.16-17.23.53:881][  0]LogInit: Transaction tracking system initialized
+[2022.02.16-17.23.54:074][  0]BlueprintLog: New page: Editor Load
+[2022.02.16-17.23.55:050][  0]LocalizationService: Localization service is disabled
+[2022.02.16-17.23.55:235][  0]TimingProfiler: Initialize
+[2022.02.16-17.23.55:238][  0]TimingProfiler: OnSessionChanged
+[2022.02.16-17.23.55:238][  0]LoadingProfiler: Initialize
+[2022.02.16-17.23.55:238][  0]LoadingProfiler: OnSessionChanged
+[2022.02.16-17.23.55:238][  0]NetworkingProfiler: Initialize
+[2022.02.16-17.23.55:239][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.16-17.23.55:240][  0]MemoryProfiler: Initialize
+[2022.02.16-17.23.55:240][  0]MemoryProfiler: OnSessionChanged
+[2022.02.16-17.23.56:233][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.16-17.23.56:234][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.16-17.23.56:695][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/' took 0.02s
+[2022.02.16-17.23.58:112][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.16-17.23.58:127][  0]SourceControl: Source control is disabled
+[2022.02.16-17.23.58:128][  0]LogUnrealEdMisc: Loading editor; pre map load, took 36.976
+[2022.02.16-17.23.58:132][  0]Cmd: MAP LOAD FILE="../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Maps/bloking.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.16-17.23.58:133][  0]LightingResults: New page: Lighting Build
+[2022.02.16-17.23.58:149][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.16-17.23.58:152][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.16-17.23.58:159][  0]MapCheck: New page: Map Check
+[2022.02.16-17.23.58:159][  0]LightingResults: New page: Lighting Build
+[2022.02.16-17.23.58:186][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.16-17.23.58:213][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.02.16-17.24.02:299][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'bloking'.
+[2022.02.16-17.24.02:301][  0]LogAIModule: Creating AISystem for world bloking
+[2022.02.16-17.24.02:550][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2022.02.16-17.24.02:636][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.02.16-17.24.02:639][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.16-17.24.02:640][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.898ms to complete.
+[2022.02.16-17.24.02:641][  0]LogFileHelpers: Loading map 'bloking' took 4.511
+[2022.02.16-17.24.02:719][  0]LogUnrealEdMisc: Total Editor Startup Time, took 41.566
+[2022.02.16-17.24.03:028][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.16-17.24.03:048][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.16-17.24.03:063][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.16-17.24.03:079][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.16-17.24.03:170][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0177 seconds. Added 3831 classes and 930 folders.
+[2022.02.16-17.24.03:197][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.02.16-17.24.03:244][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.16-17.24.03:244][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:244][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.16-17.24.03:246][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:246][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.02.16-17.24.03:246][  0]LogPakFile: OnPakFileMounted2Time == 0.002077
+[2022.02.16-17.24.03:261][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.16-17.24.03:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.16-17.24.03:262][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:262][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.02.16-17.24.03:262][  0]LogPakFile: OnPakFileMounted2Time == 0.000161
+[2022.02.16-17.24.03:270][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.16-17.24.03:271][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:271][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.16-17.24.03:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.02.16-17.24.03:271][  0]LogPakFile: OnPakFileMounted2Time == 0.000150
+[2022.02.16-17.24.03:279][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.16-17.24.03:279][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:280][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.16-17.24.03:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.02.16-17.24.03:280][  0]LogPakFile: OnPakFileMounted2Time == 0.000142
+[2022.02.16-17.24.03:289][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.16-17.24.03:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.16-17.24.03:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.02.16-17.24.03:290][  0]LogPakFile: OnPakFileMounted2Time == 0.000164
+[2022.02.16-17.24.03:297][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.16-17.24.03:297][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:297][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.16-17.24.03:297][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:297][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.02.16-17.24.03:297][  0]LogPakFile: OnPakFileMounted2Time == 0.000132
+[2022.02.16-17.24.03:306][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.16-17.24.03:306][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:306][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.16-17.24.03:306][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:306][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.02.16-17.24.03:307][  0]LogPakFile: OnPakFileMounted2Time == 0.000148
+[2022.02.16-17.24.03:320][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.16-17.24.03:320][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:320][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.16-17.24.03:321][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:321][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.02.16-17.24.03:321][  0]LogPakFile: OnPakFileMounted2Time == 0.000159
+[2022.02.16-17.24.03:334][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.16-17.24.03:334][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:334][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.16-17.24.03:334][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:334][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.02.16-17.24.03:334][  0]LogPakFile: OnPakFileMounted2Time == 0.000118
+[2022.02.16-17.24.03:347][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.16-17.24.03:347][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:347][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.16-17.24.03:347][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:348][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.02.16-17.24.03:348][  0]LogPakFile: OnPakFileMounted2Time == 0.000151
+[2022.02.16-17.24.03:358][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.16-17.24.03:358][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:358][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.16-17.24.03:358][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:359][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.02.16-17.24.03:359][  0]LogPakFile: OnPakFileMounted2Time == 0.000200
+[2022.02.16-17.24.03:368][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.16-17.24.03:368][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:368][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.16-17.24.03:368][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:368][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.02.16-17.24.03:368][  0]LogPakFile: OnPakFileMounted2Time == 0.000133
+[2022.02.16-17.24.03:375][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.16-17.24.03:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.16-17.24.03:375][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:375][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.02.16-17.24.03:375][  0]LogPakFile: OnPakFileMounted2Time == 0.000115
+[2022.02.16-17.24.03:381][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.16-17.24.03:382][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:382][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.16-17.24.03:382][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:382][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.02.16-17.24.03:382][  0]LogPakFile: OnPakFileMounted2Time == 0.000117
+[2022.02.16-17.24.03:389][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.16-17.24.03:389][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:389][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.16-17.24.03:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.02.16-17.24.03:389][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2022.02.16-17.24.03:397][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.16-17.24.03:397][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:397][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.16-17.24.03:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.02.16-17.24.03:397][  0]LogPakFile: OnPakFileMounted2Time == 0.000152
+[2022.02.16-17.24.03:404][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.16-17.24.03:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.16-17.24.03:404][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:405][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.02.16-17.24.03:405][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
+[2022.02.16-17.24.03:412][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.16-17.24.03:412][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:412][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.16-17.24.03:412][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:412][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.02.16-17.24.03:412][  0]LogPakFile: OnPakFileMounted2Time == 0.000150
+[2022.02.16-17.24.03:420][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.16-17.24.03:420][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:420][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.16-17.24.03:420][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:420][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.02.16-17.24.03:420][  0]LogPakFile: OnPakFileMounted2Time == 0.000135
+[2022.02.16-17.24.03:430][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.16-17.24.03:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.16-17.24.03:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.02.16-17.24.03:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000127
+[2022.02.16-17.24.03:437][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.16-17.24.03:437][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:437][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.16-17.24.03:437][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:437][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.02.16-17.24.03:438][  0]LogPakFile: OnPakFileMounted2Time == 0.000140
+[2022.02.16-17.24.03:445][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.16-17.24.03:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:446][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.16-17.24.03:446][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:446][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.02.16-17.24.03:446][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2022.02.16-17.24.03:452][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.16-17.24.03:452][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:452][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.16-17.24.03:453][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:453][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.02.16-17.24.03:453][  0]LogPakFile: OnPakFileMounted2Time == 0.000144
+[2022.02.16-17.24.03:460][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.16-17.24.03:460][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:460][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.16-17.24.03:461][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:461][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.02.16-17.24.03:461][  0]LogPakFile: OnPakFileMounted2Time == 0.000199
+[2022.02.16-17.24.03:469][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.16-17.24.03:469][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:469][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.16-17.24.03:469][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:469][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.02.16-17.24.03:469][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2022.02.16-17.24.03:478][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.16-17.24.03:478][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.16-17.24.03:478][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.16-17.24.03:478][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.16-17.24.03:478][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.02.16-17.24.03:478][  0]LogPakFile: OnPakFileMounted2Time == 0.000158
+[2022.02.16-17.24.04:023][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.16-17.24.04:038][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.02.16-17.24.04:422][  0]LogSlate: Took 0.008170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.16-17.24.04:433][  0]LogSlate: Took 0.008385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.16-17.24.04:442][  0]LogSlate: Took 0.006481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.16-17.24.04:687][  0]LogRenderer: Reallocating scene render targets to support 1256x572 Format 10 NumSamples 1 (Frame:1).
+[2022.02.16-17.24.04:881][  0]LogSlate: Took 0.006378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.16-17.24.05:024][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.02.16-17.24.05:024][  0]LogLoad: (Engine Initialization) Total time: 43.87 seconds
+[2022.02.16-17.24.05:024][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.16-17.24.05:146][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.16-17.24.05:219][  1]LogFileCache: Retrieving MD5 hashes for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/' took 0.14s
+[2022.02.16-17.24.05:234][  1]LogAssetRegistry: Asset discovery search completed in 27.2882 seconds
+[2022.02.16-17.24.05:272][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.02.16-17.24.31:637][696]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.16-17.24.31:649][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.16-17.24.31:656][696]PIE: New page: PIE session: bloking (Feb 16, 2022, 11:24:31 PM)
+[2022.02.16-17.24.31:665][696]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.16-17.24.31:668][696]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.16-17.24.31:669][696]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking
+[2022.02.16-17.24.31:974][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.304317s)
+[2022.02.16-17.24.31:975][696]LogAIModule: Creating AISystem for world bloking
+[2022.02.16-17.24.31:977][696]LogPlayLevel: PIE: World Init took: (0.003197s)
+[2022.02.16-17.24.31:978][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/bloking.bloking to /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking.bloking (0.308490s)
+[2022.02.16-17.24.31:988][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.02.16-17.24.31:996][696]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.16-17.24.31:996][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.16-17.24.31:996][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.16-17.24.31:996][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.16-17.24.31:996][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.16-17.24.31:996][696]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.16-17.24.31:996][696]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.16-17.24.31:996][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.16-17.24.31:996][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.16-17.24.31:997][696]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.16-17.24.31:997][696]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.16-17.24.31:997][696]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.16-17.24.31:997][696]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.16-17.24.31:999][696]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.16-17.24.31:999][696]LogAudioMixer: Display: 1: FrontRight
+[2022.02.16-17.24.32:080][696]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.02.16-17.24.32:081][696]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.16-17.24.32:081][696]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.16-17.24.32:081][696]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.16-17.24.32:082][696]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.16-17.24.32:082][696]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.16-17.24.32:082][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.16-17.24.32:085][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.16-17.24.32:086][696]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.16-17.24.32:086][696]LogInit: FAudioDevice initialized.
+[2022.02.16-17.24.32:086][696]LogAudio: Display: Audio Device (ID: 2) registered with world 'bloking'.
+[2022.02.16-17.24.32:114][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.16-17.24.32:266][696]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2022.02.16-17.24.32:378][696]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking.bloking up for play (max tick rate 60) at 2022.02.16-20.24.32
+[2022.02.16-17.24.32:396][696]LogWorld: Bringing up level for play took: 0.125014
+[2022.02.16-17.24.32:398][696]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.02.16-17.24.32:472][696]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.02.16-17.24.32:505][696]PIE: Server logged in
+[2022.02.16-17.24.32:507][696]PIE: Play in editor total start time 0.864 seconds.
+[2022.02.16-17.24.33:101][697]LogRenderer: Reallocating scene render targets to support 1912x1008 Format 10 NumSamples 1 (Frame:1).
+[2022.02.16-17.24.33:510][712]LogTemp: randX: -0.000000
+[2022.02.16-17.24.33:510][712]LogTemp: randY: 0.000000
+[2022.02.16-17.24.34:913][792]LogTemp: randX: -120.431229
+[2022.02.16-17.24.34:914][792]LogTemp: randY: -62.089966
+[2022.02.16-17.24.39:190][ 48]LogTemp: randX: -23.305969
+[2022.02.16-17.24.39:190][ 48]LogTemp: randY: -78.056168
+[2022.02.16-17.24.39:291][ 54]LogTemp: randX: 266.625000
+[2022.02.16-17.24.39:292][ 54]LogTemp: randY: -153.706512
+[2022.02.16-17.24.39:392][ 60]LogTemp: randX: -377.310486
+[2022.02.16-17.24.39:392][ 60]LogTemp: randY: -621.987549
+[2022.02.16-17.24.39:493][ 66]LogTemp: randX: 358.821472
+[2022.02.16-17.24.39:493][ 66]LogTemp: randY: -462.482635
+[2022.02.16-17.24.39:592][ 72]LogTemp: randX: -793.206543
+[2022.02.16-17.24.39:592][ 72]LogTemp: randY: 866.145813
+[2022.02.16-17.24.39:694][ 78]LogTemp: randX: 710.512390
+[2022.02.16-17.24.39:694][ 78]LogTemp: randY: -353.190735
+[2022.02.16-17.24.39:793][ 84]LogTemp: randX: -287.824646
+[2022.02.16-17.24.39:794][ 84]LogTemp: randY: 24.811523
+[2022.02.16-17.24.39:893][ 90]LogTemp: randX: 718.745239
+[2022.02.16-17.24.39:893][ 90]LogTemp: randY: 4.486206
+[2022.02.16-17.24.39:993][ 96]LogTemp: randX: -966.253662
+[2022.02.16-17.24.39:993][ 96]LogTemp: randY: -566.393005
+[2022.02.16-17.24.40:094][102]LogTemp: randX: -6.989990
+[2022.02.16-17.24.40:094][102]LogTemp: randY: 323.831909
+[2022.02.16-17.24.40:194][108]LogTemp: randX: 615.773438
+[2022.02.16-17.24.40:194][108]LogTemp: randY: -450.788879
+[2022.02.16-17.24.40:294][114]LogTemp: randX: 935.783691
+[2022.02.16-17.24.40:295][114]LogTemp: randY: -197.973572
+[2022.02.16-17.24.40:395][120]LogTemp: randX: 782.363892
+[2022.02.16-17.24.40:395][120]LogTemp: randY: 964.537476
+[2022.02.16-17.24.40:496][126]LogTemp: randX: -547.631226
+[2022.02.16-17.24.40:497][126]LogTemp: randY: 616.626465
+[2022.02.16-17.24.40:598][132]LogTemp: randX: 500.634949
+[2022.02.16-17.24.40:598][132]LogTemp: randY: -185.888245
+[2022.02.16-17.24.40:705][138]LogTemp: randX: -380.314880
+[2022.02.16-17.24.40:705][138]LogTemp: randY: -822.687439
+[2022.02.16-17.24.41:382][177]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.24.41:382][177]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.24.57:289][130]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.25.05:741][633]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.25.10:708][927]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.25.11:609][978]LogTemp: randX: -0.000000
+[2022.02.16-17.25.11:610][978]LogTemp: randY: 0.000000
+[2022.02.16-17.25.11:610][978]LogBlueprintUserMessages: [BotMaster2] 70
+[2022.02.16-17.25.11:711][984]LogTemp: randX: 81.906662
+[2022.02.16-17.25.11:712][984]LogTemp: randY: 56.891632
+[2022.02.16-17.25.11:712][984]LogBlueprintUserMessages: [BotMaster2] 40
+[2022.02.16-17.25.11:812][990]LogTemp: randX: -287.107941
+[2022.02.16-17.25.11:813][990]LogTemp: randY: -71.118317
+[2022.02.16-17.25.11:813][990]LogBlueprintUserMessages: [BotMaster2] 10
+[2022.02.16-17.25.11:925][996]LogTemp: randX: 380.337036
+[2022.02.16-17.25.11:925][996]LogTemp: randY: -146.656738
+[2022.02.16-17.25.11:925][996]LogBlueprintUserMessages: [BotMaster2] -20
+[2022.02.16-17.25.12:030][  2]LogTemp: randX: -54.221252
+[2022.02.16-17.25.12:031][  2]LogTemp: randY: 343.292542
+[2022.02.16-17.25.12:137][  8]LogTemp: randX: -199.667358
+[2022.02.16-17.25.12:138][  8]LogTemp: randY: 695.593201
+[2022.02.16-17.25.12:248][ 14]LogTemp: randX: -508.041595
+[2022.02.16-17.25.12:248][ 14]LogTemp: randY: -738.578430
+[2022.02.16-17.25.13:264][ 73]LogTemp: randX: 737.023743
+[2022.02.16-17.25.13:264][ 73]LogTemp: randY: 437.421753
+[2022.02.16-17.25.13:264][ 73]LogBlueprintUserMessages: [BotMaster4] 70
+[2022.02.16-17.25.13:365][ 79]LogTemp: randX: -479.647705
+[2022.02.16-17.25.13:365][ 79]LogTemp: randY: -28.168579
+[2022.02.16-17.25.13:465][ 85]LogTemp: randX: 55.315674
+[2022.02.16-17.25.13:465][ 85]LogTemp: randY: -409.283752
+[2022.02.16-17.25.13:465][ 85]LogBlueprintUserMessages: [BotMaster4] 40
+[2022.02.16-17.25.13:574][ 91]LogTemp: randX: -15.842163
+[2022.02.16-17.25.13:575][ 91]LogTemp: randY: 297.463867
+[2022.02.16-17.25.13:690][ 97]LogTemp: randX: 179.195740
+[2022.02.16-17.25.13:690][ 97]LogTemp: randY: 486.922852
+[2022.02.16-17.25.13:802][103]LogTemp: randX: 364.059937
+[2022.02.16-17.25.13:802][103]LogTemp: randY: -577.013428
+[2022.02.16-17.25.13:802][103]LogBlueprintUserMessages: [BotMaster4] 10
+[2022.02.16-17.25.13:906][109]LogTemp: randX: 724.999756
+[2022.02.16-17.25.13:906][109]LogTemp: randY: 606.494385
+[2022.02.16-17.25.13:906][109]LogBlueprintUserMessages: [BotMaster4] -20
+[2022.02.16-17.25.14:016][115]LogTemp: randX: 852.994629
+[2022.02.16-17.25.14:016][115]LogTemp: randY: -316.080200
+[2022.02.16-17.25.14:121][121]LogTemp: randX: -630.588745
+[2022.02.16-17.25.14:121][121]LogTemp: randY: -918.820740
+[2022.02.16-17.25.14:226][127]LogTemp: randX: -858.998535
+[2022.02.16-17.25.14:226][127]LogTemp: randY: 583.971680
+[2022.02.16-17.25.15:756][218]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.25.15:808][221]LogTemp: randX: 690.773499
+[2022.02.16-17.25.15:808][221]LogTemp: randY: -352.946533
+[2022.02.16-17.25.15:912][227]LogTemp: randX: 389.077942
+[2022.02.16-17.25.15:913][227]LogTemp: randY: -391.155762
+[2022.02.16-17.25.16:013][233]LogTemp: randX: 924.365234
+[2022.02.16-17.25.16:013][233]LogTemp: randY: 635.609009
+[2022.02.16-17.25.16:013][233]LogBlueprintUserMessages: [BotMaster_2] 70
+[2022.02.16-17.25.16:113][239]LogTemp: randX: -118.755493
+[2022.02.16-17.25.16:113][239]LogTemp: randY: 211.218628
+[2022.02.16-17.25.16:113][239]LogBlueprintUserMessages: [BotMaster_2] 40
+[2022.02.16-17.25.16:306][245]LogBlueprintUserMessages: [BotMasterProjectile_C_4] FirstPersonCharacter
+[2022.02.16-17.25.16:308][245]LogTemp: randX: -587.328735
+[2022.02.16-17.25.16:308][245]LogTemp: randY: 764.519165
+[2022.02.16-17.25.16:322][246]LogTemp: randX: -65.567322
+[2022.02.16-17.25.16:322][246]LogTemp: randY: 473.674438
+[2022.02.16-17.25.16:322][246]LogBlueprintUserMessages: [BotMaster_2] 10
+[2022.02.16-17.25.16:424][252]LogTemp: randX: 163.046814
+[2022.02.16-17.25.16:424][252]LogTemp: randY: 601.224854
+[2022.02.16-17.25.16:530][258]LogTemp: randX: 607.420044
+[2022.02.16-17.25.16:531][258]LogTemp: randY: 562.700195
+[2022.02.16-17.25.16:638][264]LogTemp: randX: 209.407837
+[2022.02.16-17.25.16:639][264]LogTemp: randY: 525.986511
+[2022.02.16-17.25.16:754][270]LogTemp: randX: -366.886719
+[2022.02.16-17.25.16:754][270]LogTemp: randY: -368.758484
+[2022.02.16-17.25.16:865][276]LogTemp: randX: 294.473145
+[2022.02.16-17.25.16:866][276]LogTemp: randY: -99.480179
+[2022.02.16-17.25.16:979][282]LogTemp: randX: -57.476532
+[2022.02.16-17.25.16:979][282]LogTemp: randY: 109.968353
+[2022.02.16-17.25.17:096][288]LogTemp: randX: -8.372253
+[2022.02.16-17.25.17:096][288]LogTemp: randY: 42.091843
+[2022.02.16-17.25.17:206][294]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.25.17:206][294]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.25.18:217][351]LogBlueprintUserMessages: [BotMasterProjectile_C_6] FirstPersonCharacter
+[2022.02.16-17.25.19:129][403]LogTemp: randX: 0.000000
+[2022.02.16-17.25.19:129][403]LogTemp: randY: 0.000000
+[2022.02.16-17.25.19:129][403]LogBlueprintUserMessages: [BotMaster_2] -20
+[2022.02.16-17.25.19:228][409]LogTemp: randX: -82.384789
+[2022.02.16-17.25.19:228][409]LogTemp: randY: -121.651970
+[2022.02.16-17.25.19:328][415]LogTemp: randX: -67.313660
+[2022.02.16-17.25.19:328][415]LogTemp: randY: 187.861755
+[2022.02.16-17.25.19:436][420]LogTemp: randX: 31.449341
+[2022.02.16-17.25.19:437][420]LogTemp: randY: 28.611084
+[2022.02.16-17.25.28:171][940]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.25.33:427][249]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.25.57:294][677]LogTemp: randX: -6.002014
+[2022.02.16-17.25.57:294][677]LogTemp: randY: 479.812012
+[2022.02.16-17.26.03:698][ 60]LogTemp: randX: 205.923645
+[2022.02.16-17.26.03:699][ 60]LogTemp: randY: -494.272766
+[2022.02.16-17.26.03:802][ 66]LogTemp: randX: -642.200928
+[2022.02.16-17.26.03:802][ 66]LogTemp: randY: 368.755066
+[2022.02.16-17.26.03:901][ 72]LogTemp: randX: -788.896606
+[2022.02.16-17.26.03:901][ 72]LogTemp: randY: 668.080688
+[2022.02.16-17.26.04:547][110]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.26.04:548][110]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.26.17:397][880]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.26.22:215][169]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.26.32:562][783]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.26.32:562][783]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.26.36:744][ 33]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.26.38:311][127]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.26.48:999][764]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.26.48:999][764]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.26.50:849][875]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.26.50:849][875]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.26.52:518][975]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.26.52:518][975]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.26.54:182][ 72]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.26.54:182][ 72]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.26.57:117][245]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.26.57:117][245]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.26.59:216][371]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.26.59:216][371]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.27.44:758][ 83]LogTemp: randX: 0.000000
+[2022.02.16-17.27.44:758][ 83]LogTemp: randY: 0.000000
+[2022.02.16-17.27.44:858][ 89]LogTemp: randX: -140.278442
+[2022.02.16-17.27.44:859][ 89]LogTemp: randY: 46.993454
+[2022.02.16-17.27.45:145][106]LogTemp: randX: -303.262421
+[2022.02.16-17.27.45:146][106]LogTemp: randY: 231.869446
+[2022.02.16-17.27.45:246][112]LogTemp: randX: -122.272430
+[2022.02.16-17.27.45:247][112]LogTemp: randY: -88.518982
+[2022.02.16-17.27.45:636][135]LogTemp: randX: -664.021667
+[2022.02.16-17.27.45:636][135]LogTemp: randY: 48.687195
+[2022.02.16-17.27.45:734][141]LogTemp: randX: -556.632202
+[2022.02.16-17.27.45:734][141]LogTemp: randY: 810.139343
+[2022.02.16-17.27.52:858][565]LogTemp: randX: -458.418518
+[2022.02.16-17.27.52:859][565]LogTemp: randY: 437.909973
+[2022.02.16-17.27.52:959][571]LogTemp: randX: 431.597595
+[2022.02.16-17.27.52:960][571]LogTemp: randY: 433.149170
+[2022.02.16-17.27.53:447][600]LogTemp: randX: 885.981262
+[2022.02.16-17.27.53:447][600]LogTemp: randY: -530.686401
+[2022.02.16-17.27.53:546][606]LogTemp: randX: -758.558167
+[2022.02.16-17.27.53:546][606]LogTemp: randY: -62.471375
+[2022.02.16-17.27.53:900][627]LogTemp: randX: 780.278015
+[2022.02.16-17.27.53:900][627]LogTemp: randY: 656.727783
+[2022.02.16-17.27.54:016][633]LogTemp: randX: 700.434143
+[2022.02.16-17.27.54:016][633]LogTemp: randY: -149.693298
+[2022.02.16-17.27.54:223][644]LogTemp: randX: 786.481812
+[2022.02.16-17.27.54:223][644]LogTemp: randY: 341.837769
+[2022.02.16-17.27.54:595][665]LogTemp: randX: 140.357300
+[2022.02.16-17.27.54:596][665]LogTemp: randY: 92.501587
+[2022.02.16-17.27.54:694][671]LogTemp: randX: 663.570557
+[2022.02.16-17.27.54:694][671]LogTemp: randY: -765.007446
+[2022.02.16-17.27.55:188][700]LogTemp: randX: -454.584412
+[2022.02.16-17.27.55:188][700]LogTemp: randY: -875.911743
+[2022.02.16-17.27.55:285][706]LogTemp: randX: 716.519470
+[2022.02.16-17.27.55:285][706]LogTemp: randY: -372.295288
+[2022.02.16-17.27.55:384][712]LogTemp: randX: 342.537048
+[2022.02.16-17.27.55:385][712]LogTemp: randY: -151.219238
+[2022.02.16-17.27.55:705][731]LogTemp: randX: -179.609070
+[2022.02.16-17.27.55:705][731]LogTemp: randY: 858.150024
+[2022.02.16-17.27.55:805][737]LogTemp: randX: -282.690613
+[2022.02.16-17.27.55:805][737]LogTemp: randY: -761.833557
+[2022.02.16-17.27.55:905][743]LogTemp: randX: 158.998169
+[2022.02.16-17.27.55:905][743]LogTemp: randY: 923.215454
+[2022.02.16-17.27.59:173][936]LogTemp: randX: 294.045898
+[2022.02.16-17.27.59:173][936]LogTemp: randY: 975.463135
+[2022.02.16-17.27.59:281][942]LogTemp: randX: -662.210876
+[2022.02.16-17.27.59:281][942]LogTemp: randY: -354.964111
+[2022.02.16-17.27.59:394][948]LogTemp: randX: -717.771667
+[2022.02.16-17.27.59:394][948]LogTemp: randY: -515.013428
+[2022.02.16-17.27.59:507][954]LogTemp: randX: 288.806824
+[2022.02.16-17.27.59:507][954]LogTemp: randY: -267.932129
+[2022.02.16-17.27.59:615][960]LogTemp: randX: 133.620239
+[2022.02.16-17.27.59:615][960]LogTemp: randY: -349.962585
+[2022.02.16-17.27.59:719][966]LogTemp: randX: -190.883087
+[2022.02.16-17.27.59:719][966]LogTemp: randY: -295.758240
+[2022.02.16-17.27.59:820][972]LogTemp: randX: 72.298370
+[2022.02.16-17.27.59:821][972]LogTemp: randY: 57.873260
+[2022.02.16-17.27.59:928][978]LogTemp: randX: -153.575928
+[2022.02.16-17.27.59:928][978]LogTemp: randY: -115.421005
+[2022.02.16-17.28.00:028][984]LogTemp: randX: -102.247269
+[2022.02.16-17.28.00:028][984]LogTemp: randY: 13.784210
+[2022.02.16-17.28.00:128][990]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.28.00:129][990]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.28.13:375][781]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.28.29:613][755]LogTemp: randX: -0.000000
+[2022.02.16-17.28.29:614][755]LogTemp: randY: -0.000000
+[2022.02.16-17.28.30:095][783]LogTemp: randX: -53.025955
+[2022.02.16-17.28.30:095][783]LogTemp: randY: -46.149117
+[2022.02.16-17.28.30:193][789]LogTemp: randX: -65.645294
+[2022.02.16-17.28.30:193][789]LogTemp: randY: -226.538879
+[2022.02.16-17.28.30:293][795]LogTemp: randX: 294.396851
+[2022.02.16-17.28.30:293][795]LogTemp: randY: -167.683990
+[2022.02.16-17.28.30:393][801]LogTemp: randX: -345.530548
+[2022.02.16-17.28.30:393][801]LogTemp: randY: 649.779663
+[2022.02.16-17.28.30:492][807]LogTemp: randX: -749.254944
+[2022.02.16-17.28.30:493][807]LogTemp: randY: 394.528137
+[2022.02.16-17.28.30:592][813]LogTemp: randX: 629.749329
+[2022.02.16-17.28.30:592][813]LogTemp: randY: -269.997253
+[2022.02.16-17.28.30:692][819]LogTemp: randX: -260.302246
+[2022.02.16-17.28.30:693][819]LogTemp: randY: -75.411255
+[2022.02.16-17.28.30:793][825]LogTemp: randX: 97.081848
+[2022.02.16-17.28.30:793][825]LogTemp: randY: -56.062500
+[2022.02.16-17.28.30:892][831]LogTemp: randX: -451.956970
+[2022.02.16-17.28.30:893][831]LogTemp: randY: 714.102661
+[2022.02.16-17.28.30:993][837]LogTemp: randX: 465.263855
+[2022.02.16-17.28.30:994][837]LogTemp: randY: -861.934265
+[2022.02.16-17.28.31:093][843]LogTemp: randX: -24.596619
+[2022.02.16-17.28.31:093][843]LogTemp: randY: 160.740967
+[2022.02.16-17.28.31:193][849]LogTemp: randX: -736.614563
+[2022.02.16-17.28.31:193][849]LogTemp: randY: -36.957886
+[2022.02.16-17.28.31:292][855]LogTemp: randX: 105.246094
+[2022.02.16-17.28.31:292][855]LogTemp: randY: -702.444519
+[2022.02.16-17.28.31:425][863]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.28.31:426][863]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.28.39:136][325]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.28.54:021][218]LogTemp: randX: 31.241821
+[2022.02.16-17.28.54:021][218]LogTemp: randY: 732.413696
+[2022.02.16-17.28.54:423][242]LogTemp: randX: -626.030029
+[2022.02.16-17.28.54:423][242]LogTemp: randY: -389.568787
+[2022.02.16-17.28.54:521][248]LogTemp: randX: 681.006836
+[2022.02.16-17.28.54:521][248]LogTemp: randY: 972.533325
+[2022.02.16-17.28.54:890][270]LogTemp: randX: -540.228516
+[2022.02.16-17.28.54:890][270]LogTemp: randY: -993.957336
+[2022.02.16-17.28.54:987][276]LogTemp: randX: -233.861450
+[2022.02.16-17.28.54:987][276]LogTemp: randY: -893.734558
+[2022.02.16-17.28.55:087][282]LogTemp: randX: 339.706726
+[2022.02.16-17.28.55:088][282]LogTemp: randY: -470.503845
+[2022.02.16-17.29.42:414][121]LogTemp: randX: 52.843567
+[2022.02.16-17.29.42:415][121]LogTemp: randY: 762.566040
+[2022.02.16-17.29.42:514][127]LogTemp: randX: -407.827637
+[2022.02.16-17.29.42:515][127]LogTemp: randY: -715.201294
+[2022.02.16-17.29.42:766][142]LogTemp: randX: 803.874329
+[2022.02.16-17.29.42:766][142]LogTemp: randY: 96.285889
+[2022.02.16-17.29.42:864][148]LogTemp: randX: -16.568481
+[2022.02.16-17.29.42:864][148]LogTemp: randY: 47.822510
+[2022.02.16-17.29.42:965][154]LogTemp: randX: -47.071228
+[2022.02.16-17.29.42:965][154]LogTemp: randY: -250.892639
+[2022.02.16-17.29.43:715][199]LogTemp: randX: 337.015869
+[2022.02.16-17.29.43:715][199]LogTemp: randY: -655.507080
+[2022.02.16-17.29.43:815][205]LogTemp: randX: -443.617004
+[2022.02.16-17.29.43:815][205]LogTemp: randY: 619.078125
+[2022.02.16-17.29.44:283][233]LogTemp: randX: -369.697876
+[2022.02.16-17.29.44:283][233]LogTemp: randY: -92.311707
+[2022.02.16-17.29.44:381][239]LogTemp: randX: 48.809265
+[2022.02.16-17.29.44:381][239]LogTemp: randY: -198.797546
+[2022.02.16-17.29.44:481][245]LogTemp: randX: 8.494324
+[2022.02.16-17.29.44:481][245]LogTemp: randY: -481.531250
+[2022.02.16-17.29.44:580][251]LogTemp: randX: 434.732727
+[2022.02.16-17.29.44:580][251]LogTemp: randY: 76.676086
+[2022.02.16-17.29.44:681][257]LogTemp: randX: 107.638794
+[2022.02.16-17.29.44:681][257]LogTemp: randY: -10.060944
+[2022.02.16-17.29.44:781][263]LogTemp: randX: -211.547531
+[2022.02.16-17.29.44:781][263]LogTemp: randY: -18.019485
+[2022.02.16-17.29.44:881][269]LogTemp: randX: -64.560272
+[2022.02.16-17.29.44:882][269]LogTemp: randY: 29.301193
+[2022.02.16-17.29.53:980][815]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.30.13:398][980]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.30.16:654][175]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.31.06:893][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.16-17.31.06:893][187]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking
+[2022.02.16-17.31.06:895][187]LogSlate: Window 'Cyberpunk2022 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.16-17.31.06:907][187]LogWorld: UWorld::CleanupWorld for bloking, bSessionEnded=true, bCleanupResources=true
+[2022.02.16-17.31.06:925][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.16-17.31.06:944][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.16-17.31.06:951][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.16-17.31.06:960][187]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.16-17.31.06:962][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.16-17.31.06:965][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.16-17.31.07:016][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.02.16-17.31.07:046][188]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.02.16-17.31.08:497][272]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.16-17.31.08:513][272]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Weapons/BaseWeapon/BP_BaseWeapon.BP_BaseWeapon
+[2022.02.16-17.31.09:248][272]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.02.16-17.31.11:375][328]LogSlate: Window 'BP_BaseWeapon' being destroyed
+[2022.02.16-17.31.11:400][328]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.02.16-17.31.11:401][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.16-17.31.11:478][328]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Weapons/BaseWeapon/BP_BaseWeapon.BP_BaseWeapon
+[2022.02.16-17.31.11:985][328]LogSlate: Took 0.007059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.16-17.31.12:731][365]LogSlate: Took 0.008803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.16-17.31.44:677][760]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Meshes/SK_AK.SK_AK
+[2022.02.16-17.31.44:715][760]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.02.16-17.31.44:728][760]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.02.16-17.31.44:828][760]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.16-17.31.44:921][760]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.16-17.31.44:928][760]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.02.16-17.31.51:782][ 90]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Assets/Meshes/SK_AK_Skeleton.SK_AK_Skeleton
+[2022.02.16-17.31.51:786][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.16-17.32.02:542][672]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.02.16-17.32.02:542][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.16-17.33.07:211][708]LogSlate: Window 'SK_AK' being destroyed
+[2022.02.16-17.33.07:215][708]LogSlate: Window 'SK_AK' being destroyed
+[2022.02.16-17.33.07:221][708]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.02.16-17.33.07:221][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.16-17.33.07:287][708]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.02.16-17.33.07:287][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.16-17.33.09:176][817]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Weapons/BaseWeapon/BP_BaseWeapon.BP_BaseWeapon
+[2022.02.16-17.35.08:872][639]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.16-17.35.19:557][249]LogEditorTransaction: Undo Modify Component(s)
+[2022.02.16-17.35.40:210][341]BlueprintLog: New page: Compile BP_BaseWeapon
+[2022.02.16-17.35.40:336][341]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2022.02.16-17.35.40:385][341]LogSlate: Took 0.010248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.16-17.35.40:887][361]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/BP_BaseWeaponA0FA58BE405302E32CCA11840A080ABF.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Weapons/BaseWeapon/BP_BaseWeapon.uasset'
+[2022.02.16-17.35.40:910][361]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.02.16-17.35.40:911][361]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonCPP/Weapons/BaseWeapon/BP_BaseWeapon.BP_BaseWeapon
+[2022.02.16-17.35.42:787][473]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.16-17.35.42:792][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.16-17.35.42:792][473]PIE: New page: PIE session: bloking (Feb 16, 2022, 11:35:42 PM)
+[2022.02.16-17.35.42:792][473]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking
+[2022.02.16-17.35.43:028][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.235224s)
+[2022.02.16-17.35.43:028][473]LogAIModule: Creating AISystem for world bloking
+[2022.02.16-17.35.43:029][473]LogPlayLevel: PIE: World Init took: (0.001673s)
+[2022.02.16-17.35.43:030][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/bloking.bloking to /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking.bloking (0.237599s)
+[2022.02.16-17.35.43:084][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.02.16-17.35.43:086][473]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.02.16-17.35.43:086][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.16-17.35.43:086][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.16-17.35.43:086][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.16-17.35.43:086][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.16-17.35.43:087][473]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.16-17.35.43:087][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.16-17.35.43:087][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.16-17.35.43:087][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.16-17.35.43:087][473]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.16-17.35.43:087][473]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.16-17.35.43:087][473]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.16-17.35.43:087][473]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.16-17.35.43:089][473]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.16-17.35.43:089][473]LogAudioMixer: Display: 1: FrontRight
+[2022.02.16-17.35.43:159][473]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.02.16-17.35.43:160][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.16-17.35.43:160][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.16-17.35.43:160][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.16-17.35.43:161][473]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.16-17.35.43:161][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.16-17.35.43:161][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.16-17.35.43:163][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.16-17.35.43:163][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.16-17.35.43:163][473]LogInit: FAudioDevice initialized.
+[2022.02.16-17.35.43:163][473]LogAudio: Display: Audio Device (ID: 3) registered with world 'bloking'.
+[2022.02.16-17.35.43:187][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.16-17.35.43:187][473]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2022.02.16-17.35.43:256][473]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking.bloking up for play (max tick rate 60) at 2022.02.16-20.35.43
+[2022.02.16-17.35.43:259][473]LogWorld: Bringing up level for play took: 0.071059
+[2022.02.16-17.35.43:259][473]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.02.16-17.35.43:271][473]PIE: Server logged in
+[2022.02.16-17.35.43:273][473]PIE: Play in editor total start time 0.482 seconds.
+[2022.02.16-17.35.43:831][500]LogTemp: randX: -0.000000
+[2022.02.16-17.35.43:831][500]LogTemp: randY: -0.000000
+[2022.02.16-17.35.47:690][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.16-17.35.47:690][729]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking
+[2022.02.16-17.35.47:691][729]LogSlate: Window 'Cyberpunk2022 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.16-17.35.47:698][729]LogWorld: UWorld::CleanupWorld for bloking, bSessionEnded=true, bCleanupResources=true
+[2022.02.16-17.35.47:720][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.16-17.35.47:736][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.16-17.35.47:744][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.16-17.35.47:773][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.16-17.35.47:775][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.16-17.35.47:795][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.02.16-17.35.47:817][730]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.02.16-17.35.57:506][268]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:506][268]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:509][268]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:509][268]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:522][269]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:522][269]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:540][270]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:540][270]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:556][271]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:556][271]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:573][272]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:573][272]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:590][273]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:590][273]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:607][274]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:607][274]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:623][275]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:623][275]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:640][276]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:640][276]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:657][277]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:657][277]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:675][278]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:675][278]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:696][279]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:696][279]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:712][280]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:712][280]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:728][281]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:728][281]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:745][282]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:745][282]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:761][283]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:762][283]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:779][284]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:779][284]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:795][285]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:795][285]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:812][286]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:812][286]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:829][287]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:829][287]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:845][288]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:845][288]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:862][289]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:862][289]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:879][290]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:880][290]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:898][291]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:898][291]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:913][292]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:914][292]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:930][293]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:931][293]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:947][294]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:948][294]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:964][295]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:964][295]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:981][296]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:981][296]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.57:997][297]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.57:997][297]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.58:014][298]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.58:014][298]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.58:031][299]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.58:031][299]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.58:047][300]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.58:047][300]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.58:064][301]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.58:064][301]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.58:081][302]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.58:081][302]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.35.58:098][303]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.02.16-17.35.58:098][303]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BaseWeapon_C_0.Widget' 
+[2022.02.16-17.36.34:177][215]BlueprintLog: New page: Compile BP_BaseWeapon
+[2022.02.16-17.36.34:231][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.02.16-17.36.34:741][236]LogSavePackage: Moving '../../../../Projects/WargamingAcademy/Cyberpunk2022/Saved/BP_BaseWeapon6BD902EB4583F3E57A4842B8C8E58DAD.tmp' to '../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Weapons/BaseWeapon/BP_BaseWeapon.uasset'
+[2022.02.16-17.36.34:759][236]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.02.16-17.36.34:759][236]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonCPP/Weapons/BaseWeapon/BP_BaseWeapon.BP_BaseWeapon
+[2022.02.16-17.36.37:024][371]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.16-17.36.37:028][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.16-17.36.37:028][371]PIE: New page: PIE session: bloking (Feb 16, 2022, 11:36:37 PM)
+[2022.02.16-17.36.37:029][371]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking
+[2022.02.16-17.36.37:257][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.228659s)
+[2022.02.16-17.36.37:258][371]LogAIModule: Creating AISystem for world bloking
+[2022.02.16-17.36.37:259][371]LogPlayLevel: PIE: World Init took: (0.001493s)
+[2022.02.16-17.36.37:260][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/bloking.bloking to /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking.bloking (0.230962s)
+[2022.02.16-17.36.37:280][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.02.16-17.36.37:283][371]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.02.16-17.36.37:283][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.16-17.36.37:283][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.16-17.36.37:283][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.16-17.36.37:283][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.16-17.36.37:283][371]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.16-17.36.37:283][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.16-17.36.37:283][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.16-17.36.37:283][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.16-17.36.37:283][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.16-17.36.37:284][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.16-17.36.37:284][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.16-17.36.37:284][371]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.16-17.36.37:285][371]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.16-17.36.37:285][371]LogAudioMixer: Display: 1: FrontRight
+[2022.02.16-17.36.37:354][371]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.02.16-17.36.37:355][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.16-17.36.37:355][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.16-17.36.37:355][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.16-17.36.37:356][371]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.16-17.36.37:356][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.16-17.36.37:356][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.16-17.36.37:357][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.16-17.36.37:357][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.16-17.36.37:357][371]LogInit: FAudioDevice initialized.
+[2022.02.16-17.36.37:357][371]LogAudio: Display: Audio Device (ID: 4) registered with world 'bloking'.
+[2022.02.16-17.36.37:378][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.16-17.36.37:379][371]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2022.02.16-17.36.37:445][371]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking.bloking up for play (max tick rate 60) at 2022.02.16-20.36.37
+[2022.02.16-17.36.37:448][371]LogWorld: Bringing up level for play took: 0.068482
+[2022.02.16-17.36.37:448][371]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.02.16-17.36.37:458][371]PIE: Server logged in
+[2022.02.16-17.36.37:461][371]PIE: Play in editor total start time 0.433 seconds.
+[2022.02.16-17.36.38:800][445]LogTemp: randX: -0.000000
+[2022.02.16-17.36.38:800][445]LogTemp: randY: -0.000000
+[2022.02.16-17.36.43:815][746]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.36.43:815][746]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.36.57:241][276]LogTemp: randX: -0.000000
+[2022.02.16-17.36.57:241][276]LogTemp: randY: -0.000000
+[2022.02.16-17.37.02:472][584]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.37.02:473][584]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.37.08:392][937]LogTemp: randX: -0.000000
+[2022.02.16-17.37.08:392][937]LogTemp: randY: 0.000000
+[2022.02.16-17.37.08:708][956]LogTemp: randX: -112.852455
+[2022.02.16-17.37.08:708][956]LogTemp: randY: 12.629593
+[2022.02.16-17.37.09:354][995]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.37.09:355][995]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.37.12:592][189]LogTemp: randX: 0.000000
+[2022.02.16-17.37.12:592][189]LogTemp: randY: 0.000000
+[2022.02.16-17.37.12:995][213]LogTemp: randX: 86.565826
+[2022.02.16-17.37.12:995][213]LogTemp: randY: 84.022614
+[2022.02.16-17.37.13:092][219]LogTemp: randX: -139.683212
+[2022.02.16-17.37.13:092][219]LogTemp: randY: -294.961365
+[2022.02.16-17.37.13:192][225]LogTemp: randX: 257.530518
+[2022.02.16-17.37.13:192][225]LogTemp: randY: 414.212585
+[2022.02.16-17.37.13:292][231]LogTemp: randX: 601.519775
+[2022.02.16-17.37.13:292][231]LogTemp: randY: -303.618469
+[2022.02.16-17.37.13:391][237]LogTemp: randX: -271.182434
+[2022.02.16-17.37.13:392][237]LogTemp: randY: 589.744812
+[2022.02.16-17.37.13:492][243]LogTemp: randX: -867.061340
+[2022.02.16-17.37.13:492][243]LogTemp: randY: 980.895325
+[2022.02.16-17.37.13:640][252]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.37.13:640][252]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.37.16:465][421]LogTemp: randX: 0.000000
+[2022.02.16-17.37.16:465][421]LogTemp: randY: -0.000000
+[2022.02.16-17.37.16:563][427]LogTemp: randX: 66.555832
+[2022.02.16-17.37.16:563][427]LogTemp: randY: 32.558182
+[2022.02.16-17.37.16:663][433]LogTemp: randX: -310.607208
+[2022.02.16-17.37.16:663][433]LogTemp: randY: -246.111420
+[2022.02.16-17.37.16:763][439]LogTemp: randX: 304.040710
+[2022.02.16-17.37.16:763][439]LogTemp: randY: -321.649902
+[2022.02.16-17.37.17:300][471]LogTemp: randX: -138.167480
+[2022.02.16-17.37.17:300][471]LogTemp: randY: 128.930542
+[2022.02.16-17.37.17:397][477]LogTemp: randX: 417.111877
+[2022.02.16-17.37.17:397][477]LogTemp: randY: -616.753723
+[2022.02.16-17.37.17:497][483]LogTemp: randX: -457.686096
+[2022.02.16-17.37.17:497][483]LogTemp: randY: 178.075500
+[2022.02.16-17.37.17:597][489]LogTemp: randX: -252.675720
+[2022.02.16-17.37.17:597][489]LogTemp: randY: -871.089844
+[2022.02.16-17.37.17:698][495]LogTemp: randX: 705.501892
+[2022.02.16-17.37.17:698][495]LogTemp: randY: 719.046631
+[2022.02.16-17.37.18:018][514]LogTemp: randX: 23.120056
+[2022.02.16-17.37.18:018][514]LogTemp: randY: 393.475098
+[2022.02.16-17.37.18:115][520]LogTemp: randX: -775.262695
+[2022.02.16-17.37.18:115][520]LogTemp: randY: 923.764771
+[2022.02.16-17.37.18:216][526]LogTemp: randX: -269.802734
+[2022.02.16-17.37.18:216][526]LogTemp: randY: -240.333252
+[2022.02.16-17.37.18:317][532]LogTemp: randX: -73.496216
+[2022.02.16-17.37.18:317][532]LogTemp: randY: -678.579102
+[2022.02.16-17.37.18:416][538]LogTemp: randX: 274.561523
+[2022.02.16-17.37.18:417][538]LogTemp: randY: 551.561035
+[2022.02.16-17.37.18:803][561]LogTemp: randX: 436.426025
+[2022.02.16-17.37.18:803][561]LogTemp: randY: 888.729492
+[2022.02.16-17.37.18:902][567]LogTemp: randX: -731.718933
+[2022.02.16-17.37.18:902][567]LogTemp: randY: 793.084473
+[2022.02.16-17.37.19:002][573]LogTemp: randX: -162.803528
+[2022.02.16-17.37.19:002][573]LogTemp: randY: -249.549866
+[2022.02.16-17.37.19:102][579]LogTemp: randX: 731.475769
+[2022.02.16-17.37.19:102][579]LogTemp: randY: -215.369141
+[2022.02.16-17.37.19:203][585]LogTemp: randX: 551.671448
+[2022.02.16-17.37.19:203][585]LogTemp: randY: 756.096069
+[2022.02.16-17.37.19:302][591]LogTemp: randX: -965.047180
+[2022.02.16-17.37.19:302][591]LogTemp: randY: -52.583374
+[2022.02.16-17.37.19:402][597]LogTemp: randX: -900.302002
+[2022.02.16-17.37.19:402][597]LogTemp: randY: -612.598022
+[2022.02.16-17.37.19:502][603]LogTemp: randX: -847.712646
+[2022.02.16-17.37.19:502][603]LogTemp: randY: -72.542480
+[2022.02.16-17.37.19:602][609]LogTemp: randX: 92.586365
+[2022.02.16-17.37.19:602][609]LogTemp: randY: 85.316162
+[2022.02.16-17.37.19:702][615]LogTemp: randX: -293.598267
+[2022.02.16-17.37.19:702][615]LogTemp: randY: -34.346863
+[2022.02.16-17.37.20:634][671]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.37.20:634][671]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.37.25:673][973]LogTemp: randX: 0.000000
+[2022.02.16-17.37.25:673][973]LogTemp: randY: -0.000000
+[2022.02.16-17.37.25:773][979]LogTemp: randX: -147.399445
+[2022.02.16-17.37.25:773][979]LogTemp: randY: -56.494896
+[2022.02.16-17.37.25:871][985]LogTemp: randX: 234.941650
+[2022.02.16-17.37.25:871][985]LogTemp: randY: -169.469269
+[2022.02.16-17.37.25:971][991]LogTemp: randX: -205.343842
+[2022.02.16-17.37.25:971][991]LogTemp: randY: -278.008423
+[2022.02.16-17.37.26:071][997]LogTemp: randX: 55.848877
+[2022.02.16-17.37.26:072][997]LogTemp: randY: -622.638611
+[2022.02.16-17.37.26:558][ 26]LogTemp: randX: 557.954773
+[2022.02.16-17.37.26:558][ 26]LogTemp: randY: -589.287048
+[2022.02.16-17.37.26:655][ 32]LogTemp: randX: 550.828552
+[2022.02.16-17.37.26:656][ 32]LogTemp: randY: 247.230408
+[2022.02.16-17.37.26:755][ 38]LogTemp: randX: 591.997864
+[2022.02.16-17.37.26:755][ 38]LogTemp: randY: 19.623413
+[2022.02.16-17.37.26:857][ 44]LogTemp: randX: 966.888000
+[2022.02.16-17.37.26:857][ 44]LogTemp: randY: -985.900452
+[2022.02.16-17.37.27:227][ 66]LogTemp: randX: 466.358643
+[2022.02.16-17.37.27:227][ 66]LogTemp: randY: 294.778320
+[2022.02.16-17.37.27:324][ 72]LogTemp: randX: 444.612976
+[2022.02.16-17.37.27:324][ 72]LogTemp: randY: -10.650940
+[2022.02.16-17.37.27:424][ 78]LogTemp: randX: -757.173096
+[2022.02.16-17.37.27:424][ 78]LogTemp: randY: 811.700806
+[2022.02.16-17.37.27:524][ 84]LogTemp: randX: 138.903442
+[2022.02.16-17.37.27:524][ 84]LogTemp: randY: -903.500488
+[2022.02.16-17.37.27:623][ 90]LogTemp: randX: 868.302490
+[2022.02.16-17.37.27:624][ 90]LogTemp: randY: -600.207520
+[2022.02.16-17.37.27:994][112]LogTemp: randX: 443.934937
+[2022.02.16-17.37.27:994][112]LogTemp: randY: 648.976074
+[2022.02.16-17.37.28:090][118]LogTemp: randX: 241.054504
+[2022.02.16-17.37.28:090][118]LogTemp: randY: -194.433411
+[2022.02.16-17.37.28:190][124]LogTemp: randX: 319.049866
+[2022.02.16-17.37.28:190][124]LogTemp: randY: -962.523254
+[2022.02.16-17.37.28:292][130]LogTemp: randX: 893.866760
+[2022.02.16-17.37.28:293][130]LogTemp: randY: 599.536133
+[2022.02.16-17.37.28:394][136]LogTemp: randX: -741.033630
+[2022.02.16-17.37.28:394][136]LogTemp: randY: -214.880798
+[2022.02.16-17.37.28:493][142]LogTemp: randX: -525.936646
+[2022.02.16-17.37.28:493][142]LogTemp: randY: 639.637451
+[2022.02.16-17.37.28:594][148]LogTemp: randX: 284.764282
+[2022.02.16-17.37.28:594][148]LogTemp: randY: -459.395142
+[2022.02.16-17.37.29:445][199]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.37.29:445][199]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.37.36:577][626]LogTemp: randX: 0.000000
+[2022.02.16-17.37.36:577][626]LogTemp: randY: 0.000000
+[2022.02.16-17.37.36:866][643]LogTemp: randX: 149.606934
+[2022.02.16-17.37.36:867][643]LogTemp: randY: -60.889565
+[2022.02.16-17.37.37:051][654]LogTemp: randX: -171.137619
+[2022.02.16-17.37.37:051][654]LogTemp: randY: 247.332153
+[2022.02.16-17.37.37:236][665]LogTemp: randX: 414.426208
+[2022.02.16-17.37.37:236][665]LogTemp: randY: 154.835693
+[2022.02.16-17.37.37:419][676]LogTemp: randX: 513.097534
+[2022.02.16-17.37.37:419][676]LogTemp: randY: -536.657776
+[2022.02.16-17.37.37:519][682]LogTemp: randX: 302.972473
+[2022.02.16-17.37.37:520][682]LogTemp: randY: 219.504333
+[2022.02.16-17.37.37:938][707]LogTemp: randX: -801.080322
+[2022.02.16-17.37.37:939][707]LogTemp: randY: -108.859497
+[2022.02.16-17.37.38:035][713]LogTemp: randX: 328.094055
+[2022.02.16-17.37.38:035][713]LogTemp: randY: -441.755432
+[2022.02.16-17.37.38:135][719]LogTemp: randX: 466.803528
+[2022.02.16-17.37.38:135][719]LogTemp: randY: 235.694458
+[2022.02.16-17.37.38:136][719]LogBlueprintUserMessages: [BotMaster_2] 70
+[2022.02.16-17.37.38:236][725]LogTemp: randX: -172.790466
+[2022.02.16-17.37.38:236][725]LogTemp: randY: 711.539062
+[2022.02.16-17.37.38:236][725]LogBlueprintUserMessages: [BotMaster_2] 40
+[2022.02.16-17.37.38:335][731]LogTemp: randX: 716.968323
+[2022.02.16-17.37.38:335][731]LogTemp: randY: -571.947388
+[2022.02.16-17.37.38:336][731]LogBlueprintUserMessages: [BotMaster_2] 10
+[2022.02.16-17.37.38:435][737]LogTemp: randX: -570.811829
+[2022.02.16-17.37.38:436][737]LogTemp: randY: -828.608032
+[2022.02.16-17.37.38:436][737]LogBlueprintUserMessages: [BotMaster_2] -20
+[2022.02.16-17.37.38:535][743]LogTemp: randX: -899.147034
+[2022.02.16-17.37.38:535][743]LogTemp: randY: -718.924561
+[2022.02.16-17.37.38:636][749]LogTemp: randX: 103.671387
+[2022.02.16-17.37.38:636][749]LogTemp: randY: 804.742554
+[2022.02.16-17.37.38:736][755]LogTemp: randX: 660.226685
+[2022.02.16-17.37.38:737][755]LogTemp: randY: -450.727844
+[2022.02.16-17.37.38:836][761]LogTemp: randX: 858.633118
+[2022.02.16-17.37.38:836][761]LogTemp: randY: 724.234741
+[2022.02.16-17.37.38:936][767]LogTemp: randX: 16.823364
+[2022.02.16-17.37.38:936][767]LogTemp: randY: 242.103394
+[2022.02.16-17.37.39:169][781]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.37.39:169][781]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.37.49:038][373]LogTemp: randX: 0.000000
+[2022.02.16-17.37.49:038][373]LogTemp: randY: 0.000000
+[2022.02.16-17.37.49:136][379]LogTemp: randX: 76.362457
+[2022.02.16-17.37.49:137][379]LogTemp: randY: 114.256317
+[2022.02.16-17.37.49:237][385]LogTemp: randX: -198.583939
+[2022.02.16-17.37.49:237][385]LogTemp: randY: -91.362244
+[2022.02.16-17.37.49:237][385]LogBlueprintUserMessages: [BotMaster2] 70
+[2022.02.16-17.37.49:337][391]LogTemp: randX: -116.626526
+[2022.02.16-17.37.49:337][391]LogTemp: randY: -32.181763
+[2022.02.16-17.37.49:337][391]LogBlueprintUserMessages: [BotMaster4] 70
+[2022.02.16-17.37.49:437][397]LogTemp: randX: 68.951477
+[2022.02.16-17.37.49:437][397]LogTemp: randY: 622.597900
+[2022.02.16-17.37.49:537][403]LogTemp: randX: 185.679688
+[2022.02.16-17.37.49:537][403]LogTemp: randY: 186.290100
+[2022.02.16-17.37.49:537][403]LogBlueprintUserMessages: [BotMaster4] 40
+[2022.02.16-17.37.49:637][409]LogTemp: randX: 83.529114
+[2022.02.16-17.37.49:637][409]LogTemp: randY: 918.637634
+[2022.02.16-17.37.49:737][415]LogTemp: randX: -878.054932
+[2022.02.16-17.37.49:737][415]LogTemp: randY: -603.564575
+[2022.02.16-17.37.49:737][415]LogBlueprintUserMessages: [BotMaster4] 10
+[2022.02.16-17.37.49:837][421]LogTemp: randX: -40.543335
+[2022.02.16-17.37.49:837][421]LogTemp: randY: -353.434875
+[2022.02.16-17.37.49:837][421]LogBlueprintUserMessages: [BotMaster4] -20
+[2022.02.16-17.37.49:940][427]LogTemp: randX: 429.402222
+[2022.02.16-17.37.49:940][427]LogTemp: randY: -195.654175
+[2022.02.16-17.37.52:023][552]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.37.52:023][552]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.37.56:297][808]LogTemp: randX: -0.000000
+[2022.02.16-17.37.56:297][808]LogTemp: randY: -0.000000
+[2022.02.16-17.37.56:616][827]LogTemp: randX: 117.684540
+[2022.02.16-17.37.56:616][827]LogTemp: randY: 64.846802
+[2022.02.16-17.37.56:715][833]LogTemp: randX: 267.860962
+[2022.02.16-17.37.56:715][833]LogTemp: randY: -232.072906
+[2022.02.16-17.37.56:816][839]LogTemp: randX: 22.812561
+[2022.02.16-17.37.56:816][839]LogTemp: randY: -163.258789
+[2022.02.16-17.37.56:915][845]LogTemp: randX: 220.730225
+[2022.02.16-17.37.56:915][845]LogTemp: randY: -266.914856
+[2022.02.16-17.37.57:015][851]LogTemp: randX: -302.107849
+[2022.02.16-17.37.57:015][851]LogTemp: randY: -744.371948
+[2022.02.16-17.37.57:868][902]LogTemp: randX: -533.860229
+[2022.02.16-17.37.57:869][902]LogTemp: randY: 738.273254
+[2022.02.16-17.37.58:188][921]LogTemp: randX: 630.554382
+[2022.02.16-17.37.58:188][921]LogTemp: randY: -546.678101
+[2022.02.16-17.37.58:422][935]LogTemp: randX: 622.434631
+[2022.02.16-17.37.58:422][935]LogTemp: randY: -179.113159
+[2022.02.16-17.37.58:604][946]LogTemp: randX: 71.859619
+[2022.02.16-17.37.58:604][946]LogTemp: randY: 685.964478
+[2022.02.16-17.37.58:702][952]LogTemp: randX: -140.750366
+[2022.02.16-17.37.58:702][952]LogTemp: randY: -871.761230
+[2022.02.16-17.37.58:819][959]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.37.58:890][963]LogTemp: randX: -903.934082
+[2022.02.16-17.37.58:890][963]LogTemp: randY: -150.303650
+[2022.02.16-17.37.58:988][969]LogTemp: randX: -289.027100
+[2022.02.16-17.37.58:989][969]LogTemp: randY: 683.950317
+[2022.02.16-17.37.59:093][975]LogTemp: randX: 846.722534
+[2022.02.16-17.37.59:093][975]LogTemp: randY: 581.835327
+[2022.02.16-17.37.59:543][  1]LogTemp: randX: -390.609985
+[2022.02.16-17.37.59:543][  1]LogTemp: randY: 792.168945
+[2022.02.16-17.37.59:644][  7]LogTemp: randX: 839.693420
+[2022.02.16-17.37.59:644][  7]LogTemp: randY: -526.902100
+[2022.02.16-17.37.59:644][  7]LogBlueprintUserMessages: [BotMaster2] 40
+[2022.02.16-17.37.59:746][ 13]LogTemp: randX: -77.885803
+[2022.02.16-17.37.59:746][ 13]LogTemp: randY: -941.221375
+[2022.02.16-17.37.59:747][ 13]LogBlueprintUserMessages: [BotMaster2] 10
+[2022.02.16-17.37.59:861][ 19]LogTemp: randX: 486.546448
+[2022.02.16-17.37.59:861][ 19]LogTemp: randY: 67.842651
+[2022.02.16-17.37.59:862][ 19]LogBlueprintUserMessages: [BotMaster2] -20
+[2022.02.16-17.37.59:965][ 25]LogTemp: randX: 360.388489
+[2022.02.16-17.37.59:965][ 25]LogTemp: randY: -263.466309
+[2022.02.16-17.38.00:064][ 31]LogTemp: randX: -33.348267
+[2022.02.16-17.38.00:064][ 31]LogTemp: randY: -672.414307
+[2022.02.16-17.38.00:168][ 37]LogTemp: randX: -804.459961
+[2022.02.16-17.38.00:169][ 37]LogTemp: randY: -857.661682
+[2022.02.16-17.38.00:269][ 43]LogTemp: randX: -145.054504
+[2022.02.16-17.38.00:269][ 43]LogTemp: randY: 282.570923
+[2022.02.16-17.38.00:370][ 49]LogTemp: randX: -68.334351
+[2022.02.16-17.38.00:370][ 49]LogTemp: randY: 146.353271
+[2022.02.16-17.38.00:470][ 55]LogTemp: randX: 204.538452
+[2022.02.16-17.38.00:470][ 55]LogTemp: randY: -220.062195
+[2022.02.16-17.38.00:570][ 61]LogTemp: randX: -516.190063
+[2022.02.16-17.38.00:570][ 61]LogTemp: randY: 254.504028
+[2022.02.16-17.38.00:886][ 80]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.02.16-17.38.00:886][ 80]LogAnimMontage: Warning: JumpToSectionName Reload SMG bEndOfSection: 0 failed for Montage WeaponReloadMontage
+[2022.02.16-17.38.05:408][350]LogTemp: randX: 446.396667
+[2022.02.16-17.38.05:408][350]LogTemp: randY: 386.394897
+[2022.02.16-17.38.05:662][365]LogTemp: randX: -396.044495
+[2022.02.16-17.38.05:662][365]LogTemp: randY: -674.672729
+[2022.02.16-17.38.05:758][371]LogTemp: randX: 101.335205
+[2022.02.16-17.38.05:758][371]LogTemp: randY: 577.440674
+[2022.02.16-17.38.05:894][377]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.38.05:912][378]LogTemp: randX: -794.366272
+[2022.02.16-17.38.05:912][378]LogTemp: randY: 457.563965
+[2022.02.16-17.38.06:010][384]LogTemp: randX: 84.827881
+[2022.02.16-17.38.06:010][384]LogTemp: randY: -739.741455
+[2022.02.16-17.38.06:130][391]LogTemp: randX: 653.113159
+[2022.02.16-17.38.06:130][391]LogTemp: randY: -379.999542
+[2022.02.16-17.38.06:227][397]LogTemp: randX: -139.795166
+[2022.02.16-17.38.06:227][397]LogTemp: randY: -46.937439
+[2022.02.16-17.38.06:579][418]LogTemp: randX: -299.640930
+[2022.02.16-17.38.06:579][418]LogTemp: randY: -437.686340
+[2022.02.16-17.38.06:678][424]LogTemp: randX: 109.364746
+[2022.02.16-17.38.06:678][424]LogTemp: randY: 18.107666
+[2022.02.16-17.38.06:778][430]LogTemp: randX: -139.968063
+[2022.02.16-17.38.06:778][430]LogTemp: randY: 182.348145
+[2022.02.16-17.38.06:879][436]LogTemp: randX: -116.492546
+[2022.02.16-17.38.06:879][436]LogTemp: randY: 71.420105
+[2022.02.16-17.38.06:978][442]LogTemp: randX: 4.425186
+[2022.02.16-17.38.06:978][442]LogTemp: randY: 59.650177
+[2022.02.16-17.44.34:929][505]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-17.44.49:971][406]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-18.26.45:150][ 90]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-18.26.50:399][405]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-18.27.03:600][197]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.02.16-18.27.17:877][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.16-18.27.17:877][ 50]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking
+[2022.02.16-18.27.17:878][ 50]LogSlate: Window 'Cyberpunk2022 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.16-18.27.17:887][ 50]LogWorld: UWorld::CleanupWorld for bloking, bSessionEnded=true, bCleanupResources=true
+[2022.02.16-18.27.17:926][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.16-18.27.17:947][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.16-18.27.17:955][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.16-18.27.17:990][ 50]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.16-18.27.17:993][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.16-18.27.17:996][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.16-18.27.18:083][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   9.14ms
+[2022.02.16-18.27.18:184][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.02.16-18.28.25:128][252]LogSlate: Window 'BP_BaseWeapon' being destroyed
+[2022.02.16-18.28.25:130][252]LogSlate: Window 'BP_BaseWeapon' being destroyed
+[2022.02.16-18.28.25:134][252]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.02.16-18.28.25:134][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.16-18.28.25:934][254]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.16-18.28.25:934][254]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.16-18.28.30:390][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.02.16-18.28.30:438][342]LogSlate: Window 'Cyberpunk2022 - Unreal Editor' being destroyed
+[2022.02.16-18.28.30:650][343]Cmd: QUIT_EDITOR
+[2022.02.16-18.28.30:650][343]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.02.16-18.28.30:656][343]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.02.16-18.28.31:579][343]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.02.16-18.28.31:579][343]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.02.16-18.28.31:580][343]LogAudio: Display: Audio Device unregistered from world 'bloking'.
+[2022.02.16-18.28.31:580][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.16-18.28.31:582][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.16-18.28.31:598][343]LogAudio: Display: Audio Device Manager Shutdown
+[2022.02.16-18.28.31:598][343]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.16-18.28.31:604][343]LogExit: Preparing to exit.

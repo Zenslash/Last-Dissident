@@ -69,6 +69,9 @@ private:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Properties", meta = (AllowPrivateAccess = "true"))
 	class UDataTable* _bulletHolesDT;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Properties", meta = (AllowPrivateAccess = "true"))
+	FVector _decalSize;
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Animation Properties", meta = (AllowPrivateAccess = "true"))
 	UAnimMontage* _reloadAnimation;
 
@@ -107,6 +110,7 @@ public:
 	FORCEINLINE FName GetReloadMontage() const { return _reloadMontageSection; }
 	FORCEINLINE UAnimMontage* GetReloadAnimation() const { return _reloadAnimation; }
 	FORCEINLINE TSubclassOf<UCameraShakeBase> GetShakeClass() const { return _cameraShakeClass; }
+	FORCEINLINE FVector GetDecalSize() const { return _decalSize; }
 
 	FORCEINLINE void DecrementAmmo();
 

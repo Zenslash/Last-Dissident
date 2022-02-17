@@ -23,6 +23,7 @@ void EmptyLinkFunctionForGeneratedCodeWeapon() {}
 	CYBERPUNK2022_API UEnum* Z_Construct_UEnum_Cyberpunk2022_EAmmoType();
 	ENGINE_API UClass* Z_Construct_UClass_UCurveFloat_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UDataTable_NoRegister();
+	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
 	ENGINE_API UClass* Z_Construct_UClass_UAnimMontage_NoRegister();
 	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
 	ENGINE_API UClass* Z_Construct_UClass_UCameraShakeBase_NoRegister();
@@ -154,6 +155,10 @@ void EmptyLinkFunctionForGeneratedCodeWeapon() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp__bulletHolesDT_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp__bulletHolesDT;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp__decalSize_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp__decalSize;
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp__reloadAnimation_MetaData[];
 #endif
@@ -292,6 +297,14 @@ void EmptyLinkFunctionForGeneratedCodeWeapon() {}
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AWeapon_Statics::NewProp__bulletHolesDT = { "_bulletHolesDT", nullptr, (EPropertyFlags)0x0040000000000005, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AWeapon, _bulletHolesDT), Z_Construct_UClass_UDataTable_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AWeapon_Statics::NewProp__bulletHolesDT_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AWeapon_Statics::NewProp__bulletHolesDT_MetaData)) };
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AWeapon_Statics::NewProp__decalSize_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Weapon Properties" },
+		{ "ModuleRelativePath", "Weapon.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UClass_AWeapon_Statics::NewProp__decalSize = { "_decalSize", nullptr, (EPropertyFlags)0x0040000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AWeapon, _decalSize), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(Z_Construct_UClass_AWeapon_Statics::NewProp__decalSize_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AWeapon_Statics::NewProp__decalSize_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AWeapon_Statics::NewProp__reloadAnimation_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Animation Properties" },
@@ -323,6 +336,7 @@ void EmptyLinkFunctionForGeneratedCodeWeapon() {}
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AWeapon_Statics::NewProp__recoilX,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AWeapon_Statics::NewProp__recoilY,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AWeapon_Statics::NewProp__bulletHolesDT,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AWeapon_Statics::NewProp__decalSize,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AWeapon_Statics::NewProp__reloadAnimation,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AWeapon_Statics::NewProp__cameraShakeClass,
 	};
@@ -353,7 +367,7 @@ void EmptyLinkFunctionForGeneratedCodeWeapon() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AWeapon, 2173112210);
+	IMPLEMENT_CLASS(AWeapon, 2108257383);
 	template<> CYBERPUNK2022_API UClass* StaticClass<AWeapon>()
 	{
 		return AWeapon::StaticClass();
