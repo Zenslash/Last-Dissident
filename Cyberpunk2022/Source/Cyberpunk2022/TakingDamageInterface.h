@@ -23,6 +23,6 @@ class CYBERPUNK2022_API ITakingDamageInterface
 	// Add interface functions to this class. This is the class that will be inherited to implement this interface.
 public:
 	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent)
-	void TakingDamage(FName bone, int damage, AActor* instigator);
+	void TakingDamage(FName bone, int damage, FVector impact_normal);
 
 };

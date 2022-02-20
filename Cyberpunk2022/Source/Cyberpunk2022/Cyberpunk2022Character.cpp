@@ -314,7 +314,7 @@ void ACyberpunk2022Character::SendBullet()
 			bool bImplTakingDamage = UKismetSystemLibrary::DoesImplementInterface(hitInfo.GetActor(), UTakingDamageInterface::StaticClass());
 			if (bImplTakingDamage)
 			{
-				ITakingDamageInterface::Execute_TakingDamage(hitInfo.GetActor(), hitInfo.BoneName, _equippedWeapon->GetDamagePerBullet(), nullptr);
+				ITakingDamageInterface::Execute_TakingDamage(hitInfo.GetActor(), hitInfo.BoneName, _equippedWeapon->GetDamagePerBullet(), hitInfo.ImpactNormal);
 			}
 
 			beamEndPoint = hitInfo.Location;
