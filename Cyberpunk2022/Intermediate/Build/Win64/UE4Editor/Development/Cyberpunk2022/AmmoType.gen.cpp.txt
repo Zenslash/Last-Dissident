@@ -1,4 +1,4 @@
-E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Development\Cyberpunk2022\Definitions.Cyberpunk2022.h
-E:\UE4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-E:\UE4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Source\Cyberpunk2022/AmmoType.h
+C:\3D\Wargaming\GIT\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Development\Cyberpunk2022\Definitions.Cyberpunk2022.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\3D\Wargaming\GIT\WargamingAcademy\Cyberpunk2022\Source\Cyberpunk2022/AmmoType.h

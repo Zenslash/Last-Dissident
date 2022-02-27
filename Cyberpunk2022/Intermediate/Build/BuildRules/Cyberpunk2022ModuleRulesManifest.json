@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"E:\\UE4\\Projects\\WargamingAcademy\\Cyberpunk2022\\Source\\Cyberpunk2022\\Cyberpunk2022.Build.cs",
-		"E:\\UE4\\Projects\\WargamingAcademy\\Cyberpunk2022\\Source\\Cyberpunk2022.Target.cs",
-		"E:\\UE4\\Projects\\WargamingAcademy\\Cyberpunk2022\\Source\\Cyberpunk2022Editor.Target.cs"
+		"C:\\3D\\Wargaming\\GIT\\WargamingAcademy\\Cyberpunk2022\\Source\\Cyberpunk2022\\Cyberpunk2022.Build.cs",
+		"C:\\3D\\Wargaming\\GIT\\WargamingAcademy\\Cyberpunk2022\\Source\\Cyberpunk2022.Target.cs",
+		"C:\\3D\\Wargaming\\GIT\\WargamingAcademy\\Cyberpunk2022\\Source\\Cyberpunk2022Editor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
