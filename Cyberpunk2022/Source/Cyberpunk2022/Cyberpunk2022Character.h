@@ -105,6 +105,7 @@ protected:
 	void FireWeapon();
 	void PlayFireSound() const;
 	void SendBullet();
+	void PlayFireAnimations() const;
 
 	void ReloadButtonPressed();
 	void ReloadWeapon();

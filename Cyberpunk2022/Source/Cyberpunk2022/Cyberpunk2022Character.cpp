@@ -260,6 +260,7 @@ void ACyberpunk2022Character::FireWeapon()
 	if(WeaponHasAmmo())
 	{
 		PlayFireSound();
+		PlayFireAnimations();
 		SendBullet();
 		//Play animation
 		StartCrosshairBulletFire();
@@ -296,6 +297,7 @@ void ACyberpunk2022Character::SendBullet()
 			UParticleSystemComponent* muzzle = UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), _equippedWeapon->GetMuzzleFlash(), socketTransform);
 			muzzle->AttachTo((USceneComponent*)itemMesh);
 		}
+
 
 		//Line trace
 		FHitResult hitInfo;
@@ -353,6 +355,16 @@ void ACyberpunk2022Character::SendBullet()
 		//Play camera shake
 		GetWorld()->GetFirstPlayerController()->ClientStartCameraShake(
 											_equippedWeapon->GetShakeClass());
+	}
+}
+
+void ACyberpunk2022Character::PlayFireAnimations() const
+{
+	UAnimInstance* AnimInstance = GetMesh1P()->GetAnimInstance();
+	if(AnimInstance && FireAnimation)
+	{
+		AnimInstance->Montage_Play(FireAnimation);
+		AnimInstance->Montage_JumpToSection(FName("StartFire"));
 	}
 }
 
