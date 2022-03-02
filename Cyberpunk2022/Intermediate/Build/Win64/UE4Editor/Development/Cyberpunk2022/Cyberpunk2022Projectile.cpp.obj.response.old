@@ -231,8 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Inc\Cyberpunk2022
-/I E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Source
+/I C:\3D\Wargaming\GIT\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Inc\Cyberpunk2022
+/I C:\3D\Wargaming\GIT\WargamingAcademy\Cyberpunk2022\Source
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MRMesh
@@ -252,6 +252,16 @@
 /I Runtime\Portal
 /I Runtime\Portal\LauncherPlatform\Public
 /I ..\Plugins\FX\Niagara\Source\NiagaraVertexFactories\Public
+/I ..\Plugins\Cameras\GameplayCameras\Intermediate\Build\Win64\UE4Editor\Inc\GameplayCameras
+/I ..\Plugins\Cameras\GameplayCameras\Source
+/I ..\Plugins\Cameras\GameplayCameras\Source\GameplayCameras\Public
+/I ..\Plugins\MovieScene\TemplateSequence\Intermediate\Build\Win64\UE4Editor\Inc\TemplateSequence
+/I ..\Plugins\MovieScene\TemplateSequence\Source
+/I ..\Plugins\MovieScene\TemplateSequence\Source\TemplateSequence\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\CinematicCamera
+/I Runtime\CinematicCamera\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\LevelSequence
+/I Runtime\LevelSequence\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -275,18 +285,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE"
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\Cyberpunk2022Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\Cyberpunk2022Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\Cyberpunk2022Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Source\Cyberpunk2022\Cyberpunk2022Projectile.cpp"
-/FI"E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Development\Cyberpunk2022\Definitions.Cyberpunk2022.h"
-/Fo"E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Development\Cyberpunk2022\Cyberpunk2022Projectile.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
+/FI"C:\3D\Wargaming\GIT\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\Cyberpunk2022Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\3D\Wargaming\GIT\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\Cyberpunk2022Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\3D\Wargaming\GIT\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\Cyberpunk2022Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\3D\Wargaming\GIT\WargamingAcademy\Cyberpunk2022\Source\Cyberpunk2022\Cyberpunk2022Projectile.cpp"
+/FI"C:\3D\Wargaming\GIT\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Development\Cyberpunk2022\Definitions.Cyberpunk2022.h"
+/Fo"C:\3D\Wargaming\GIT\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Development\Cyberpunk2022\Cyberpunk2022Projectile.cpp.obj"
 /TP
 /GR-
 /W4
