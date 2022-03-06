@@ -301,10 +301,11 @@ void ACyberpunk2022Character::SendBullet()
 
 		//Line trace
 		FHitResult hitInfo;
-		const FVector startPoint{ socketTransform.GetLocation() };
 		FTransform cameraTransform = FirstPersonCameraComponent->GetComponentTransform();
+		FVector recoilOffset = cameraTransform.Rotator().RotateVector( _equippedWeapon->GetRecoilOffset());
+		const FVector startPoint{ cameraTransform.GetLocation() };
 		const FVector rotationAxis{ cameraTransform.GetRotation().GetForwardVector() };
-		const FVector endPoint{ cameraTransform.GetLocation() + rotationAxis * 50'000.f + _equippedWeapon->GetRecoilOffset() };
+		const FVector endPoint{ cameraTransform.GetLocation() + rotationAxis * 50'000.f + recoilOffset };
 
 		FVector beamEndPoint{ endPoint };
 
