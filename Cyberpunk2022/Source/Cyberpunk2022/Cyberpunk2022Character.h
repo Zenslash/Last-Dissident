@@ -114,6 +114,12 @@ protected:
 	void InitializeAmmoMap();
 
 	UFUNCTION(BlueprintCallable)
+	void GrabClip();
+
+	UFUNCTION(BlueprintCallable)
+	void ReleaseClip();
+
+	UFUNCTION(BlueprintCallable)
 	void FinishReloading();
 
 	struct TouchData
@@ -209,6 +215,12 @@ private:
 	float _shootTimeDuration;
 	bool _bFiringBullet;
 	FTimerHandle _crosshairShootTimer;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
+	FTransform _clipTransform;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
+	USceneComponent* _handSceneComponent;
 
 };
 

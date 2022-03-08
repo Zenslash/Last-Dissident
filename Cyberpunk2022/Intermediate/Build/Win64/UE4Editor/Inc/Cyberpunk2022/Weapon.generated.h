@@ -75,7 +75,9 @@ public: \
 	FORCEINLINE static uint32 __PPO___bulletHolesDT() { return STRUCT_OFFSET(AWeapon, _bulletHolesDT); } \
 	FORCEINLINE static uint32 __PPO___decalSize() { return STRUCT_OFFSET(AWeapon, _decalSize); } \
 	FORCEINLINE static uint32 __PPO___reloadAnimation() { return STRUCT_OFFSET(AWeapon, _reloadAnimation); } \
-	FORCEINLINE static uint32 __PPO___cameraShakeClass() { return STRUCT_OFFSET(AWeapon, _cameraShakeClass); }
+	FORCEINLINE static uint32 __PPO___cameraShakeClass() { return STRUCT_OFFSET(AWeapon, _cameraShakeClass); } \
+	FORCEINLINE static uint32 __PPO___bMovingClip() { return STRUCT_OFFSET(AWeapon, _bMovingClip); } \
+	FORCEINLINE static uint32 __PPO___clipBoneName() { return STRUCT_OFFSET(AWeapon, _clipBoneName); }
 
 
 #define Cyberpunk2022_Source_Cyberpunk2022_Weapon_h_23_PROLOG

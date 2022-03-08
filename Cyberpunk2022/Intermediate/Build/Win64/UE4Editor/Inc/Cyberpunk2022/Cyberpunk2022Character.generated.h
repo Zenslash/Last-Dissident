@@ -21,7 +21,9 @@ class USkeletalMeshComponent;
 	DECLARE_FUNCTION(execGetCrosshairSpreadMultiplier); \
 	DECLARE_FUNCTION(execGetMesh1P); \
 	DECLARE_FUNCTION(execFinishCrosshairBulletFire); \
-	DECLARE_FUNCTION(execFinishReloading);
+	DECLARE_FUNCTION(execFinishReloading); \
+	DECLARE_FUNCTION(execReleaseClip); \
+	DECLARE_FUNCTION(execGrabClip);
 
 
 #define Cyberpunk2022_Source_Cyberpunk2022_Cyberpunk2022Character_h_31_RPC_WRAPPERS_NO_PURE_DECLS \
@@ -30,7 +32,9 @@ class USkeletalMeshComponent;
 	DECLARE_FUNCTION(execGetCrosshairSpreadMultiplier); \
 	DECLARE_FUNCTION(execGetMesh1P); \
 	DECLARE_FUNCTION(execFinishCrosshairBulletFire); \
-	DECLARE_FUNCTION(execFinishReloading);
+	DECLARE_FUNCTION(execFinishReloading); \
+	DECLARE_FUNCTION(execReleaseClip); \
+	DECLARE_FUNCTION(execGrabClip);
 
 
 #define Cyberpunk2022_Source_Cyberpunk2022_Cyberpunk2022Character_h_31_INCLASS_NO_PURE_DECLS \
@@ -86,7 +90,9 @@ public: \
 	FORCEINLINE static uint32 __PPO___crosshairSpreadMultiplier() { return STRUCT_OFFSET(ACyberpunk2022Character, _crosshairSpreadMultiplier); } \
 	FORCEINLINE static uint32 __PPO___crosshairVelocityFactor() { return STRUCT_OFFSET(ACyberpunk2022Character, _crosshairVelocityFactor); } \
 	FORCEINLINE static uint32 __PPO___crosshairInAirFactor() { return STRUCT_OFFSET(ACyberpunk2022Character, _crosshairInAirFactor); } \
-	FORCEINLINE static uint32 __PPO___crosshairInShootingFactor() { return STRUCT_OFFSET(ACyberpunk2022Character, _crosshairInShootingFactor); }
+	FORCEINLINE static uint32 __PPO___crosshairInShootingFactor() { return STRUCT_OFFSET(ACyberpunk2022Character, _crosshairInShootingFactor); } \
+	FORCEINLINE static uint32 __PPO___clipTransform() { return STRUCT_OFFSET(ACyberpunk2022Character, _clipTransform); } \
+	FORCEINLINE static uint32 __PPO___handSceneComponent() { return STRUCT_OFFSET(ACyberpunk2022Character, _handSceneComponent); }
 
 
 #define Cyberpunk2022_Source_Cyberpunk2022_Cyberpunk2022Character_h_28_PROLOG

@@ -14,6 +14,7 @@ AWeapon::AWeapon()
 	_ammoType = EAmmoType::EAT_SMG;
 	_reloadMontageSection = TEXT("Reload SMG");
 	_magazineCapacity = 30;
+	_clipBoneName = TEXT("mag");
 }
 
 void AWeapon::DecrementAmmo()

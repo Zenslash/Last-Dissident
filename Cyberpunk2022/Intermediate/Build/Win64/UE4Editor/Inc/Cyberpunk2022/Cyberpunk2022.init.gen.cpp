@@ -25,7 +25,7 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x3CF76472,
+				0xCF3525BD,
 				0xFAD7E45C,
 				METADATA_PARAMS(nullptr, 0)
 			};
