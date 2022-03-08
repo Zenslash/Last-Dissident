@@ -66,6 +66,8 @@ ACyberpunk2022Character::ACyberpunk2022Character()
 	// Default offset from the character location for projectiles to spawn
 	GunOffset = FVector(100.0f, 0.0f, 10.0f);
 
+	_handSceneComponent = CreateDefaultSubobject<USceneComponent>(TEXT("HandSceneComp"));
+
 }
 
 void ACyberpunk2022Character::BeginPlay()
@@ -423,6 +425,32 @@ bool ACyberpunk2022Character::CarryingAmmo()
 void ACyberpunk2022Character::InitializeAmmoMap()
 {
 	_ammoMap.Add(EAmmoType::EAT_SMG, 90);
+}
+
+void ACyberpunk2022Character::GrabClip()
+{
+	if(_equippedWeapon == nullptr)
+	{
+		return;
+	}
+	if(_handSceneComponent == nullptr)
+	{
+		return;
+	}
+
+	int32 clipBoneIndex{ _equippedWeapon->GetItemMesh()->GetBoneIndex(_equippedWeapon->GetClipBone()) };
+	_clipTransform = _equippedWeapon->GetItemMesh()->GetBoneTransform(clipBoneIndex);
+
+	FAttachmentTransformRules attachmentRules(EAttachmentRule::KeepRelative, true);
+	_handSceneComponent->AttachToComponent(GetMesh1P(), attachmentRules, FName(TEXT("hand_l")));
+	_handSceneComponent->SetWorldTransform(_clipTransform);
+
+	_equippedWeapon->SetMovingClip(true);
+}
+
+void ACyberpunk2022Character::ReleaseClip()
+{
+	_equippedWeapon->SetMovingClip(false);
 }
 
 void ACyberpunk2022Character::FinishReloading()
