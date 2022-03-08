@@ -23,7 +23,7 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-private:
+protected:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Item Properties", meta = (AllowPrivateAccess = "true"))
 	USkeletalMeshComponent* _itemMesh;
 
@@ -32,6 +32,19 @@ private:
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Item Properties", meta = (AllowPrivateAccess = "true"))
 	class UWidgetComponent* _pickupWidget;
-public:
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Item Properties", meta = (AllowPrivateAccess = "true"))
+	FString _itemName;
+public:
+	UFUNCTION(BlueprintCallable)
+	USkeletalMeshComponent* GetItemMesh() const
+	{
+		return _itemMesh;
+	}
+
+	UFUNCTION(BlueprintCallable)
+	FString GetItemName() const
+	{
+		return _itemName;
+	}
 };

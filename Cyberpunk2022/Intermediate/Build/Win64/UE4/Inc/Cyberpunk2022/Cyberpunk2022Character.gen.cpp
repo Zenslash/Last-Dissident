@@ -13,10 +13,11 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 // Cross Module References
+	CYBERPUNK2022_API UEnum* Z_Construct_UEnum_Cyberpunk2022_ECombatState();
+	UPackage* Z_Construct_UPackage__Script_Cyberpunk2022();
 	CYBERPUNK2022_API UClass* Z_Construct_UClass_ACyberpunk2022Character_NoRegister();
 	CYBERPUNK2022_API UClass* Z_Construct_UClass_ACyberpunk2022Character();
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
-	UPackage* Z_Construct_UPackage__Script_Cyberpunk2022();
 	ENGINE_API UClass* Z_Construct_UClass_USkeletalMeshComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
@@ -24,10 +25,258 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 	CYBERPUNK2022_API UClass* Z_Construct_UClass_ACyberpunk2022Projectile_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_USoundBase_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UAnimMontage_NoRegister();
+	ENGINE_API UClass* Z_Construct_UClass_USkeletalMeshSocket_NoRegister();
 	CYBERPUNK2022_API UClass* Z_Construct_UClass_AWeapon_NoRegister();
+	CYBERPUNK2022_API UEnum* Z_Construct_UEnum_Cyberpunk2022_EAmmoType();
 // End Cross Module References
+	static UEnum* ECombatState_StaticEnum()
+	{
+		static UEnum* Singleton = nullptr;
+		if (!Singleton)
+		{
+			Singleton = GetStaticEnum(Z_Construct_UEnum_Cyberpunk2022_ECombatState, Z_Construct_UPackage__Script_Cyberpunk2022(), TEXT("ECombatState"));
+		}
+		return Singleton;
+	}
+	template<> CYBERPUNK2022_API UEnum* StaticEnum<ECombatState>()
+	{
+		return ECombatState_StaticEnum();
+	}
+	static FCompiledInDeferEnum Z_CompiledInDeferEnum_UEnum_ECombatState(ECombatState_StaticEnum, TEXT("/Script/Cyberpunk2022"), TEXT("ECombatState"), false, nullptr, nullptr);
+	uint32 Get_Z_Construct_UEnum_Cyberpunk2022_ECombatState_Hash() { return 3107482365U; }
+	UEnum* Z_Construct_UEnum_Cyberpunk2022_ECombatState()
+	{
+#if WITH_HOT_RELOAD
+		UPackage* Outer = Z_Construct_UPackage__Script_Cyberpunk2022();
+		static UEnum* ReturnEnum = FindExistingEnumIfHotReloadOrDynamic(Outer, TEXT("ECombatState"), 0, Get_Z_Construct_UEnum_Cyberpunk2022_ECombatState_Hash(), false);
+#else
+		static UEnum* ReturnEnum = nullptr;
+#endif // WITH_HOT_RELOAD
+		if (!ReturnEnum)
+		{
+			static const UE4CodeGen_Private::FEnumeratorParam Enumerators[] = {
+				{ "ECombatState::ECS_Unoccupied", (int64)ECombatState::ECS_Unoccupied },
+				{ "ECombatState::ECS_FireTimerInProgress", (int64)ECombatState::ECS_FireTimerInProgress },
+				{ "ECombatState::ECS_Reloading", (int64)ECombatState::ECS_Reloading },
+				{ "ECombatState::ECS_MAX", (int64)ECombatState::ECS_MAX },
+			};
+#if WITH_METADATA
+			const UE4CodeGen_Private::FMetaDataPairParam Enum_MetaDataParams[] = {
+				{ "BlueprintType", "true" },
+				{ "ECS_FireTimerInProgress.DisplayName", "FireTimerInProgress" },
+				{ "ECS_FireTimerInProgress.Name", "ECombatState::ECS_FireTimerInProgress" },
+				{ "ECS_MAX.DisplayName", "DefaultMax" },
+				{ "ECS_MAX.Name", "ECombatState::ECS_MAX" },
+				{ "ECS_Reloading.DisplayName", "Reloading" },
+				{ "ECS_Reloading.Name", "ECombatState::ECS_Reloading" },
+				{ "ECS_Unoccupied.DisplayName", "Unoccupied" },
+				{ "ECS_Unoccupied.Name", "ECombatState::ECS_Unoccupied" },
+				{ "ModuleRelativePath", "Cyberpunk2022Character.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FEnumParams EnumParams = {
+				(UObject*(*)())Z_Construct_UPackage__Script_Cyberpunk2022,
+				nullptr,
+				"ECombatState",
+				"ECombatState",
+				Enumerators,
+				UE_ARRAY_COUNT(Enumerators),
+				RF_Public|RF_Transient|RF_MarkAsNative,
+				EEnumFlags::None,
+				UE4CodeGen_Private::EDynamicType::NotDynamic,
+				(uint8)UEnum::ECppForm::EnumClass,
+				METADATA_PARAMS(Enum_MetaDataParams, UE_ARRAY_COUNT(Enum_MetaDataParams))
+			};
+			UE4CodeGen_Private::ConstructUEnum(ReturnEnum, EnumParams);
+		}
+		return ReturnEnum;
+	}
+	DEFINE_FUNCTION(ACyberpunk2022Character::execFireReset)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->FireReset();
+		P_NATIVE_END;
+	}
+	DEFINE_FUNCTION(ACyberpunk2022Character::execGetCrosshairSpreadMultiplier)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		*(float*)Z_Param__Result=P_THIS->GetCrosshairSpreadMultiplier();
+		P_NATIVE_END;
+	}
+	DEFINE_FUNCTION(ACyberpunk2022Character::execGetMesh1P)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		*(USkeletalMeshComponent**)Z_Param__Result=P_THIS->GetMesh1P();
+		P_NATIVE_END;
+	}
+	DEFINE_FUNCTION(ACyberpunk2022Character::execFinishCrosshairBulletFire)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->FinishCrosshairBulletFire();
+		P_NATIVE_END;
+	}
+	DEFINE_FUNCTION(ACyberpunk2022Character::execFinishReloading)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->FinishReloading();
+		P_NATIVE_END;
+	}
 	void ACyberpunk2022Character::StaticRegisterNativesACyberpunk2022Character()
 	{
+		UClass* Class = ACyberpunk2022Character::StaticClass();
+		static const FNameNativePtrPair Funcs[] = {
+			{ "FinishCrosshairBulletFire", &ACyberpunk2022Character::execFinishCrosshairBulletFire },
+			{ "FinishReloading", &ACyberpunk2022Character::execFinishReloading },
+			{ "FireReset", &ACyberpunk2022Character::execFireReset },
+			{ "GetCrosshairSpreadMultiplier", &ACyberpunk2022Character::execGetCrosshairSpreadMultiplier },
+			{ "GetMesh1P", &ACyberpunk2022Character::execGetMesh1P },
+		};
+		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
+	}
+	struct Z_Construct_UFunction_ACyberpunk2022Character_FinishCrosshairBulletFire_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ACyberpunk2022Character_FinishCrosshairBulletFire_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Cyberpunk2022Character.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACyberpunk2022Character_FinishCrosshairBulletFire_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACyberpunk2022Character, nullptr, "FinishCrosshairBulletFire", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00080401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACyberpunk2022Character_FinishCrosshairBulletFire_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ACyberpunk2022Character_FinishCrosshairBulletFire_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ACyberpunk2022Character_FinishCrosshairBulletFire()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ACyberpunk2022Character_FinishCrosshairBulletFire_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_ACyberpunk2022Character_FinishReloading_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ACyberpunk2022Character_FinishReloading_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Cyberpunk2022Character.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACyberpunk2022Character_FinishReloading_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACyberpunk2022Character, nullptr, "FinishReloading", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04080401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACyberpunk2022Character_FinishReloading_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ACyberpunk2022Character_FinishReloading_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ACyberpunk2022Character_FinishReloading()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ACyberpunk2022Character_FinishReloading_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_ACyberpunk2022Character_FireReset_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ACyberpunk2022Character_FireReset_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Cyberpunk2022Character.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACyberpunk2022Character_FireReset_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACyberpunk2022Character, nullptr, "FireReset", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACyberpunk2022Character_FireReset_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ACyberpunk2022Character_FireReset_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ACyberpunk2022Character_FireReset()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ACyberpunk2022Character_FireReset_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_ACyberpunk2022Character_GetCrosshairSpreadMultiplier_Statics
+	{
+		struct Cyberpunk2022Character_eventGetCrosshairSpreadMultiplier_Parms
+		{
+			float ReturnValue;
+		};
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_ReturnValue;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UFunction_ACyberpunk2022Character_GetCrosshairSpreadMultiplier_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(Cyberpunk2022Character_eventGetCrosshairSpreadMultiplier_Parms, ReturnValue), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ACyberpunk2022Character_GetCrosshairSpreadMultiplier_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ACyberpunk2022Character_GetCrosshairSpreadMultiplier_Statics::NewProp_ReturnValue,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ACyberpunk2022Character_GetCrosshairSpreadMultiplier_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Cyberpunk2022Character.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACyberpunk2022Character_GetCrosshairSpreadMultiplier_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACyberpunk2022Character, nullptr, "GetCrosshairSpreadMultiplier", nullptr, nullptr, sizeof(Cyberpunk2022Character_eventGetCrosshairSpreadMultiplier_Parms), Z_Construct_UFunction_ACyberpunk2022Character_GetCrosshairSpreadMultiplier_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ACyberpunk2022Character_GetCrosshairSpreadMultiplier_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x54020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACyberpunk2022Character_GetCrosshairSpreadMultiplier_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ACyberpunk2022Character_GetCrosshairSpreadMultiplier_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ACyberpunk2022Character_GetCrosshairSpreadMultiplier()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ACyberpunk2022Character_GetCrosshairSpreadMultiplier_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_ACyberpunk2022Character_GetMesh1P_Statics
+	{
+		struct Cyberpunk2022Character_eventGetMesh1P_Parms
+		{
+			USkeletalMeshComponent* ReturnValue;
+		};
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_ReturnValue_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_ReturnValue;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ACyberpunk2022Character_GetMesh1P_Statics::NewProp_ReturnValue_MetaData[] = {
+		{ "EditInline", "true" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_ACyberpunk2022Character_GetMesh1P_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000080588, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(Cyberpunk2022Character_eventGetMesh1P_Parms, ReturnValue), Z_Construct_UClass_USkeletalMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UFunction_ACyberpunk2022Character_GetMesh1P_Statics::NewProp_ReturnValue_MetaData, UE_ARRAY_COUNT(Z_Construct_UFunction_ACyberpunk2022Character_GetMesh1P_Statics::NewProp_ReturnValue_MetaData)) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ACyberpunk2022Character_GetMesh1P_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ACyberpunk2022Character_GetMesh1P_Statics::NewProp_ReturnValue,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ACyberpunk2022Character_GetMesh1P_Statics::Function_MetaDataParams[] = {
+		{ "Comment", "/** Returns Mesh1P subobject **/" },
+		{ "ModuleRelativePath", "Cyberpunk2022Character.h" },
+		{ "ToolTip", "Returns Mesh1P subobject *" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACyberpunk2022Character_GetMesh1P_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACyberpunk2022Character, nullptr, "GetMesh1P", nullptr, nullptr, sizeof(Cyberpunk2022Character_eventGetMesh1P_Parms), Z_Construct_UFunction_ACyberpunk2022Character_GetMesh1P_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ACyberpunk2022Character_GetMesh1P_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x54020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACyberpunk2022Character_GetMesh1P_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ACyberpunk2022Character_GetMesh1P_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ACyberpunk2022Character_GetMesh1P()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ACyberpunk2022Character_GetMesh1P_Statics::FuncParams);
+		}
+		return ReturnFunction;
 	}
 	UClass* Z_Construct_UClass_ACyberpunk2022Character_NoRegister()
 	{
@@ -36,6 +285,7 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 	struct Z_Construct_UClass_ACyberpunk2022Character_Statics
 	{
 		static UObject* (*const DependentSingletons[])();
+		static const FClassFunctionLinkInfo FuncInfo[];
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
@@ -72,10 +322,18 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_FireAnimation;
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_ReloadAnimation_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_ReloadAnimation;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bUsingMotionControllers_MetaData[];
 #endif
 		static void NewProp_bUsingMotionControllers_SetBit(void* Obj);
 		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bUsingMotionControllers;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp__ikLeftHandSocket_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp__ikLeftHandSocket;
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp__equippedWeapon_MetaData[];
 #endif
@@ -84,6 +342,34 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_DefaultWeaponClass_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FClassPropertyParams NewProp_DefaultWeaponClass;
+		static const UE4CodeGen_Private::FBytePropertyParams NewProp__combatState_Underlying;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp__combatState_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FEnumPropertyParams NewProp__combatState;
+		static const UE4CodeGen_Private::FIntPropertyParams NewProp__ammoMap_ValueProp;
+		static const UE4CodeGen_Private::FBytePropertyParams NewProp__ammoMap_Key_KeyProp_Underlying;
+		static const UE4CodeGen_Private::FEnumPropertyParams NewProp__ammoMap_Key_KeyProp;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp__ammoMap_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FMapPropertyParams NewProp__ammoMap;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp__crosshairSpreadMultiplier_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp__crosshairSpreadMultiplier;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp__crosshairVelocityFactor_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp__crosshairVelocityFactor;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp__crosshairInAirFactor_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp__crosshairInAirFactor;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp__crosshairInShootingFactor_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp__crosshairInShootingFactor;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -91,6 +377,13 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 	UObject* (*const Z_Construct_UClass_ACyberpunk2022Character_Statics::DependentSingletons[])() = {
 		(UObject* (*)())Z_Construct_UClass_ACharacter,
 		(UObject* (*)())Z_Construct_UPackage__Script_Cyberpunk2022,
+	};
+	const FClassFunctionLinkInfo Z_Construct_UClass_ACyberpunk2022Character_Statics::FuncInfo[] = {
+		{ &Z_Construct_UFunction_ACyberpunk2022Character_FinishCrosshairBulletFire, "FinishCrosshairBulletFire" }, // 529400376
+		{ &Z_Construct_UFunction_ACyberpunk2022Character_FinishReloading, "FinishReloading" }, // 4039475776
+		{ &Z_Construct_UFunction_ACyberpunk2022Character_FireReset, "FireReset" }, // 2531355662
+		{ &Z_Construct_UFunction_ACyberpunk2022Character_GetCrosshairSpreadMultiplier, "GetCrosshairSpreadMultiplier" }, // 3224777735
+		{ &Z_Construct_UFunction_ACyberpunk2022Character_GetMesh1P, "GetMesh1P" }, // 644187130
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACyberpunk2022Character_Statics::Class_MetaDataParams[] = {
@@ -175,6 +468,15 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_FireAnimation = { "FireAnimation", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACyberpunk2022Character, FireAnimation), Z_Construct_UClass_UAnimMontage_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_FireAnimation_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_FireAnimation_MetaData)) };
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_ReloadAnimation_MetaData[] = {
+		{ "Category", "Gameplay" },
+		{ "Comment", "/** AnimMontage to play each time we fire */" },
+		{ "ModuleRelativePath", "Cyberpunk2022Character.h" },
+		{ "ToolTip", "AnimMontage to play each time we fire" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_ReloadAnimation = { "ReloadAnimation", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACyberpunk2022Character, ReloadAnimation), Z_Construct_UClass_UAnimMontage_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_ReloadAnimation_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_ReloadAnimation_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_bUsingMotionControllers_MetaData[] = {
 		{ "Category", "Gameplay" },
 		{ "Comment", "/** Whether to use motion controller location for aiming. */" },
@@ -187,6 +489,15 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 		((ACyberpunk2022Character*)Obj)->bUsingMotionControllers = 1;
 	}
 	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_bUsingMotionControllers = { "bUsingMotionControllers", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Bool , RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(uint8), sizeof(ACyberpunk2022Character), &Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_bUsingMotionControllers_SetBit, METADATA_PARAMS(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_bUsingMotionControllers_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_bUsingMotionControllers_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__ikLeftHandSocket_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Combat" },
+		{ "ModuleRelativePath", "Cyberpunk2022Character.h" },
+		{ "NativeConst", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__ikLeftHandSocket = { "_ikLeftHandSocket", nullptr, (EPropertyFlags)0x0040000000020015, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACyberpunk2022Character, _ikLeftHandSocket), Z_Construct_UClass_USkeletalMeshSocket_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__ikLeftHandSocket_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__ikLeftHandSocket_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__equippedWeapon_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
@@ -203,6 +514,58 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 	};
 #endif
 	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_DefaultWeaponClass = { "DefaultWeaponClass", nullptr, (EPropertyFlags)0x0044000000010015, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACyberpunk2022Character, DefaultWeaponClass), Z_Construct_UClass_AWeapon_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_DefaultWeaponClass_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_DefaultWeaponClass_MetaData)) };
+	const UE4CodeGen_Private::FBytePropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__combatState_Underlying = { "UnderlyingType", nullptr, (EPropertyFlags)0x0000000000000000, UE4CodeGen_Private::EPropertyGenFlags::Byte, RF_Public|RF_Transient|RF_MarkAsNative, 1, 0, nullptr, METADATA_PARAMS(nullptr, 0) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__combatState_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Combat" },
+		{ "ModuleRelativePath", "Cyberpunk2022Character.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FEnumPropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__combatState = { "_combatState", nullptr, (EPropertyFlags)0x0040000000020015, UE4CodeGen_Private::EPropertyGenFlags::Enum, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACyberpunk2022Character, _combatState), Z_Construct_UEnum_Cyberpunk2022_ECombatState, METADATA_PARAMS(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__combatState_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__combatState_MetaData)) };
+	const UE4CodeGen_Private::FIntPropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__ammoMap_ValueProp = { "_ammoMap", nullptr, (EPropertyFlags)0x0000000000020001, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, 1, METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FBytePropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__ammoMap_Key_KeyProp_Underlying = { "UnderlyingType", nullptr, (EPropertyFlags)0x0000000000000000, UE4CodeGen_Private::EPropertyGenFlags::Byte, RF_Public|RF_Transient|RF_MarkAsNative, 1, 0, nullptr, METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FEnumPropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__ammoMap_Key_KeyProp = { "_ammoMap_Key", nullptr, (EPropertyFlags)0x0000000000020001, UE4CodeGen_Private::EPropertyGenFlags::Enum, RF_Public|RF_Transient|RF_MarkAsNative, 1, 0, Z_Construct_UEnum_Cyberpunk2022_EAmmoType, METADATA_PARAMS(nullptr, 0) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__ammoMap_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Combat" },
+		{ "ModuleRelativePath", "Cyberpunk2022Character.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FMapPropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__ammoMap = { "_ammoMap", nullptr, (EPropertyFlags)0x0040000000020015, UE4CodeGen_Private::EPropertyGenFlags::Map, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACyberpunk2022Character, _ammoMap), EMapPropertyFlags::None, METADATA_PARAMS(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__ammoMap_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__ammoMap_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairSpreadMultiplier_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Crosshairs" },
+		{ "ModuleRelativePath", "Cyberpunk2022Character.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairSpreadMultiplier = { "_crosshairSpreadMultiplier", nullptr, (EPropertyFlags)0x0040000000020015, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACyberpunk2022Character, _crosshairSpreadMultiplier), METADATA_PARAMS(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairSpreadMultiplier_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairSpreadMultiplier_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairVelocityFactor_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Crosshairs" },
+		{ "ModuleRelativePath", "Cyberpunk2022Character.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairVelocityFactor = { "_crosshairVelocityFactor", nullptr, (EPropertyFlags)0x0040000000020015, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACyberpunk2022Character, _crosshairVelocityFactor), METADATA_PARAMS(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairVelocityFactor_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairVelocityFactor_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairInAirFactor_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Crosshairs" },
+		{ "ModuleRelativePath", "Cyberpunk2022Character.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairInAirFactor = { "_crosshairInAirFactor", nullptr, (EPropertyFlags)0x0040000000020015, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACyberpunk2022Character, _crosshairInAirFactor), METADATA_PARAMS(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairInAirFactor_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairInAirFactor_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairInShootingFactor_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Crosshairs" },
+		{ "ModuleRelativePath", "Cyberpunk2022Character.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairInShootingFactor = { "_crosshairInShootingFactor", nullptr, (EPropertyFlags)0x0040000000020015, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACyberpunk2022Character, _crosshairInShootingFactor), METADATA_PARAMS(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairInShootingFactor_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairInShootingFactor_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ACyberpunk2022Character_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_Mesh1P,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_FirstPersonCameraComponent,
@@ -212,9 +575,21 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_ProjectileClass,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_FireSound,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_FireAnimation,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_ReloadAnimation,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_bUsingMotionControllers,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__ikLeftHandSocket,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__equippedWeapon,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp_DefaultWeaponClass,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__combatState_Underlying,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__combatState,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__ammoMap_ValueProp,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__ammoMap_Key_KeyProp_Underlying,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__ammoMap_Key_KeyProp,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__ammoMap,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairSpreadMultiplier,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairVelocityFactor,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairInAirFactor,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACyberpunk2022Character_Statics::NewProp__crosshairInShootingFactor,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ACyberpunk2022Character_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ACyberpunk2022Character>::IsAbstract,
@@ -224,11 +599,11 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 		"Game",
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
-		nullptr,
+		FuncInfo,
 		Z_Construct_UClass_ACyberpunk2022Character_Statics::PropPointers,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
-		0,
+		UE_ARRAY_COUNT(FuncInfo),
 		UE_ARRAY_COUNT(Z_Construct_UClass_ACyberpunk2022Character_Statics::PropPointers),
 		0,
 		0x008000A4u,
@@ -243,7 +618,7 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022Character() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ACyberpunk2022Character, 1582160927);
+	IMPLEMENT_CLASS(ACyberpunk2022Character, 2354912967);
 	template<> CYBERPUNK2022_API UClass* StaticClass<ACyberpunk2022Character>()
 	{
 		return ACyberpunk2022Character::StaticClass();

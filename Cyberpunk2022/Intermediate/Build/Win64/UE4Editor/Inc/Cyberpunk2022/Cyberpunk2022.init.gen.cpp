@@ -11,18 +11,22 @@
 #endif
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeCyberpunk2022_init() {}
+	CYBERPUNK2022_API UFunction* Z_Construct_UDelegateFunction_Cyberpunk2022_OutOfHealth__DelegateSignature();
 	UPackage* Z_Construct_UPackage__Script_Cyberpunk2022()
 	{
 		static UPackage* ReturnPackage = nullptr;
 		if (!ReturnPackage)
 		{
+			static UObject* (*const SingletonFuncArray[])() = {
+				(UObject* (*)())Z_Construct_UDelegateFunction_Cyberpunk2022_OutOfHealth__DelegateSignature,
+			};
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/Cyberpunk2022",
-				nullptr,
-				0,
+				SingletonFuncArray,
+				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x8DBC5B1D,
-				0x609B77FF,
+				0x3CF76472,
+				0xFAD7E45C,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

@@ -13,6 +13,15 @@
 #include "XRMotionControllerBase.h" // for FXRMotionControllerBase::RightHandSourceId
 #include "Engine/SkeletalMeshSocket.h"
 #include "Weapon.h"
+#include <Sound/SoundCue.h>
+#include "DrawDebugHelpers.h"
+#include "Particles/ParticleSystem.h"
+#include "Particles/ParticleSystemComponent.h"
+#include "TakingDamageInterface.h"
+#include "Camera/PlayerCameraManager.h"
+#include "Components/DecalComponent.h"
+#include "Kismet/KismetMathLibrary.h"
+#include "GameFramework/CharacterMovementComponent.h"
 
 DEFINE_LOG_CATEGORY_STATIC(LogFPChar, Warning, All);
 
@@ -33,6 +42,17 @@ ACyberpunk2022Character::ACyberpunk2022Character()
 	FirstPersonCameraComponent->SetupAttachment(GetCapsuleComponent());
 	FirstPersonCameraComponent->SetRelativeLocation(FVector(-39.56f, 1.75f, 64.f)); // Position the camera
 	FirstPersonCameraComponent->bUsePawnControlRotation = true;
+
+	_crosshairInAirFactor = 0.f;
+	_crosshairInShootingFactor = 0.f;
+	_crosshairVelocityFactor = 0.f;
+	_crosshairSpreadMultiplier = 0.f;
+	_shootTimeDuration = 0.05f;
+	_bFiringBullet = false;
+	_combatState = ECombatState::ECS_Unoccupied;
+
+	_bShouldFire = true;
+	_bFireButtonPressed = false;
 
 	// Create a mesh component that will be used when being viewed from a '1st person' view (when controlling this pawn)
 	Mesh1P = CreateDefaultSubobject<USkeletalMeshComponent>(TEXT("CharacterMesh1P"));
@@ -57,6 +77,14 @@ void ACyberpunk2022Character::BeginPlay()
 	Mesh1P->SetHiddenInGame(false, true);
 
 	SpawnDefaultWeapon();
+	InitializeAmmoMap();
+}
+
+void ACyberpunk2022Character::Tick(float DeltaTime)
+{
+	Super::Tick(DeltaTime);
+
+	CalculateCrosshairSpread(DeltaTime);
 }
 
 //////////////////////////////////////////////////////////////////////////
@@ -72,7 +100,9 @@ void ACyberpunk2022Character::SetupPlayerInputComponent(class UInputComponent* P
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
 
 	// Bind fire event
-	PlayerInputComponent->BindAction("Fire", IE_Pressed, this, &ACyberpunk2022Character::OnFire);
+	PlayerInputComponent->BindAction("Fire", IE_Pressed, this, &ACyberpunk2022Character::FireButtonPressed);
+	PlayerInputComponent->BindAction("Fire", IE_Released, this, &ACyberpunk2022Character::FireButtonReleased);
+	PlayerInputComponent->BindAction("Reload", IE_Pressed, this, &ACyberpunk2022Character::ReloadButtonPressed);
 
 	// Enable touchscreen input
 	EnableTouchscreenMovement(PlayerInputComponent);
@@ -222,6 +252,213 @@ void ACyberpunk2022Character::LookUpAtRate(float Rate)
 	AddControllerPitchInput(Rate * BaseLookUpRate * GetWorld()->GetDeltaSeconds());
 }
 
+void ACyberpunk2022Character::FireWeapon()
+{
+	if (_equippedWeapon == nullptr) return;
+	if (_combatState != ECombatState::ECS_Unoccupied) return;
+
+	if(WeaponHasAmmo())
+	{
+		PlayFireSound();
+		PlayFireAnimations();
+		SendBullet();
+		//Play animation
+		StartCrosshairBulletFire();
+		_equippedWeapon->DecrementAmmo();
+
+		StartFireTimer();
+	}
+}
+
+void ACyberpunk2022Character::PlayFireSound() const
+{
+	if (_equippedWeapon->GetFireSound())
+	{
+		UGameplayStatics::PlaySound2D(this, _equippedWeapon->GetFireSound());
+	}
+}
+
+void ACyberpunk2022Character::SendBullet()
+{
+	//Send bullet
+	const USkeletalMeshComponent* itemMesh = _equippedWeapon->GetItemMesh();
+	if (!itemMesh)
+	{
+		UE_LOG(LogTemp, Error, TEXT("Weapon doesnt have USkeletalMeshComponent!"));
+	}
+
+	const USkeletalMeshSocket* barrelSocket = itemMesh->GetSocketByName("BarrelPoint");
+	if (barrelSocket)
+	{
+		const FTransform socketTransform = barrelSocket->GetSocketTransform(itemMesh);
+
+		if (_equippedWeapon->GetMuzzleFlash())
+		{
+			UParticleSystemComponent* muzzle = UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), _equippedWeapon->GetMuzzleFlash(), socketTransform);
+			muzzle->AttachTo((USceneComponent*)itemMesh);
+		}
+
+
+		//Line trace
+		FHitResult hitInfo;
+		FTransform cameraTransform = FirstPersonCameraComponent->GetComponentTransform();
+		FVector recoilOffset = cameraTransform.Rotator().RotateVector( _equippedWeapon->GetRecoilOffset());
+		const FVector startPoint{ cameraTransform.GetLocation() };
+		const FVector rotationAxis{ cameraTransform.GetRotation().GetForwardVector() };
+		const FVector endPoint{ cameraTransform.GetLocation() + rotationAxis * 50'000.f + recoilOffset };
+
+		FVector beamEndPoint{ endPoint };
+
+		GetWorld()->LineTraceSingleByChannel(hitInfo, startPoint, endPoint, ECollisionChannel::ECC_Visibility);
+		if (hitInfo.bBlockingHit)
+		{
+			/*DrawDebugLine(GetWorld(), startPoint, endPoint, FColor::Red, false, 2.f);
+			DrawDebugPoint(GetWorld(), hitInfo.Location, 5.f, FColor::Yellow, false, 2.f);*/
+			bool bImplTakingDamage = UKismetSystemLibrary::DoesImplementInterface(hitInfo.GetActor(), UTakingDamageInterface::StaticClass());
+			if (bImplTakingDamage)
+			{
+				ITakingDamageInterface::Execute_TakingDamage(hitInfo.GetActor(), hitInfo.BoneName, _equippedWeapon->GetDamagePerBullet(), hitInfo.ImpactNormal);
+			}
+
+			beamEndPoint = hitInfo.Location;
+
+			if (_equippedWeapon->GetImpactParticles())
+			{
+				UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), _equippedWeapon->GetImpactParticles(), hitInfo.Location);
+			}
+
+			//Spawn bullet hole
+			UMaterialInterface* bulletHoleMat = _equippedWeapon->GetBulletHoleDecal("stone");
+			if(bulletHoleMat)
+			{
+				FRotator decalRot = UKismetMathLibrary::MakeRotFromX(hitInfo.Normal);
+
+				UDecalComponent* decal = UGameplayStatics::SpawnDecalAttached(bulletHoleMat,
+					_equippedWeapon->GetDecalSize(),
+					hitInfo.GetComponent(),NAME_None,
+					hitInfo.ImpactPoint,
+					decalRot,
+					EAttachLocation::KeepWorldPosition, 10.f);
+			}
+		}
+
+		if (_equippedWeapon->GetBeamParticles())
+		{
+			UParticleSystemComponent* beam = UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), _equippedWeapon->GetBeamParticles(),
+				socketTransform);
+			if (beam)
+			{
+				beam->SetVectorParameter(FName("Target"), beamEndPoint);
+			}
+		}
+
+
+		//Play camera shake
+		GetWorld()->GetFirstPlayerController()->ClientStartCameraShake(
+											_equippedWeapon->GetShakeClass());
+	}
+}
+
+void ACyberpunk2022Character::PlayFireAnimations() const
+{
+	UAnimInstance* AnimInstance = GetMesh1P()->GetAnimInstance();
+	if(AnimInstance && FireAnimation)
+	{
+		AnimInstance->Montage_Play(FireAnimation);
+		AnimInstance->Montage_JumpToSection(FName("StartFire"));
+	}
+}
+
+void ACyberpunk2022Character::ReloadButtonPressed()
+{
+	ReloadWeapon();
+}
+
+void ACyberpunk2022Character::ReloadWeapon()
+{
+	if(_combatState != ECombatState::ECS_Unoccupied)
+	{
+		return;
+	}
+	if(_equippedWeapon == nullptr)
+	{
+		return;
+	}
+
+	//TODO Create bool CarryingAmmo()
+	//Do we have ammo?
+	if(CarryingAmmo())
+	{
+		_combatState = ECombatState::ECS_Reloading;
+
+		UAnimInstance* animInstance = GetMesh1P()->GetAnimInstance();
+		UAnimInstance* weaponInstance = _equippedWeapon->GetItemMesh()->GetAnimInstance();
+		if(animInstance && ReloadAnimation)
+		{
+			animInstance->Montage_Play(ReloadAnimation);
+			animInstance->Montage_JumpToSection(_equippedWeapon->GetReloadMontage());
+		}
+		if(weaponInstance)
+		{
+			weaponInstance->Montage_Play(_equippedWeapon->GetReloadAnimation());
+			weaponInstance->Montage_JumpToSection(_equippedWeapon->GetReloadMontage());
+		}
+	}
+}
+
+bool ACyberpunk2022Character::CarryingAmmo()
+{
+	if (_equippedWeapon == nullptr) return false;
+
+	auto ammoType = _equippedWeapon->GetAmmoType();
+
+	if(_ammoMap.Contains(ammoType))
+	{
+		return _ammoMap[ammoType] > 0;
+	}
+
+	return false;
+}
+
+void ACyberpunk2022Character::InitializeAmmoMap()
+{
+	_ammoMap.Add(EAmmoType::EAT_SMG, 90);
+}
+
+void ACyberpunk2022Character::FinishReloading()
+{
+	_combatState = ECombatState::ECS_Unoccupied;
+
+	if(_equippedWeapon == nullptr)
+	{
+		return;
+	}
+
+	const auto ammoType = _equippedWeapon->GetAmmoType();
+
+	if(_ammoMap.Contains(ammoType))
+	{
+		int32 carriedAmmo = _ammoMap[ammoType];
+
+		const int32 magEmptySpace =
+			_equippedWeapon->GetMagazineCapacity() -
+			_equippedWeapon->GetAmmo();
+
+		if(magEmptySpace > carriedAmmo)
+		{
+			_equippedWeapon->ReloadAmmo(carriedAmmo);
+			carriedAmmo = 0;
+		}
+		else
+		{
+			_equippedWeapon->ReloadAmmo(magEmptySpace);
+			carriedAmmo -= magEmptySpace;
+		}
+		_ammoMap.Add(ammoType, carriedAmmo);
+	}
+}
+
+
 bool ACyberpunk2022Character::EnableTouchscreenMovement(class UInputComponent* PlayerInputComponent)
 {
 	if (FPlatformMisc::SupportsTouchInput() || GetDefault<UInputSettings>()->bUseMouseForTouch)
@@ -253,6 +490,12 @@ void ACyberpunk2022Character::SpawnDefaultWeapon()
 			UE_LOG(LogTemp, Error, TEXT("Cannot find Grip socket!"));
 		}
 
+		_ikLeftHandSocket = DefaultWeapon->GetItemMesh()->GetSocketByName(FName("LeftHandIK"));
+		if(!_ikLeftHandSocket)
+		{
+			UE_LOG(LogTemp, Error, TEXT("Cannot find left hand IK socket"));
+		}
+
 		_equippedWeapon = DefaultWeapon;
 	}
 	else
@@ -273,4 +516,108 @@ void ACyberpunk2022Character::EquipWeapon(AWeapon* weaponToEquip)
 
 		_equippedWeapon = weaponToEquip;
 	}
+}
+
+void ACyberpunk2022Character::CalculateCrosshairSpread(float delta)
+{
+	FVector2D walkSpeedRange{ 0.f, 600.f };
+	FVector2D velocityMultiplierRange{ 0.f, 1.f };
+	FVector velocity{ GetVelocity() };
+	velocity.Z = 0.f;
+
+	_crosshairVelocityFactor = FMath::GetMappedRangeValueClamped(
+		walkSpeedRange,
+		velocityMultiplierRange,
+		velocity.Size());
+
+	if(GetCharacterMovement()->IsFalling())
+	{
+		_crosshairInAirFactor = FMath::FInterpTo(_crosshairInAirFactor, 2.25f, delta, 2.25f);
+	}
+	else
+	{
+		_crosshairInAirFactor = FMath::FInterpTo(_crosshairInAirFactor, 0.f, delta, 30.f);
+	}
+
+	if(_bFiringBullet)
+	{
+		_crosshairInShootingFactor = FMath::FInterpTo(_crosshairInShootingFactor, 0.3f, delta, 15.f);
+	}
+	else
+	{
+		_crosshairInShootingFactor = FMath::FInterpTo(_crosshairInShootingFactor, 0.f, delta, 30.f);
+	}
+
+	_crosshairSpreadMultiplier = 0.5f +
+		_crosshairVelocityFactor +
+		_crosshairInAirFactor +
+		_crosshairInShootingFactor;
+}
+
+void ACyberpunk2022Character::StartCrosshairBulletFire()
+{
+	_bFiringBullet = true;
+
+	GetWorldTimerManager().SetTimer(
+		_crosshairShootTimer,
+		this,
+		&ACyberpunk2022Character::FinishCrosshairBulletFire,
+		_shootTimeDuration);
+}
+
+void ACyberpunk2022Character::FinishCrosshairBulletFire()
+{
+	_bFiringBullet = false;
+}
+
+float ACyberpunk2022Character::GetCrosshairSpreadMultiplier() const
+{
+	return _crosshairSpreadMultiplier;
+}
+
+void ACyberpunk2022Character::FireButtonPressed()
+{
+	_bFireButtonPressed = true;
+	FireWeapon();
+}
+
+void ACyberpunk2022Character::FireButtonReleased()
+{
+	_bFireButtonPressed = false;
+}
+
+void ACyberpunk2022Character::StartFireTimer()
+{
+	_combatState = ECombatState::ECS_FireTimerInProgress;
+
+	GetWorldTimerManager().SetTimer(
+		_fireTimer,
+		this,
+		&ACyberpunk2022Character::FireReset,
+		_equippedWeapon->GetFireRate());
+}
+
+void ACyberpunk2022Character::FireReset()
+{
+	_combatState = ECombatState::ECS_Unoccupied;
+
+	if(WeaponHasAmmo())
+	{
+		if(_bFireButtonPressed)
+		{
+			FireWeapon();
+		}
+	}
+	else
+	{
+		//Reload weapon
+		ReloadWeapon();
+	}
+}
+
+bool ACyberpunk2022Character::WeaponHasAmmo()
+{
+	if (_equippedWeapon == nullptr) return false;
+
+	return _equippedWeapon->GetAmmo() > 0;
 }

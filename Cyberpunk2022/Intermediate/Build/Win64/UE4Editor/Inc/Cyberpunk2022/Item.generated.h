@@ -8,14 +8,25 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class USkeletalMeshComponent;
 #ifdef CYBERPUNK2022_Item_generated_h
 #error "Item.generated.h already included, missing '#pragma once' in Item.h"
 #endif
 #define CYBERPUNK2022_Item_generated_h
 
 #define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_SPARSE_DATA
-#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_RPC_WRAPPERS
-#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execGetItemName); \
+	DECLARE_FUNCTION(execGetItemMesh);
+
+
+#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execGetItemName); \
+	DECLARE_FUNCTION(execGetItemMesh);
+
+
 #define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAItem(); \
@@ -61,7 +72,8 @@ public: \
 #define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO___itemMesh() { return STRUCT_OFFSET(AItem, _itemMesh); } \
 	FORCEINLINE static uint32 __PPO___collisionBox() { return STRUCT_OFFSET(AItem, _collisionBox); } \
-	FORCEINLINE static uint32 __PPO___pickupWidget() { return STRUCT_OFFSET(AItem, _pickupWidget); }
+	FORCEINLINE static uint32 __PPO___pickupWidget() { return STRUCT_OFFSET(AItem, _pickupWidget); } \
+	FORCEINLINE static uint32 __PPO___itemName() { return STRUCT_OFFSET(AItem, _itemName); }
 
 
 #define Cyberpunk2022_Source_Cyberpunk2022_Item_h_9_PROLOG
