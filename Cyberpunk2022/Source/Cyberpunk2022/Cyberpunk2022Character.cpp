@@ -441,9 +441,12 @@ void ACyberpunk2022Character::GrabClip()
 	int32 clipBoneIndex{ _equippedWeapon->GetItemMesh()->GetBoneIndex(_equippedWeapon->GetClipBone()) };
 	_clipTransform = _equippedWeapon->GetItemMesh()->GetBoneTransform(clipBoneIndex);
 
+	const USkeletalMeshSocket* leftHandSocket = GetMesh1P()->GetSocketByName("left_hand_socket");
+	_leftHandTransform = leftHandSocket->GetSocketTransform(GetMesh1P());
+
 	FAttachmentTransformRules attachmentRules(EAttachmentRule::KeepRelative, true);
 	_handSceneComponent->AttachToComponent(GetMesh1P(), attachmentRules, FName(TEXT("hand_l")));
-	_handSceneComponent->SetWorldTransform(_clipTransform);
+	_handSceneComponent->SetWorldTransform(_leftHandTransform);
 
 	_equippedWeapon->SetMovingClip(true);
 }
