@@ -82,6 +82,7 @@ public: \
 #define Cyberpunk2022_Source_Cyberpunk2022_Cyberpunk2022Character_h_31_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__Mesh1P() { return STRUCT_OFFSET(ACyberpunk2022Character, Mesh1P); } \
 	FORCEINLINE static uint32 __PPO__FirstPersonCameraComponent() { return STRUCT_OFFSET(ACyberpunk2022Character, FirstPersonCameraComponent); } \
+	FORCEINLINE static uint32 __PPO___moveSide() { return STRUCT_OFFSET(ACyberpunk2022Character, _moveSide); } \
 	FORCEINLINE static uint32 __PPO___ikLeftHandSocket() { return STRUCT_OFFSET(ACyberpunk2022Character, _ikLeftHandSocket); } \
 	FORCEINLINE static uint32 __PPO___equippedWeapon() { return STRUCT_OFFSET(ACyberpunk2022Character, _equippedWeapon); } \
 	FORCEINLINE static uint32 __PPO__DefaultWeaponClass() { return STRUCT_OFFSET(ACyberpunk2022Character, DefaultWeaponClass); } \

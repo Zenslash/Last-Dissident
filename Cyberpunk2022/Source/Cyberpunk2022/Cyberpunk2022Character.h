@@ -179,6 +179,9 @@ public:
 	bool WeaponHasAmmo();
 
 private:
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Movement, meta = (AllowPrivateAccess = "true"))
+	float _moveSide;
+
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
 	const USkeletalMeshSocket* _ikLeftHandSocket;
 

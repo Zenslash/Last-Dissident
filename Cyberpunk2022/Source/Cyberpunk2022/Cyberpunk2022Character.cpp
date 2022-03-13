@@ -235,6 +235,7 @@ void ACyberpunk2022Character::MoveForward(float Value)
 
 void ACyberpunk2022Character::MoveRight(float Value)
 {
+	_moveSide = Value;
 	if (Value != 0.0f)
 	{
 		// add movement in that direction
