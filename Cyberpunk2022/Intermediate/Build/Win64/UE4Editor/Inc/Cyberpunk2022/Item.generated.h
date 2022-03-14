@@ -14,20 +14,20 @@ class USkeletalMeshComponent;
 #endif
 #define CYBERPUNK2022_Item_generated_h
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_SPARSE_DATA
-#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_RPC_WRAPPERS \
+#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_SPARSE_DATA
+#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetItemName); \
 	DECLARE_FUNCTION(execGetItemMesh);
 
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetItemName); \
 	DECLARE_FUNCTION(execGetItemMesh);
 
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_INCLASS_NO_PURE_DECLS \
+#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAItem(); \
 	friend struct Z_Construct_UClass_AItem_Statics; \
@@ -36,7 +36,7 @@ public: \
 	DECLARE_SERIALIZER(AItem)
 
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_INCLASS \
+#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_INCLASS \
 private: \
 	static void StaticRegisterNativesAItem(); \
 	friend struct Z_Construct_UClass_AItem_Statics; \
@@ -45,7 +45,7 @@ public: \
 	DECLARE_SERIALIZER(AItem)
 
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_STANDARD_CONSTRUCTORS \
+#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AItem(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AItem) \
@@ -58,7 +58,7 @@ private: \
 public:
 
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_ENHANCED_CONSTRUCTORS \
+#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AItem(AItem&&); \
@@ -69,34 +69,36 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AItem)
 
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_PRIVATE_PROPERTY_OFFSET \
+#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO___itemMesh() { return STRUCT_OFFSET(AItem, _itemMesh); } \
 	FORCEINLINE static uint32 __PPO___collisionBox() { return STRUCT_OFFSET(AItem, _collisionBox); } \
+	FORCEINLINE static uint32 __PPO___areaSphere() { return STRUCT_OFFSET(AItem, _areaSphere); } \
 	FORCEINLINE static uint32 __PPO___pickupWidget() { return STRUCT_OFFSET(AItem, _pickupWidget); } \
-	FORCEINLINE static uint32 __PPO___itemName() { return STRUCT_OFFSET(AItem, _itemName); }
+	FORCEINLINE static uint32 __PPO___itemName() { return STRUCT_OFFSET(AItem, _itemName); } \
+	FORCEINLINE static uint32 __PPO___itemState() { return STRUCT_OFFSET(AItem, _itemState); }
 
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_9_PROLOG
-#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_GENERATED_BODY_LEGACY \
+#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_21_PROLOG
+#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_PRIVATE_PROPERTY_OFFSET \
-	Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_SPARSE_DATA \
-	Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_RPC_WRAPPERS \
-	Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_INCLASS \
-	Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_STANDARD_CONSTRUCTORS \
+	Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_PRIVATE_PROPERTY_OFFSET \
+	Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_SPARSE_DATA \
+	Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_RPC_WRAPPERS \
+	Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_INCLASS \
+	Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_GENERATED_BODY \
+#define Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_PRIVATE_PROPERTY_OFFSET \
-	Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_SPARSE_DATA \
-	Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_INCLASS_NO_PURE_DECLS \
-	Cyberpunk2022_Source_Cyberpunk2022_Item_h_12_ENHANCED_CONSTRUCTORS \
+	Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_PRIVATE_PROPERTY_OFFSET \
+	Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_SPARSE_DATA \
+	Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+	Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_INCLASS_NO_PURE_DECLS \
+	Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -106,5 +108,15 @@ template<> CYBERPUNK2022_API UClass* StaticClass<class AItem>();
 #undef CURRENT_FILE_ID
 #define CURRENT_FILE_ID Cyberpunk2022_Source_Cyberpunk2022_Item_h
 
+
+#define FOREACH_ENUM_EITEMSTATE(op) \
+	op(EItemState::EIS_Pickup) \
+	op(EItemState::EIS_EquipInterping) \
+	op(EItemState::EIS_PickedUp) \
+	op(EItemState::EIS_Equipped) \
+	op(EItemState::EIS_Falling) 
+
+enum class EItemState : uint8;
+template<> CYBERPUNK2022_API UEnum* StaticEnum<EItemState>();
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

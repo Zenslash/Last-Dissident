@@ -7,6 +7,7 @@
 #include "AmmoType.h"
 #include "Cyberpunk2022Character.generated.h"
 
+class AWeapon;
 class UInputComponent;
 class USkeletalMeshComponent;
 class USceneComponent;
@@ -148,8 +149,8 @@ protected:
 	 */
 	bool EnableTouchscreenMovement(UInputComponent* InputComponent);
 
-	void SpawnDefaultWeapon();
-	void EquipWeapon(class AWeapon* weaponToEquip);
+	AWeapon* SpawnDefaultWeapon();
+	void EquipWeapon(AWeapon* weaponToEquip);
 
 	void CalculateCrosshairSpread(float delta);
 

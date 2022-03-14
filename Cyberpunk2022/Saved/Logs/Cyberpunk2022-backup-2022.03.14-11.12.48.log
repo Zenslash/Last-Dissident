@@ -1,0 +1,1675 @@
+﻿Log file open, 03/14/22 14:12:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Cyberpunk2022
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.293487
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: E:/UE4/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.14-11.12.08:485][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.14-11.12.08:485][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.14-11.12.08:485][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.03.14-11.12.08:485][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.14-11.12.08:485][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.03.14-11.12.08:485][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.03.14-11.12.08:485][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.03.14-11.12.08:485][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.14-11.12.08:485][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.14-11.12.08:485][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.14-11.12.08:485][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.14-11.12.08:485][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.14-11.12.08:485][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.14-11.12.08:485][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.14-11.12.08:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.03.14-11.12.08:486][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.03.14-11.12.08:494][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.14-11.12.08:495][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.03.14-11.12.08:495][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.14-11.12.08:496][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.14-11.12.08:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.14-11.12.08:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.14-11.12.08:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.14-11.12.08:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.14-11.12.08:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.14-11.12.08:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.14-11.12.08:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.14-11.12.08:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.14-11.12.08:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.14-11.12.08:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.14-11.12.08:498][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.14-11.12.08:498][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.03.14-11.12.08:498][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.14-11.12.08:498][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.14-11.12.08:498][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.03.14-11.12.08:498][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.14-11.12.08:498][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.14-11.12.08:498][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.14-11.12.08:498][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.14-11.12.08:499][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.14-11.12.08:499][  0]LogHAL: Display: Platform has ~ 16 GB [16487870464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.14-11.12.08:499][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.14-11.12.08:499][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.14-11.12.08:499][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.14-11.12.08:499][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.14-11.12.08:499][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.14-11.12.08:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.14-11.12.08:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Scalability.ini]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.14-11.12.08:502][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.14-11.12.08:503][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Engine.ini]
+[2022.03.14-11.12.08:503][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Config/Windows/Editor.ini]
+[2022.03.14-11.12.08:503][  0]LogInit: Computer: DESKTOP-P6OQVGL
+[2022.03.14-11.12.08:503][  0]LogInit: User: Artem
+[2022.03.14-11.12.08:503][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.03.14-11.12.08:503][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.14-11.12.08:503][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.03.14-11.12.08:503][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.14-11.12.08:503][  0]LogMemory: Process Physical Memory: 145.50 MB used, 145.51 MB peak
+[2022.03.14-11.12.08:503][  0]LogMemory: Process Virtual Memory: 127.73 MB used, 127.73 MB peak
+[2022.03.14-11.12.08:503][  0]LogMemory: Physical Memory: 12938.20 MB used,  2785.86 MB free, 15724.06 MB total
+[2022.03.14-11.12.08:503][  0]LogMemory: Virtual Memory: 134210888.00 MB used,  6840.65 MB free, 134217728.00 MB total
+[2022.03.14-11.12.08:510][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.14-11.12.08:652][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.14-11.12.08:652][  0]LogInit: Using OS detected language (en-US).
+[2022.03.14-11.12.08:652][  0]LogInit: Using OS detected locale (en-US).
+[2022.03.14-11.12.08:654][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.14-11.12.08:820][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.14-11.12.08:841][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.14-11.12.08:855][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.14-11.12.08:855][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.14-11.12.08:955][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.03.14-11.12.08:975][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.14-11.12.08:975][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.14-11.12.08:975][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.14-11.12.08:975][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.14-11.12.09:079][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_0)
+[2022.03.14-11.12.09:079][  0]LogD3D11RHI:       6023/0/7862 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.03.14-11.12.09:124][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2022.03.14-11.12.09:124][  0]LogD3D11RHI:       496/0/7862 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2022.03.14-11.12.09:128][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.14-11.12.09:128][  0]LogD3D11RHI:       0/0/7862 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.14-11.12.09:128][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.03.14-11.12.09:128][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.03.14-11.12.09:128][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.14-11.12.09:128][  0]LogD3D11RHI:     DeviceId    : 2520
+[2022.03.14-11.12.09:128][  0]LogD3D11RHI:     SubSysId    : 151f1025
+[2022.03.14-11.12.09:128][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.14-11.12.09:128][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.03.14-11.12.09:128][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.14-11.12.09:128][  0]LogD3D11RHI:     SharedSystemMemory : 8243935232 bytes
+[2022.03.14-11.12.09:128][  0]LogD3D11RHI:     AdapterLuid : 0 59695
+[2022.03.14-11.12.09:135][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.14-11.12.09:135][  0]LogD3D11RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.14-11.12.09:135][  0]LogWindows: EnumDisplayDevices:
+[2022.03.14-11.12.09:135][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2022.03.14-11.12.09:135][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.03.14-11.12.09:135][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.03.14-11.12.09:136][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:1)
+[2022.03.14-11.12.09:136][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.03.14-11.12.09:136][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.03.14-11.12.09:136][  0]LogD3D11RHI:   Driver Version: 497.09 (internal:30.0.14.9709, unified:497.09)
+[2022.03.14-11.12.09:136][  0]LogD3D11RHI:      Driver Date: 11-26-2021
+[2022.03.14-11.12.09:136][  0]LogRHI: Texture pool is 4216 MB (70% of 6023 MB)
+[2022.03.14-11.12.09:136][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.03.14-11.12.09:136][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.03.14-11.12.09:136][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.14-11.12.09:136][  0]LogD3D11RHI:     DeviceId    : 2520
+[2022.03.14-11.12.09:136][  0]LogD3D11RHI:     SubSysId    : 151f1025
+[2022.03.14-11.12.09:136][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.14-11.12.09:136][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.03.14-11.12.09:136][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.14-11.12.09:136][  0]LogD3D11RHI:     SharedSystemMemory : 8243935232 bytes
+[2022.03.14-11.12.09:136][  0]LogD3D11RHI:     AdapterLuid : 0 59695
+[2022.03.14-11.12.09:192][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.14-11.12.09:192][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.14-11.12.09:192][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.14-11.12.09:214][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.14-11.12.09:239][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.14-11.12.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.14-11.12.09:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.14-11.12.09:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.14-11.12.09:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.14-11.12.09:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.14-11.12.09:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.14-11.12.09:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.14-11.12.09:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.14-11.12.09:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.14-11.12.09:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.14-11.12.09:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.14-11.12.09:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.14-11.12.09:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.14-11.12.09:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.14-11.12.09:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.14-11.12.09:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.14-11.12.09:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.14-11.12.09:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.14-11.12.09:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.14-11.12.09:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.14-11.12.09:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.14-11.12.09:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.14-11.12.09:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.14-11.12.09:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.14-11.12.09:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.14-11.12.09:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.14-11.12.09:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.14-11.12.09:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.14-11.12.09:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.14-11.12.09:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.14-11.12.09:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.14-11.12.09:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.14-11.12.09:606][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.14-11.12.09:618][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.14-11.12.09:658][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.03.14-11.12.09:704][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.14-11.12.09:704][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../Projects/WargamingAcademy/Cyberpunk2022/Intermediate/Shaders/WorkingDirectory/16372/).
+[2022.03.14-11.12.09:704][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Artem/AppData/Local/Temp/UnrealShaderWorkingDir/D43F7BED4430DA6203D418A9C21195A5/'.
+[2022.03.14-11.12.09:705][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.14-11.12.09:705][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.14-11.12.09:705][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.14-11.12.10:300][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.14-11.12.10:356][  0]LogDerivedDataCache: Loaded boot cache 0.06s 103MB C:/Users/Artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.14-11.12.10:357][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.03.14-11.12.10:357][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projects/WargamingAcademy/Cyberpunk2022/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.14-11.12.10:357][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.14-11.12.10:357][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projects/WargamingAcademy/Cyberpunk2022/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.14-11.12.10:357][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.14-11.12.10:372][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.14-11.12.10:373][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.14-11.12.10:373][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.14-11.12.10:380][  0]LogDerivedDataCache: Speed tests for C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.14-11.12.10:380][  0]LogDerivedDataCache: Display: Performance to C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1643.43MBs, RandomWriteSpeed=160.49MBs. Assigned SpeedClass 'Local'
+[2022.03.14-11.12.10:382][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.14-11.12.10:382][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.14-11.12.10:382][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.14-11.12.10:420][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.14-11.12.10:420][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.14-11.12.10:441][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2022.03.14-11.12.10:647][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.14-11.12.10:647][  0]LogInit: Active device profile: [0000027BB6B1CD00][0000027BB5B6EFC0 49] Windows
+[2022.03.14-11.12.10:648][  0]LogInit: Profiles: [0000027BB6B1CD00][0000027BB5B6EFC0 49] Windows, [0000027BB6ACE300][0000027BB6EBB140 49] WindowsNoEditor, [0000027BB6B1DC00][0000027BB6FD92C0 49] WindowsServer, [0000027BB6ACF100][0000027BB6FDD440 49] WindowsClient, [0000027BB6B1E900][0000027BB6FE15C0 49] IOS, [0000027BB6ACDA00][0000027BB7027740 49] iPadAir, [0000027BB6B1FE00][0000027BB703D8C0 49] iPadAir2, [0000027BB6A41100][0000027BB7365B80 49] IPadPro, [0000027BB6A41200][0000027BB7041BC0 49] iPadAir3, [0000027BB6ACCC00][0000027BB73681C0 49] iPadAir4, [0000027BB6A41E00][0000027BB739A340 49] iPadMini2, [0000027BB6ACF300][0000027BB73BE4C0 49] iPadMini3, [0000027BB6A43900][0000027BB7546640 49] iPadMini4, [0000027BB6ACD000][0000027BB5C08780 49] iPadMini5, [0000027BB6A64900][0000027BB75949C0 49] iPhone6, [0000027BB6A64A00][0000027BB7590A00 49] iPodTouch6, [0000027BB6B1EE00][0000027BB75A0C80 49] iPhone7, [0000027BB6B1EF00][0000027BB7598CC0 49] iPodTouch7, [0000027BB6A43E00][0000027BB75A4E40 49] iPhone5S, [0000027BB6B1D100][0000027BB75A8FC0 49] iPhone6Plus, [0000027BB6A64100][0000027BB75AD140 49] iPhone6S, [0000027BB6A40300][0000027BB75B12C0 49] iPhone6SPlus, [0000027BB6A66800][0000027BB75B5440 49] iPhone7Plus, [0000027BB6A42300][0000027BB75BF5C0 49] iPhoneSE, [0000027BB6A66600][0000027BB75C3740 49] iPhone8, [0000027BB6A41000][0000027BB75C78C0 49] iPhone8Plus, [0000027BB6A67100][0000027BB75CBA40 49] iPhoneX, [0000027BB6B1D500][0000027BB716DBC0 49] iPhoneXS, [0000027BB6A66B00][0000027BB71701C0 49] iPhoneXSMax, [0000027BB6B1C700][0000027BB5BC2340 49] iPhoneXR, [0000027BB6A64700][0000027BB5BCC4C0 49] iPhone11, [0000027BB6B1CE00][0000027BB5BD0640 49] iPhone11Pro, [0000027BB6A65A00][0000027BB5BD47C0 49] iPhone11ProMax, [0000027BB6B1F800][0000027BB5BD8940 49] iPhoneSE2, [0000027BB6A67800][0000027BB759CA80 49] iPhone12Mini, [0000027BB6B1E300][0000027BB5BE2BC0 49] iPhone12, [0000027BB6A66300][0000027BB5BE6D00 49] iPhone12Pro, [0000027BB6B1C500][0000027BB5BEEE80 49] iPhone12ProMax, [0000027BB6A65500][0000027BB5BF7000 49] iPadPro105, [0000027BB6B1CA00][0000027BB5BFB180 49] iPadPro129, [0000027BB6A67D00][0000027BB5BFF300 49] iPadPro97, [0000027BB6B1D200][0000027BB5C03480 49] iPadPro2_129, [0000027BB6A66A00][0000027BB72C9600 49] iPad5, [0000027BB6B1DD00][0000027BB72CD780 49] iPad6, [0000027BB6A65300][0000027BB72D1900 49] iPad7, [0000027BB6B1FA00][0000027BB72D5A80 49] iPad8, [0000027BB6A64300][0000027BB72D9C00 49] iPadPro11, [0000027BB6B1C100][0000027BB72F4200 49] iPadPro2_11, [0000027BB6A65600][0000027BB72F8380 49] iPadPro3_129, [0000027BB6B1F300][0000027BB72FC500 49] iPadPro4_129, [0000027BB6A65000][0000027BB7300680 49] AppleTV, [0000027BB6B1DB00][0000027BB7304800 49] AppleTV4K, [0000027BB6A67200][0000027BB5BF2980 49] TVOS, [0000027BB6B1FB00][0000027BB5B6AB00 49] Mac, [0000027BB6A67700][0000027BB5BEAC40 49] MacClient, [0000027BB6B1FF00][0000027BB7308D80 49] MacNoEditor, [0000027BB6A67000][0000027BB730CEC0 49] MacServer, [0000027BB6B1EC00][0000027BB6EB7040 49] Linux, [0000027BB6A65D00][0000027BB5D811C0 49] LinuxAArch64, [0000027BB6B1EA00][0000027BB5D75340 49] LinuxNoEditor, [0000027BB6A67900][0000027BB5D714C0 49] LinuxAArch64NoEditor, [0000027BB6B1F100][0000027BB5D65640 49] LinuxClient, [0000027BB6A66F00][0000027BB5D617C0 49] LinuxAArch64Client, [0000027BB6B1F200][0000027BB5D5D940 49] LinuxServer, [0000027BB6A67F00][0000027BB5D59AC0 49] LinuxAArch64Server, [0000027BB6B1C200][0000027BB5D540C0 49] Android, [0000027BB6A64500][0000027BB5D50240 49] Android_Low, [0000027BB6B1E200][0000027BB5D4C3C0 49] Android_Mid, [0000027BB6A67B00][0000027BB3982540 49] Android_High, [0000027BB6B1E000][0000027BB5AB66C0 49] Android_Default, [0000027BB6A67300][0000027BB5AFA840 49] Android_Adreno4xx, [0000027BB6B1F700][0000027BB5AFE9C0 49] Android_Adreno5xx_Low, [0000027BB6A64B00][0000027BB5B02B40 49] Android_Adreno5xx, [0000027BB6B1E600][0000027BB5B06CC0 49] Android_Adreno6xx, [0000027BB6ACC500][0000027BB71BCE00 49] Android_Adreno6xx_Vulkan, [0000027BB6A41300][0000027BB5B0AF40 49] Android_Mali_T6xx, [0000027BB6ACFE00][0000027BB5B0F080 49] Android_Mali_T7xx, [0000027BB6A43300][0000027BB5B131C0 49] Android_Mali_T8xx, [0000027BB6ACEE00][0000027BB5B1B340 49] Android_Mali_G71, [0000027BB6A42800][0000027BB5B1F4C0 49] Android_Mali_G72, [0000027BB6ACD400][0000027BB7311640 49] Android_Mali_G72_Vulkan, [0000027BB6A41500][0000027BB73157C0 49] Android_Mali_G76, [0000027BB6ACFA00][0000027BB7319940 49] Android_Mali_G76_Vulkan, [0000027BB6A42C00][0000027BB731DAC0 49] Android_Mali_G77, [0000027BB6ACF600][0000027BB73200C0 49] Android_Mali_G77_Vulkan, [0000027BB6A41700][0000027BB7324240 49] Android_Mali_G78, [0000027BB6ACE200][0000027BB73283C0 49] Android_Mali_G78_Vulkan, [0000027BB6A40B00][0000027BB732C540 49] Android_Mali_G710, [0000027BB6ACC300][0000027BB73306C0 49] Android_Mali_G710_Vulkan, [0000027BB6A40200][0000027BB7334840 49] Android_Vulkan_SM5, [0000027BB6ACC800][0000027BB37DE9C0 49] Android_PowerVR_G6xxx, [0000027BB6A42500][0000027BB37E2B40 49] Android_PowerVR_GT7xxx, [0000027BB6ACCE00][0000027BB37E6CC0 49] Android_PowerVR_GE8xxx, [0000027BB6A41400][0000027BB37EAE40 49] Android_PowerVR_GM9xxx, [0000027BB6ACF400][0000027BB5B16F80 49] Android_PowerVR_GM9xxx_Vulkan, [0000027BB6A40600][0000027BB37EF0C0 49] Android_TegraK1, [0000027BB6ACDE00][0000027BB37F3200 49] Android_Unknown_Vulkan, [0000027BB6A42100][0000027BB37F7340 49] Lumin, [0000027BB6ACD100][0000027BB37FF4C0 49] Lumin_Desktop, [0000027BB6A43400][0000027BB3803640 49] HoloLens, 
+[2022.03.14-11.12.10:761][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.14-11.12.10:761][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.14-11.12.10:761][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.14-11.12.10:761][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.14-11.12.10:761][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.14-11.12.10:775][  0]LogNetVersion: Cyberpunk2022 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1028016206)
+[2022.03.14-11.12.11:053][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.14-11.12.11:102][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.14-11.12.11:108][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.03.14-11.12.11:108][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.03.14-11.12.11:108][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.14-11.12.11:308][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 287DA8684106A8555A41F5939B769F58 | Instance: 1B82736A46C5F10977E332B763EC2D0D (DESKTOP-P6OQVGL-16372).
+[2022.03.14-11.12.11:555][  0]LogPython: Using Python 3.7.7
+[2022.03.14-11.12.11:991][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.14-11.12.12:001][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.14-11.12.12:423][  0]SourceControl: Source control is disabled
+[2022.03.14-11.12.12:423][  0]SourceControl: Source control is disabled
+[2022.03.14-11.12.12:429][  0]SourceControl: Source control is disabled
+[2022.03.14-11.12.12:434][  0]SourceControl: Source control is disabled
+[2022.03.14-11.12.12:448][  0]LogUProjectInfo: Found projects:
+[2022.03.14-11.12.12:453][  0]SourceControl: Source control is disabled
+[2022.03.14-11.12.12:745][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.14-11.12.12:790][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.14-11.12.12:828][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.14-11.12.12:828][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.14-11.12.12:974][  0]LogCollectionManager: Loaded 0 collections in 0.000544 seconds
+[2022.03.14-11.12.13:008][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Saved/Collections/' took 0.00s
+[2022.03.14-11.12.13:008][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/Developers/Artem/Collections/' took 0.00s
+[2022.03.14-11.12.13:008][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/Collections/' took 0.00s
+[2022.03.14-11.12.13:008][  0]LogOcInput: OculusInput pre-init called
+[2022.03.14-11.12.13:209][  0]LogClass: Warning: ObjectProperty FUDecalStruct::Material is not initialized properly. Module:Cyberpunk2022 File:DecalStruct.h
+[2022.03.14-11.12.13:210][  0]LogClass: Display: 1 Uninitialized script struct members found including 1 object properties
+[2022.03.14-11.12.13:210][  0]LogAutomationTest: Warning: ObjectProperty FUDecalStruct::Material is not initialized properly. Module:Cyberpunk2022 File:DecalStruct.h
+[2022.03.14-11.12.13:211][  0]LogEngine: Initializing Engine...
+[2022.03.14-11.12.13:214][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.03.14-11.12.13:215][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.14-11.12.13:215][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.14-11.12.13:215][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.14-11.12.13:324][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.14-11.12.13:336][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.14-11.12.13:340][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.14-11.12.13:346][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.14-11.12.13:346][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.03.14-11.12.13:347][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.14-11.12.13:347][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.14-11.12.13:347][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.14-11.12.13:347][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.14-11.12.13:347][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.14-11.12.13:347][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.14-11.12.13:347][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.14-11.12.13:347][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.14-11.12.13:347][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.14-11.12.13:347][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.14-11.12.13:348][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.14-11.12.13:348][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.14-11.12.13:348][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.14-11.12.13:348][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.14-11.12.13:361][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.14-11.12.13:361][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.14-11.12.13:437][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.03.14-11.12.13:440][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.14-11.12.13:443][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.14-11.12.13:443][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.14-11.12.13:444][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.14-11.12.13:444][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.14-11.12.13:444][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.14-11.12.13:446][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.14-11.12.13:446][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.14-11.12.13:446][  0]LogInit: FAudioDevice initialized.
+[2022.03.14-11.12.13:446][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.14-11.12.13:446][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.14-11.12.13:495][  0]LogDerivedDataCache: Saved boot cache 0.05s 103MB C:/Users/Artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.14-11.12.13:496][  0]LogInit: Texture streaming: Enabled
+[2022.03.14-11.12.13:514][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.03.14-11.12.13:519][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.14-11.12.13:519][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.14-11.12.13:523][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.14-11.12.13:549][  0]LogInit: Transaction tracking system initialized
+[2022.03.14-11.12.13:585][  0]BlueprintLog: New page: Editor Load
+[2022.03.14-11.12.13:670][  0]LocalizationService: Localization service is disabled
+[2022.03.14-11.12.13:704][  0]TimingProfiler: Initialize
+[2022.03.14-11.12.13:704][  0]TimingProfiler: OnSessionChanged
+[2022.03.14-11.12.13:704][  0]LoadingProfiler: Initialize
+[2022.03.14-11.12.13:704][  0]LoadingProfiler: OnSessionChanged
+[2022.03.14-11.12.13:704][  0]NetworkingProfiler: Initialize
+[2022.03.14-11.12.13:704][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.14-11.12.13:704][  0]MemoryProfiler: Initialize
+[2022.03.14-11.12.13:704][  0]MemoryProfiler: OnSessionChanged
+[2022.03.14-11.12.13:865][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.14-11.12.13:865][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.14-11.12.14:119][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/' took 0.01s
+[2022.03.14-11.12.14:250][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.14-11.12.14:253][  0]SourceControl: Source control is disabled
+[2022.03.14-11.12.14:254][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.274
+[2022.03.14-11.12.14:254][  0]Cmd: MAP LOAD FILE="../../../../Projects/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Maps/bloking_new.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.14-11.12.14:255][  0]LightingResults: New page: Lighting Build
+[2022.03.14-11.12.14:257][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.14-11.12.14:257][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.14-11.12.14:257][  0]MapCheck: New page: Map Check
+[2022.03.14-11.12.14:257][  0]LightingResults: New page: Lighting Build
+[2022.03.14-11.12.14:262][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.14-11.12.14:266][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.03.14-11.12.15:148][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'bloking_new'.
+[2022.03.14-11.12.15:149][  0]LogAIModule: Creating AISystem for world bloking_new
+[2022.03.14-11.12.15:294][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.14-11.12.15:340][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.03.14-11.12.15:340][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.14-11.12.15:341][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.376ms to complete.
+[2022.03.14-11.12.15:341][  0]LogFileHelpers: Loading map 'bloking_new' took 1.087
+[2022.03.14-11.12.15:344][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.364
+[2022.03.14-11.12.15:446][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.14-11.12.15:452][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.14-11.12.15:458][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.14-11.12.15:464][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.14-11.12.15:479][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3832 classes and 930 folders.
+[2022.03.14-11.12.15:487][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.14-11.12.15:489][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.14-11.12.15:489][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:489][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.14-11.12.15:490][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:490][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.03.14-11.12.15:490][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2022.03.14-11.12.15:491][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.14-11.12.15:491][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:491][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.14-11.12.15:491][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:491][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.03.14-11.12.15:491][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2022.03.14-11.12.15:493][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.14-11.12.15:493][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:493][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.14-11.12.15:493][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:493][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.03.14-11.12.15:493][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2022.03.14-11.12.15:495][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.14-11.12.15:495][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:495][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.14-11.12.15:495][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:495][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.03.14-11.12.15:495][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2022.03.14-11.12.15:496][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.14-11.12.15:496][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:497][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.14-11.12.15:497][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:497][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.03.14-11.12.15:497][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2022.03.14-11.12.15:498][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.14-11.12.15:498][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:498][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.14-11.12.15:498][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:499][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.03.14-11.12.15:499][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2022.03.14-11.12.15:500][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.14-11.12.15:500][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:500][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.14-11.12.15:500][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:500][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.03.14-11.12.15:500][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2022.03.14-11.12.15:502][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.14-11.12.15:502][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:502][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.14-11.12.15:502][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:502][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.03.14-11.12.15:502][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2022.03.14-11.12.15:504][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.14-11.12.15:504][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:504][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.14-11.12.15:504][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:504][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.03.14-11.12.15:504][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2022.03.14-11.12.15:506][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.14-11.12.15:506][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:506][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.14-11.12.15:506][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:506][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.03.14-11.12.15:506][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2022.03.14-11.12.15:508][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.14-11.12.15:508][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:508][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.14-11.12.15:508][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:508][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.03.14-11.12.15:508][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2022.03.14-11.12.15:509][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.14-11.12.15:509][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:509][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.14-11.12.15:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.03.14-11.12.15:509][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2022.03.14-11.12.15:511][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.14-11.12.15:511][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:511][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.14-11.12.15:511][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:511][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.03.14-11.12.15:511][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2022.03.14-11.12.15:513][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.14-11.12.15:513][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:513][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.14-11.12.15:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.03.14-11.12.15:513][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2022.03.14-11.12.15:514][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.14-11.12.15:514][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:514][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.14-11.12.15:515][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:515][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.03.14-11.12.15:515][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2022.03.14-11.12.15:516][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.14-11.12.15:516][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:516][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.14-11.12.15:516][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:516][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.03.14-11.12.15:516][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2022.03.14-11.12.15:517][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.14-11.12.15:517][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:517][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.14-11.12.15:517][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:518][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.03.14-11.12.15:518][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2022.03.14-11.12.15:519][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.14-11.12.15:519][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:519][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.14-11.12.15:519][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:519][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.03.14-11.12.15:519][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2022.03.14-11.12.15:521][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.14-11.12.15:521][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:521][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.14-11.12.15:521][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:521][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.03.14-11.12.15:521][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2022.03.14-11.12.15:522][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.14-11.12.15:522][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:522][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.14-11.12.15:522][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:523][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.03.14-11.12.15:523][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2022.03.14-11.12.15:524][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.14-11.12.15:524][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:524][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.14-11.12.15:524][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:524][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.03.14-11.12.15:524][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2022.03.14-11.12.15:526][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.14-11.12.15:526][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:526][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.14-11.12.15:526][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:526][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.03.14-11.12.15:526][  0]LogPakFile: OnPakFileMounted2Time == 0.000129
+[2022.03.14-11.12.15:527][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.14-11.12.15:527][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:528][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.14-11.12.15:528][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:528][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.03.14-11.12.15:528][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2022.03.14-11.12.15:529][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.14-11.12.15:529][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:529][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.14-11.12.15:529][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:529][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.03.14-11.12.15:529][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2022.03.14-11.12.15:531][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.14-11.12.15:531][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:531][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.14-11.12.15:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.03.14-11.12.15:531][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2022.03.14-11.12.15:532][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.14-11.12.15:533][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.14-11.12.15:533][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.14-11.12.15:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE4/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.14-11.12.15:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE4/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.03.14-11.12.15:533][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2022.03.14-11.12.15:608][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.14-11.12.15:609][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.03.14-11.12.15:688][  0]LogSlate: Took 0.001457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.14-11.12.15:689][  0]LogSlate: Took 0.000762 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.14-11.12.15:691][  0]LogSlate: Took 0.000592 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.14-11.12.15:802][  0]LogRenderer: Reallocating scene render targets to support 1256x572 Format 10 NumSamples 1 (Frame:1).
+[2022.03.14-11.12.15:877][  0]LogSlate: Took 0.002158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.14-11.12.15:994][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.14-11.12.15:995][  0]LogLoad: (Engine Initialization) Total time: 9.02 seconds
+[2022.03.14-11.12.15:995][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.14-11.12.16:056][  0]LogAssetRegistry: Asset discovery search completed in 5.6166 seconds
+[2022.03.14-11.12.16:065][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.03.14-11.12.16:078][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.14-11.12.16:986][ 43]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.14-11.12.16:991][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.14-11.12.16:992][ 43]PIE: New page: PIE session: bloking_new (Mar 14, 2022, 5:12:16 PM)
+[2022.03.14-11.12.16:995][ 43]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.14-11.12.17:459][ 43]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.14-11.12.17:460][ 43]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new
+[2022.03.14-11.12.17:615][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154846s)
+[2022.03.14-11.12.17:616][ 43]LogAIModule: Creating AISystem for world bloking_new
+[2022.03.14-11.12.17:616][ 43]LogPlayLevel: PIE: World Init took: (0.001618s)
+[2022.03.14-11.12.17:617][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/bloking_new.bloking_new to /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new (0.157112s)
+[2022.03.14-11.12.17:624][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.03.14-11.12.17:632][ 43]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.14-11.12.17:632][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.14-11.12.17:632][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.14-11.12.17:632][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.14-11.12.17:632][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.14-11.12.17:632][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.14-11.12.17:632][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.14-11.12.17:632][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.14-11.12.17:632][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.14-11.12.17:633][ 43]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.14-11.12.17:633][ 43]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.14-11.12.17:633][ 43]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.14-11.12.17:633][ 43]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.14-11.12.17:634][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.14-11.12.17:634][ 43]LogAudioMixer: Display: 1: FrontRight
+[2022.03.14-11.12.17:712][ 43]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.03.14-11.12.17:712][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.14-11.12.17:712][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.14-11.12.17:712][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.14-11.12.17:713][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.14-11.12.17:713][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.14-11.12.17:713][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.14-11.12.17:714][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.14-11.12.17:714][ 43]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.14-11.12.17:715][ 43]LogInit: FAudioDevice initialized.
+[2022.03.14-11.12.17:715][ 43]LogAudio: Display: Audio Device (ID: 2) registered with world 'bloking_new'.
+[2022.03.14-11.12.17:739][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.14-11.12.17:781][ 43]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2022.03.14-11.12.17:856][ 43]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new up for play (max tick rate 60) at 2022.03.14-14.12.17
+[2022.03.14-11.12.17:868][ 43]LogWorld: Bringing up level for play took: 0.086525
+[2022.03.14-11.12.17:869][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.03.14-11.12.17:875][ 43]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.03.14-11.12.17:889][ 43]PIE: Server logged in
+[2022.03.14-11.12.17:891][ 43]PIE: Play in editor total start time 0.9 seconds.
+[2022.03.14-11.12.17:966][ 44]LogRenderer: Reallocating scene render targets to support 1912x1008 Format 10 NumSamples 1 (Frame:1).
+[2022.03.14-11.12.18:205][ 55]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster17
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.18:205][ 55]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.18:206][ 55]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster18
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.18:206][ 55]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.18:222][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster_2
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.18:222][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.18:223][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster8
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.18:223][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.18:224][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster15
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.18:224][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.18:225][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster16
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.18:225][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.18:458][ 70]LogTemp: randX: 0.000000
+[2022.03.14-11.12.18:458][ 70]LogTemp: randY: -0.000000
+[2022.03.14-11.12.18:906][ 97]LogTemp: randX: -5.070728
+[2022.03.14-11.12.18:906][ 97]LogTemp: randY: -0.000002
+[2022.03.14-11.12.19:007][103]LogTemp: randX: -4.403809
+[2022.03.14-11.12.19:008][103]LogTemp: randY: -0.000004
+[2022.03.14-11.12.19:107][109]LogTemp: randX: 85.020111
+[2022.03.14-11.12.19:107][109]LogTemp: randY: -0.000003
+[2022.03.14-11.12.19:208][115]LogTemp: randX: 2.890472
+[2022.03.14-11.12.19:208][115]LogTemp: randY: 0.000001
+[2022.03.14-11.12.19:223][116]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster17
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.19:224][116]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.19:225][116]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster18
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.19:225][116]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.19:241][117]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster_2
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.19:241][117]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.19:242][117]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster8
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.19:242][117]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.19:243][117]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster15
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.19:243][117]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.19:244][117]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster16
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.19:244][117]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.19:307][121]LogTemp: randX: -105.785797
+[2022.03.14-11.12.19:307][121]LogTemp: randY: -0.000007
+[2022.03.14-11.12.19:407][127]LogTemp: randX: 45.167633
+[2022.03.14-11.12.19:407][127]LogTemp: randY: -0.000008
+[2022.03.14-11.12.19:805][151]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.03.14-11.12.20:091][168]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster9
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.20:091][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.20:240][177]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster17
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.20:240][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.20:241][177]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster18
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.20:241][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.20:257][178]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster_2
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.20:257][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.20:258][178]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster8
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.20:259][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.20:259][178]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster15
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.20:259][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.20:260][178]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster16
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.20:260][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.21:107][229]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster9
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.21:107][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.21:121][230]LogFileCache: Retrieving MD5 hashes for directory 'E:/UE4/Projects/WargamingAcademy/Cyberpunk2022/Content/' took 5.10s
+[2022.03.14-11.12.21:257][238]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster17
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.21:258][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.21:258][238]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster18
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.21:259][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.21:274][239]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster_2
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.21:274][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.21:275][239]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster8
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.21:275][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.21:276][239]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster15
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.21:276][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.21:277][239]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster16
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.21:277][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.22:291][300]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster_2
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.22:291][300]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.23:257][358]LogTemp: randX: 0.000000
+[2022.03.14-11.12.23:257][358]LogTemp: randY: -0.000000
+[2022.03.14-11.12.23:358][364]LogTemp: randX: 32.443680
+[2022.03.14-11.12.23:358][364]LogTemp: randY: -0.000001
+[2022.03.14-11.12.23:358][364]LogBlueprintUserMessages: [BotMaster16] 70
+[2022.03.14-11.12.23:459][370]LogTemp: randX: -40.630775
+[2022.03.14-11.12.23:459][370]LogTemp: randY: 0.000001
+[2022.03.14-11.12.23:459][370]LogBlueprintUserMessages: [BotMaster16] Headshoot!
+[2022.03.14-11.12.23:570][376]LogTemp: randX: -68.289978
+[2022.03.14-11.12.23:571][376]LogTemp: randY: 0.000000
+[2022.03.14-11.12.23:669][382]LogTemp: randX: 13.152618
+[2022.03.14-11.12.23:670][382]LogTemp: randY: -0.000005
+[2022.03.14-11.12.23:770][388]LogTemp: randX: -213.869415
+[2022.03.14-11.12.23:770][388]LogTemp: randY: 0.000009
+[2022.03.14-11.12.23:870][394]LogTemp: randX: -59.316772
+[2022.03.14-11.12.23:870][394]LogTemp: randY: -0.000009
+[2022.03.14-11.12.24:086][407]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster13
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.24:087][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.24:566][436]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.03.14-11.12.25:840][512]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster2
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.25:840][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.26:039][524]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster3
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.26:040][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.26:290][539]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster4
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.26:291][539]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.26:490][551]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster_2
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.26:491][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.27:307][600]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster4
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.27:307][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.27:507][612]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster_2
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.27:507][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.28:124][649]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster3
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.28:124][649]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.31:240][836]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster52
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.31:240][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.31:274][838]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster3
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.31:274][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.31:523][853]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster4
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.31:524][853]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.32:124][889]LogTemp: randX: 0.000000
+[2022.03.14-11.12.32:124][889]LogTemp: randY: 0.000000
+[2022.03.14-11.12.32:224][895]LogTemp: randX: 33.059532
+[2022.03.14-11.12.32:224][895]LogTemp: randY: 0.000002
+[2022.03.14-11.12.32:225][895]LogBlueprintUserMessages: [BotMaster52] 70
+[2022.03.14-11.12.32:257][897]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster52
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.32:258][897]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.32:325][901]LogTemp: randX: 32.553520
+[2022.03.14-11.12.32:325][901]LogTemp: randY: -0.000000
+[2022.03.14-11.12.32:425][907]LogTemp: randX: -101.991646
+[2022.03.14-11.12.32:425][907]LogTemp: randY: 0.000001
+[2022.03.14-11.12.32:524][913]LogTemp: randX: -71.308884
+[2022.03.14-11.12.32:525][913]LogTemp: randY: -0.000004
+[2022.03.14-11.12.32:525][913]LogBlueprintUserMessages: [BotMaster52] 40
+[2022.03.14-11.12.32:541][914]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster4
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.32:541][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.32:625][919]LogTemp: randX: 98.590515
+[2022.03.14-11.12.32:625][919]LogTemp: randY: 0.000003
+[2022.03.14-11.12.32:625][919]LogBlueprintUserMessages: [BotMaster52] 10
+[2022.03.14-11.12.32:725][925]LogTemp: randX: 301.894470
+[2022.03.14-11.12.32:725][925]LogTemp: randY: -0.000004
+[2022.03.14-11.12.32:725][925]LogBlueprintUserMessages: [BotMaster52] Headshoot!
+[2022.03.14-11.12.32:824][931]LogTemp: randX: -260.336853
+[2022.03.14-11.12.32:824][931]LogTemp: randY: 0.000001
+[2022.03.14-11.12.32:925][937]LogTemp: randX: -1.473083
+[2022.03.14-11.12.32:925][937]LogTemp: randY: 0.000017
+[2022.03.14-11.12.33:024][943]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster14_16
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.33:025][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.33:258][957]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster2
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.33:258][957]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.33:509][972]LogTemp: randX: -122.147644
+[2022.03.14-11.12.33:509][972]LogTemp: randY: -0.000018
+[2022.03.14-11.12.33:510][972]LogBlueprintUserMessages: [BotMaster50] 70
+[2022.03.14-11.12.33:610][978]LogTemp: randX: 423.313263
+[2022.03.14-11.12.33:611][978]LogTemp: randY: -120.354736
+[2022.03.14-11.12.33:611][978]LogBlueprintUserMessages: [BotMaster49_82] Headshoot!
+[2022.03.14-11.12.33:711][984]LogTemp: randX: -196.882385
+[2022.03.14-11.12.33:711][984]LogTemp: randY: -404.695770
+[2022.03.14-11.12.33:810][990]LogTemp: randX: -136.087860
+[2022.03.14-11.12.33:810][990]LogTemp: randY: 677.663208
+[2022.03.14-11.12.33:910][996]LogTemp: randX: 420.962830
+[2022.03.14-11.12.33:910][996]LogTemp: randY: -785.821045
+[2022.03.14-11.12.34:010][  2]LogTemp: randX: 200.795654
+[2022.03.14-11.12.34:011][  2]LogTemp: randY: 883.602356
+[2022.03.14-11.12.34:043][  4]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster14_16
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.34:043][  4]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.34:093][  7]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster41
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.34:093][  7]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.34:111][  8]LogTemp: randX: -531.404663
+[2022.03.14-11.12.34:111][  8]LogTemp: randY: -972.044983
+[2022.03.14-11.12.34:111][  8]LogBlueprintUserMessages: [BotMaster50] 40
+[2022.03.14-11.12.34:210][ 14]LogTemp: randX: -296.277588
+[2022.03.14-11.12.34:210][ 14]LogTemp: randY: 437.177551
+[2022.03.14-11.12.34:211][ 14]LogBlueprintUserMessages: [BotMaster50] 10
+[2022.03.14-11.12.34:227][ 15]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster40
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.34:228][ 15]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.34:310][ 20]LogTemp: randX: -4.392944
+[2022.03.14-11.12.34:310][ 20]LogTemp: randY: 774.895508
+[2022.03.14-11.12.34:311][ 20]LogBlueprintUserMessages: [BotMaster50] Headshoot!
+[2022.03.14-11.12.34:343][ 22]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster36
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.34:344][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.34:359][ 23]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster39
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.34:359][ 23]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.34:361][ 23]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster37_54
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.34:361][ 23]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.34:410][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster35
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.34:411][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.34:411][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster38
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.34:412][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.34:413][ 26]LogTemp: randX: 8.160767
+[2022.03.14-11.12.34:413][ 26]LogTemp: randY: -980.773315
+[2022.03.14-11.12.34:427][ 27]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster34
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.34:427][ 27]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.34:511][ 32]LogTemp: randX: 165.727600
+[2022.03.14-11.12.34:511][ 32]LogTemp: randY: 253.334106
+[2022.03.14-11.12.34:611][ 38]LogTemp: randX: 579.427063
+[2022.03.14-11.12.34:612][ 38]LogTemp: randY: 752.739014
+[2022.03.14-11.12.34:711][ 44]LogTemp: randX: -960.186279
+[2022.03.14-11.12.34:711][ 44]LogTemp: randY: -144.138916
+[2022.03.14-11.12.34:711][ 44]LogBlueprintUserMessages: [BotMaster51] 70
+[2022.03.14-11.12.34:811][ 50]LogTemp: randX: -1065.551270
+[2022.03.14-11.12.34:811][ 50]LogTemp: randY: -341.044373
+[2022.03.14-11.12.34:811][ 50]LogBlueprintUserMessages: [BotMaster51] 40
+[2022.03.14-11.12.34:911][ 56]LogTemp: randX: 1138.542114
+[2022.03.14-11.12.34:911][ 56]LogTemp: randY: 237.281372
+[2022.03.14-11.12.34:911][ 56]LogBlueprintUserMessages: [BotMaster51] 10
+[2022.03.14-11.12.35:011][ 62]LogTemp: randX: 85.971802
+[2022.03.14-11.12.35:011][ 62]LogTemp: randY: 198.583984
+[2022.03.14-11.12.35:110][ 68]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster41
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.35:110][ 68]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.35:112][ 68]LogTemp: randX: 1100.216797
+[2022.03.14-11.12.35:112][ 68]LogTemp: randY: 164.769409
+[2022.03.14-11.12.35:211][ 74]LogTemp: randX: 500.440308
+[2022.03.14-11.12.35:211][ 74]LogTemp: randY: -653.187683
+[2022.03.14-11.12.35:243][ 76]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster40
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.35:244][ 76]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.35:310][ 80]LogTemp: randX: 822.919312
+[2022.03.14-11.12.35:310][ 80]LogTemp: randY: 822.626526
+[2022.03.14-11.12.35:310][ 80]LogBlueprintUserMessages: [BotMaster51] Headshoot!
+[2022.03.14-11.12.35:360][ 83]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster36
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.35:361][ 83]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.35:376][ 84]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster39
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.35:376][ 84]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.35:378][ 84]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster37_54
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.35:378][ 84]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.35:412][ 86]LogTemp: randX: -484.517883
+[2022.03.14-11.12.35:412][ 86]LogTemp: randY: -914.548218
+[2022.03.14-11.12.35:427][ 87]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster35
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.35:427][ 87]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.35:428][ 87]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster38
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.35:428][ 87]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.35:510][ 92]LogTemp: randX: 189.411743
+[2022.03.14-11.12.35:511][ 92]LogTemp: randY: 447.126770
+[2022.03.14-11.12.35:611][ 98]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.03.14-11.12.36:126][129]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster41
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.36:127][129]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.36:127][129]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster45
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.36:128][129]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.36:144][130]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster44_68
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.36:144][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.36:259][137]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster40
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.36:260][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.36:376][144]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster36
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.36:376][144]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.36:393][145]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster39
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.36:393][145]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.36:394][145]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster37_54
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.36:395][145]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.37:143][190]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster41
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.37:143][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.37:275][198]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster40
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.37:276][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.37:409][206]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster39
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.37:409][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.38:160][251]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster41
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.38:160][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.38:293][259]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster40
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.38:293][259]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.39:026][303]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster33
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.39:026][303]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.39:610][338]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster32
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.39:610][338]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.39:877][354]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.14-11.12.39:977][360]LogTemp: randX: 0.000000
+[2022.03.14-11.12.39:977][360]LogTemp: randY: -0.000000
+[2022.03.14-11.12.40:078][366]LogTemp: randX: -20.154476
+[2022.03.14-11.12.40:078][366]LogTemp: randY: -0.000001
+[2022.03.14-11.12.40:143][370]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster31
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.40:143][370]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.40:178][372]LogTemp: randX: 17.599754
+[2022.03.14-11.12.40:178][372]LogTemp: randY: -0.000000
+[2022.03.14-11.12.40:278][378]LogTemp: randX: -113.067703
+[2022.03.14-11.12.40:278][378]LogTemp: randY: 0.000000
+[2022.03.14-11.12.40:378][384]LogTemp: randX: -165.141235
+[2022.03.14-11.12.40:378][384]LogTemp: randY: -0.000008
+[2022.03.14-11.12.40:527][393]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster30
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.40:528][393]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.40:809][410]LogTemp: randX: -137.769867
+[2022.03.14-11.12.40:809][410]LogTemp: randY: 0.000002
+[2022.03.14-11.12.40:893][415]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster29_41
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.40:893][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.40:911][416]LogTemp: randX: 34.992157
+[2022.03.14-11.12.40:911][416]LogTemp: randY: 0.000005
+[2022.03.14-11.12.41:010][422]LogTemp: randX: 347.509338
+[2022.03.14-11.12.41:010][422]LogTemp: randY: 0.000004
+[2022.03.14-11.12.41:544][454]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster30
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.41:544][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.41:844][472]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster34
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.41:844][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.41:909][476]LogTemp: randX: -395.544250
+[2022.03.14-11.12.41:909][476]LogTemp: randY: 0.000007
+[2022.03.14-11.12.41:913][476]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster29_41
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.41:913][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.42:013][482]LogTemp: randX: 311.601135
+[2022.03.14-11.12.42:013][482]LogTemp: randY: -0.000011
+[2022.03.14-11.12.42:013][482]LogBlueprintUserMessages: [BotMaster30] 70
+[2022.03.14-11.12.42:113][488]LogTemp: randX: -61.693542
+[2022.03.14-11.12.42:113][488]LogTemp: randY: -267.575897
+[2022.03.14-11.12.42:113][488]LogBlueprintUserMessages: [BotMaster30] 40
+[2022.03.14-11.12.42:213][494]LogTemp: randX: 277.323853
+[2022.03.14-11.12.42:213][494]LogTemp: randY: 248.156128
+[2022.03.14-11.12.42:313][500]LogTemp: randX: -166.168701
+[2022.03.14-11.12.42:313][500]LogTemp: randY: 190.282837
+[2022.03.14-11.12.42:313][500]LogBlueprintUserMessages: [BotMaster30] 10
+[2022.03.14-11.12.42:413][506]LogTemp: randX: -409.899170
+[2022.03.14-11.12.42:413][506]LogTemp: randY: -671.559814
+[2022.03.14-11.12.42:513][512]LogTemp: randX: 266.218384
+[2022.03.14-11.12.42:514][512]LogTemp: randY: 378.521057
+[2022.03.14-11.12.42:514][512]LogBlueprintUserMessages: [BotMaster30] -20
+[2022.03.14-11.12.42:613][518]LogTemp: randX: -471.660797
+[2022.03.14-11.12.42:613][518]LogTemp: randY: -113.315247
+[2022.03.14-11.12.42:712][524]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	BotMaster_C /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new.bloking_new:PersistentLevel.BotMaster48_76
+	Function /Game/FirstPersonCPP/AI/BotMaster/BotMaster.BotMaster_C:ExecuteUbergraph_BotMaster:0648
+[2022.03.14-11.12.42:713][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  BotMaster Function:  Execute Ubergraph Bot Master Graph:  EventGraph Node:  Montage Play
+[2022.03.14-11.12.42:714][524]LogTemp: randX: 79.150940
+[2022.03.14-11.12.42:714][524]LogTemp: randY: -287.392822
+[2022.03.14-11.12.42:814][530]LogTemp: randX: -31.487366
+[2022.03.14-11.12.42:814][530]LogTemp: randY: -492.843414
+[2022.03.14-11.12.43:218][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.14-11.12.43:218][552]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_bloking_new
+[2022.03.14-11.12.43:219][552]LogSlate: Window 'Cyberpunk2022 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.14-11.12.43:225][552]LogWorld: UWorld::CleanupWorld for bloking_new, bSessionEnded=true, bCleanupResources=true
+[2022.03.14-11.12.43:243][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.14-11.12.43:254][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.14-11.12.43:260][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.14-11.12.43:266][552]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.14-11.12.43:266][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.14-11.12.43:268][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.14-11.12.43:307][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.03.14-11.12.43:367][552]LogSlate: Took 0.000766 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.14-11.12.43:384][553]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.03.14-11.12.44:439][604]LogSlate: Window 'Message Log' being destroyed
+[2022.03.14-11.12.44:460][604]LogSlate: Window 'Message Log' being destroyed
+[2022.03.14-11.12.46:800][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.03.14-11.12.46:828][743]LogSlate: Window 'Cyberpunk2022 - Unreal Editor' being destroyed
+[2022.03.14-11.12.46:946][744]Cmd: QUIT_EDITOR
+[2022.03.14-11.12.46:946][744]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.03.14-11.12.46:948][744]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.03.14-11.12.47:666][744]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.03.14-11.12.47:666][744]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.03.14-11.12.47:666][744]LogAudio: Display: Audio Device unregistered from world 'bloking_new'.
+[2022.03.14-11.12.47:667][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.14-11.12.47:668][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.14-11.12.47:678][744]LogAudio: Display: Audio Device Manager Shutdown
+[2022.03.14-11.12.47:678][744]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.14-11.12.47:685][744]LogExit: Preparing to exit.
+[2022.03.14-11.12.47:817][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.03.14-11.12.48:047][744]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.03.14-11.12.48:053][744]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.03.14-11.12.48:054][744]LogExit: Editor shut down
+[2022.03.14-11.12.48:055][744]LogExit: Transaction tracking system shut down
+[2022.03.14-11.12.48:259][744]LogExit: Object subsystem successfully closed.
+[2022.03.14-11.12.48:294][744]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.14-11.12.48:294][744]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.03.14-11.12.48:295][744]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.03.14-11.12.48:295][744]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.14-11.12.48:295][744]LogShaderCompilers: Display: ================================================
+[2022.03.14-11.12.48:308][744]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.03.14-11.12.48:323][744]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (876)
+[2022.03.14-11.12.48:323][744]LogModuleManager: Shutting down and abandoning module Voice (874)
+[2022.03.14-11.12.48:323][744]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (872)
+[2022.03.14-11.12.48:323][744]LogModuleManager: Shutting down and abandoning module SceneOutliner (870)
+[2022.03.14-11.12.48:323][744]LogModuleManager: Shutting down and abandoning module AddContentDialog (868)
+[2022.03.14-11.12.48:324][744]LogModuleManager: Shutting down and abandoning module WidgetCarousel (867)
+[2022.03.14-11.12.48:324][744]LogModuleManager: Shutting down and abandoning module EditorWidgets (864)
+[2022.03.14-11.12.48:324][744]LogModuleManager: Shutting down and abandoning module StatsViewer (862)
+[2022.03.14-11.12.48:324][744]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (860)
+[2022.03.14-11.12.48:324][744]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (858)
+[2022.03.14-11.12.48:324][744]LogModuleManager: Shutting down and abandoning module AutomationWorker (856)
+[2022.03.14-11.12.48:324][744]LogModuleManager: Shutting down and abandoning module SteamVREditor (854)
+[2022.03.14-11.12.48:324][744]LogModuleManager: Shutting down and abandoning module OculusMR (852)
+[2022.03.14-11.12.48:324][744]LogModuleManager: Shutting down and abandoning module GooglePADEditor (850)
+[2022.03.14-11.12.48:324][744]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.03.14-11.12.48:324][744]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.03.14-11.12.48:325][744]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.03.14-11.12.48:325][744]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.03.14-11.12.48:325][744]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2022.03.14-11.12.48:325][744]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (838)
+[2022.03.14-11.12.48:325][744]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (836)
+[2022.03.14-11.12.48:325][744]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (834)
+[2022.03.14-11.12.48:325][744]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (832)
+[2022.03.14-11.12.48:325][744]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (830)
+[2022.03.14-11.12.48:325][744]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (828)
+[2022.03.14-11.12.48:325][744]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (826)
+[2022.03.14-11.12.48:325][744]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (824)
+[2022.03.14-11.12.48:325][744]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (822)
+[2022.03.14-11.12.48:325][744]LogModuleManager: Shutting down and abandoning module WebMMedia (820)
+[2022.03.14-11.12.48:325][744]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (818)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (816)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module SequenceRecorder (815)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (812)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (810)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (808)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module PlanarCut (806)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (804)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (802)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module TextureAlignMode (800)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module BspMode (798)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module GeometryMode (796)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (794)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (792)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (790)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (788)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (786)
+[2022.03.14-11.12.48:326][744]LogModuleManager: Shutting down and abandoning module CharacterAI (784)
+[2022.03.14-11.12.48:327][744]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (782)
+[2022.03.14-11.12.48:327][744]LogModuleManager: Shutting down and abandoning module SmartSnapping (780)
+[2022.03.14-11.12.48:327][744]LogModuleManager: Shutting down and abandoning module SessionServices (778)
+[2022.03.14-11.12.48:327][744]LogModuleManager: Shutting down and abandoning module MeshPaint (776)
+[2022.03.14-11.12.48:327][744]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (774)
+[2022.03.14-11.12.48:327][744]LogModuleManager: Shutting down and abandoning module FoliageEdit (772)
+[2022.03.14-11.12.48:327][744]LogModuleManager: Shutting down and abandoning module LandscapeEditor (770)
+[2022.03.14-11.12.48:327][744]LogModuleManager: Shutting down and abandoning module MeshPaintMode (768)
+[2022.03.14-11.12.48:327][744]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (766)
+[2022.03.14-11.12.48:327][744]LogModuleManager: Shutting down and abandoning module ActorPickerMode (764)
+[2022.03.14-11.12.48:327][744]LogModuleManager: Shutting down and abandoning module PlacementMode (762)
+[2022.03.14-11.12.48:327][744]LogModuleManager: Shutting down and abandoning module ViewportSnapping (760)
+[2022.03.14-11.12.48:327][744]LogModuleManager: Shutting down and abandoning module ViewportInteraction (758)
+[2022.03.14-11.12.48:327][744]LogModuleManager: Shutting down and abandoning module ClothPainter (756)
+[2022.03.14-11.12.48:328][744]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (755)
+[2022.03.14-11.12.48:328][744]LogModuleManager: Shutting down and abandoning module LogVisualizer (752)
+[2022.03.14-11.12.48:328][744]LogModuleManager: Shutting down and abandoning module IntroTutorials (750)
+[2022.03.14-11.12.48:328][744]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (749)
+[2022.03.14-11.12.48:328][744]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (746)
+[2022.03.14-11.12.48:328][744]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (744)
+[2022.03.14-11.12.48:328][744]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (742)
+[2022.03.14-11.12.48:328][744]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (741)
+[2022.03.14-11.12.48:379][744]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (738)
+[2022.03.14-11.12.48:380][744]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (736)
+[2022.03.14-11.12.48:380][744]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (734)
+[2022.03.14-11.12.48:380][744]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (732)
+[2022.03.14-11.12.48:380][744]LogModuleManager: Shutting down and abandoning module TraceInsights (730)
+[2022.03.14-11.12.48:380][744]MemoryProfiler: Shutdown
+[2022.03.14-11.12.48:380][744]NetworkingProfiler: Shutdown
+[2022.03.14-11.12.48:380][744]LoadingProfiler: Shutdown
+[2022.03.14-11.12.48:380][744]TimingProfiler: Shutdown
+[2022.03.14-11.12.48:380][744]LogModuleManager: Shutting down and abandoning module TraceServices (729)
+[2022.03.14-11.12.48:380][744]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (726)
+[2022.03.14-11.12.48:380][744]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (724)
+[2022.03.14-11.12.48:380][744]LogModuleManager: Shutting down and abandoning module InputBindingEditor (722)
+[2022.03.14-11.12.48:380][744]LogModuleManager: Shutting down and abandoning module MergeActors (720)
+[2022.03.14-11.12.48:381][744]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (718)
+[2022.03.14-11.12.48:381][744]LogModuleManager: Shutting down and abandoning module LocalizationService (717)
+[2022.03.14-11.12.48:381][744]LogModuleManager: Shutting down and abandoning module HardwareTargeting (714)
+[2022.03.14-11.12.48:381][744]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (712)
+[2022.03.14-11.12.48:381][744]LogModuleManager: Shutting down and abandoning module UndoHistory (710)
+[2022.03.14-11.12.48:381][744]LogModuleManager: Shutting down and abandoning module XmlParser (708)
+[2022.03.14-11.12.48:381][744]LogModuleManager: Shutting down and abandoning module Blutility (706)
+[2022.03.14-11.12.48:381][744]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (704)
+[2022.03.14-11.12.48:381][744]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (703)
+[2022.03.14-11.12.48:381][744]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (700)
+[2022.03.14-11.12.48:381][744]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (699)
+[2022.03.14-11.12.48:381][744]LogModuleManager: Shutting down and abandoning module SettingsEditor (696)
+[2022.03.14-11.12.48:381][744]LogModuleManager: Shutting down and abandoning module ProjectLauncher (694)
+[2022.03.14-11.12.48:381][744]LogModuleManager: Shutting down and abandoning module SessionFrontend (692)
+[2022.03.14-11.12.48:382][744]LogModuleManager: Shutting down and abandoning module ProfilerClient (690)
+[2022.03.14-11.12.48:382][744]LogModuleManager: Shutting down and abandoning module DeviceManager (688)
+[2022.03.14-11.12.48:382][744]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (687)
+[2022.03.14-11.12.48:413][744]LogModuleManager: Shutting down and abandoning module AutomationController (684)
+[2022.03.14-11.12.48:413][744]LogModuleManager: Shutting down and abandoning module AutomationWindow (682)
+[2022.03.14-11.12.48:413][744]LogModuleManager: Shutting down and abandoning module Layers (680)
+[2022.03.14-11.12.48:413][744]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (678)
+[2022.03.14-11.12.48:413][744]LogModuleManager: Shutting down and abandoning module DetailCustomizations (676)
+[2022.03.14-11.12.48:413][744]LogModuleManager: Shutting down and abandoning module PackagesDialog (674)
+[2022.03.14-11.12.48:414][744]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (672)
+[2022.03.14-11.12.48:414][744]LogModuleManager: Shutting down and abandoning module Persona (670)
+[2022.03.14-11.12.48:414][744]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (669)
+[2022.03.14-11.12.48:414][744]LogModuleManager: Shutting down and abandoning module Kismet (666)
+[2022.03.14-11.12.48:415][744]LogModuleManager: Shutting down and abandoning module KismetWidgets (665)
+[2022.03.14-11.12.48:415][744]LogModuleManager: Shutting down and abandoning module GraphEditor (662)
+[2022.03.14-11.12.48:415][744]LogModuleManager: Shutting down and abandoning module StructViewer (660)
+[2022.03.14-11.12.48:415][744]LogModuleManager: Shutting down and abandoning module ClassViewer (658)
+[2022.03.14-11.12.48:415][744]LogModuleManager: Shutting down and abandoning module Toolbox (656)
+[2022.03.14-11.12.48:415][744]LogModuleManager: Shutting down and abandoning module ModuleUI (654)
+[2022.03.14-11.12.48:415][744]LogModuleManager: Shutting down and abandoning module OutputLog (652)
+[2022.03.14-11.12.48:415][744]LogModuleManager: Shutting down and abandoning module GammaUI (650)
+[2022.03.14-11.12.48:415][744]LogModuleManager: Shutting down and abandoning module Documentation (648)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module LiveCoding (646)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module LevelSequence (644)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (642)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module MovieScene (640)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (638)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module LauncherPlatform (636)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module AnalyticsET (634)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module PortalServices (632)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module PortalRpc (630)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module MessagingRpc (628)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (626)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module AudioMixerCore (625)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module AIModule (622)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module GameplayDebugger (621)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module AITestSuite (619)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module NavigationSystem (617)
+[2022.03.14-11.12.48:416][744]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (614)
+[2022.03.14-11.12.48:423][744]LogModuleManager: Shutting down and abandoning module ProfilerService (612)
+[2022.03.14-11.12.48:635][744]LogModuleManager: Shutting down and abandoning module TaskGraph (610)
+[2022.03.14-11.12.48:635][744]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (608)
+[2022.03.14-11.12.48:635][744]LogModuleManager: Shutting down and abandoning module OculusEditor (606)
+[2022.03.14-11.12.48:635][744]LogModuleManager: Shutting down and abandoning module OculusInput (604)
+[2022.03.14-11.12.48:635][744]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (602)
+[2022.03.14-11.12.48:635][744]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (600)
+[2022.03.14-11.12.48:635][744]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (598)
+[2022.03.14-11.12.48:635][744]LogModuleManager: Shutting down and abandoning module CollectionManager (597)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module GooglePAD (594)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module SynthesisEditor (592)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module Synthesis (590)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (588)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (586)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module TakeSequencer (584)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module TakeMovieScene (582)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module OpenXREditor (580)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (578)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module ScreenshotTools (576)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module EditableMesh (574)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (572)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module AudioCapture (570)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (569)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module CableComponent (566)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module AssetTags (564)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (562)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (560)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module AppleImageUtils (558)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module AndroidPermission (556)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (554)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (552)
+[2022.03.14-11.12.48:636][744]LogModuleManager: Shutting down and abandoning module TemplateSequence (550)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module MediaCompositing (548)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module ImgMedia (546)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (544)
+[2022.03.14-11.12.48:637][744]LogOpenImageDenoise: OIDN shutting down
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (542)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module PluginBrowser (540)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (538)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module MotoSynth (536)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (534)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (532)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module MeshConversion (530)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module DynamicMesh (528)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (526)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module GeometricObjects (524)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (522)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module CurveEditorTools (520)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (518)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module CryptoKeys (516)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (514)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (512)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (511)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (508)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (506)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (504)
+[2022.03.14-11.12.48:637][744]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (502)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (500)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (498)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (496)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module ChaosNiagara (494)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (492)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module FractureEditor (490)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (489)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (486)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module BackChannel (484)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (482)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module AutomationUtils (480)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module AlembicImporter (478)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module AlembicLibrary (477)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module GeometryCache (476)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (475)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (470)
+[2022.03.14-11.12.48:638][744]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (468)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (466)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (464)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module UObjectPlugin (462)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (460)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (458)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (456)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module PluginUtils (454)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (452)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (450)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module GitSourceControl (448)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module SourceControl (447)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (444)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (442)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (440)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (438)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (436)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (434)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (432)
+[2022.03.14-11.12.48:640][744]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (430)
+[2022.03.14-11.12.48:641][744]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (428)
+[2022.03.14-11.12.48:641][744]LogModuleManager: Shutting down and abandoning module LiveLink (426)

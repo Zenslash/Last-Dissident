@@ -67,8 +67,12 @@ E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.gene
 E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h
 E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Source\Cyberpunk2022\TakingDamageInterface.h
 E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Inc\Cyberpunk2022\TakingDamageInterface.generated.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
 E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/DecalComponent.h
 E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DecalComponent.generated.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
 E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
 E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
 E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl

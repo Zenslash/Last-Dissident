@@ -398,7 +398,7 @@ void EmptyLinkFunctionForGeneratedCodeWeapon() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AWeapon, 4191762471);
+	IMPLEMENT_CLASS(AWeapon, 2807883922);
 	template<> CYBERPUNK2022_API UClass* StaticClass<AWeapon>()
 	{
 		return AWeapon::StaticClass();

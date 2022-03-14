@@ -19,7 +19,9 @@
 #include "Particles/ParticleSystemComponent.h"
 #include "TakingDamageInterface.h"
 #include "Camera/PlayerCameraManager.h"
+#include "Components/BoxComponent.h"
 #include "Components/DecalComponent.h"
+#include "Components/SphereComponent.h"
 #include "Kismet/KismetMathLibrary.h"
 #include "GameFramework/CharacterMovementComponent.h"
 
@@ -78,7 +80,7 @@ void ACyberpunk2022Character::BeginPlay()
 	// Show or hide the two versions of the gun based on whether or not we're using motion controllers.
 	Mesh1P->SetHiddenInGame(false, true);
 
-	SpawnDefaultWeapon();
+	EquipWeapon(SpawnDefaultWeapon());
 	InitializeAmmoMap();
 }
 
@@ -506,34 +508,15 @@ bool ACyberpunk2022Character::EnableTouchscreenMovement(class UInputComponent* P
 	return false;
 }
 
-void ACyberpunk2022Character::SpawnDefaultWeapon()
+AWeapon* ACyberpunk2022Character::SpawnDefaultWeapon()
 {
 	if (DefaultWeaponClass)
 	{
-		AWeapon* DefaultWeapon = GetWorld()->SpawnActor<AWeapon>(DefaultWeaponClass);
-
-		const USkeletalMeshSocket* handSocket = Mesh1P->GetSocketByName(FName("GripPoint"));
-		if (handSocket)
-		{
-			handSocket->AttachActor(DefaultWeapon, Mesh1P);
-		}
-		else
-		{
-			UE_LOG(LogTemp, Error, TEXT("Cannot find Grip socket!"));
-		}
-
-		_ikLeftHandSocket = DefaultWeapon->GetItemMesh()->GetSocketByName(FName("LeftHandIK"));
-		if(!_ikLeftHandSocket)
-		{
-			UE_LOG(LogTemp, Error, TEXT("Cannot find left hand IK socket"));
-		}
-
-		_equippedWeapon = DefaultWeapon;
+		return GetWorld()->SpawnActor<AWeapon>(DefaultWeaponClass);
 	}
-	else
-	{
-		UE_LOG(LogTemp, Error, TEXT("Assign DefaultWeaponClass!"));
-	}
+
+	UE_LOG(LogTemp, Error, TEXT("Assign DefaultWeaponClass!"));
+	return nullptr;
 }
 
 void ACyberpunk2022Character::EquipWeapon(AWeapon* weaponToEquip)
@@ -546,7 +529,13 @@ void ACyberpunk2022Character::EquipWeapon(AWeapon* weaponToEquip)
 			handSocket->AttachActor(weaponToEquip, Mesh1P);
 		}
 
+		_ikLeftHandSocket = weaponToEquip->GetItemMesh()->GetSocketByName(FName("LeftHandIK"));
+		if (!_ikLeftHandSocket)
+		{
+			UE_LOG(LogTemp, Error, TEXT("Cannot find left hand IK socket"));
+		}
 		_equippedWeapon = weaponToEquip;
+		_equippedWeapon->SetItemState(EItemState::EIS_Equipped);
 	}
 }
 
