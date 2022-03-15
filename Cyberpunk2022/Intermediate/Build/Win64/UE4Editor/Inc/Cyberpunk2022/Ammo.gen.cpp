@@ -90,7 +90,7 @@ void EmptyLinkFunctionForGeneratedCodeAmmo() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AAmmo, 823500374);
+	IMPLEMENT_CLASS(AAmmo, 4021828270);
 	template<> CYBERPUNK2022_API UClass* StaticClass<AAmmo>()
 	{
 		return AAmmo::StaticClass();

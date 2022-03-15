@@ -28,8 +28,8 @@ void AItem::BeginPlay()
 {
 	Super::BeginPlay();
 
-	//_areaSphere->OnComponentBeginOverlap.AddDynamic(this, &AItem::OnSphereOverlap);
-	//_areaSphere->OnComponentEndOverlap.AddDynamic(this, &AItem::OnSphereEndOverlap);
+	_areaSphere->OnComponentBeginOverlap.AddDynamic(this, &AItem::OnSphereOverlap);
+	_areaSphere->OnComponentEndOverlap.AddDynamic(this, &AItem::OnSphereEndOverlap);
 
 	SetItemProperties(_itemState);
 }
@@ -47,6 +47,7 @@ void AItem::SetItemProperties(EItemState state)
 	{
 		case EItemState::EIS_Pickup:
 			_itemMesh->SetSimulatePhysics(false);
+			_itemMesh->SetEnableGravity(false);
 			_itemMesh->SetVisibility(true);
 			_itemMesh->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
 			_itemMesh->SetCollisionEnabled(ECollisionEnabled::NoCollision);
@@ -61,9 +62,24 @@ void AItem::SetItemProperties(EItemState state)
 		case EItemState::EIS_Equipped:
 			//Set mesh properties
 			_itemMesh->SetSimulatePhysics(false);
+			_itemMesh->SetEnableGravity(false);
 			_itemMesh->SetVisibility(true);
 			_itemMesh->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
 			_itemMesh->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+			//Set AreaSphere properties
+			_areaSphere->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+			_areaSphere->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+			//Set CollisionBox properties
+			_collisionBox->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+			_collisionBox->SetCollisionEnabled(ECollisionEnabled::QueryAndPhysics);
+			break;
+		case EItemState::EIS_Falling:
+			_itemMesh->SetSimulatePhysics(true);
+			_itemMesh->SetEnableGravity(true);
+			_itemMesh->SetCollisionEnabled(ECollisionEnabled::QueryAndPhysics);
+			_itemMesh->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+			_itemMesh->SetCollisionResponseToChannel(ECollisionChannel::ECC_WorldStatic, ECollisionResponse::ECR_Block);
+
 			//Set AreaSphere properties
 			_areaSphere->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
 			_areaSphere->SetCollisionEnabled(ECollisionEnabled::NoCollision);

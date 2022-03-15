@@ -411,6 +411,17 @@ void ACyberpunk2022Character::ReloadWeapon()
 	}
 }
 
+void ACyberpunk2022Character::DropWeapon()
+{
+	if(_equippedWeapon)
+	{
+		FDetachmentTransformRules rule(EDetachmentRule::KeepWorld, true);
+		_equippedWeapon->GetItemMesh()->DetachFromComponent(rule);
+
+		_equippedWeapon->SetItemState(EItemState::EIS_Falling);
+	}
+}
+
 bool ACyberpunk2022Character::CarryingAmmo()
 {
 	if (_equippedWeapon == nullptr) return false;

@@ -8,6 +8,9 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UPrimitiveComponent;
+class AActor;
+struct FHitResult;
 class USkeletalMeshComponent;
 #ifdef CYBERPUNK2022_Item_generated_h
 #error "Item.generated.h already included, missing '#pragma once' in Item.h"
@@ -17,12 +20,16 @@ class USkeletalMeshComponent;
 #define Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_SPARSE_DATA
 #define Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execOnSphereEndOverlap); \
+	DECLARE_FUNCTION(execOnSphereOverlap); \
 	DECLARE_FUNCTION(execGetItemName); \
 	DECLARE_FUNCTION(execGetItemMesh);
 
 
 #define Cyberpunk2022_Source_Cyberpunk2022_Item_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execOnSphereEndOverlap); \
+	DECLARE_FUNCTION(execOnSphereOverlap); \
 	DECLARE_FUNCTION(execGetItemName); \
 	DECLARE_FUNCTION(execGetItemMesh);
 

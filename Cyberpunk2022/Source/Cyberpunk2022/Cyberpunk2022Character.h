@@ -110,6 +110,7 @@ protected:
 
 	void ReloadButtonPressed();
 	void ReloadWeapon();
+	void DropWeapon();
 	bool CarryingAmmo();
 
 	void InitializeAmmoMap();

@@ -17,6 +17,11 @@ class CYBERPUNK2022_API AAmmo : public AItem
 public:
 	AAmmo();
 
+	virtual void Tick(float deltaSeconds) override;
+
+protected:
+	virtual void BeginPlay() override;
+
 private:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Ammo, meta = (AllowPrivateAccess = "true"))
 	UStaticMeshComponent* _ammoMesh;
