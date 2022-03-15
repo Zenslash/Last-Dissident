@@ -21,8 +21,16 @@ static inline void FOutOfHealth_DelegateWrapper(const FMulticastScriptDelegate& 
 
 
 #define Cyberpunk2022_Source_Cyberpunk2022_HealthComponent_h_15_SPARSE_DATA
-#define Cyberpunk2022_Source_Cyberpunk2022_HealthComponent_h_15_RPC_WRAPPERS
-#define Cyberpunk2022_Source_Cyberpunk2022_HealthComponent_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define Cyberpunk2022_Source_Cyberpunk2022_HealthComponent_h_15_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execUpdateHealth);
+
+
+#define Cyberpunk2022_Source_Cyberpunk2022_HealthComponent_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execUpdateHealth);
+
+
 #define Cyberpunk2022_Source_Cyberpunk2022_HealthComponent_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUHealthComponent(); \

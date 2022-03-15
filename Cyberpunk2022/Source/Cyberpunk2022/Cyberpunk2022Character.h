@@ -7,6 +7,7 @@
 #include "AmmoType.h"
 #include "Cyberpunk2022Character.generated.h"
 
+class AWeapon;
 class UInputComponent;
 class USkeletalMeshComponent;
 class USceneComponent;
@@ -109,9 +110,16 @@ protected:
 
 	void ReloadButtonPressed();
 	void ReloadWeapon();
+	void DropWeapon();
 	bool CarryingAmmo();
 
 	void InitializeAmmoMap();
+
+	UFUNCTION(BlueprintCallable)
+	void GrabClip();
+
+	UFUNCTION(BlueprintCallable)
+	void ReleaseClip();
 
 	UFUNCTION(BlueprintCallable)
 	void FinishReloading();
@@ -142,8 +150,8 @@ protected:
 	 */
 	bool EnableTouchscreenMovement(UInputComponent* InputComponent);
 
-	void SpawnDefaultWeapon();
-	void EquipWeapon(class AWeapon* weaponToEquip);
+	AWeapon* SpawnDefaultWeapon();
+	void EquipWeapon(AWeapon* weaponToEquip);
 
 	void CalculateCrosshairSpread(float delta);
 
@@ -173,6 +181,9 @@ public:
 	bool WeaponHasAmmo();
 
 private:
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Movement, meta = (AllowPrivateAccess = "true"))
+	float _moveSide;
+
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
 	const USkeletalMeshSocket* _ikLeftHandSocket;
 
@@ -209,6 +220,14 @@ private:
 	float _shootTimeDuration;
 	bool _bFiringBullet;
 	FTimerHandle _crosshairShootTimer;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
+	FTransform _clipTransform;
+
+	FTransform _leftHandTransform;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
+	USceneComponent* _handSceneComponent;
 
 };
 

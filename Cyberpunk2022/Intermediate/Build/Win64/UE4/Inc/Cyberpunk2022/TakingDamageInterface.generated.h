@@ -8,7 +8,7 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
-class AActor;
+struct FVector;
 #ifdef CYBERPUNK2022_TakingDamageInterface_generated_h
 #error "TakingDamageInterface.generated.h already included, missing '#pragma once' in TakingDamageInterface.h"
 #endif
@@ -22,7 +22,7 @@ class AActor;
 	{ \
 		FName bone; \
 		int32 damage; \
-		AActor* instigator; \
+		FVector impact_normal; \
 	};
 
 
@@ -83,7 +83,7 @@ protected: \
 public: \
 	typedef UTakingDamageInterface UClassType; \
 	typedef ITakingDamageInterface ThisClass; \
-	static void Execute_TakingDamage(UObject* O, FName bone, int32 damage, AActor* instigator); \
+	static void Execute_TakingDamage(UObject* O, FName bone, int32 damage, FVector impact_normal); \
 	virtual UObject* _getUObject() const { check(0 && "Missing required implementation."); return nullptr; }
 
 
@@ -93,7 +93,7 @@ protected: \
 public: \
 	typedef UTakingDamageInterface UClassType; \
 	typedef ITakingDamageInterface ThisClass; \
-	static void Execute_TakingDamage(UObject* O, FName bone, int32 damage, AActor* instigator); \
+	static void Execute_TakingDamage(UObject* O, FName bone, int32 damage, FVector impact_normal); \
 	virtual UObject* _getUObject() const { check(0 && "Missing required implementation."); return nullptr; }
 
 

@@ -6,6 +6,18 @@
 #include "GameFramework/Actor.h"
 #include "Item.generated.h"
 
+UENUM(BLueprintType)
+enum class EItemState : uint8
+{
+	EIS_Pickup UMETA(DisplayName = "Pickup"),
+	EIS_EquipInterping UMETA(DisplayName = "EquipInterping"),
+	EIS_PickedUp UMETA(DisplayName = "PickedUp"),
+	EIS_Equipped UMETA(DisplayName = "Equipped"),
+	EIS_Falling UMETA(DisplayName = "Falling"),
+
+	EIS_MAX UMETA(DisplayName = "Default MAX")
+};
+
 UCLASS()
 class CYBERPUNK2022_API AItem : public AActor
 {
@@ -23,6 +35,8 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	void SetItemProperties(EItemState state);
+
 protected:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Item Properties", meta = (AllowPrivateAccess = "true"))
 	USkeletalMeshComponent* _itemMesh;
@@ -31,10 +45,16 @@ protected:
 	class UBoxComponent* _collisionBox;
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Item Properties", meta = (AllowPrivateAccess = "true"))
+	class USphereComponent* _areaSphere;
+
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Item Properties", meta = (AllowPrivateAccess = "true"))
 	class UWidgetComponent* _pickupWidget;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Item Properties", meta = (AllowPrivateAccess = "true"))
 	FString _itemName;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Item Properties", meta = (AllowPrivateAccess = "true"))
+	EItemState _itemState;
 public:
 	UFUNCTION(BlueprintCallable)
 	USkeletalMeshComponent* GetItemMesh() const
@@ -47,4 +67,14 @@ public:
 	{
 		return _itemName;
 	}
+
+	UFUNCTION(BlueprintCallable)
+	void OnSphereOverlap(UPrimitiveComponent* overlappedComponent, AActor* otherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);
+	UFUNCTION(BlueprintCallable)
+	void OnSphereEndOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex);
+
+	FORCEINLINE USphereComponent* GetAreaSphere() const { return _areaSphere; }
+	FORCEINLINE UBoxComponent* GetCollisionBox() const { return _collisionBox; }
+	FORCEINLINE EItemState GetItemState() const { return _itemState; }
+	void SetItemState(EItemState state);
 };

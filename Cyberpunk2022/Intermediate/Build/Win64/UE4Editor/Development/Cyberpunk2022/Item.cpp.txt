@@ -5,3 +5,5 @@ E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
 E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
 E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+E:\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h

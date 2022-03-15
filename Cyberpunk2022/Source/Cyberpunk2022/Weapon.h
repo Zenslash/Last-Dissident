@@ -78,6 +78,12 @@ private:
 	UPROPERTY(EditDefaultsOnly, Category = "Camera Shake")
 	TSubclassOf<UCameraShakeBase> _cameraShakeClass;
 
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Weapon Properties", meta = (AllowPrivateAccess = "true"))
+	bool _bMovingClip;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Properties", meta = (AllowPrivateAccess = "true"))
+	FName _clipBoneName;
+
 
 public:
 	AWeapon();
@@ -108,6 +114,7 @@ public:
 	FORCEINLINE EWeaponType GetWeaponType() const { return _weaponType; }
 	FORCEINLINE EAmmoType GetAmmoType() const { return _ammoType; }
 	FORCEINLINE FName GetReloadMontage() const { return _reloadMontageSection; }
+	FORCEINLINE FName GetClipBone() const { return _clipBoneName; }
 	FORCEINLINE UAnimMontage* GetReloadAnimation() const { return _reloadAnimation; }
 	FORCEINLINE TSubclassOf<UCameraShakeBase> GetShakeClass() const { return _cameraShakeClass; }
 	FORCEINLINE FVector GetDecalSize() const { return _decalSize; }
@@ -115,6 +122,8 @@ public:
 	FORCEINLINE void DecrementAmmo();
 
 	void ReloadAmmo(int32 amount);
+
+	FORCEINLINE void SetMovingClip(bool Move) { _bMovingClip = Move; }
 
 	FVector GetRecoilOffset();
 
