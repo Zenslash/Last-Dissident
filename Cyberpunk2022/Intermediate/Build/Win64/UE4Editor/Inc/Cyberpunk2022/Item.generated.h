@@ -81,8 +81,10 @@ public: \
 	FORCEINLINE static uint32 __PPO___collisionBox() { return STRUCT_OFFSET(AItem, _collisionBox); } \
 	FORCEINLINE static uint32 __PPO___areaSphere() { return STRUCT_OFFSET(AItem, _areaSphere); } \
 	FORCEINLINE static uint32 __PPO___pickupWidget() { return STRUCT_OFFSET(AItem, _pickupWidget); } \
+	FORCEINLINE static uint32 __PPO___itemCount() { return STRUCT_OFFSET(AItem, _itemCount); } \
 	FORCEINLINE static uint32 __PPO___itemName() { return STRUCT_OFFSET(AItem, _itemName); } \
-	FORCEINLINE static uint32 __PPO___itemState() { return STRUCT_OFFSET(AItem, _itemState); }
+	FORCEINLINE static uint32 __PPO___itemState() { return STRUCT_OFFSET(AItem, _itemState); } \
+	FORCEINLINE static uint32 __PPO___pickupSound() { return STRUCT_OFFSET(AItem, _pickupSound); }
 
 
 #define Cyberpunk2022_Source_Cyberpunk2022_Item_h_21_PROLOG

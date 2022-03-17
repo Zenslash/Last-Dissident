@@ -4,6 +4,8 @@
 #include "Item.h"
 #include <Components/BoxComponent.h>
 #include "Components/SphereComponent.h"
+#include "Kismet/GameplayStatics.h"
+#include "Sound/SoundCue.h"
 
 // Sets default values
 AItem::AItem()
@@ -45,53 +47,95 @@ void AItem::SetItemProperties(EItemState state)
 {
 	switch (state)
 	{
-		case EItemState::EIS_Pickup:
-			_itemMesh->SetSimulatePhysics(false);
-			_itemMesh->SetEnableGravity(false);
-			_itemMesh->SetVisibility(true);
-			_itemMesh->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
-			_itemMesh->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+	case EItemState::EIS_Pickup:
+		// Set mesh properties
+		_itemMesh->SetSimulatePhysics(false);
+		_itemMesh->SetEnableGravity(false);
+		_itemMesh->SetVisibility(true);
+		_itemMesh->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+		_itemMesh->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+		// Set AreaSphere properties
+		_areaSphere->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Overlap);
+		_areaSphere->SetCollisionEnabled(ECollisionEnabled::QueryOnly);
+		// Set CollisionBox properties
+		_collisionBox->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+		_collisionBox->SetCollisionResponseToChannel(
+			ECollisionChannel::ECC_Visibility,
+			ECollisionResponse::ECR_Block);
+		_collisionBox->SetCollisionEnabled(ECollisionEnabled::QueryAndPhysics);
+		break;
+	case EItemState::EIS_Equipped:
+		// Set mesh properties
+		_itemMesh->SetSimulatePhysics(false);
+		_itemMesh->SetEnableGravity(false);
+		_itemMesh->SetVisibility(true);
+		_itemMesh->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+		_itemMesh->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+		// Set AreaSphere properties
+		_areaSphere->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+		_areaSphere->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+		// Set CollisionBox properties
+		_collisionBox->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+		_collisionBox->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+		break;
+	case EItemState::EIS_Falling:
+		// Set mesh properties
+		_itemMesh->SetCollisionEnabled(ECollisionEnabled::QueryAndPhysics);
+		_itemMesh->SetSimulatePhysics(true);
+		_itemMesh->SetEnableGravity(true);
+		_itemMesh->SetVisibility(true);
+		_itemMesh->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+		_itemMesh->SetCollisionResponseToChannel(
+			ECollisionChannel::ECC_WorldStatic,
+			ECollisionResponse::ECR_Block);
+		// Set AreaSphere properties
+		_areaSphere->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+		_areaSphere->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+		// Set CollisionBox properties
+		_collisionBox->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+		_collisionBox->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+		break;
+	case EItemState::EIS_EquipInterping:
+		// Set mesh properties
+		_itemMesh->SetSimulatePhysics(false);
+		_itemMesh->SetEnableGravity(false);
+		_itemMesh->SetVisibility(true);
+		_itemMesh->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+		_itemMesh->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+		// Set AreaSphere properties
+		_areaSphere->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+		_areaSphere->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+		// Set CollisionBox properties
+		_collisionBox->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+		_collisionBox->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+		break;
+	case EItemState::EIS_PickedUp:
+		// Set mesh properties
+		_itemMesh->SetSimulatePhysics(false);
+		_itemMesh->SetEnableGravity(false);
+		_itemMesh->SetVisibility(false);
+		_itemMesh->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+		_itemMesh->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+		// Set AreaSphere properties
+		_areaSphere->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+		_areaSphere->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+		// Set CollisionBox properties
+		_collisionBox->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+		_collisionBox->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+		break;
+	}
+}
 
-			_areaSphere->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Overlap);
-			_areaSphere->SetCollisionEnabled(ECollisionEnabled::QueryOnly);
-
-			_collisionBox->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
-			_collisionBox->SetCollisionResponseToChannel(ECollisionChannel::ECC_Visibility, ECollisionResponse::ECR_Block);
-			_collisionBox->SetCollisionEnabled(ECollisionEnabled::QueryAndPhysics);
-			break;
-		case EItemState::EIS_Equipped:
-			//Set mesh properties
-			_itemMesh->SetSimulatePhysics(false);
-			_itemMesh->SetEnableGravity(false);
-			_itemMesh->SetVisibility(true);
-			_itemMesh->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
-			_itemMesh->SetCollisionEnabled(ECollisionEnabled::NoCollision);
-			//Set AreaSphere properties
-			_areaSphere->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
-			_areaSphere->SetCollisionEnabled(ECollisionEnabled::NoCollision);
-			//Set CollisionBox properties
-			_collisionBox->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
-			_collisionBox->SetCollisionEnabled(ECollisionEnabled::QueryAndPhysics);
-			break;
-		case EItemState::EIS_Falling:
-			_itemMesh->SetSimulatePhysics(true);
-			_itemMesh->SetEnableGravity(true);
-			_itemMesh->SetCollisionEnabled(ECollisionEnabled::QueryAndPhysics);
-			_itemMesh->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
-			_itemMesh->SetCollisionResponseToChannel(ECollisionChannel::ECC_WorldStatic, ECollisionResponse::ECR_Block);
-
-			//Set AreaSphere properties
-			_areaSphere->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
-			_areaSphere->SetCollisionEnabled(ECollisionEnabled::NoCollision);
-			//Set CollisionBox properties
-			_collisionBox->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
-			_collisionBox->SetCollisionEnabled(ECollisionEnabled::QueryAndPhysics);
-			break;
+void AItem::PlayPickupSound(bool bForcePlaySound)
+{
+	if (_pickupSound)
+	{
+		UGameplayStatics::PlaySound2D(this, _pickupSound);
 	}
 }
 
 void AItem::OnSphereOverlap(UPrimitiveComponent* overlappedComponent, AActor* otherActor,
-	UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
+                            UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
 
 }

@@ -180,6 +180,9 @@ public:
 
 	bool WeaponHasAmmo();
 
+	void PickupAmmo(class AAmmo* ammo);
+	void GetPickupItem(class AItem* item);
+
 private:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Movement, meta = (AllowPrivateAccess = "true"))
 	float _moveSide;

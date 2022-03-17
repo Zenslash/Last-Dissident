@@ -23,6 +23,7 @@
 #include "Components/DecalComponent.h"
 #include "Components/SphereComponent.h"
 #include "Kismet/KismetMathLibrary.h"
+#include "Ammo.h"
 #include "GameFramework/CharacterMovementComponent.h"
 
 DEFINE_LOG_CATEGORY_STATIC(LogFPChar, Warning, All);
@@ -652,4 +653,35 @@ bool ACyberpunk2022Character::WeaponHasAmmo()
 	if (_equippedWeapon == nullptr) return false;
 
 	return _equippedWeapon->GetAmmo() > 0;
+}
+
+void ACyberpunk2022Character::PickupAmmo(AAmmo* ammo)
+{
+	if(_ammoMap.Find(ammo->GetAmmoType()))
+	{
+		int32 ammoCount{ _ammoMap[ammo->GetAmmoType()] };
+		ammoCount += ammo->GetItemCount();
+		_ammoMap[ammo->GetAmmoType()] = ammoCount;
+	}
+
+	if(_equippedWeapon->GetAmmoType() == ammo->GetAmmoType())
+	{
+		if(_equippedWeapon->GetAmmo() == 0)
+		{
+			ReloadWeapon();
+		}
+	}
+
+	ammo->Destroy();
+}
+
+void ACyberpunk2022Character::GetPickupItem(AItem* item)
+{
+	item->PlayPickupSound();
+
+	auto Ammo = Cast<AAmmo>(item);
+	if (Ammo)
+	{
+		PickupAmmo(Ammo);
+	}
 }

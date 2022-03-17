@@ -35,7 +35,7 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-	void SetItemProperties(EItemState state);
+	virtual void SetItemProperties(EItemState state);
 
 protected:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Item Properties", meta = (AllowPrivateAccess = "true"))
@@ -51,10 +51,16 @@ protected:
 	class UWidgetComponent* _pickupWidget;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Item Properties", meta = (AllowPrivateAccess = "true"))
+	int32 _itemCount;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Item Properties", meta = (AllowPrivateAccess = "true"))
 	FString _itemName;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Item Properties", meta = (AllowPrivateAccess = "true"))
 	EItemState _itemState;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Item Properties", meta = (AllowPrivateAccess = "true"))
+	class USoundCue* _pickupSound;
 public:
 	UFUNCTION(BlueprintCallable)
 	USkeletalMeshComponent* GetItemMesh() const
@@ -68,6 +74,8 @@ public:
 		return _itemName;
 	}
 
+	void PlayPickupSound(bool bForcePlaySound = false);
+
 	UFUNCTION(BlueprintCallable)
 	void OnSphereOverlap(UPrimitiveComponent* overlappedComponent, AActor* otherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);
 	UFUNCTION(BlueprintCallable)
@@ -76,5 +84,6 @@ public:
 	FORCEINLINE USphereComponent* GetAreaSphere() const { return _areaSphere; }
 	FORCEINLINE UBoxComponent* GetCollisionBox() const { return _collisionBox; }
 	FORCEINLINE EItemState GetItemState() const { return _itemState; }
+	FORCEINLINE int32 GetItemCount() const { return _itemCount; }
 	void SetItemState(EItemState state);
 };
