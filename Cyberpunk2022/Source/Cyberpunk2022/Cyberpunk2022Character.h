@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
 #include "AmmoType.h"
+#include "HealthComponent.h"
 #include "Cyberpunk2022Character.generated.h"
 
 class AWeapon;
@@ -181,6 +182,7 @@ public:
 	bool WeaponHasAmmo();
 
 	void PickupAmmo(class AAmmo* ammo);
+	void PickupHealth(class AHealthPickup* health);
 	void GetPickupItem(class AItem* item);
 
 private:
@@ -223,6 +225,7 @@ private:
 	float _shootTimeDuration;
 	bool _bFiringBullet;
 	FTimerHandle _crosshairShootTimer;
+	UHealthComponent* _healthComponent;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
 	FTransform _clipTransform;

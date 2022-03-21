@@ -24,6 +24,7 @@
 #include "Components/SphereComponent.h"
 #include "Kismet/KismetMathLibrary.h"
 #include "Ammo.h"
+#include "HealthPickup.h"
 #include "GameFramework/CharacterMovementComponent.h"
 
 DEFINE_LOG_CATEGORY_STATIC(LogFPChar, Warning, All);
@@ -80,6 +81,8 @@ void ACyberpunk2022Character::BeginPlay()
 
 	// Show or hide the two versions of the gun based on whether or not we're using motion controllers.
 	Mesh1P->SetHiddenInGame(false, true);
+
+	_healthComponent = Cast<UHealthComponent>(GetComponentByClass(UHealthComponent::StaticClass()));
 
 	EquipWeapon(SpawnDefaultWeapon());
 	InitializeAmmoMap();
@@ -675,6 +678,20 @@ void ACyberpunk2022Character::PickupAmmo(AAmmo* ammo)
 	ammo->Destroy();
 }
 
+void ACyberpunk2022Character::PickupHealth(AHealthPickup* health)
+{
+	if(_healthComponent)
+	{
+		_healthComponent->UpdateHealth(health->GetItemCount());
+	}
+	else
+	{
+		UE_LOG(LogTemp, Error, TEXT("HealthComponent is null! Cannot pickup item"));
+	}
+
+	health->Destroy();
+}
+
 void ACyberpunk2022Character::GetPickupItem(AItem* item)
 {
 	item->PlayPickupSound();
@@ -683,5 +700,11 @@ void ACyberpunk2022Character::GetPickupItem(AItem* item)
 	if (Ammo)
 	{
 		PickupAmmo(Ammo);
+	}
+
+	auto health = Cast<AHealthPickup>(item);
+	if(health)
+	{
+		PickupHealth(health);
 	}
 }
