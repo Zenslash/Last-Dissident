@@ -25,8 +25,8 @@ void EmptyLinkFunctionForGeneratedCodeCyberpunk2022_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x66E7D94C,
-				0xCF24F344,
+				0xD8CE2B97,
+				0x393C5699,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
