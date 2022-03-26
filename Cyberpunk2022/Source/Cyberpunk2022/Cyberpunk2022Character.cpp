@@ -25,6 +25,7 @@
 #include "Kismet/KismetMathLibrary.h"
 #include "Ammo.h"
 #include "HealthPickup.h"
+#include "Perception/AISense_Hearing.h"
 #include "GameFramework/CharacterMovementComponent.h"
 
 DEFINE_LOG_CATEGORY_STATIC(LogFPChar, Warning, All);
@@ -271,6 +272,7 @@ void ACyberpunk2022Character::FireWeapon()
 		PlayFireSound();
 		PlayFireAnimations();
 		SendBullet();
+		MakeNoise();
 		//Play animation
 		StartCrosshairBulletFire();
 		_equippedWeapon->DecrementAmmo();
@@ -366,6 +368,11 @@ void ACyberpunk2022Character::SendBullet()
 		GetWorld()->GetFirstPlayerController()->ClientStartCameraShake(
 											_equippedWeapon->GetShakeClass());
 	}
+}
+
+void ACyberpunk2022Character::MakeNoise()
+{
+	UAISense_Hearing::ReportNoiseEvent(GetWorld(), GetActorLocation(), 1.f, this, 300.f, TEXT("GunShotNoise"));
 }
 
 void ACyberpunk2022Character::PlayFireAnimations() const

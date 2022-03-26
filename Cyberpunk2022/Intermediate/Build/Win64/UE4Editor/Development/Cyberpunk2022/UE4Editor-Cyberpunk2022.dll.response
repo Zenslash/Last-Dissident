@@ -71,6 +71,7 @@
 "E:\UE4\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Development\NiagaraCore\UE4Editor-NiagaraCore.lib"
 "E:\UE4\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Development\Niagara\UE4Editor-Niagara.lib"
 "E:\UE4\UE_4.27\Engine\Plugins\Cameras\GameplayCameras\Intermediate\Build\Win64\UE4Editor\Development\GameplayCameras\UE4Editor-GameplayCameras.lib"
+"E:\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\AIModule\UE4Editor-AIModule.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"

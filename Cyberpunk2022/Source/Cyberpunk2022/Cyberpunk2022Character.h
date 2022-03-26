@@ -107,6 +107,7 @@ protected:
 	void FireWeapon();
 	void PlayFireSound() const;
 	void SendBullet();
+	void MakeNoise();
 	void PlayFireAnimations() const;
 
 	void ReloadButtonPressed();

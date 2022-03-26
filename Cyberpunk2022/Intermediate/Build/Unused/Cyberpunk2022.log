@@ -1,3 +1,14 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\UE4\Projects\WargamingAcademy).
-  Target is up to date
-  Total execution time: 0.60 seconds
+  Invalidating makefile for Cyberpunk2022Editor (Cyberpunk2022.Build.cs modified)
+  Parsing headers for Cyberpunk2022Editor
+    Running UnrealHeaderTool "E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Cyberpunk2022.uproject" "E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\Cyberpunk2022Editor\Development\Cyberpunk2022Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Artem\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for Cyberpunk2022Editor in 3.0481999 seconds
+  Building Cyberpunk2022Editor...
+  Using Visual Studio 2022 14.30.30706 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 2 actions with 12 processes...
+    [1/2] UE4Editor-Cyberpunk2022.dll
+       Creating library E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Development\Cyberpunk2022\UE4Editor-Cyberpunk2022.suppressed.lib and object E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Development\Cyberpunk2022\UE4Editor-Cyberpunk2022.suppressed.exp
+    [2/2] Cyberpunk2022Editor.target
+  Total time in Parallel executor: 1.11 seconds
+  Total execution time: 8.31 seconds
