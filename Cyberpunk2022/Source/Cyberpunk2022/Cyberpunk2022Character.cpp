@@ -372,7 +372,7 @@ void ACyberpunk2022Character::SendBullet()
 
 void ACyberpunk2022Character::MakeNoise()
 {
-	UAISense_Hearing::ReportNoiseEvent(GetWorld(), GetActorLocation(), 1.f, this, 300.f, TEXT("GunShotNoise"));
+	UAISense_Hearing::ReportNoiseEvent(GetWorld(), GetActorLocation(), 1.f, this, 3000.f, NAME_None);
 }
 
 void ACyberpunk2022Character::PlayFireAnimations() const
