@@ -41,8 +41,6 @@ FVector AWeapon::GetRecoilOffset()
 	float valueY = _recoilY->GetFloatValue(t);
 	float randX = -valueX + static_cast <float> (rand()) / (static_cast <float> (RAND_MAX / (valueX - (-valueX))));
 	float randY = -valueY + static_cast <float> (rand()) / (static_cast <float> (RAND_MAX / (valueY - (-valueY))));
-	UE_LOG(LogTemp, Log, TEXT("randX: %f"), randX);
-	UE_LOG(LogTemp, Log, TEXT("randY: %f"), randY);
 	resultVector += FVector(0.f, randX, randY);
 	return resultVector;
 }
