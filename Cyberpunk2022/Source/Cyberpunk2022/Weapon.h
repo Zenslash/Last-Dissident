@@ -119,7 +119,7 @@ public:
 	FORCEINLINE TSubclassOf<UCameraShakeBase> GetShakeClass() const { return _cameraShakeClass; }
 	FORCEINLINE FVector GetDecalSize() const { return _decalSize; }
 
-	FORCEINLINE void DecrementAmmo();
+	void DecrementAmmo();
 
 	void ReloadAmmo(int32 amount);
 
