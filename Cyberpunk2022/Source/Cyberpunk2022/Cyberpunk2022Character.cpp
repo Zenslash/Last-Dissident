@@ -285,7 +285,7 @@ void ACyberpunk2022Character::PlayFireSound() const
 {
 	if (_equippedWeapon->GetFireSound())
 	{
-		UGameplayStatics::PlaySound2D(this, _equippedWeapon->GetFireSound());
+		UGameplayStatics::PlaySound2D(this, _equippedWeapon->GetFireSound(), _equippedWeapon->GetFireSound()->VolumeMultiplier);
 	}
 }
 
@@ -397,6 +397,10 @@ void ACyberpunk2022Character::ReloadWeapon()
 		return;
 	}
 	if(_equippedWeapon == nullptr)
+	{
+		return;
+	}
+	if(_equippedWeapon->GetAmmo() >= _equippedWeapon->GetMagazineCapacity())
 	{
 		return;
 	}

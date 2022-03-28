@@ -1,3 +1,13 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\UE4\Projects\WargamingAcademy).
-  Target is up to date
-  Total execution time: 0.45 seconds
+  Building Cyberpunk2022Editor...
+  Using Visual Studio 2022 14.30.30706 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] Cyberpunk2022Character.cpp
+E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Source\Cyberpunk2022\Cyberpunk2022Character.cpp(309): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    [2/4] UE4Editor-Cyberpunk2022.lib
+       Creating library E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Development\Cyberpunk2022\UE4Editor-Cyberpunk2022.lib and object E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Development\Cyberpunk2022\UE4Editor-Cyberpunk2022.exp
+    [3/4] UE4Editor-Cyberpunk2022.dll
+       Creating library E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Development\Cyberpunk2022\UE4Editor-Cyberpunk2022.suppressed.lib and object E:\UE4\Projects\WargamingAcademy\Cyberpunk2022\Intermediate\Build\Win64\UE4Editor\Development\Cyberpunk2022\UE4Editor-Cyberpunk2022.suppressed.exp
+    [4/4] Cyberpunk2022Editor.target
+  Total time in Parallel executor: 9.00 seconds
+  Total execution time: 9.46 seconds

@@ -130,7 +130,7 @@ void AItem::PlayPickupSound(bool bForcePlaySound)
 {
 	if (_pickupSound)
 	{
-		UGameplayStatics::PlaySound2D(this, _pickupSound);
+		UGameplayStatics::PlaySound2D(this, _pickupSound, _pickupSound->VolumeMultiplier);
 	}
 }
 
