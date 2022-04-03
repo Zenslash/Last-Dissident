@@ -184,6 +184,9 @@ public:
 
 	void PickupAmmo(class AAmmo* ammo);
 	void PickupHealth(class AHealthPickup* health);
+	void PickupSpeed(class ASpeedPickup* speed);
+	void PickupDamage(class ADamagePickup* damage);
+	void PickupShield(class AShieldPickup* health);
 	void GetPickupItem(class AItem* item);
 
 private:

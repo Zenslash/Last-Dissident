@@ -24,7 +24,10 @@
 #include "Components/SphereComponent.h"
 #include "Kismet/KismetMathLibrary.h"
 #include "Ammo.h"
+#include "DamagePickup.h"
 #include "HealthPickup.h"
+#include "ShieldPickup.h"
+#include "SpeedPickup.h"
 #include "Perception/AISense_Hearing.h"
 #include "GameFramework/CharacterMovementComponent.h"
 
@@ -703,6 +706,24 @@ void ACyberpunk2022Character::PickupHealth(AHealthPickup* health)
 	health->Destroy();
 }
 
+void ACyberpunk2022Character::PickupSpeed(ASpeedPickup* speed)
+{
+	//Apply modifier
+	//Set timer
+}
+
+void ACyberpunk2022Character::PickupDamage(ADamagePickup* damage)
+{
+	//Apply modifier
+	//Set timer
+}
+
+void ACyberpunk2022Character::PickupShield(AShieldPickup* health)
+{
+	//Apply modifier
+	//Set timer
+}
+
 void ACyberpunk2022Character::GetPickupItem(AItem* item)
 {
 	item->PlayPickupSound();
@@ -711,11 +732,34 @@ void ACyberpunk2022Character::GetPickupItem(AItem* item)
 	if (Ammo)
 	{
 		PickupAmmo(Ammo);
+		return;
 	}
 
 	auto health = Cast<AHealthPickup>(item);
 	if(health)
 	{
 		PickupHealth(health);
+		return;
+	}
+
+	auto damage = Cast<ADamagePickup>(item);
+	if(damage)
+	{
+		PickupDamage(damage);
+		return;
+	}
+
+	auto shield = Cast<AShieldPickup>(item);
+	if (shield)
+	{
+		PickupShield(shield);
+		return;
+	}
+
+	auto speed = Cast<ASpeedPickup>(item);
+	if (speed)
+	{
+		PickupSpeed(speed);
+		return;
 	}
 }

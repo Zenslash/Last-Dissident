@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Cyberpunk2022.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{81CC6E0B-80D4-4CB0-88E9-DB0F90A71556}</UniqueIdentifier>
+      <UniqueIdentifier>{71BD2356-9753-421D-BB7D-D5851B1949CB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Cyberpunk2022.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\Cyberpunk2022Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\AdvancedGlassPack414.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{E9853E4F-3452-4787-A915-BC3FE3CE90DA}</UniqueIdentifier>
+      <UniqueIdentifier>{6A17C047-F887-4B9D-B65E-38D6B9C3555F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Cyberpunk2022">
-      <UniqueIdentifier>{97AC4EE1-1787-45AB-B1AC-18537AA4BA42}</UniqueIdentifier>
+      <UniqueIdentifier>{48F89F9C-C83D-45BC-9792-E968BE5F76B8}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Cyberpunk2022\Ammo.cpp">
       <Filter>Source\Cyberpunk2022</Filter>
@@ -74,6 +75,12 @@
     <ClInclude Include="..\..\Source\Cyberpunk2022\Cyberpunk2022Projectile.h">
       <Filter>Source\Cyberpunk2022</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Cyberpunk2022\DamagePickup.cpp">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\DamagePickup.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\Cyberpunk2022\DecalStruct.h">
       <Filter>Source\Cyberpunk2022</Filter>
     </ClInclude>
@@ -98,10 +105,22 @@
     <ClInclude Include="..\..\Source\Cyberpunk2022\LootStruct.h">
       <Filter>Source\Cyberpunk2022</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Cyberpunk2022\ShieldPickup.cpp">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\ShieldPickup.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Cyberpunk2022\ShooterPlayerController.cpp">
       <Filter>Source\Cyberpunk2022</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Cyberpunk2022\ShooterPlayerController.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cyberpunk2022\SpeedPickup.cpp">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\SpeedPickup.h">
       <Filter>Source\Cyberpunk2022</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\Cyberpunk2022\TakingDamageInterface.cpp">
