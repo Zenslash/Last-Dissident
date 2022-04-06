@@ -3870,3 +3870,258 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.06-12.45.19:750][ 96]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Meshes/peril/M_inst_perilaend.M_inst_perilaend
 [2022.04.06-12.45.19:750][ 96]LogContentValidation: Display: Validating Texture2D /Game/Assets/Meshes/peril/SM_peril_02_DefaultMaterial_N.SM_peril_02_DefaultMaterial_N
 [2022.04.06-12.45.19:750][ 96]LogContentValidation: Display: Validating Texture2D /Game/Assets/Meshes/peril/SM_peril_02_DefaultMaterial_BC.SM_peril_02_DefaultMaterial_BC
+[2022.04.06-12.46.27:115][413]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.06-12.46.27:115][413]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.06-12.46.31:924][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_peril_end14)
+[2022.04.06-12.46.55:130][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_peril_end17)
+[2022.04.06-12.46.58:655][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_peril_43)
+[2022.04.06-12.47.06:652][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_peril_end15)
+[2022.04.06-12.47.16:353][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_low_full6)
+[2022.04.06-12.47.17:198][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_peril_end20)
+[2022.04.06-12.47.17:669][783]Cmd: DELETE
+[2022.04.06-12.47.17:669][783]Cmd: ACTOR DELETE
+[2022.04.06-12.47.17:778][783]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.06-12.47.17:822][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.04.06-12.47.17:831][783]LogEditorActor: Deleted 1 Actors (0.161 secs)
+[2022.04.06-12.47.19:623][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_peril_end19)
+[2022.04.06-12.47.39:518][734]LogActorFactory: Actor Factory created SM_peril_03
+[2022.04.06-12.47.40:444][776]LogActorFactory: Actor Factory created SM_peril_03
+[2022.04.06-12.47.58:397][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_floor_p13)
+[2022.04.06-12.48.00:141][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_peril_46)
+[2022.04.06-12.48.02:561][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_floor_p13)
+[2022.04.06-12.48.07:391][ 63]LogActorFactory: Actor Factory created SM_peril_02
+[2022.04.06-12.48.08:408][124]LogActorFactory: Actor Factory created SM_peril_02
+[2022.04.06-12.48.19:068][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_floor_p16)
+[2022.04.06-12.48.41:768][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_peril_end5)
+[2022.04.06-12.49.09:158][683]LogActorFactory: Actor Factory created SM_peril_01
+[2022.04.06-12.49.10:647][786]LogActorFactory: Actor Factory created SM_peril_01
+[2022.04.06-12.49.40:663][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_peril_end20)
+[2022.04.06-12.49.54:497][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_47)
+[2022.04.06-12.52.41:392][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.04.06-12.52.42:775][136]LogSlate: Window 'Save Content' being destroyed
+[2022.04.06-12.52.42:895][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.04.06-12.52.43:858][136]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/bloking_new7FB738A04F9809161300E8A2BC2E0E96.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Maps/bloking_new.umap'
+[2022.04.06-12.52.43:871][136]LogFileHelpers: Saving map 'bloking_new' took 1.001
+[2022.04.06-12.52.43:894][136]AssetCheck: New page: Asset Save: bloking_new
+[2022.04.06-12.52.43:894][136]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/bloking_new.bloking_new
+[2022.04.06-13.26.46:203][328]LogStaticMesh: Building static mesh 1M_Cube...
+[2022.04.06-13.26.46:225][328]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/1M_Cube.1M_Cube
+[2022.04.06-13.26.46:320][328]LogObjectTools: Deleting 1 worlds: /Game/FirstPersonCPP/Maps/ParkourTest_2.ParkourTest_2
+[2022.04.06-13.26.46:320][328]LogObjectTools: Currently 11 active worlds: /Game/FirstPersonCPP/Maps/bloking_new.bloking_new, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_11
+[2022.04.06-13.26.46:362][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.04.06-13.26.48:362][328]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.06-13.26.48:394][328]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FirstPersonCPP/Maps/ParkourTest_2.ParkourTest_2
+[2022.04.06-13.27.24:693][328]LogWorld: UWorld::CleanupWorld for ParkourTest_2, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-13.27.24:693][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-13.27.25:015][328]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.04.06-13.27.25:377][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.04.06-13.27.25:428][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.04.06-13.27.25:453][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.04.06-13.27.26:418][328]SourceControl: Error: Updated 0 paths from the index
+[2022.04.06-13.27.26:533][328]SourceControl: rm 'Cyberpunk2022/Content/FirstPersonCPP/Maps/ParkourTest_2.umap'
+[2022.04.06-13.27.29:118][446]LogObjectTools: Deleting 1 worlds: /Game/FirstPersonCPP/Maps/bloking_new_v2.bloking_new_v2
+[2022.04.06-13.27.29:118][446]LogObjectTools: Currently 11 active worlds: /Game/FirstPersonCPP/Maps/bloking_new.bloking_new, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_11
+[2022.04.06-13.27.29:151][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.04.06-13.27.31:366][446]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.06-13.27.31:384][446]LogWorld: UWorld::CleanupWorld for bloking_new_v2, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-13.27.31:388][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-13.27.31:615][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.04.06-13.27.31:659][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.04.06-13.27.31:683][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.04.06-13.27.32:428][446]SourceControl: Error: Updated 0 paths from the index
+[2022.04.06-13.27.32:551][446]SourceControl: rm 'Cyberpunk2022/Content/FirstPersonCPP/Maps/bloking_new_v2.umap'
+[2022.04.06-13.27.37:882][571]LogTexture: Display: Building textures: 1M (OODLE_AutoDXT, 2400X2400)
+[2022.04.06-13.27.37:882][571]LogTexture: Display: Building textures: Frame_1__1_ (OODLE_AutoDXT, 4800X1200)
+[2022.04.06-13.27.37:882][571]LogTextureFormatOodle: Display: non-RDO encode 2400 x 2400 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.06-13.27.37:882][571]LogTextureFormatOodle: Display: non-RDO encode 4800 x 1200 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.06-13.27.37:901][571]LogStaticMesh: Building static mesh Floor...
+[2022.04.06-13.27.37:919][571]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/Floor.Floor
+[2022.04.06-13.27.37:984][571]LogMaterial: Display: Missing cached shadermap for M_Glass1 in PCD3D_SM5, Default, SM5 (DDC key hash: 813BFD5EF662972DD03B35974D70BD941FF42500), compiling. 
+[2022.04.06-13.27.38:061][571]LogShaderCompilers: Display: Submitted 46 shader compile jobs with 'Low' priority
+[2022.04.06-13.27.38:082][571]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2022.04.06-13.27.38:082][571]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2022.04.06-13.27.38:082][571]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2022.04.06-13.27.38:082][571]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2022.04.06-13.27.38:083][571]LogMaterial: Display: Missing cached shadermap for Wall-Run in PCD3D_SM5, Default, SM5 (DDC key hash: CF8787FA20F965F6E62159BBDA1DE9ECCA462739), compiling. 
+[2022.04.06-13.27.38:138][571]LogShaderCompilers: Display: Submitted 44 shader compile jobs with 'Low' priority
+[2022.04.06-13.27.38:147][571]LogMaterial: Display: Missing cached shadermap for 05MV in PCD3D_SM5, Default, SM5 (DDC key hash: 48049065A7694100A60A9D6D52317523A84AECFA), compiling. 
+[2022.04.06-13.27.38:179][571]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.04.06-13.27.38:209][571]LogMaterial: Display: Missing cached shadermap for 1MV in PCD3D_SM5, Default, SM5 (DDC key hash: 74F11F6A70C0A2F2774AD92582B525CC51E196D0), compiling. 
+[2022.04.06-13.27.38:254][571]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.04.06-13.27.38:365][571]LogObjectTools: Deleting 1 worlds: /Game/FirstPersonCPP/Maps/bloking_new1.bloking_new1
+[2022.04.06-13.27.38:365][571]LogObjectTools: Currently 11 active worlds: /Game/FirstPersonCPP/Maps/bloking_new.bloking_new, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_11
+[2022.04.06-13.27.38:455][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.04.06-13.27.40:751][571]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.06-13.27.40:768][571]LogWorld: UWorld::CleanupWorld for bloking_new1, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-13.27.40:772][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-13.27.41:064][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.04.06-13.27.41:101][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.04.06-13.27.41:125][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.04.06-13.27.41:926][571]SourceControl: Error: Updated 0 paths from the index
+[2022.04.06-13.27.42:060][571]SourceControl: rm 'Cyberpunk2022/Content/FirstPersonCPP/Maps/bloking_new1.umap'
+[2022.04.06-13.27.46:346][632]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2022.04.06-13.27.46:346][632]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2022.04.06-13.27.46:417][632]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2022.04.06-13.27.46:418][632]LogLinker: Warning: Failed to load '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2022.04.06-13.27.46:418][632]LogLinker: Warning: Failed to load '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2022.04.06-13.27.46:426][632]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2022.04.06-13.27.46:426][632]LoadErrors: Failed to load /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2022.04.06-13.27.46:537][632]LogObjectTools: Deleting 1 worlds: /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.06-13.27.46:537][632]LogObjectTools: Currently 11 active worlds: /Game/FirstPersonCPP/Maps/bloking_new.bloking_new, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_11
+[2022.04.06-13.27.46:565][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.04.06-13.27.48:254][632]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.06-13.27.48:283][632]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-13.27.48:283][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-13.27.48:517][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.04.06-13.27.48:553][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.04.06-13.27.48:578][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.04.06-13.27.49:323][632]SourceControl: Error: Updated 0 paths from the index
+[2022.04.06-13.27.49:471][632]SourceControl: rm 'Cyberpunk2022/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2022.04.06-13.27.51:572][703]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Maps\bloking.umap: Failed to load '/Game/FirstPersonCPP/Maps/bloking_BuiltData': Can't find file.
+[2022.04.06-13.27.51:572][703]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Maps\bloking.umap: Failed to load '/Game/FirstPersonCPP/Maps/bloking_BuiltData': Can't find file.
+[2022.04.06-13.27.51:701][703]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Maps\bloking.umap: Failed to load '/Game/FirstPersonCPP/Maps/bloking_BuiltData': Can't find file.
+[2022.04.06-13.27.51:809][703]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Maps\bloking.umap: Failed to load '/Game/FirstPersonCPP/Maps/bloking_BuiltData': Can't find file.
+[2022.04.06-13.27.51:809][703]LoadErrors: Failed to load /Game/FirstPersonCPP/Maps/bloking_BuiltData.bloking_BuiltData Referenced by PersistentLevel
+[2022.04.06-13.27.52:159][703]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/Art/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/5/temp.2BC0B8B4471942020618CAACE75E7AA6! Error: 1392 (Файл или папка повреждены. Чтение невозможно.)
+[2022.04.06-13.27.52:269][703]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/Art/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/5/temp.BEDB3A5A45AB2261A4BD4990BA56B2F9! Error: 1392 (Файл или папка повреждены. Чтение невозможно.)
+[2022.04.06-13.27.52:269][703]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_AB2E54734BBD455222628DB94C734AB1__1_0_0_0_3_13315_0.
+[2022.04.06-13.27.52:269][703]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_AB2E54734BBD455222628DB94C734AB1__1_0_0_0_3_13315_0 to HierarchicalDerivedDataBackend. Error: 0 (Операция успешно завершена.)
+[2022.04.06-13.27.52:269][703]LogObjectTools: Deleting 1 worlds: /Game/FirstPersonCPP/Maps/bloking.bloking
+[2022.04.06-13.27.52:269][703]LogObjectTools: Currently 11 active worlds: /Game/FirstPersonCPP/Maps/bloking_new.bloking_new, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_11
+[2022.04.06-13.27.52:336][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.04.06-13.27.55:007][703]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.06-13.27.55:521][703]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 124
+[2022.04.06-13.27.55:521][703]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-13.27.55:521][703]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FirstPersonCPP/Maps/bloking.bloking
+[2022.04.06-13.27.56:473][703]LogWorld: UWorld::CleanupWorld for bloking, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-13.27.56:480][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-13.27.57:609][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.04.06-13.27.57:646][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.04.06-13.27.57:671][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.04.06-13.27.58:465][703]SourceControl: Error: Updated 0 paths from the index
+[2022.04.06-13.27.58:604][703]SourceControl: rm 'Cyberpunk2022/Content/FirstPersonCPP/Maps/bloking.umap'
+[2022.04.06-13.27.58:623][703]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.06-13.27.58:623][703]LogShaderCompilers: Display: Total job queries 707, among them cache hits 0 (0.00%)
+[2022.04.06-13.27.58:623][703]LogShaderCompilers: Display: Tracking 563 distinct input hashes that result in 318 distinct outputs (56.48%)
+[2022.04.06-13.27.58:623][703]LogShaderCompilers: Display: RAM used: 2.05 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.25%
+[2022.04.06-13.27.58:623][703]LogShaderCompilers: Display: ================================================
+[2022.04.06-13.27.59:235][733]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 114
+[2022.04.06-13.27.59:235][733]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-13.28.00:436][784]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Maps\light.umap: Failed to load '/Game/FirstPersonCPP/Maps/light_BuiltData': Can't find file.
+[2022.04.06-13.28.00:437][784]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Maps\light.umap: Failed to load '/Game/FirstPersonCPP/Maps/light_BuiltData': Can't find file.
+[2022.04.06-13.28.00:989][784]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 104
+[2022.04.06-13.28.00:989][784]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-13.28.00:989][784]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Maps\light.umap: Failed to load '/Game/FirstPersonCPP/Maps/light_BuiltData': Can't find file.
+[2022.04.06-13.28.00:996][784]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\Maps\light.umap: Failed to load '/Game/FirstPersonCPP/Maps/light_BuiltData': Can't find file.
+[2022.04.06-13.28.00:996][784]LoadErrors: Failed to load /Game/FirstPersonCPP/Maps/light_BuiltData.light_BuiltData Referenced by PersistentLevel
+[2022.04.06-13.28.01:003][784]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 8X8)
+[2022.04.06-13.28.01:003][784]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 16X16)
+[2022.04.06-13.28.01:003][784]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_6 in PCD3D_SM5, Default, SM5 (DDC key hash: BE62B8675E72C6227F1F74308BA2267F38BCF10A), compiling. 
+[2022.04.06-13.28.01:384][784]LogShaderCompilers: Display: Submitted 184 shader compile jobs with 'Low' priority
+[2022.04.06-13.28.01:387][784]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 54445935659A9FDB5DE2DD4F66AD81BDA732772F), compiling. 
+[2022.04.06-13.28.01:494][784]LogShaderCompilers: Display: Submitted 116 shader compile jobs with 'Low' priority
+[2022.04.06-13.28.01:508][784]LogObjectTools: Deleting 1 worlds: /Game/FirstPersonCPP/Maps/light.light
+[2022.04.06-13.28.01:508][784]LogObjectTools: Currently 11 active worlds: /Game/FirstPersonCPP/Maps/bloking_new.bloking_new, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_11
+[2022.04.06-13.28.01:555][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.04.06-13.28.02:253][784]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2022.04.06-13.28.02:253][784]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.06-13.28.02:831][784]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.06-13.28.02:849][784]LogWorld: UWorld::CleanupWorld for light, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-13.28.02:849][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-13.28.03:055][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.04.06-13.28.03:090][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.04.06-13.28.03:115][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.04.06-13.28.03:870][784]SourceControl: Error: Updated 0 paths from the index
+[2022.04.06-13.28.04:004][784]SourceControl: rm 'Cyberpunk2022/Content/FirstPersonCPP/Maps/light.umap'
+[2022.04.06-13.28.04:509][809]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 94
+[2022.04.06-13.28.04:509][809]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-13.28.06:887][898]LogContentBrowser: Deferred new asset file creation: bloking_new1
+[2022.04.06-13.28.06:967][898]LogContentBrowser: Creating deferred item: bloking_new1
+[2022.04.06-13.28.07:299][916]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 84
+[2022.04.06-13.28.07:299][916]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-13.28.09:602][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 74
+[2022.04.06-13.28.09:602][ 33]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-13.28.12:073][160]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.06-13.28.12:073][160]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.06-13.28.15:045][313]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 64
+[2022.04.06-13.28.15:045][313]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-13.28.18:857][507]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2022.04.06-13.28.18:857][507]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-13.28.19:960][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 44
+[2022.04.06-13.28.19:960][562]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-13.28.20:570][592]LogContentBrowser: Attempting asset rename: bloking_new1 -> cyberpunk2022
+[2022.04.06-13.28.21:328][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.04.06-13.28.22:106][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.04.06-13.28.23:110][592]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/cyberpunk20221EF10D774BDD99D9ADD1F39F35908A5A.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Maps/cyberpunk2022.umap'
+[2022.04.06-13.28.23:929][592]LogFileHelpers: Saving map 'cyberpunk2022' took 2.063
+[2022.04.06-13.28.24:905][592]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2022.04.06-13.28.24:905][592]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-13.28.25:007][592]LogContentBrowser: End creating deferred item bloking_new1
+[2022.04.06-13.28.25:016][592]AssetCheck: New page: Asset Save: cyberpunk2022
+[2022.04.06-13.28.25:016][592]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022
+[2022.04.06-13.28.30:783][870]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonCPP/Maps/bloking_new.bloking_new:PersistentLevel.bloking_new
+[2022.04.06-13.28.42:587][424]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2022.04.06-13.28.42:587][424]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-13.28.45:548][568]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2022.04.06-13.28.45:548][568]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-13.28.46:303][604]LogSlate: Window 'bloking_new' being destroyed
+[2022.04.06-13.28.46:336][604]LogSlate: Window 'bloking_new' being destroyed
+[2022.04.06-13.28.46:338][604]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-13.28.46:338][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-13.28.51:174][848]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2022.04.06-13.28.51:174][848]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-13.28.52:996][941]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2022.04.06-13.28.52:996][941]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-13.28.54:510][ 14]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.04.06-13.28.54:510][ 14]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-13.28.55:652][ 57]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.04.06-13.28.55:652][ 57]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/FX/NiagaraExtras/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/FX/NiagaraExtras/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:517][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:518][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:518][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:518][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:518][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:518][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.02:518][261]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Programs/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.06-13.29.04:343][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.04.06-13.29.05:327][261]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/bloking_newB41A823C47E9FF3DF32306B71BFD7C83.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Maps/bloking_new.umap'
+[2022.04.06-13.29.05:339][261]LogFileHelpers: Saving map 'bloking_new' took 1.042
+[2022.04.06-13.29.05:573][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.04.06-13.29.06:581][261]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/cyberpunk202290ABD5B34E471F8BE782DB96FC1AE386.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Maps/cyberpunk2022.umap'
+[2022.04.06-13.29.06:743][261]LogFileHelpers: Saving map 'cyberpunk2022' took 1.404
+[2022.04.06-13.29.19:550][261]LogSlate: Window 'Submit Files' being destroyed
+[2022.04.06-13.29.23:263][261]LogSourceControl: commit successful: [Art 0a332f0] maps
+[2022.04.06-13.29.23:307][261]SourceControl: [Art 0a332f0] maps
+[2022.04.06-13.29.23:307][261]SourceControl:  7 files changed, 0 insertions(+), 0 deletions(-)
+[2022.04.06-13.29.23:307][261]SourceControl:  delete mode 100644 Cyberpunk2022/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap
+[2022.04.06-13.29.23:307][261]SourceControl:  delete mode 100644 Cyberpunk2022/Content/FirstPersonCPP/Maps/ParkourTest_2.umap
+[2022.04.06-13.29.23:307][261]SourceControl:  delete mode 100644 Cyberpunk2022/Content/FirstPersonCPP/Maps/bloking.umap
+[2022.04.06-13.29.23:307][261]SourceControl:  delete mode 100644 Cyberpunk2022/Content/FirstPersonCPP/Maps/bloking_new1.umap
+[2022.04.06-13.29.23:307][261]SourceControl:  create mode 100644 Cyberpunk2022/Content/FirstPersonCPP/Maps/cyberpunk2022.umap
+[2022.04.06-13.29.23:307][261]SourceControl:  delete mode 100644 Cyberpunk2022/Content/FirstPersonCPP/Maps/light.umap
+[2022.04.06-13.29.23:313][261]SourceControl: Commited [Art 0a332f0] maps.
+[2022.04.06-13.29.23:353][262]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.06-13.29.23:353][262]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/bloking_new.bloking_new
+[2022.04.06-13.29.23:353][262]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022
