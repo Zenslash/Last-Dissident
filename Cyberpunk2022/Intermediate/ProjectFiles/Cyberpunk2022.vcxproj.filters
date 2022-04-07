@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Cyberpunk2022.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{71BD2356-9753-421D-BB7D-D5851B1949CB}</UniqueIdentifier>
+      <UniqueIdentifier>{59903590-159A-4060-AB11-BCC0032CEE99}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Cyberpunk2022.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\AdvancedGlassPack414.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{6A17C047-F887-4B9D-B65E-38D6B9C3555F}</UniqueIdentifier>
+      <UniqueIdentifier>{887277EA-2487-49B7-A646-E03F6F775538}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -31,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Cyberpunk2022">
-      <UniqueIdentifier>{48F89F9C-C83D-45BC-9792-E968BE5F76B8}</UniqueIdentifier>
+      <UniqueIdentifier>{894017D3-CB2C-4107-BDAA-787C40DD3E6F}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Cyberpunk2022\Ammo.cpp">
       <Filter>Source\Cyberpunk2022</Filter>
@@ -40,6 +40,24 @@
       <Filter>Source\Cyberpunk2022</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\Cyberpunk2022\AmmoType.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cyberpunk2022\Buff.cpp">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\Buff.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cyberpunk2022\BuffComponent.cpp">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\BuffComponent.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cyberpunk2022\BuffFactory.cpp">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\BuffFactory.h">
       <Filter>Source\Cyberpunk2022</Filter>
     </ClInclude>
     <None Include="..\..\Source\Cyberpunk2022\Cyberpunk2022.Build.cs">
