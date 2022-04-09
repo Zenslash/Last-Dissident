@@ -2,6 +2,9 @@
 
 
 #include "BuffComponent.h"
+#include "BuffFactory.h"
+#include "Buff.h"
+#include "CharacterStats.h"
 
 // Sets default values for this component's properties
 UBuffComponent::UBuffComponent()
@@ -9,6 +12,8 @@ UBuffComponent::UBuffComponent()
 	// Set this component to be initialized when the game starts, and to be ticked every frame.  You can turn these features
 	// off to improve performance if you don't need them.
 	PrimaryComponentTick.bCanEverTick = true;
+
+	_factory = NewObject<UBuffFactory>();
 
 	// ...
 }
@@ -29,6 +34,21 @@ void UBuffComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActorC
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
+
 	// ...
+}
+
+void UBuffComponent::AddBuff(EBuffType type, UCharacterStats* stats)
+{
+	for(int i = 0; i < _activeBuff.size(); i++)
+	{
+		if(_activeBuff[i]->GetBuffType() == type)
+		{
+			_activeBuff[i]->ResetEffect();
+			return;
+		}
+	}
+
+	_activeBuff.push_back(_factory->ConstructBuff(type, stats));
 }
 

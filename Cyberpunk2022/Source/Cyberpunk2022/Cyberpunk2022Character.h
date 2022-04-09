@@ -5,6 +5,8 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
 #include "AmmoType.h"
+#include "BuffComponent.h"
+#include "CharacterStats.h"
 #include "HealthComponent.h"
 #include "Cyberpunk2022Character.generated.h"
 
@@ -230,6 +232,8 @@ private:
 	bool _bFiringBullet;
 	FTimerHandle _crosshairShootTimer;
 	UHealthComponent* _healthComponent;
+	UCharacterStats* _characterStats;
+	UBuffComponent* _buffComponent;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
 	FTransform _clipTransform;

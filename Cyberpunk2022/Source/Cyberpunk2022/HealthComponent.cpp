@@ -9,7 +9,6 @@ UHealthComponent::UHealthComponent()
 	// Set this component to be initialized when the game starts, and to be ticked every frame.  You can turn these features
 	// off to improve performance if you don't need them.
 	PrimaryComponentTick.bCanEverTick = false;
-
 	// ...
 }
 
@@ -20,6 +19,7 @@ void UHealthComponent::BeginPlay()
 	Super::BeginPlay();
 
 	_currentHealth = _maxHealth;
+	_resist = 0.f;
 
 	// ...
 	
@@ -36,12 +36,21 @@ void UHealthComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActo
 
 void UHealthComponent::UpdateHealth(int value)
 {
+	if(value > 0)
+	{
+		value *= 1 - _resist;
+	}
 	_currentHealth -= value;
 
 	if(_currentHealth <= 0)
 	{
 		_outOfHealthEvent.Broadcast();
 	}
+}
+
+void UHealthComponent::ApplyResist(float value)
+{
+
 }
 
 

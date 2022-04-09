@@ -31,6 +31,8 @@ public:
 	UFUNCTION(BlueprintCallable)
 	void UpdateHealth(int value);
 
+	void ApplyResist(float value);
+
 private:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
 	int _maxHealth;
@@ -39,6 +41,8 @@ private:
 
 	UPROPERTY(BlueprintCallable, BlueprintReadWrite, BlueprintAssignable, Category = Combat, meta = (AllowPrivateAccess = "true"))
 	FOutOfHealth _outOfHealthEvent;
+
+	float _resist;
 
 
 };

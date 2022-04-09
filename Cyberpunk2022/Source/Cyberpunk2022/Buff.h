@@ -4,6 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "UObject/NoExportTypes.h"
+#include "BuffType.h"
+#include "CharacterStats.h"
 #include "Buff.generated.h"
 
 /**
@@ -15,13 +17,28 @@ class CYBERPUNK2022_API UBuff : public UObject
 	GENERATED_BODY()
 
 public:
+	UBuff();
+	UBuff(UCharacterStats* stats);
 
-	//void SetBuffParam()
+	EBuffType GetBuffType() const
+	{
+		return _buffType;
+	}
+	void SetBuffType(EBuffType type)
+	{
+		_buffType = type;
+	}
+	void SetCharacterStats(UCharacterStats* stats)
+	{
+		_characterStats = stats;
+	}
 
-	//void ApplyBuff()
+	void ResetEffect();
+	void ApplyEffect();
 
-private:
+protected:
 
-	//int& _buffParam;
+	EBuffType _buffType;
+	UCharacterStats* _characterStats;
 	
 };

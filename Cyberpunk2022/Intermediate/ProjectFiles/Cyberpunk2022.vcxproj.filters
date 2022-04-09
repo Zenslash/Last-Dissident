@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Cyberpunk2022.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{59903590-159A-4060-AB11-BCC0032CEE99}</UniqueIdentifier>
+      <UniqueIdentifier>{7B4D3AD1-6EF9-418A-8D1D-404F6B4C0552}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Cyberpunk2022.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\AdvancedGlassPack414.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{887277EA-2487-49B7-A646-E03F6F775538}</UniqueIdentifier>
+      <UniqueIdentifier>{94712AF5-A30B-4D88-BA7C-C87D1D4F6D74}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -31,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Cyberpunk2022">
-      <UniqueIdentifier>{894017D3-CB2C-4107-BDAA-787C40DD3E6F}</UniqueIdentifier>
+      <UniqueIdentifier>{B6FD9A80-860A-4A66-B2F0-9D1F11753BD0}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Cyberpunk2022\Ammo.cpp">
       <Filter>Source\Cyberpunk2022</Filter>
@@ -58,6 +58,15 @@
       <Filter>Source\Cyberpunk2022</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Cyberpunk2022\BuffFactory.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\BuffType.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cyberpunk2022\CharacterStats.cpp">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\CharacterStats.h">
       <Filter>Source\Cyberpunk2022</Filter>
     </ClInclude>
     <None Include="..\..\Source\Cyberpunk2022\Cyberpunk2022.Build.cs">
@@ -93,10 +102,22 @@
     <ClInclude Include="..\..\Source\Cyberpunk2022\Cyberpunk2022Projectile.h">
       <Filter>Source\Cyberpunk2022</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Cyberpunk2022\DamageBuff.cpp">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\DamageBuff.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Cyberpunk2022\DamagePickup.cpp">
       <Filter>Source\Cyberpunk2022</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Cyberpunk2022\DamagePickup.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cyberpunk2022\DamageResistBuff.cpp">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\DamageResistBuff.h">
       <Filter>Source\Cyberpunk2022</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\Cyberpunk2022\DecalStruct.h">
@@ -133,6 +154,12 @@
       <Filter>Source\Cyberpunk2022</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Cyberpunk2022\ShooterPlayerController.h">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cyberpunk2022\SpeedBuff.cpp">
+      <Filter>Source\Cyberpunk2022</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cyberpunk2022\SpeedBuff.h">
       <Filter>Source\Cyberpunk2022</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\Cyberpunk2022\SpeedPickup.cpp">

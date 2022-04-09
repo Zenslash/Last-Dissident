@@ -76,6 +76,11 @@ ACyberpunk2022Character::ACyberpunk2022Character()
 
 	_handSceneComponent = CreateDefaultSubobject<USceneComponent>(TEXT("HandSceneComp"));
 
+	_characterStats = NewObject<UCharacterStats>();
+	_characterStats->SetSpeedMultiplier(1.f);
+	_characterStats->SetDamageMultiplier(1.f);
+	_characterStats->SetDamageResistMultiplier(0.f);
+
 }
 
 void ACyberpunk2022Character::BeginPlay()
@@ -87,6 +92,9 @@ void ACyberpunk2022Character::BeginPlay()
 	Mesh1P->SetHiddenInGame(false, true);
 
 	_healthComponent = Cast<UHealthComponent>(GetComponentByClass(UHealthComponent::StaticClass()));
+	_healthComponent->ApplyResist(_characterStats->GetDamageResistModifier());
+
+	_buffComponent = Cast<UBuffComponent>(GetComponentByClass(UBuffComponent::StaticClass()));
 
 	EquipWeapon(SpawnDefaultWeapon());
 	InitializeAmmoMap();
@@ -239,7 +247,7 @@ void ACyberpunk2022Character::MoveForward(float Value)
 	if (Value != 0.0f)
 	{
 		// add movement in that direction
-		AddMovementInput(GetActorForwardVector(), Value);
+		AddMovementInput(GetActorForwardVector(), Value * _characterStats->GetSpeedModifier());
 	}
 }
 
@@ -249,7 +257,7 @@ void ACyberpunk2022Character::MoveRight(float Value)
 	if (Value != 0.0f)
 	{
 		// add movement in that direction
-		AddMovementInput(GetActorRightVector(), Value);
+		AddMovementInput(GetActorRightVector(), Value * _characterStats->GetSpeedModifier());
 	}
 }
 
@@ -331,7 +339,7 @@ void ACyberpunk2022Character::SendBullet()
 			bool bImplTakingDamage = UKismetSystemLibrary::DoesImplementInterface(hitInfo.GetActor(), UTakingDamageInterface::StaticClass());
 			if (bImplTakingDamage)
 			{
-				ITakingDamageInterface::Execute_TakingDamage(hitInfo.GetActor(), hitInfo.BoneName, _equippedWeapon->GetDamagePerBullet(), hitInfo.ImpactNormal);
+				ITakingDamageInterface::Execute_TakingDamage(hitInfo.GetActor(), hitInfo.BoneName, _equippedWeapon->GetDamagePerBullet() * _characterStats->GetDamageModifier(), hitInfo.ImpactNormal);
 			}
 
 			beamEndPoint = hitInfo.Location;
@@ -708,20 +716,17 @@ void ACyberpunk2022Character::PickupHealth(AHealthPickup* health)
 
 void ACyberpunk2022Character::PickupSpeed(ASpeedPickup* speed)
 {
-	//Apply modifier
-	//Set timer
+	_buffComponent->AddBuff(EBuffType::SPEED, _characterStats);
 }
 
 void ACyberpunk2022Character::PickupDamage(ADamagePickup* damage)
 {
-	//Apply modifier
-	//Set timer
+	_buffComponent->AddBuff(EBuffType::DAMAGE, _characterStats);
 }
 
 void ACyberpunk2022Character::PickupShield(AShieldPickup* health)
 {
-	//Apply modifier
-	//Set timer
+	_buffComponent->AddBuff(EBuffType::RESIST, _characterStats);
 }
 
 void ACyberpunk2022Character::GetPickupItem(AItem* item)

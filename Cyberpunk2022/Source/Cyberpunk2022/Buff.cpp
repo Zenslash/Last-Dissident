@@ -3,3 +3,17 @@
 
 #include "Buff.h"
 
+UBuff::UBuff()
+{
+
+}
+
+void UBuff::ResetEffect()
+{
+
+}
+
+void UBuff::ApplyEffect()
+{
+
+}
