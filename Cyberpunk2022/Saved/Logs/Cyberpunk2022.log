@@ -1278,3 +1278,1273 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.10-12.15.10:638][953]LogFileHelpers: Saving map 'cyberpunk2022' took 1.022
 [2022.04.10-12.15.10:662][953]AssetCheck: New page: Asset Save: cyberpunk2022
 [2022.04.10-12.15.10:662][953]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022
+[2022.04.10-17.36.52:948][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_floor_p45)
+[2022.04.10-17.37.01:618][271]LogContentBrowser: Deferred new asset file creation: SM_floor_p1
+[2022.04.10-17.37.01:920][271]LogContentBrowser: Creating deferred item: SM_floor_p1
+[2022.04.10-17.37.11:047][786]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.10-17.37.11:047][786]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.10-17.37.13:629][935]LogContentBrowser: Attempting asset rename: SM_floor_p1 -> SM_roof_01
+[2022.04.10-17.37.13:725][935]LogStaticMesh: Building static mesh SM_roof_01...
+[2022.04.10-17.37.13:743][935]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Meshes/floor+new/SM_roof_01.SM_roof_01
+[2022.04.10-17.37.13:834][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/floor+new/SM_roof_01" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/SM_roof_01.uasset" SILENT=true
+[2022.04.10-17.37.13:841][935]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/SM_roof_0181B4F75C430C0765216DA59F1F801420.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/SM_roof_01.uasset'
+[2022.04.10-17.37.14:120][935]LogContentBrowser: End creating deferred item SM_floor_p1
+[2022.04.10-17.37.14:125][935]AssetCheck: New page: Asset Save: SM_roof_01
+[2022.04.10-17.37.14:125][935]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/floor+new/SM_roof_01.SM_roof_01
+[2022.04.10-17.37.15:342][  0]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Meshes/floor+new/SM_roof_01.SM_roof_01
+[2022.04.10-17.37.22:048][318]LogContentBrowser: Deferred new asset file creation: inst_floor_p1
+[2022.04.10-17.37.22:067][318]LogContentBrowser: Creating deferred item: inst_floor_p1
+[2022.04.10-17.37.28:045][603]LogContentBrowser: Attempting asset rename: inst_floor_p1 -> inst_roof
+[2022.04.10-17.37.28:250][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/floor+new/inst_roof" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/inst_roof.uasset" SILENT=true
+[2022.04.10-17.37.28:256][603]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/inst_roof8D9DFAF04203CFCE733E989FCA54D4FB.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/inst_roof.uasset'
+[2022.04.10-17.37.28:530][603]LogContentBrowser: End creating deferred item inst_floor_p1
+[2022.04.10-17.37.28:534][603]AssetCheck: New page: Asset Save: inst_roof
+[2022.04.10-17.37.28:534][603]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Meshes/floor+new/inst_roof.inst_roof
+[2022.04.10-17.37.42:391][760]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\3d\wga\tile\texture\roof\roof_BC.png)
+[2022.04.10-17.37.42:606][760]LogTexture: Display: Building textures: roof_BC (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-17.37.43:256][760]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-17.37.43:256][760]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-17.37.43:365][760]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\3d\wga\tile\texture\roof\roof_N.png)
+[2022.04.10-17.37.43:584][760]LogTexture: Display: Building textures: roof_N (OODLE_BC5, 2048X2048)
+[2022.04.10-17.37.43:808][760]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-17.37.43:808][760]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-17.37.43:960][760]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\3d\wga\tile\texture\roof\roof_ORM.png)
+[2022.04.10-17.37.44:120][760]LogTexture: Display: Building textures: roof_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-17.37.44:677][760]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-17.37.44:677][760]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-17.37.51:176][ 48]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Meshes/floor+new/inst_floor_p.inst_floor_p
+[2022.04.10-17.37.54:442][171]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Meshes/floor+new/inst_roof.inst_roof
+[2022.04.10-17.38.14:881][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/floor+new/inst_roof" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/inst_roof.uasset" SILENT=true
+[2022.04.10-17.38.14:918][194]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2022.04.10-17.38.14:978][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.04.10-17.38.14:984][194]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/inst_roofB0CDF67441016BBF512349A2E64AECBE.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/inst_roof.uasset'
+[2022.04.10-17.38.14:994][194]AssetCheck: New page: Asset Save: inst_roof
+[2022.04.10-17.38.14:994][194]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Meshes/floor+new/inst_roof.inst_roof
+[2022.04.10-17.38.16:417][274]LogSlate: Window 'inst_roof' being destroyed
+[2022.04.10-17.38.16:438][274]LogSlate: Window 'inst_roof' being destroyed
+[2022.04.10-17.38.16:441][274]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-17.38.16:441][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-17.38.16:484][274]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-17.38.16:484][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-17.38.16:505][274]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-17.38.16:505][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-17.38.22:067][629]LogActorFactory: Actor Factory created SM_roof_01
+[2022.04.10-17.38.22:856][678]LogActorFactory: Actor Factory created SM_roof_01
+[2022.04.10-17.38.28:824][ 98]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Meshes/floor+new/SM_roof_01.SM_roof_01
+[2022.04.10-17.38.30:483][160]LogStaticMesh: Building static mesh SM_roof_01...
+[2022.04.10-17.38.30:509][160]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Meshes/floor+new/SM_roof_01.SM_roof_01
+[2022.04.10-17.38.32:063][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/floor+new/SM_roof_01" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/SM_roof_01.uasset" SILENT=true
+[2022.04.10-17.38.32:069][241]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/SM_roof_01CC7443C9433D56FFD20BD084CCB1B40D.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/SM_roof_01.uasset'
+[2022.04.10-17.38.32:077][241]AssetCheck: New page: Asset Save: SM_roof_01
+[2022.04.10-17.38.32:077][241]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/floor+new/SM_roof_01.SM_roof_01
+[2022.04.10-17.38.33:230][307]LogSlate: Window 'SM_roof_01' being destroyed
+[2022.04.10-17.38.33:248][307]LogSlate: Window 'SM_roof_01' being destroyed
+[2022.04.10-17.38.33:252][307]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-17.38.33:252][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-17.38.43:745][145]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2022.04.10-17.39.18:152][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.04.10-17.39.19:775][ 30]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/cyberpunk2022_Auto612AA38C14B099AC2C762B9918E8EE4EC.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/Autosaves/Game/FirstPersonCPP/Maps/cyberpunk2022_Auto6.umap'
+[2022.04.10-17.39.19:778][ 30]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonCPP/Maps/cyberpunk2022' took 1.645
+[2022.04.10-17.39.19:778][ 30]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.645
+[2022.04.10-17.39.19:779][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Meshes/floor+new/texture/roof_BC] ([1] browsable assets)...
+[2022.04.10-17.39.19:785][ 30]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Meshes/floor+new/texture/roof_BC.roof_BC]
+[2022.04.10-17.39.19:785][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Meshes/floor+new/texture/roof_BC]
+[2022.04.10-17.39.19:794][ 30]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/roof_BC_Auto644698D9B4D60701D18FB87991338C2B3.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/Autosaves/Game/Assets/Meshes/floor+new/texture/roof_BC_Auto6.uasset'
+[2022.04.10-17.39.19:795][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Meshes/floor+new/texture/roof_N] ([1] browsable assets)...
+[2022.04.10-17.39.19:801][ 30]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Meshes/floor+new/texture/roof_N.roof_N]
+[2022.04.10-17.39.19:801][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Meshes/floor+new/texture/roof_N]
+[2022.04.10-17.39.19:810][ 30]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/roof_N_Auto6BB2D2EBB416D649DB460D18857B76781.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/Autosaves/Game/Assets/Meshes/floor+new/texture/roof_N_Auto6.uasset'
+[2022.04.10-17.39.19:810][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Meshes/floor+new/texture/roof_ORM] ([1] browsable assets)...
+[2022.04.10-17.39.19:815][ 30]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Meshes/floor+new/texture/roof_ORM.roof_ORM]
+[2022.04.10-17.39.19:815][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Meshes/floor+new/texture/roof_ORM]
+[2022.04.10-17.39.19:823][ 30]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/roof_ORM_Auto6FEFDEDAA4590E344DA7442BA72E38BD7.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/Autosaves/Game/Assets/Meshes/floor+new/texture/roof_ORM_Auto6.uasset'
+[2022.04.10-17.39.19:823][ 30]LogFileHelpers: Auto-saving content packages took 0.045
+[2022.04.10-17.40.04:657][165]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.10-17.40.04:657][165]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.10-17.40.09:536][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_roof_01)
+[2022.04.10-17.40.16:084][910]Cmd: DELETE
+[2022.04.10-17.40.16:084][910]Cmd: ACTOR DELETE
+[2022.04.10-17.40.16:197][910]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-17.40.16:208][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.04.10-17.40.16:211][910]LogEditorActor: Deleted 1 Actors (0.126 secs)
+[2022.04.10-17.40.17:694][ 23]Cmd: TRANSACTION UNDO
+[2022.04.10-17.40.17:700][ 23]LogEditorTransaction: Undo Delete Actors
+[2022.04.10-17.41.43:889][367]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-17.41.43:896][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-17.41.43:897][367]PIE: New page: PIE session: cyberpunk2022 (10 апр. 2022 г., 23:41:43)
+[2022.04.10-17.41.43:920][367]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022
+[2022.04.10-17.41.44:298][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.378927s)
+[2022.04.10-17.41.44:299][367]LogAIModule: Creating AISystem for world cyberpunk2022
+[2022.04.10-17.41.44:300][367]LogPlayLevel: PIE: World Init took: (0.002132s)
+[2022.04.10-17.41.44:301][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022 to /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022 (0.381627s)
+[2022.04.10-17.41.44:313][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.04.10-17.41.44:320][367]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.10-17.41.44:320][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.10-17.41.44:320][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.10-17.41.44:320][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.10-17.41.44:320][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.10-17.41.44:320][367]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.10-17.41.44:320][367]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.10-17.41.44:320][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.10-17.41.44:320][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.10-17.41.44:321][367]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.10-17.41.44:321][367]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.10-17.41.44:321][367]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.10-17.41.44:321][367]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.10-17.41.44:323][367]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.10-17.41.44:323][367]LogAudioMixer: Display: 1: FrontRight
+[2022.04.10-17.41.44:333][367]LogAudioMixer: Display: Using Audio Device Динамики (USB PnP Sound Device)
+[2022.04.10-17.41.44:333][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.10-17.41.44:333][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.10-17.41.44:333][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.10-17.41.44:334][367]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.10-17.41.44:334][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.10-17.41.44:334][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.10-17.41.44:335][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.10-17.41.44:335][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.10-17.41.44:335][367]LogInit: FAudioDevice initialized.
+[2022.04.10-17.41.44:335][367]LogAudio: Display: Audio Device (ID: 3) registered with world 'cyberpunk2022'.
+[2022.04.10-17.41.44:355][367]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2022.04.10-17.41.44:445][367]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022 up for play (max tick rate 0) at 2022.04.10-20.41.44
+[2022.04.10-17.41.44:448][367]LogWorld: Bringing up level for play took: 0.092351
+[2022.04.10-17.41.44:448][367]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.04.10-17.41.44:489][367]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.10-17.41.44:491][367]PIE: Server logged in
+[2022.04.10-17.41.44:492][367]PIE: Play in editor total start time 0,598 seconds.
+[2022.04.10-17.41.44:562][368]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.071481 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2022.04.10-17.41.52:720][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-17.41.52:720][203]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022
+[2022.04.10-17.41.52:722][203]LogWorld: UWorld::CleanupWorld for cyberpunk2022, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-17.41.52:735][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-17.41.52:743][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-17.41.52:759][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-17.41.52:770][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-17.41.52:780][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-17.41.52:781][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-17.41.52:796][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.04.10-17.41.52:831][204]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.04.10-17.41.55:786][422]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture12)
+[2022.04.10-17.42.04:312][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_roof_32)
+[2022.04.10-17.42.53:312][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_88)
+[2022.04.10-17.42.54:600][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_column01_x23)
+[2022.04.10-17.42.55:135][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_roof_45)
+[2022.04.10-17.42.55:528][632]Cmd: DELETE
+[2022.04.10-17.42.55:528][632]Cmd: ACTOR DELETE
+[2022.04.10-17.42.55:640][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-17.42.55:653][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.04.10-17.42.55:660][632]LogEditorActor: Deleted 1 Actors (0.132 secs)
+[2022.04.10-17.42.57:974][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_roof_46)
+[2022.04.10-17.43.49:661][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_roof_69)
+[2022.04.10-17.44.12:621][329]Cmd: DELETE
+[2022.04.10-17.44.12:621][329]Cmd: ACTOR DELETE
+[2022.04.10-17.44.12:733][329]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-17.44.12:733][329]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-17.44.12:745][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.04.10-17.44.12:751][329]LogEditorActor: Deleted 2 Actors (0.131 secs)
+[2022.04.10-17.44.59:817][726]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-17.44.59:823][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-17.44.59:823][726]PIE: New page: PIE session: cyberpunk2022 (10 апр. 2022 г., 23:44:59)
+[2022.04.10-17.44.59:850][726]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022
+[2022.04.10-17.45.00:232][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.381958s)
+[2022.04.10-17.45.00:233][726]LogAIModule: Creating AISystem for world cyberpunk2022
+[2022.04.10-17.45.00:233][726]LogPlayLevel: PIE: World Init took: (0.001449s)
+[2022.04.10-17.45.00:234][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022 to /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022 (0.383845s)
+[2022.04.10-17.45.00:245][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.04.10-17.45.00:250][726]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.10-17.45.00:250][726]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.10-17.45.00:250][726]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.10-17.45.00:250][726]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.10-17.45.00:250][726]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.10-17.45.00:250][726]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.10-17.45.00:250][726]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.10-17.45.00:250][726]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.10-17.45.00:250][726]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.10-17.45.00:251][726]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.10-17.45.00:251][726]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.10-17.45.00:251][726]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.10-17.45.00:251][726]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.10-17.45.00:253][726]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.10-17.45.00:253][726]LogAudioMixer: Display: 1: FrontRight
+[2022.04.10-17.45.00:262][726]LogAudioMixer: Display: Using Audio Device Динамики (USB PnP Sound Device)
+[2022.04.10-17.45.00:263][726]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.10-17.45.00:263][726]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.10-17.45.00:263][726]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.10-17.45.00:263][726]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.10-17.45.00:263][726]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.10-17.45.00:263][726]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.10-17.45.00:264][726]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.10-17.45.00:264][726]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.10-17.45.00:264][726]LogInit: FAudioDevice initialized.
+[2022.04.10-17.45.00:264][726]LogAudio: Display: Audio Device (ID: 4) registered with world 'cyberpunk2022'.
+[2022.04.10-17.45.00:275][726]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2022.04.10-17.45.00:345][726]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022 up for play (max tick rate 0) at 2022.04.10-20.45.00
+[2022.04.10-17.45.00:347][726]LogWorld: Bringing up level for play took: 0.071682
+[2022.04.10-17.45.00:348][726]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.04.10-17.45.00:358][726]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.10-17.45.00:359][726]PIE: Server logged in
+[2022.04.10-17.45.00:360][726]PIE: Play in editor total start time 0,538 seconds.
+[2022.04.10-17.45.05:257][131]LogTemp: randX: 0.000000
+[2022.04.10-17.45.05:257][131]LogTemp: randY: 0.000000
+[2022.04.10-17.45.05:364][140]LogTemp: randX: 18.752563
+[2022.04.10-17.45.05:364][140]LogTemp: randY: -0.000001
+[2022.04.10-17.45.05:470][147]LogTemp: randX: -89.230484
+[2022.04.10-17.45.05:470][147]LogTemp: randY: 0.000000
+[2022.04.10-17.45.06:599][241]LogTemp: randX: 64.548431
+[2022.04.10-17.45.06:599][241]LogTemp: randY: 0.000001
+[2022.04.10-17.45.06:709][250]LogTemp: randX: 23.513794
+[2022.04.10-17.45.06:709][250]LogTemp: randY: 0.000002
+[2022.04.10-17.45.06:813][258]LogTemp: randX: -93.608002
+[2022.04.10-17.45.06:813][258]LogTemp: randY: -0.000001
+[2022.04.10-17.45.06:921][267]LogTemp: randX: -131.380768
+[2022.04.10-17.45.06:921][267]LogTemp: randY: 0.000007
+[2022.04.10-17.45.07:611][324]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.10-17.45.07:972][348]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.10-17.45.08:035][352]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.10-17.45.08:357][372]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.10-17.45.08:755][401]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.10-17.45.09:574][451]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.10-17.45.09:661][456]LogTemp: randX: 0.000000
+[2022.04.10-17.45.09:661][456]LogTemp: randY: 0.000000
+[2022.04.10-17.45.09:775][463]LogTemp: randX: -29.014709
+[2022.04.10-17.45.09:775][463]LogTemp: randY: -0.000000
+[2022.04.10-17.45.09:885][470]LogTemp: randX: -2.020859
+[2022.04.10-17.45.09:885][470]LogTemp: randY: 0.000001
+[2022.04.10-17.45.09:943][473]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.10-17.45.09:992][476]LogTemp: randX: -28.182205
+[2022.04.10-17.45.09:992][476]LogTemp: randY: 0.000001
+[2022.04.10-17.45.10:096][482]LogTemp: randX: 190.703751
+[2022.04.10-17.45.10:096][482]LogTemp: randY: 0.000005
+[2022.04.10-17.45.10:197][489]LogTemp: randX: 22.521942
+[2022.04.10-17.45.10:197][489]LogTemp: randY: -0.000003
+[2022.04.10-17.45.10:300][497]LogTemp: randX: -11.837372
+[2022.04.10-17.45.10:300][497]LogTemp: randY: -0.000011
+[2022.04.10-17.45.10:351][501]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.10-17.45.10:404][505]LogTemp: randX: -268.958801
+[2022.04.10-17.45.10:404][505]LogTemp: randY: -0.000010
+[2022.04.10-17.45.10:505][513]LogTemp: randX: -217.584610
+[2022.04.10-17.45.10:505][513]LogTemp: randY: -0.000004
+[2022.04.10-17.45.10:613][522]LogTemp: randX: -210.997467
+[2022.04.10-17.45.10:613][522]LogTemp: randY: 0.000018
+[2022.04.10-17.45.10:723][531]LogTemp: randX: -271.547485
+[2022.04.10-17.45.10:723][531]LogTemp: randY: 39.785919
+[2022.04.10-17.45.10:830][540]LogTemp: randX: 530.358582
+[2022.04.10-17.45.10:830][540]LogTemp: randY: 69.683899
+[2022.04.10-17.45.10:931][548]LogTemp: randX: -203.565460
+[2022.04.10-17.45.10:931][548]LogTemp: randY: 660.755981
+[2022.04.10-17.45.11:040][558]LogTemp: randX: -410.904968
+[2022.04.10-17.45.11:040][558]LogTemp: randY: -951.536560
+[2022.04.10-17.45.11:553][602]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.10-17.45.16:145][915]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.10-17.45.18:505][ 10]LogTemp: randX: 0.000000
+[2022.04.10-17.45.18:505][ 10]LogTemp: randY: 0.000000
+[2022.04.10-17.45.18:626][ 15]LogTemp: randX: 29.234436
+[2022.04.10-17.45.18:626][ 15]LogTemp: randY: 0.000000
+[2022.04.10-17.45.18:746][ 20]LogTemp: randX: -41.831528
+[2022.04.10-17.45.18:746][ 20]LogTemp: randY: -0.000000
+[2022.04.10-17.45.18:868][ 25]LogTemp: randX: -141.579498
+[2022.04.10-17.45.18:868][ 25]LogTemp: randY: -0.000001
+[2022.04.10-17.45.18:978][ 30]LogTemp: randX: 134.986160
+[2022.04.10-17.45.18:978][ 30]LogTemp: randY: -0.000004
+[2022.04.10-17.45.19:089][ 35]LogTemp: randX: 147.905121
+[2022.04.10-17.45.19:089][ 35]LogTemp: randY: -0.000001
+[2022.04.10-17.45.19:200][ 40]LogTemp: randX: -1.141968
+[2022.04.10-17.45.19:200][ 40]LogTemp: randY: -0.000010
+[2022.04.10-17.45.19:312][ 45]LogTemp: randX: -234.644363
+[2022.04.10-17.45.19:312][ 45]LogTemp: randY: -0.000008
+[2022.04.10-17.45.19:430][ 50]LogTemp: randX: 253.632111
+[2022.04.10-17.45.19:430][ 50]LogTemp: randY: -0.000013
+[2022.04.10-17.45.19:542][ 55]LogTemp: randX: 99.475647
+[2022.04.10-17.45.19:542][ 55]LogTemp: randY: -0.000006
+[2022.04.10-17.45.19:659][ 60]LogTemp: randX: -78.869324
+[2022.04.10-17.45.19:659][ 60]LogTemp: randY: -217.037292
+[2022.04.10-17.45.19:777][ 65]LogTemp: randX: -207.707764
+[2022.04.10-17.45.19:777][ 65]LogTemp: randY: -481.887207
+[2022.04.10-17.45.19:897][ 70]LogTemp: randX: 480.828857
+[2022.04.10-17.45.19:897][ 70]LogTemp: randY: 775.505615
+[2022.04.10-17.45.20:019][ 75]LogTemp: randX: -111.944275
+[2022.04.10-17.45.20:019][ 75]LogTemp: randY: 832.880554
+[2022.04.10-17.45.20:139][ 80]LogTemp: randX: -402.219543
+[2022.04.10-17.45.20:139][ 80]LogTemp: randY: 611.316223
+[2022.04.10-17.45.20:262][ 85]LogTemp: randX: -590.869995
+[2022.04.10-17.45.20:262][ 85]LogTemp: randY: 547.654602
+[2022.04.10-17.45.20:385][ 90]LogTemp: randX: -760.982910
+[2022.04.10-17.45.20:385][ 90]LogTemp: randY: -224.890869
+[2022.04.10-17.45.20:510][ 95]LogTemp: randX: 229.776367
+[2022.04.10-17.45.20:510][ 95]LogTemp: randY: -682.180237
+[2022.04.10-17.45.20:612][ 99]LogTemp: randX: -679.854431
+[2022.04.10-17.45.20:612][ 99]LogTemp: randY: 349.345337
+[2022.04.10-17.45.20:738][104]LogTemp: randX: -585.383057
+[2022.04.10-17.45.20:738][104]LogTemp: randY: 344.950684
+[2022.04.10-17.45.21:116][120]LogTemp: randX: -488.565735
+[2022.04.10-17.45.21:116][120]LogTemp: randY: 243.446167
+[2022.04.10-17.45.21:228][125]LogTemp: randX: -524.042236
+[2022.04.10-17.45.21:228][125]LogTemp: randY: 37.324097
+[2022.04.10-17.45.21:340][130]LogTemp: randX: 514.069458
+[2022.04.10-17.45.21:340][130]LogTemp: randY: -955.870239
+[2022.04.10-17.45.21:454][135]LogTemp: randX: -112.996582
+[2022.04.10-17.45.21:454][135]LogTemp: randY: 265.541504
+[2022.04.10-17.45.21:564][140]LogTemp: randX: 1074.925171
+[2022.04.10-17.45.21:564][140]LogTemp: randY: 449.934326
+[2022.04.10-17.45.21:667][145]LogTemp: randX: 907.182861
+[2022.04.10-17.45.21:667][145]LogTemp: randY: -992.858643
+[2022.04.10-17.45.21:769][150]LogTemp: randX: 871.053345
+[2022.04.10-17.45.21:769][150]LogTemp: randY: 127.720032
+[2022.04.10-17.45.21:870][155]LogTemp: randX: -189.300293
+[2022.04.10-17.45.21:870][155]LogTemp: randY: 154.881531
+[2022.04.10-17.45.21:971][160]LogTemp: randX: 157.837646
+[2022.04.10-17.45.21:971][160]LogTemp: randY: -571.886353
+[2022.04.10-17.45.22:072][165]LogTemp: randX: -363.970093
+[2022.04.10-17.45.22:072][165]LogTemp: randY: -968.504944
+[2022.04.10-17.45.22:176][170]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.10-17.45.24:349][300]LogTemp: randX: 0.000000
+[2022.04.10-17.45.24:349][300]LogTemp: randY: 0.000000
+[2022.04.10-17.45.24:452][307]LogTemp: randX: 9.177444
+[2022.04.10-17.45.24:452][307]LogTemp: randY: -0.000001
+[2022.04.10-17.45.24:553][314]LogTemp: randX: 83.721855
+[2022.04.10-17.45.24:553][314]LogTemp: randY: -0.000002
+[2022.04.10-17.45.24:654][321]LogTemp: randX: 56.499039
+[2022.04.10-17.45.24:654][321]LogTemp: randY: 0.000002
+[2022.04.10-17.45.24:654][321]LogBlueprintUserMessages: [BotMaster_C_0] Headshoot!
+[2022.04.10-17.45.24:756][328]LogTemp: randX: -2.630524
+[2022.04.10-17.45.24:756][328]LogTemp: randY: -0.000002
+[2022.04.10-17.45.24:868][336]LogTemp: randX: -22.227936
+[2022.04.10-17.45.24:868][336]LogTemp: randY: 0.000008
+[2022.04.10-17.45.24:976][344]LogTemp: randX: -245.075134
+[2022.04.10-17.45.24:976][344]LogTemp: randY: 0.000002
+[2022.04.10-17.45.25:086][352]LogTemp: randX: -155.508896
+[2022.04.10-17.45.25:086][352]LogTemp: randY: 0.000008
+[2022.04.10-17.45.25:436][382]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.10-17.45.31:618][749]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.10-17.45.35:715][997]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.10-17.45.46:860][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-17.45.46:860][861]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022
+[2022.04.10-17.45.46:862][861]LogWorld: UWorld::CleanupWorld for cyberpunk2022, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-17.45.46:875][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-17.45.46:887][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-17.45.46:891][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-17.45.46:911][861]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.10-17.45.46:912][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-17.45.46:913][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-17.45.46:915][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-17.45.46:942][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.04.10-17.45.46:964][862]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.04.10-17.45.50:547][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_light2)
+[2022.04.10-17.45.53:621][270]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Meshes/light/SM_light.SM_light
+[2022.04.10-17.46.04:300][715]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EditorMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EditorMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.04:300][715]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.04:300][715]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.04:300][715]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/BufferVisualization: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/BufferVisualization' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.06:472][814]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.10-17.46.06:472][814]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.10-17.46.08:685][913]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.08:685][913]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.12:551][ 66]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EditorMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EditorMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.12:551][ 66]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.12:551][ 66]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.12:551][ 66]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/BufferVisualization: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/BufferVisualization' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.14:782][172]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.16:151][226]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials/EmissiveTexturedMaterial.uasset: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials/EmissiveTexturedMaterial.uasset' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.16:178][227]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.18:779][320]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EditorMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EditorMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.18:779][320]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.18:779][320]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.18:779][320]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/BufferVisualization: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/BufferVisualization' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.20:154][371]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.23:884][511]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EditorMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EditorMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.23:884][511]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.23:885][511]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.23:885][511]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/BufferVisualization: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/BufferVisualization' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.25:326][567]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.46.26:994][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/light/SM_light" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/light/SM_light.uasset" SILENT=true
+[2022.04.10-17.46.27:020][637]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/SM_light7BC1E5C8438D69E4F39F67BB96A93225.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/light/SM_light.uasset'
+[2022.04.10-17.46.27:028][637]AssetCheck: New page: Asset Save: SM_light
+[2022.04.10-17.46.27:028][637]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/light/SM_light.SM_light
+[2022.04.10-17.46.40:584][366]LogSlate: Window 'SM_light' being destroyed
+[2022.04.10-17.46.40:610][366]LogSlate: Window 'SM_light' being destroyed
+[2022.04.10-17.46.40:613][366]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-17.46.40:613][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-17.46.44:218][596]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Meshes/light/SM_light.SM_light
+[2022.04.10-17.50.15:828][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.04.10-17.50.17:285][973]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/cyberpunk2022_Auto71ACB6CCE46927881C9B6C0BE23C270F7.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/Autosaves/Game/FirstPersonCPP/Maps/cyberpunk2022_Auto7.umap'
+[2022.04.10-17.50.17:288][973]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonCPP/Maps/cyberpunk2022' took 1.475
+[2022.04.10-17.50.17:288][973]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.475
+[2022.04.10-17.58.46:871][288]LogStaticMesh: Building static mesh SM_light...
+[2022.04.10-17.58.46:945][288]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/Meshes/light/SM_light.SM_light
+[2022.04.10-17.58.53:749][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/light/SM_light" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/light/SM_light.uasset" SILENT=true
+[2022.04.10-17.58.53:763][555]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/SM_lightE0FA830C48F34845669A698BAE8DD4B4.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/light/SM_light.uasset'
+[2022.04.10-17.58.53:774][555]AssetCheck: New page: Asset Save: SM_light
+[2022.04.10-17.58.53:774][555]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/light/SM_light.SM_light
+[2022.04.10-17.58.57:099][692]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EditorMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EditorMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.58.57:099][692]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.58.57:099][692]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.58.57:099][692]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/BufferVisualization: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/BufferVisualization' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.58.59:203][770]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.59.03:416][918]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EditorMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EditorMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.59.03:416][918]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.59.03:416][918]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.59.03:416][918]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/BufferVisualization: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/BufferVisualization' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.59.05:134][977]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.59.10:418][166]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EditorMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EditorMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.59.10:418][166]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.59.10:418][166]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.59.10:419][166]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/BufferVisualization: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/BufferVisualization' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.59.12:097][223]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.59.15:397][338]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EditorMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EditorMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.59.15:397][338]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.59.15:398][338]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.59.15:398][338]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/BufferVisualization: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/BufferVisualization' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.59.16:864][391]SourceControl: fatal: D:/Programs/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug: 'D:/Programs/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug' is outside repository at 'D:/UE4/WargamingAcademy'
+[2022.04.10-17.59.18:765][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/light/SM_light" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/light/SM_light.uasset" SILENT=true
+[2022.04.10-17.59.18:779][474]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/SM_light0E3DB3064EDBF217A137D69E901F6E0C.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/light/SM_light.uasset'
+[2022.04.10-17.59.18:792][474]AssetCheck: New page: Asset Save: SM_light
+[2022.04.10-17.59.18:792][474]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/light/SM_light.SM_light
+[2022.04.10-17.59.19:957][532]LogSlate: Window 'SM_light' being destroyed
+[2022.04.10-17.59.19:979][532]LogSlate: Window 'SM_light' being destroyed
+[2022.04.10-17.59.19:983][532]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-17.59.19:983][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-17.59.41:811][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_roof_4x283)
+[2022.04.10-18.00.17:542][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.04.10-18.00.18:617][405]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/cyberpunk2022_Auto843137D4A46CC0CAF80F9379DB7FD6206.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/Autosaves/Game/FirstPersonCPP/Maps/cyberpunk2022_Auto8.umap'
+[2022.04.10-18.00.18:620][405]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonCPP/Maps/cyberpunk2022' took 1.096
+[2022.04.10-18.00.18:620][405]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.096
+[2022.04.10-18.00.30:015][618]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\3d\wga\tile\texture\roof1\roof1_BC.png)
+[2022.04.10-18.00.30:100][618]LogTexture: Display: Building textures: roof1_BC (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-18.00.30:752][618]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-18.00.30:752][618]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-18.00.30:846][618]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\3d\wga\tile\texture\roof1\roof1_N.png)
+[2022.04.10-18.00.30:976][618]LogTexture: Display: Building textures: roof1_N (OODLE_BC5, 2048X2048)
+[2022.04.10-18.00.31:194][618]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-18.00.31:194][618]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-18.00.31:401][618]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\3d\wga\tile\texture\roof1\roof1_ORM.png)
+[2022.04.10-18.00.31:520][618]LogTexture: Display: Building textures: roof1_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-18.00.31:929][618]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-18.00.31:929][618]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-18.00.35:688][920]LogContentBrowser: Deferred new asset file creation: inst_roof1
+[2022.04.10-18.00.35:725][920]LogContentBrowser: Creating deferred item: inst_roof1
+[2022.04.10-18.00.38:030][111]LogContentBrowser: Attempting asset rename: inst_roof1 -> inst_roof1
+[2022.04.10-18.00.38:194][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/floor+new/inst_roof1" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/inst_roof1.uasset" SILENT=true
+[2022.04.10-18.00.38:200][111]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/inst_roof102257A7B4A91500A25F95D8DAD109E1C.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/inst_roof1.uasset'
+[2022.04.10-18.00.38:546][111]LogContentBrowser: End creating deferred item inst_roof1
+[2022.04.10-18.00.38:550][111]AssetCheck: New page: Asset Save: inst_roof1
+[2022.04.10-18.00.38:550][111]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Meshes/floor+new/inst_roof1.inst_roof1
+[2022.04.10-18.00.39:218][160]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Meshes/floor+new/inst_roof1.inst_roof1
+[2022.04.10-18.00.53:110][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/floor+new/inst_roof1" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/inst_roof1.uasset" SILENT=true
+[2022.04.10-18.00.53:121][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.04.10-18.00.53:139][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.04.10-18.00.53:145][376]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/inst_roof1CBE0C9F2464A6F4426C38C9F11E863DF.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/inst_roof1.uasset'
+[2022.04.10-18.00.53:153][376]AssetCheck: New page: Asset Save: inst_roof1
+[2022.04.10-18.00.53:154][376]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Meshes/floor+new/inst_roof1.inst_roof1
+[2022.04.10-18.00.54:993][587]LogSlate: Window 'inst_roof1' being destroyed
+[2022.04.10-18.00.54:997][587]LogSlate: Window 'inst_roof1' being destroyed
+[2022.04.10-18.00.55:028][587]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-18.00.55:028][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-18.01.03:489][460]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Meshes/floor+new/SM_roof_4x4.SM_roof_4x4
+[2022.04.10-18.01.17:376][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/floor+new/SM_roof_4x4" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/SM_roof_4x4.uasset" SILENT=true
+[2022.04.10-18.01.17:385][571]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/SM_roof_4x48F0535394D3CE45E2FE7E4866DCAB619.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/SM_roof_4x4.uasset'
+[2022.04.10-18.01.17:406][571]AssetCheck: New page: Asset Save: SM_roof_4x4
+[2022.04.10-18.01.17:407][571]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/floor+new/SM_roof_4x4.SM_roof_4x4
+[2022.04.10-18.01.27:785][329]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.04.10-18.02.05:681][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_roof_4x22)
+[2022.04.10-18.02.24:952][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_column01_x65)
+[2022.04.10-18.02.28:965][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x60)
+[2022.04.10-18.02.30:995][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x63)
+[2022.04.10-18.02.37:194][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x62)
+[2022.04.10-18.03.00:652][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_column01_x69)
+[2022.04.10-18.04.16:140][273]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight56)
+[2022.04.10-18.04.26:555][752]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.04.10-18.04.33:957][ 60]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight56)
+[2022.04.10-18.05.16:684][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_column01_x108)
+[2022.04.10-18.05.28:896][179]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_roof_4x256)
+[2022.04.10-18.05.30:995][331]Cmd: TRANSACTION UNDO
+[2022.04.10-18.05.30:995][331]LogEditorTransaction: Undo Clicking on Actors
+[2022.04.10-18.05.31:227][333]Cmd: TRANSACTION UNDO
+[2022.04.10-18.05.31:227][333]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2022.04.10-18.05.48:022][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_roof_4x234)
+[2022.04.10-18.05.49:341][659]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Meshes/floor+new/inst_roof1.inst_roof1
+[2022.04.10-18.06.08:364][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/floor+new/inst_roof1" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/inst_roof1.uasset" SILENT=true
+[2022.04.10-18.06.08:381][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.04.10-18.06.08:402][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.04.10-18.06.08:408][691]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/inst_roof1805A879A47E760BAF1682EB234010708.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/inst_roof1.uasset'
+[2022.04.10-18.06.08:417][691]AssetCheck: New page: Asset Save: inst_roof1
+[2022.04.10-18.06.08:417][691]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Meshes/floor+new/inst_roof1.inst_roof1
+[2022.04.10-18.06.10:262][810]LogSlate: Window 'inst_roof1' being destroyed
+[2022.04.10-18.06.10:281][810]LogSlate: Window 'inst_roof1' being destroyed
+[2022.04.10-18.06.10:284][810]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-18.06.10:284][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-18.06.10:326][810]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-18.06.10:326][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-18.06.23:955][774]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Meshes/floor+new/inst_roof1.inst_roof1
+[2022.04.10-18.06.33:050][648]LogSlate: Window 'inst_roof1' being destroyed
+[2022.04.10-18.06.33:067][648]LogSlate: Window 'inst_roof1' being destroyed
+[2022.04.10-18.06.33:098][648]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-18.06.33:098][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-18.06.34:655][762]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Meshes/floor+new/M_master_2.M_master_2
+[2022.04.10-18.06.34:682][762]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 85359D41FC9BCD24CABBCD4D66431586CD0BD433), compiling. 
+[2022.04.10-18.06.34:738][762]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Normal' priority
+[2022.04.10-18.06.34:852][762]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 376076293E0C0157F96CA57CDDC483CFCC2F37AD), compiling. 
+[2022.04.10-18.06.34:855][762]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: ECFFFF8B716D2BAF2D5DC7B940A55DE444E8FB9A), compiling. 
+[2022.04.10-18.06.34:858][762]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 91E6263FA09D0A99FBF9D045F158BA70EAF13D5D), compiling. 
+[2022.04.10-18.06.34:859][762]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F11AAC408580F892F302130D70D3A326DB9FF3A1), compiling. 
+[2022.04.10-18.06.34:860][762]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 076869AC17241BCA440A19255525FFA7495A8CB8), compiling. 
+[2022.04.10-18.06.34:877][762]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.10-18.06.34:877][762]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.06.34:877][762]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.06.34:950][763]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.06.34:950][763]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.06.34:950][763]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.04.10-18.06.34:950][763]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.10-18.06.34:950][763]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.06.34:950][763]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'Normal' priority
+[2022.04.10-18.06.34:950][763]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2022.04.10-18.06.34:950][763]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.06.35:630][814]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.06.35:645][815]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.06.35:645][815]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.06.37:281][954]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2022.04.10-18.06.37:281][954]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.06.37:281][954]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.10-18.06.37:281][954]LogShaderCompilers: Display: Total job queries 186, among them cache hits 16 (8.60%)
+[2022.04.10-18.06.37:281][954]LogShaderCompilers: Display: Tracking 103 distinct input hashes that result in 71 distinct outputs (68.93%)
+[2022.04.10-18.06.37:281][954]LogShaderCompilers: Display: RAM used: 0.83 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2022.04.10-18.06.37:281][954]LogShaderCompilers: Display: ================================================
+[2022.04.10-18.06.37:300][955]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.10-18.06.37:300][955]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.06.37:300][955]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.06.39:447][139]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.04.10-18.06.39:447][139]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.06.39:566][145]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.04.10-18.06.39:566][145]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.06.39:592][146]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.10-18.06.39:592][146]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.06.39:592][146]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.06.40:782][213]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B4678D6A30EED8DBCA4FDAD00E84BC0F5A15383A), compiling. 
+[2022.04.10-18.06.40:785][213]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DDFD18634E04C1F13A9A070EC0128C71B89FCEA2), compiling. 
+[2022.04.10-18.06.40:788][213]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.10-18.06.40:788][213]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.06.40:788][213]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.06.40:831][214]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.04.10-18.06.40:846][215]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.06.40:848][215]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.10-18.06.40:848][215]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.06.40:848][215]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.06.41:147][235]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.04.10-18.06.41:148][235]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.06.41:755][272]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.04.10-18.06.41:755][272]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.06.41:987][282]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2022.04.10-18.06.41:987][282]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-18.06.42:381][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2022.04.10-18.06.42:381][302]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-18.06.42:870][324]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 857EAE6761F8FAEC758A29B44C98E14A9B8BEE92), compiling. 
+[2022.04.10-18.06.42:873][324]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CE52B45CB38C438F15936C7E6B02B57F5B88DE4B), compiling. 
+[2022.04.10-18.06.42:875][324]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7F0C8F6FC2B09F35C5169EF5CAF7D02CF1A4AC5C), compiling. 
+[2022.04.10-18.06.42:885][324]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 330377608D9300674204D334E58CA35C2615BB2B), compiling. 
+[2022.04.10-18.06.42:895][324]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.10-18.06.42:895][324]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.06.42:895][324]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.06.42:934][325]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.04.10-18.06.42:954][326]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.10-18.06.42:954][326]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.06.42:954][326]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.06.43:243][343]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2022.04.10-18.06.43:243][343]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-18.06.46:750][540]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.04.10-18.06.46:750][540]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-18.06.47:116][559]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.04.10-18.06.47:116][559]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-18.06.47:842][598]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.04.10-18.06.47:842][598]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-18.06.49:078][664]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.04.10-18.06.49:078][664]MaterialEditorStats: Base pass shader with Surface Lightmap: 165 instructions
+[2022.04.10-18.06.49:078][664]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 212 instructions
+[2022.04.10-18.06.49:078][664]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2022.04.10-18.06.49:078][664]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.10-18.06.49:078][664]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.06.49:078][664]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.06.56:662][353]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E70C26C6A95AA88979B543D93A6B033AAA1961A), compiling. 
+[2022.04.10-18.06.56:665][353]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 49A52AC864724CE791CEFB8C9EBCCE4AF35C154D), compiling. 
+[2022.04.10-18.06.56:667][353]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.10-18.06.56:667][353]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.06.56:667][353]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.06.56:714][355]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.10-18.06.56:714][355]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.06.56:714][355]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.06.56:741][356]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.04.10-18.06.56:741][356]MaterialEditorStats: Base pass shader with Surface Lightmap: 165 instructions
+[2022.04.10-18.06.56:741][356]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 212 instructions
+[2022.04.10-18.06.56:741][356]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2022.04.10-18.06.56:741][356]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.10-18.06.56:741][356]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.06.56:741][356]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.06.59:039][560]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 46DDDDBDA0A0C66E540478296D3A95DFDCFAB228), compiling. 
+[2022.04.10-18.06.59:041][560]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B3B9822653909D6918A95673FFE69527071529C8), compiling. 
+[2022.04.10-18.06.59:046][560]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.10-18.06.59:046][560]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.06.59:046][560]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.06.59:090][562]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.10-18.06.59:090][562]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.06.59:090][562]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.06.59:117][563]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.04.10-18.06.59:117][563]MaterialEditorStats: Base pass shader with Surface Lightmap: 165 instructions
+[2022.04.10-18.06.59:117][563]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 212 instructions
+[2022.04.10-18.06.59:117][563]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2022.04.10-18.06.59:117][563]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.10-18.06.59:117][563]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.06.59:117][563]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.07.01:182][748]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: FD3900765F2AA66381F5368638800F57919DDAAF), compiling. 
+[2022.04.10-18.07.01:185][748]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7BD7DC5DF924D4C133C251E61063498950C411AB), compiling. 
+[2022.04.10-18.07.01:189][748]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.10-18.07.01:189][748]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.07.01:189][748]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.07.01:233][750]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.10-18.07.01:233][750]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.07.01:233][750]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.07.01:260][751]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.04.10-18.07.01:260][751]MaterialEditorStats: Base pass shader with Surface Lightmap: 165 instructions
+[2022.04.10-18.07.01:260][751]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 212 instructions
+[2022.04.10-18.07.01:260][751]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2022.04.10-18.07.01:260][751]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.10-18.07.01:260][751]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.07.01:260][751]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.07.02:917][897]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 47D0FA651B31B048E4E567E806446AAF19509409), compiling. 
+[2022.04.10-18.07.02:923][897]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.10-18.07.02:923][897]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.07.02:923][897]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.07.02:934][898]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.07.02:944][899]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.07.02:944][899]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.04.10-18.07.02:944][899]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.10-18.07.02:944][899]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.07.02:960][899]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'Normal' priority
+[2022.04.10-18.07.02:960][899]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2022.04.10-18.07.02:960][899]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.07.03:610][950]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2022.04.10-18.07.03:610][950]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.07.03:636][951]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.10-18.07.03:636][951]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.07.03:636][951]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.07.05:061][ 62]LogMaterialEditor: Saving and Compiling material M_master_2
+[2022.04.10-18.07.05:386][ 62]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2022.04.10-18.07.05:386][ 62]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.07.05:386][ 62]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.10-18.07.05:386][ 62]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.07.05:422][ 62]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: ADCAE542ADA0E3AD3038A221A4C5AA5AF3BC2C90), compiling. 
+[2022.04.10-18.07.05:473][ 62]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 502CF370BD2B75D74A47A0BD6DEB2794EE72325B), compiling. 
+[2022.04.10-18.07.05:535][ 62]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.07.05:535][ 62]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.07.05:535][ 62]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.07.05:587][ 62]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.07.05:587][ 62]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.04.10-18.07.05:587][ 62]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Normal' priority
+[2022.04.10-18.07.05:587][ 62]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.04.10-18.07.05:594][ 62]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.04.10-18.07.05:624][ 62]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2022.04.10-18.07.05:624][ 62]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.07.05:645][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.04.10-18.07.06:400][ 62]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.04.10-18.07.06:400][ 62]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.07.06:400][ 62]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2022.04.10-18.07.06:400][ 62]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.07.06:400][ 62]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.10-18.07.06:400][ 62]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-18.07.06:732][ 62]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2022.04.10-18.07.06:732][ 62]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-18.07.07:037][ 62]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2022.04.10-18.07.07:037][ 62]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-18.07.07:218][ 62]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2022.04.10-18.07.07:218][ 62]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-18.07.08:984][ 62]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2022.04.10-18.07.08:984][ 62]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-18.07.10:226][ 62]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2022.04.10-18.07.10:226][ 62]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-18.07.10:370][ 62]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.04.10-18.07.10:370][ 62]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-18.07.11:096][ 62]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.04.10-18.07.11:096][ 62]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-18.07.11:473][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.04.10-18.07.11:649][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/floor+new/M_master_2" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/M_master_2.uasset" SILENT=true
+[2022.04.10-18.07.11:657][ 62]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/M_master_230E126EC4D45A045402837806713A630.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/M_master_2.uasset'
+[2022.04.10-18.07.11:665][ 62]AssetCheck: New page: Asset Save: M_master_2
+[2022.04.10-18.07.11:666][ 62]LogContentValidation: Display: Validating Material /Game/Assets/Meshes/floor+new/M_master_2.M_master_2
+[2022.04.10-18.07.11:666][ 62]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.04.10-18.07.11:666][ 62]MaterialEditorStats: Base pass shader with Surface Lightmap: 165 instructions
+[2022.04.10-18.07.11:666][ 62]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 212 instructions
+[2022.04.10-18.07.11:666][ 62]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2022.04.10-18.07.11:666][ 62]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.10-18.07.11:666][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.07.11:666][ 62]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.07.19:011][678]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B332F76D3291EE781E6621EA82ED8A744FDF53D3), compiling. 
+[2022.04.10-18.07.19:014][678]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B5E8ED390CA5325B4F94EBD6977A33401FA37565), compiling. 
+[2022.04.10-18.07.19:017][678]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5205D66ACEB9EF4DD037D68206270E3D4605DF1D), compiling. 
+[2022.04.10-18.07.19:018][678]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 557D411A936153025CC97EC90458E3C07909D8EE), compiling. 
+[2022.04.10-18.07.19:019][678]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2 in PCD3D_SM5, Default, SM5 (DDC key hash: A36E6A6295F10A4981BC1A8B0847CC8FDF325F4C), compiling. 
+[2022.04.10-18.07.19:020][678]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 65F7D18A76BB5A84B2D998B21D0A7A1424970805), compiling. 
+[2022.04.10-18.07.19:022][678]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 14C34FB5DA6941B991B69489F3351FA3B71461EE), compiling. 
+[2022.04.10-18.07.19:025][678]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7CE0BF20FB0A77EA704858EEDC965540EF245AFC), compiling. 
+[2022.04.10-18.07.19:026][678]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 60FE146B09F482BF22C83D1D6EF730A1B5DC5599), compiling. 
+[2022.04.10-18.07.19:027][678]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 123F281F035542077B7F441E3D9B32A1136506A9), compiling. 
+[2022.04.10-18.07.19:028][678]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DEE281D9AEA59B167C39854009C9198F2B4E650A), compiling. 
+[2022.04.10-18.07.19:030][678]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 636E9A4EDAF3399AD21E9586788C57256FC7B57D), compiling. 
+[2022.04.10-18.07.19:032][678]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.10-18.07.19:037][678]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.10-18.07.19:037][678]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.07.19:037][678]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.07.19:107][680]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.04.10-18.07.19:107][680]MaterialEditorStats: Base pass shader with Surface Lightmap: 165 instructions
+[2022.04.10-18.07.19:107][680]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 212 instructions
+[2022.04.10-18.07.19:107][680]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2022.04.10-18.07.19:107][680]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.10-18.07.19:107][680]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.07.19:107][680]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.07.19:969][746]LogMaterialEditor: Saving and Compiling material M_master_2
+[2022.04.10-18.07.20:297][746]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8236A9D93FA0A7EF8E3DDEF99457568A121BE0AC), compiling. 
+[2022.04.10-18.07.20:352][746]LogMaterial: Display: Missing cached shadermap for M_master_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5E5A9974BE8369CE33B46CA688465C9033286027), compiling. 
+[2022.04.10-18.07.20:410][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.04.10-18.07.20:590][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.10-18.07.20:694][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/floor+new/M_master_2" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/M_master_2.uasset" SILENT=true
+[2022.04.10-18.07.20:701][746]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/M_master_2415BF62B48EBC77E65E13694A3CC00FC.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/M_master_2.uasset'
+[2022.04.10-18.07.20:709][746]AssetCheck: New page: Asset Save: M_master_2
+[2022.04.10-18.07.20:709][746]LogContentValidation: Display: Validating Material /Game/Assets/Meshes/floor+new/M_master_2.M_master_2
+[2022.04.10-18.07.20:710][746]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.04.10-18.07.20:710][746]MaterialEditorStats: Base pass shader with Surface Lightmap: 165 instructions
+[2022.04.10-18.07.20:710][746]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 212 instructions
+[2022.04.10-18.07.20:710][746]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2022.04.10-18.07.20:710][746]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.10-18.07.20:710][746]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.10-18.07.20:710][746]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-18.07.21:674][832]LogSlate: Window 'M_master_2' being destroyed
+[2022.04.10-18.07.21:680][832]LogSlate: Window 'M_master_2' being destroyed
+[2022.04.10-18.07.21:738][832]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-18.07.21:738][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-18.07.24:853][ 52]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Meshes/floor+new/inst_roof1.inst_roof1
+[2022.04.10-18.07.38:186][225]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.10-18.07.39:326][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/floor+new/inst_roof1" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/inst_roof1.uasset" SILENT=true
+[2022.04.10-18.07.39:341][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.04.10-18.07.39:357][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.04.10-18.07.39:363][320]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/inst_roof1F086B3904BE9E2C92193EBA15D7A8536.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/inst_roof1.uasset'
+[2022.04.10-18.07.39:371][320]AssetCheck: New page: Asset Save: inst_roof1
+[2022.04.10-18.07.39:371][320]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Meshes/floor+new/inst_roof1.inst_roof1
+[2022.04.10-18.07.40:483][435]LogSlate: Window 'inst_roof1' being destroyed
+[2022.04.10-18.07.40:500][435]LogSlate: Window 'inst_roof1' being destroyed
+[2022.04.10-18.07.40:509][435]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-18.07.40:509][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-18.07.43:175][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_316)
+[2022.04.10-18.07.48:480][ 72]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight56)
+[2022.04.10-18.07.54:024][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_119)
+[2022.04.10-18.08.05:192][189]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight56)
+[2022.04.10-18.08.05:677][222]Cmd: DELETE
+[2022.04.10-18.08.05:677][222]Cmd: ACTOR DELETE
+[2022.04.10-18.08.05:789][222]LogEditorActor: Deleted Actor: SpotLight
+[2022.04.10-18.08.05:804][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.04.10-18.08.05:808][222]LogEditorActor: Deleted 1 Actors (0.130 secs)
+[2022.04.10-18.08.12:105][747]Cmd: TRANSACTION UNDO
+[2022.04.10-18.08.12:105][747]LogEditorTransaction: Undo Delete Actors
+[2022.04.10-18.08.43:739][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_307)
+[2022.04.10-18.08.45:516][883]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight56)
+[2022.04.10-18.10.32:001][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_angle90_2x5)
+[2022.04.10-18.11.14:161][934]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight56)
+[2022.04.10-18.11.14:562][976]Cmd: DELETE
+[2022.04.10-18.11.14:563][976]Cmd: ACTOR DELETE
+[2022.04.10-18.11.14:675][976]LogEditorActor: Deleted Actor: SpotLight
+[2022.04.10-18.11.14:690][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.04.10-18.11.14:703][976]LogEditorActor: Deleted 1 Actors (0.140 secs)
+[2022.04.10-18.11.32:325][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.04.10-18.11.33:315][929]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/cyberpunk20220DCA3CD44F517D773CFDAF958F3B7CFA.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Maps/cyberpunk2022.umap'
+[2022.04.10-18.11.33:333][929]LogFileHelpers: Saving map 'cyberpunk2022' took 1.024
+[2022.04.10-18.11.33:333][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/floor+new/texture/roof_BC" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/texture/roof_BC.uasset" SILENT=true
+[2022.04.10-18.11.33:610][929]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/roof_BCAD755961492D0762997152BBAA37593A.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/texture/roof_BC.uasset'
+[2022.04.10-18.11.34:073][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/floor+new/texture/roof_N" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/texture/roof_N.uasset" SILENT=true
+[2022.04.10-18.11.34:505][929]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/roof_N52B8E10E490A2B73433E52A6DAA20862.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/texture/roof_N.uasset'
+[2022.04.10-18.11.35:397][929]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/roof_ORM69FCD69F46BCDBDDB3422090FCDCC039.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/texture/roof_ORM.uasset'
+[2022.04.10-18.11.36:205][929]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/roof1_BC125C9EBE443047B9114DC0A2C4D31F3C.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/texture/roof1_BC.uasset'
+[2022.04.10-18.11.36:704][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/floor+new/texture/roof1_N" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/texture/roof1_N.uasset" SILENT=true
+[2022.04.10-18.11.37:194][929]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/roof1_NE895FA92417F7F2A8AECCD8D005AE2D0.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/texture/roof1_N.uasset'
+[2022.04.10-18.11.38:251][929]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/roof1_ORME2F861504098BA7F91F008A4C219F08A.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/texture/roof1_ORM.uasset'
+[2022.04.10-18.11.38:752][929]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.10-18.11.38:752][929]LogContentValidation: Display: Validating Texture2D /Game/Assets/Meshes/floor+new/texture/roof_ORM.roof_ORM
+[2022.04.10-18.11.38:752][929]LogContentValidation: Display: Validating Texture2D /Game/Assets/Meshes/floor+new/texture/roof_N.roof_N
+[2022.04.10-18.11.38:752][929]LogContentValidation: Display: Validating Texture2D /Game/Assets/Meshes/floor+new/texture/roof_BC.roof_BC
+[2022.04.10-18.11.38:752][929]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022
+[2022.04.10-18.11.38:752][929]LogContentValidation: Display: Validating Texture2D /Game/Assets/Meshes/floor+new/texture/roof1_ORM.roof1_ORM
+[2022.04.10-18.11.38:753][929]LogContentValidation: Display: Validating Texture2D /Game/Assets/Meshes/floor+new/texture/roof1_N.roof1_N
+[2022.04.10-18.11.38:753][929]LogContentValidation: Display: Validating Texture2D /Game/Assets/Meshes/floor+new/texture/roof1_BC.roof1_BC
+[2022.04.10-18.11.42:159][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.04.10-18.11.43:360][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.04.10-18.11.43:388][107]LogSlate: Window 'Cyberpunk2022 - Unreal Editor' being destroyed
+[2022.04.10-18.11.43:560][108]Cmd: QUIT_EDITOR
+[2022.04.10-18.11.43:560][108]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.04.10-18.11.43:567][108]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.10-18.11.43:616][108]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.04.10-18.11.43:616][108]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.04.10-18.11.43:616][108]LogAudio: Display: Audio Device unregistered from world 'cyberpunk2022'.
+[2022.04.10-18.11.43:616][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-18.11.43:618][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-18.11.43:629][108]LogAudio: Display: Audio Device Manager Shutdown
+[2022.04.10-18.11.43:630][108]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.10-18.11.43:636][108]LogExit: Preparing to exit.
+[2022.04.10-18.11.44:228][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.04.10-18.11.44:470][108]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-18.11.44:470][108]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-18.11.44:605][108]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.04.10-18.11.44:627][108]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-18.11.44:641][108]LogExit: Editor shut down
+[2022.04.10-18.11.44:643][108]LogExit: Transaction tracking system shut down
+[2022.04.10-18.11.45:348][108]LogExit: Object subsystem successfully closed.
+[2022.04.10-18.11.45:358][108]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.10-18.11.45:358][108]LogShaderCompilers: Display: Total job queries 1300, among them cache hits 978 (75.23%)
+[2022.04.10-18.11.45:358][108]LogShaderCompilers: Display: Tracking 190 distinct input hashes that result in 126 distinct outputs (66.32%)
+[2022.04.10-18.11.45:358][108]LogShaderCompilers: Display: RAM used: 1.08 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2022.04.10-18.11.45:358][108]LogShaderCompilers: Display: ================================================
+[2022.04.10-18.11.45:375][108]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.04.10-18.11.45:409][108]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (884)
+[2022.04.10-18.11.45:409][108]LogModuleManager: Shutting down and abandoning module Voice (882)
+[2022.04.10-18.11.45:409][108]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (880)
+[2022.04.10-18.11.45:409][108]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (878)
+[2022.04.10-18.11.45:452][108]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (876)
+[2022.04.10-18.11.45:452][108]LogModuleManager: Shutting down and abandoning module SceneOutliner (874)
+[2022.04.10-18.11.45:453][108]LogModuleManager: Shutting down and abandoning module AddContentDialog (872)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module WidgetCarousel (871)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module EditorWidgets (868)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module StatsViewer (866)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (864)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (862)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module AutomationWorker (860)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module SteamVREditor (858)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module OculusMR (856)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (854)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module TakeRecorder (853)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (850)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module TakesCore (848)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module OpenXRInput (846)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module GooglePADEditor (844)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (842)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (840)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (838)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (836)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (834)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (832)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (830)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (828)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (826)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module WebMMedia (824)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (822)
+[2022.04.10-18.11.45:455][108]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (820)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module SequenceRecorder (819)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (816)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (814)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (812)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (810)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (808)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (806)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (804)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (802)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (800)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (798)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module PlanarCut (796)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module CharacterAI (794)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module TextureAlignMode (792)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module BspMode (790)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module GeometryMode (788)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (786)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module SmartSnapping (784)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module SessionServices (782)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module MeshPaint (780)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (778)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module FoliageEdit (776)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module LandscapeEditor (774)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module MeshPaintMode (772)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (770)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module ActorPickerMode (768)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module PlacementMode (766)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module ViewportSnapping (764)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module ViewportInteraction (762)
+[2022.04.10-18.11.45:456][108]LogModuleManager: Shutting down and abandoning module ClothPainter (760)
+[2022.04.10-18.11.45:457][108]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (759)
+[2022.04.10-18.11.45:457][108]LogModuleManager: Shutting down and abandoning module LogVisualizer (756)
+[2022.04.10-18.11.45:457][108]LogModuleManager: Shutting down and abandoning module IntroTutorials (754)
+[2022.04.10-18.11.45:457][108]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (753)
+[2022.04.10-18.11.45:457][108]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (750)
+[2022.04.10-18.11.45:457][108]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (748)
+[2022.04.10-18.11.45:457][108]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (746)
+[2022.04.10-18.11.45:457][108]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (745)
+[2022.04.10-18.11.47:259][108]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (742)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (740)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (738)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (736)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module TraceInsights (734)
+[2022.04.10-18.11.47:260][108]MemoryProfiler: Shutdown
+[2022.04.10-18.11.47:260][108]NetworkingProfiler: Shutdown
+[2022.04.10-18.11.47:260][108]LoadingProfiler: Shutdown
+[2022.04.10-18.11.47:260][108]TimingProfiler: Shutdown
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module TraceServices (733)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (730)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (728)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module InputBindingEditor (726)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module MergeActors (724)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (722)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module LocalizationService (721)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module HardwareTargeting (718)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (716)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module UndoHistory (714)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module XmlParser (712)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module Blutility (710)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (708)
+[2022.04.10-18.11.47:260][108]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (707)
+[2022.04.10-18.11.47:261][108]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (704)
+[2022.04.10-18.11.47:261][108]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (703)
+[2022.04.10-18.11.47:261][108]LogModuleManager: Shutting down and abandoning module SettingsEditor (700)
+[2022.04.10-18.11.47:261][108]LogModuleManager: Shutting down and abandoning module ProjectLauncher (698)
+[2022.04.10-18.11.47:261][108]LogModuleManager: Shutting down and abandoning module SessionFrontend (696)
+[2022.04.10-18.11.47:261][108]LogModuleManager: Shutting down and abandoning module ProfilerClient (694)
+[2022.04.10-18.11.47:261][108]LogModuleManager: Shutting down and abandoning module DeviceManager (692)
+[2022.04.10-18.11.47:261][108]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (691)
+[2022.04.10-18.11.47:294][108]LogModuleManager: Shutting down and abandoning module AutomationController (688)
+[2022.04.10-18.11.47:294][108]LogModuleManager: Shutting down and abandoning module AutomationWindow (686)
+[2022.04.10-18.11.47:294][108]LogModuleManager: Shutting down and abandoning module Layers (684)
+[2022.04.10-18.11.47:294][108]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (682)
+[2022.04.10-18.11.47:294][108]LogModuleManager: Shutting down and abandoning module DetailCustomizations (680)
+[2022.04.10-18.11.47:294][108]LogModuleManager: Shutting down and abandoning module PackagesDialog (678)
+[2022.04.10-18.11.47:294][108]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (676)
+[2022.04.10-18.11.47:295][108]LogModuleManager: Shutting down and abandoning module Persona (674)
+[2022.04.10-18.11.47:295][108]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (673)
+[2022.04.10-18.11.47:295][108]LogModuleManager: Shutting down and abandoning module Kismet (670)
+[2022.04.10-18.11.47:298][108]LogModuleManager: Shutting down and abandoning module KismetWidgets (669)
+[2022.04.10-18.11.47:298][108]LogModuleManager: Shutting down and abandoning module GraphEditor (666)
+[2022.04.10-18.11.47:298][108]LogModuleManager: Shutting down and abandoning module StructViewer (664)
+[2022.04.10-18.11.47:298][108]LogModuleManager: Shutting down and abandoning module ClassViewer (662)
+[2022.04.10-18.11.47:298][108]LogModuleManager: Shutting down and abandoning module Toolbox (660)
+[2022.04.10-18.11.47:298][108]LogModuleManager: Shutting down and abandoning module ModuleUI (658)
+[2022.04.10-18.11.47:298][108]LogModuleManager: Shutting down and abandoning module OutputLog (656)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module GammaUI (654)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module Documentation (652)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module LiveCoding (650)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module LevelSequence (648)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (646)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module MovieScene (644)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (642)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module LauncherPlatform (640)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module AnalyticsET (638)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module PortalServices (636)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module PortalRpc (634)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module MessagingRpc (632)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (630)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module AudioMixerCore (629)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module AIModule (626)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module GameplayDebugger (625)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module AITestSuite (623)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module NavigationSystem (621)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (618)
+[2022.04.10-18.11.47:300][108]LogModuleManager: Shutting down and abandoning module ProfilerService (616)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module TaskGraph (614)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (612)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module OculusEditor (610)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module OculusInput (608)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (606)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (604)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (602)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module CollectionManager (601)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module TakeSequencer (598)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module TakeMovieScene (596)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module ScreenshotTools (594)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module SynthesisEditor (592)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module Synthesis (590)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (588)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (586)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module OpenXREditor (584)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (582)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module GooglePAD (580)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module EditableMesh (578)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (576)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module CableComponent (574)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module AudioCapture (572)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (571)
+[2022.04.10-18.11.47:365][108]LogModuleManager: Shutting down and abandoning module AssetTags (568)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (566)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (564)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module AppleImageUtils (562)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module AndroidPermission (560)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (558)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (556)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module TemplateSequence (554)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module MediaCompositing (552)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module ImgMedia (550)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (548)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (546)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (544)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (542)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (540)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (538)
+[2022.04.10-18.11.47:366][108]LogOpenImageDenoise: OIDN shutting down
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (536)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module MotoSynth (534)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module MeshConversion (532)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module DynamicMesh (530)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (528)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module GeometricObjects (526)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (524)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (523)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (520)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (518)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (516)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (514)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (512)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module ChaosNiagara (510)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module FractureEditor (508)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (507)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (504)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module BackChannel (502)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (500)
+[2022.04.10-18.11.47:366][108]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (498)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module AutomationUtils (496)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module AlembicImporter (494)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module AlembicLibrary (493)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module GeometryCache (492)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (491)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (486)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (484)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (482)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (480)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module UObjectPlugin (478)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (476)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (474)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module PluginUtils (472)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (470)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (468)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module GitSourceControl (466)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module SourceControl (465)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (462)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module PluginBrowser (460)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (458)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (456)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (454)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (452)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module CurveEditorTools (450)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (448)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module CryptoKeys (446)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (444)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (442)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (440)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (438)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module Paper2DEditor (436)
+[2022.04.10-18.11.47:367][108]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (434)
+[2022.04.10-18.11.47:368][108]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (432)
+[2022.04.10-18.11.47:368][108]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (430)
+[2022.04.10-18.11.47:368][108]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (428)
+[2022.04.10-18.11.47:368][108]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (426)
+[2022.04.10-18.11.47:368][108]LogModuleManager: Shutting down and abandoning module LiveLink (424)
+[2022.04.10-18.11.47:943][108]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (422)
+[2022.04.10-18.11.47:943][108]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (420)
+[2022.04.10-18.11.47:943][108]LogModuleManager: Shutting down and abandoning module Cyberpunk2022 (418)
+[2022.04.10-18.11.47:943][108]LogModuleManager: Shutting down and abandoning module AnimGraph (417)
+[2022.04.10-18.11.47:943][108]LogModuleManager: Shutting down and abandoning module SoundFields (414)
+[2022.04.10-18.11.47:943][108]LogModuleManager: Shutting down and abandoning module SignificanceManager (412)
+[2022.04.10-18.11.47:943][108]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (410)
+[2022.04.10-18.11.47:943][108]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (408)
+[2022.04.10-18.11.47:943][108]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (406)
+[2022.04.10-18.11.47:943][108]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (402)
+[2022.04.10-18.11.47:943][108]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (400)
+[2022.04.10-18.11.47:943][108]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (398)
+[2022.04.10-18.11.47:943][108]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (396)
+[2022.04.10-18.11.47:943][108]LogModuleManager: Shutting down and abandoning module ApexDestruction (394)
+[2022.04.10-18.11.47:943][108]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2022.04.10-18.11.47:943][108]LogModuleManager: Shutting down and abandoning module UdpMessaging (390)
+[2022.04.10-18.11.48:044][108]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2022.04.10-18.11.48:151][108]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (386)
+[2022.04.10-18.11.48:152][108]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (384)
+[2022.04.10-18.11.48:152][108]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (382)
+[2022.04.10-18.11.48:153][108]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (380)
+[2022.04.10-18.11.48:153][108]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (378)
+[2022.04.10-18.11.48:153][108]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (376)
+[2022.04.10-18.11.48:153][108]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.04.10-18.11.48:153][108]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (374)
+[2022.04.10-18.11.48:153][108]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (372)
+[2022.04.10-18.11.48:153][108]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (370)
+[2022.04.10-18.11.48:176][108]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (368)
+[2022.04.10-18.11.48:178][108]LogModuleManager: Shutting down and abandoning module MagicLeapController (366)
+[2022.04.10-18.11.48:179][108]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (364)
+[2022.04.10-18.11.48:179][108]LogModuleManager: Shutting down and abandoning module MagicLeapAR (362)
+[2022.04.10-18.11.48:180][108]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (360)
+[2022.04.10-18.11.48:180][108]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2022.04.10-18.11.48:180][108]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2022.04.10-18.11.48:180][108]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2022.04.10-18.11.48:180][108]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2022.04.10-18.11.48:180][108]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2022.04.10-18.11.48:180][108]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (348)
+[2022.04.10-18.11.48:180][108]LogModuleManager: Shutting down and abandoning module AnimationSharing (346)
+[2022.04.10-18.11.48:180][108]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (344)
+[2022.04.10-18.11.48:183][108]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (342)
+[2022.04.10-18.11.48:183][108]LogModuleManager: Shutting down and abandoning module FacialAnimation (340)
+[2022.04.10-18.11.48:183][108]LogModuleManager: Shutting down and abandoning module DataValidation (338)
+[2022.04.10-18.11.48:184][108]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (336)
+[2022.04.10-18.11.48:184][108]LogModuleManager: Shutting down and abandoning module LevelEditor (335)
+[2022.04.10-18.11.48:187][108]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (334)
+[2022.04.10-18.11.48:187][108]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (332)
+[2022.04.10-18.11.48:187][108]LogModuleManager: Shutting down and abandoning module MainFrame (330)
+[2022.04.10-18.11.48:187][108]LogModuleManager: Shutting down and abandoning module HotReload (329)
+[2022.04.10-18.11.48:188][108]LogModuleManager: Shutting down and abandoning module ToolMenus (325)
+[2022.04.10-18.11.48:188][108]LogModuleManager: Shutting down and abandoning module ContentBrowser (323)
+[2022.04.10-18.11.48:188][108]LogModuleManager: Shutting down and abandoning module ContentBrowserData (322)
+[2022.04.10-18.11.48:188][108]LogModuleManager: Shutting down and abandoning module TreeMap (319)
+[2022.04.10-18.11.48:188][108]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2022.04.10-18.11.48:188][108]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.04.10-18.11.48:188][108]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.04.10-18.11.48:188][108]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.04.10-18.11.48:188][108]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.04.10-18.11.48:209][108]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.04.10-18.11.48:210][108]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.04.10-18.11.48:210][108]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.04.10-18.11.48:210][108]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.04.10-18.11.48:210][108]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.04.10-18.11.48:210][108]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.04.10-18.11.48:210][108]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.04.10-18.11.48:210][108]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.04.10-18.11.48:210][108]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.04.10-18.11.48:210][108]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.04.10-18.11.48:210][108]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.04.10-18.11.48:210][108]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.04.10-18.11.48:210][108]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.04.10-18.11.48:211][108]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.04.10-18.11.48:212][108]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.04.10-18.11.48:212][108]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.04.10-18.11.48:213][108]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.04.10-18.11.48:214][108]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.04.10-18.11.48:214][108]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.04.10-18.11.48:214][108]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.04.10-18.11.48:214][108]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.04.10-18.11.48:214][108]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.04.10-18.11.48:214][108]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.04.10-18.11.48:218][108]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.04.10-18.11.48:218][108]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.04.10-18.11.48:218][108]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.04.10-18.11.48:218][108]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.04.10-18.11.48:218][108]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.04.10-18.11.48:221][108]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.04.10-18.11.48:221][108]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.04.10-18.11.48:221][108]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.04.10-18.11.48:221][108]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.04.10-18.11.48:221][108]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.04.10-18.11.48:222][108]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.04.10-18.11.48:222][108]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.04.10-18.11.48:222][108]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.04.10-18.11.48:222][108]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.04.10-18.11.48:224][108]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.04.10-18.11.48:242][108]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.04.10-18.11.48:242][108]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.04.10-18.11.48:243][108]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.04.10-18.11.48:243][108]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.04.10-18.11.48:243][108]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.04.10-18.11.48:244][108]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.04.10-18.11.48:244][108]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.04.10-18.11.48:244][108]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.04.10-18.11.48:244][108]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.04.10-18.11.48:244][108]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.04.10-18.11.48:244][108]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.04.10-18.11.48:244][108]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.04.10-18.11.48:244][108]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.04.10-18.11.48:244][108]LogHMD: Freeing OpenVRDLLHandle.
+[2022.04.10-18.11.48:244][108]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.04.10-18.11.48:244][108]LogModuleManager: Shutting down and abandoning module ChaosCloth (108)
+[2022.04.10-18.11.48:244][108]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (106)
+[2022.04.10-18.11.48:244][108]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.04.10-18.11.48:244][108]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (104)
+[2022.04.10-18.11.48:244][108]LogModuleManager: Shutting down and abandoning module OpenXRAR (102)
+[2022.04.10-18.11.48:244][108]LogModuleManager: Shutting down and abandoning module AugmentedReality (101)
+[2022.04.10-18.11.48:244][108]LogModuleManager: Shutting down and abandoning module OpenXRHMD (98)
+[2022.04.10-18.11.48:245][108]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2022.04.10-18.11.48:245][108]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2022.04.10-18.11.48:245][108]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2022.04.10-18.11.48:245][108]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2022.04.10-18.11.48:245][108]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2022.04.10-18.11.48:246][108]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2022.04.10-18.11.48:246][108]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2022.04.10-18.11.48:261][108]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2022.04.10-18.11.48:261][108]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.04.10-18.11.48:261][108]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAF5BD3C1-4620-48E8-FB2E-95865A8E3300%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=174fd80d4717f30b528d5dbbb8a0eee1%7Cb3dbbd790e744f5eb7ae69004ec5b206%7C610b21f2-6162-45a0-ad75-11a3ff6c4ff5&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.04.10-18.11.48:261][108]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.04.10-18.11.48:276][108]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2022.04.10-18.11.48:278][108]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2022.04.10-18.11.48:281][108]LogModuleManager: Shutting down and abandoning module Media (71)
+[2022.04.10-18.11.48:282][108]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2022.04.10-18.11.48:282][108]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.04.10-18.11.48:282][108]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.04.10-18.11.48:282][108]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.04.10-18.11.48:282][108]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2022.04.10-18.11.48:282][108]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2022.04.10-18.11.48:282][108]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.04.10-18.11.48:282][108]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.04.10-18.11.48:282][108]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.04.10-18.11.48:282][108]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.04.10-18.11.48:282][108]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.04.10-18.11.48:282][108]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.04.10-18.11.48:283][108]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.04.10-18.11.48:283][108]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.04.10-18.11.48:283][108]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.04.10-18.11.48:283][108]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.04.10-18.11.48:283][108]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.04.10-18.11.48:283][108]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.04.10-18.11.48:283][108]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.04.10-18.11.48:283][108]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.04.10-18.11.48:283][108]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.04.10-18.11.48:283][108]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.04.10-18.11.48:283][108]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.04.10-18.11.48:283][108]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.04.10-18.11.48:286][108]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.04.10-18.11.48:286][108]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.04.10-18.11.48:286][108]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.04.10-18.11.48:286][108]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.04.10-18.11.48:286][108]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.04.10-18.11.48:286][108]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.04.10-18.11.48:286][108]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.04.10-18.11.48:286][108]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.04.10-18.11.48:286][108]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.04.10-18.11.48:287][108]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.04.10-18.11.48:287][108]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.04.10-18.11.48:297][108]LogD3D11RHI: Shutdown
+[2022.04.10-18.11.48:297][108]LogD3D11RHI: CleanupD3DDevice
+[2022.04.10-18.11.48:308][108]LogExit: Exiting.
+[2022.04.10-18.11.48:324][108]Log file closed, 04/10/22 21:11:48
