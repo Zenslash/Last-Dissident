@@ -5,6 +5,8 @@
 #include "CoreMinimal.h"
 #include "BuffType.h"
 #include <vector>
+
+#include "Item.h"
 #include "Components/ActorComponent.h"
 #include "BuffComponent.generated.h"
 
@@ -28,7 +30,7 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
-	void AddBuff(EBuffType type, UCharacterStats* stats);
+	void AddBuff(EBuffType type, UCharacterStats* stats, AItem* sourceItem);
 
 
 private:

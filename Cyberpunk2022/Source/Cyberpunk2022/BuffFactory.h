@@ -20,6 +20,6 @@ class CYBERPUNK2022_API UBuffFactory : public UObject
 
 public:
 
-	UBuff* ConstructBuff(EBuffType type, UCharacterStats* stats);
+	UBuff* ConstructBuff(EBuffType type, UCharacterStats* stats, AItem* sourceItem);
 	
 };

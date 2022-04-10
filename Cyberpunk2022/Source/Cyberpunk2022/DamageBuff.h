@@ -13,5 +13,10 @@ UCLASS()
 class CYBERPUNK2022_API UDamageBuff : public UBuff
 {
 	GENERATED_BODY()
+
+public:
+
+	UDamageBuff();
+	UDamageBuff(UCharacterStats* stats);
 	
 };

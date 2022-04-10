@@ -38,7 +38,7 @@ void UBuffComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActorC
 	// ...
 }
 
-void UBuffComponent::AddBuff(EBuffType type, UCharacterStats* stats)
+void UBuffComponent::AddBuff(EBuffType type, UCharacterStats* stats, AItem* sourceItem)
 {
 	for(int i = 0; i < _activeBuff.size(); i++)
 	{
@@ -49,6 +49,6 @@ void UBuffComponent::AddBuff(EBuffType type, UCharacterStats* stats)
 		}
 	}
 
-	_activeBuff.push_back(_factory->ConstructBuff(type, stats));
+	_activeBuff.push_back(_factory->ConstructBuff(type, stats, sourceItem));
 }
 

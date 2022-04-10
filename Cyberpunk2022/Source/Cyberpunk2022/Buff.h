@@ -33,12 +33,16 @@ public:
 		_characterStats = stats;
 	}
 
+	void RemoveEffect();
 	void ResetEffect();
-	void ApplyEffect();
+	virtual void ApplyEffect();
 
 protected:
 
 	EBuffType _buffType;
 	UCharacterStats* _characterStats;
-	
+	FTimerHandle _timerHandle;
+
+	//Get timer from pickup or data asset?
+
 };
