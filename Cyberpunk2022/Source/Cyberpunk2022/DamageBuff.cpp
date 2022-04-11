@@ -3,6 +3,10 @@
 
 #include "DamageBuff.h"
 
+UDamageBuff::UDamageBuff()
+{
+}
+
 UDamageBuff::UDamageBuff(UCharacterStats* stats) : UBuff(stats)
 {
 	

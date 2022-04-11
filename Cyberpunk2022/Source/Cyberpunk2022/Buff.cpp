@@ -23,3 +23,7 @@ void UBuff::ResetEffect()
 	
 }
 
+void UBuff::ApplyEffect()
+{
+}
+
