@@ -2225,3 +2225,114 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.11-08.22.44:112][780]AssetCheck: New page: Asset Save: multiple assets
 [2022.04.11-08.22.44:112][780]LogContentValidation: Display: Validating Blueprint /Game/Traps/Valve/Gas.Gas
 [2022.04.11-08.22.44:112][780]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022
+[2022.04.11-08.22.58:498][888]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.11-08.22.58:498][888]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.11-08.23.10:630][ 50]LogSlate: Window 'Gas' being destroyed
+[2022.04.11-08.23.10:661][ 50]LogSlate: Window 'Gas' being destroyed
+[2022.04.11-08.23.10:666][ 50]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-08.23.10:666][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-08.23.12:879][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_239)
+[2022.04.11-08.24.20:354][208]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.11-08.24.20:354][208]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.11-08.24.41:300][369]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.11-08.24.41:306][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.11-08.24.41:306][369]PIE: New page: PIE session: cyberpunk2022 (11 апр. 2022 г., 14:24:41)
+[2022.04.11-08.24.41:306][369]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022
+[2022.04.11-08.24.41:691][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.384563s)
+[2022.04.11-08.24.41:692][369]LogAIModule: Creating AISystem for world cyberpunk2022
+[2022.04.11-08.24.41:693][369]LogPlayLevel: PIE: World Init took: (0.001586s)
+[2022.04.11-08.24.41:693][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022 to /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022 (0.386617s)
+[2022.04.11-08.24.41:723][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.04.11-08.24.41:731][369]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.04.11-08.24.41:731][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.11-08.24.41:731][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.11-08.24.41:731][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.11-08.24.41:731][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.11-08.24.41:731][369]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.11-08.24.41:731][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.11-08.24.41:731][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.11-08.24.41:731][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.11-08.24.41:732][369]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.11-08.24.41:732][369]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.11-08.24.41:732][369]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.11-08.24.41:732][369]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.11-08.24.41:735][369]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.11-08.24.41:735][369]LogAudioMixer: Display: 1: FrontRight
+[2022.04.11-08.24.41:744][369]LogAudioMixer: Display: Using Audio Device Динамики (USB PnP Sound Device)
+[2022.04.11-08.24.41:744][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.11-08.24.41:744][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.11-08.24.41:744][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.11-08.24.41:745][369]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.11-08.24.41:745][369]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.11-08.24.41:745][369]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.11-08.24.41:746][369]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.11-08.24.41:746][369]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.11-08.24.41:746][369]LogInit: FAudioDevice initialized.
+[2022.04.11-08.24.41:746][369]LogAudio: Display: Audio Device (ID: 12) registered with world 'cyberpunk2022'.
+[2022.04.11-08.24.41:757][369]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2022.04.11-08.24.41:828][369]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022 up for play (max tick rate 0) at 2022.04.11-11.24.41
+[2022.04.11-08.24.41:831][369]LogWorld: Bringing up level for play took: 0.072478
+[2022.04.11-08.24.41:831][369]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.04.11-08.24.41:841][369]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.11-08.24.41:842][369]PIE: Server logged in
+[2022.04.11-08.24.41:843][369]PIE: Play in editor total start time 0,538 seconds.
+[2022.04.11-08.24.43:176][416]LogTemp: randX: 0.000000
+[2022.04.11-08.24.43:176][416]LogTemp: randY: 0.000000
+[2022.04.11-08.24.48:069][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.11-08.24.48:215][625]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.11-08.24.48:461][635]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.11-08.24.48:606][641]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.11-08.24.48:897][653]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.11-08.24.49:020][658]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.11-08.24.49:261][668]LogTemp: randX: -31.827826
+[2022.04.11-08.24.49:262][668]LogTemp: randY: -0.000000
+[2022.04.11-08.24.49:438][675]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.11-08.24.49:538][679]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.11-08.24.49:842][691]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.11-08.24.49:893][693]LogTemp: randX: 25.218987
+[2022.04.11-08.24.49:893][693]LogTemp: randY: 0.000002
+[2022.04.11-08.24.49:943][695]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.11-08.24.52:247][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.11-08.24.52:247][785]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022
+[2022.04.11-08.24.52:249][785]LogWorld: UWorld::CleanupWorld for cyberpunk2022, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-08.24.52:260][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-08.24.52:281][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.11-08.24.52:301][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-08.24.52:333][785]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.11-08.24.52:333][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.11-08.24.52:334][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.11-08.24.52:336][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.11-08.24.52:365][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.04.11-08.24.52:407][786]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.04.11-08.30.44:247][ 12]LogEditorViewport: Clicking on Actor (LMB): BP_Barrel_C (BP_Barrel7)
+[2022.04.11-08.30.47:605][212]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/AI/BP_Barrel.BP_Barrel
+[2022.04.11-08.31.02:198][160]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.11-08.31.02:198][160]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.11-08.31.29:196][772]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.11-08.31.37:039][182]BlueprintLog: New page: Compile BP_Barrel
+[2022.04.11-08.31.37:178][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.04.11-08.31.57:602][360]BlueprintLog: New page: Compile BP_Barrel
+[2022.04.11-08.31.57:742][360]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.04.11-08.32.06:135][679]BlueprintLog: New page: Compile BP_Barrel
+[2022.04.11-08.32.06:225][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.04.11-08.32.07:307][726]LogSlate: Window 'BP_Barrel' being destroyed
+[2022.04.11-08.32.07:328][726]LogSlate: Window 'BP_Barrel' being destroyed
+[2022.04.11-08.32.07:365][726]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-08.32.07:365][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-08.32.08:632][814]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.04.11-08.32.13:046][191]LogEditorViewport: Clicking on Actor (LMB): BP_Barrel_C (BP_Barrel7)
+[2022.04.11-08.32.15:184][378]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/AI/BP_Barrel.BP_Barrel
+[2022.04.11-08.32.16:503][446]BlueprintLog: New page: Compile BP_Barrel
+[2022.04.11-08.32.16:594][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.04.11-08.32.25:774][ 93]BlueprintLog: New page: Compile BP_Barrel
+[2022.04.11-08.32.25:864][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.04.11-08.32.40:135][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.04.11-08.32.41:143][101]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/cyberpunk2022B3D3EA4B461E91494722678ACF8FBE3E.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Maps/cyberpunk2022.umap'
+[2022.04.11-08.32.53:187][101]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/cyberpunk2022_BuiltData97C34388404BAA8A8A752E9E993D8FE5.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Maps/cyberpunk2022_BuiltData.uasset'
+[2022.04.11-08.32.53:275][101]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.11-08.32.53:275][101]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/cyberpunk2022_BuiltData.cyberpunk2022_BuiltData
+[2022.04.11-08.32.53:275][101]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022
+[2022.04.11-08.32.55:150][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonCPP/AI/BP_Barrel" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/AI/BP_Barrel.uasset" SILENT=true
+[2022.04.11-08.32.55:186][242]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/BP_Barrel0458EC6845252835D05CEE8DBED0BA25.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/AI/BP_Barrel.uasset'
+[2022.04.11-08.32.55:197][242]AssetCheck: New page: Asset Save: BP_Barrel
+[2022.04.11-08.32.55:197][242]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonCPP/AI/BP_Barrel.BP_Barrel
