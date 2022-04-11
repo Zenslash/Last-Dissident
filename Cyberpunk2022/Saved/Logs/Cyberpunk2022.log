@@ -2336,3 +2336,488 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.11-08.32.55:186][242]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/BP_Barrel0458EC6845252835D05CEE8DBED0BA25.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/AI/BP_Barrel.uasset'
 [2022.04.11-08.32.55:197][242]AssetCheck: New page: Asset Save: BP_Barrel
 [2022.04.11-08.32.55:197][242]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonCPP/AI/BP_Barrel.BP_Barrel
+[2022.04.11-08.33.38:368][600]LogDerivedDataCache: Display: FDerivedDataBackendCorruptionWrapper: Corrupted file (short), ignoring and deleting TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_499D8DB14DC399C5345F__F81BCA88D49ECAA4595B35E368554EC5516DC229.
+[2022.04.11-08.44.27:517][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.04.11-08.44.28:876][179]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.11-08.44.29:052][179]LogSlate: Window 'BP_Barrel' being destroyed
+[2022.04.11-08.44.29:058][179]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-08.44.29:058][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-08.44.29:104][179]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Assets/Meshes/barrel/texture/T_barrel_ORM.T_barrel_ORM
+	Asset Name: /Game/Assets/Meshes/barrel/texture/T_barrel_N.T_barrel_N
+	Asset Name: /Game/Assets/Meshes/barrel/texture/T_barrel_BC.T_barrel_BC
+[2022.04.11-08.44.55:232][179]LogMaterial: Display: Missing cached shadermap for M_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: 4E4B6C24A163C943E2F62938ECF12F16F5B3A2DF), compiling. 
+[2022.04.11-08.44.55:246][179]LogMaterial: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\Assets\Meshes\barrel\M_barrel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.11-08.44.55:246][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.11-08.44.55:248][179]LogMaterial: Display: Missing cached shadermap for M_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: 4E4B6C24A163C943E2F62938ECF12F16F5B3A2DF), compiling. 
+[2022.04.11-08.44.55:248][179]LogMaterial: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\Assets\Meshes\barrel\M_barrel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.11-08.44.55:248][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.11-08.44.55:250][179]LogMaterial: Display: Missing cached shadermap for M_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: 4E4B6C24A163C943E2F62938ECF12F16F5B3A2DF), compiling. 
+[2022.04.11-08.44.55:251][179]LogMaterial: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\Assets\Meshes\barrel\M_barrel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.11-08.44.55:251][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.11-08.44.55:252][179]LogMaterial: Display: Missing cached shadermap for M_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: 4E4B6C24A163C943E2F62938ECF12F16F5B3A2DF), compiling. 
+[2022.04.11-08.44.55:253][179]LogMaterial: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\Assets\Meshes\barrel\M_barrel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.11-08.44.55:253][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.11-08.44.55:254][179]LogMaterial: Display: Missing cached shadermap for M_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: 4E4B6C24A163C943E2F62938ECF12F16F5B3A2DF), compiling. 
+[2022.04.11-08.44.55:255][179]LogMaterial: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\Assets\Meshes\barrel\M_barrel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.11-08.44.55:255][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.11-08.44.55:256][179]LogMaterial: Display: Missing cached shadermap for M_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: 4E4B6C24A163C943E2F62938ECF12F16F5B3A2DF), compiling. 
+[2022.04.11-08.44.55:257][179]LogMaterial: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\Assets\Meshes\barrel\M_barrel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.11-08.44.55:257][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.11-08.44.55:259][179]LogMaterial: Display: Missing cached shadermap for M_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: 4E4B6C24A163C943E2F62938ECF12F16F5B3A2DF), compiling. 
+[2022.04.11-08.44.55:259][179]LogMaterial: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\Assets\Meshes\barrel\M_barrel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.11-08.44.55:259][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.11-08.44.55:261][179]LogMaterial: Display: Missing cached shadermap for M_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: 4E4B6C24A163C943E2F62938ECF12F16F5B3A2DF), compiling. 
+[2022.04.11-08.44.55:261][179]LogMaterial: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\Assets\Meshes\barrel\M_barrel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.11-08.44.55:261][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.11-08.44.55:263][179]LogMaterial: Display: Missing cached shadermap for M_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: 4E4B6C24A163C943E2F62938ECF12F16F5B3A2DF), compiling. 
+[2022.04.11-08.44.55:263][179]LogMaterial: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\Assets\Meshes\barrel\M_barrel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.11-08.44.55:263][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.11-08.44.55:584][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.04.11-08.44.55:626][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.04.11-08.44.55:649][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.11-08.44.55:675][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.04.11-08.44.55:699][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.04.11-08.44.56:658][179]SourceControl: Error: Updated 0 paths from the index
+[2022.04.11-08.44.56:777][179]SourceControl: rm 'Cyberpunk2022/Content/Assets/Meshes/barrel/texture/T_barrel_BC.uasset'
+[2022.04.11-08.44.56:777][179]SourceControl: rm 'Cyberpunk2022/Content/Assets/Meshes/barrel/texture/T_barrel_N.uasset'
+[2022.04.11-08.44.56:777][179]SourceControl: rm 'Cyberpunk2022/Content/Assets/Meshes/barrel/texture/T_barrel_ORM.uasset'
+[2022.04.11-08.44.59:142][187]LogEditorViewport: Clicking on Actor (LMB): BP_Barrel_C (BP_Barrel8)
+[2022.04.11-08.45.07:061][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.04.11-08.45.08:995][584]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.11-08.45.09:137][584]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Meshes/barrel/M_barrel.M_barrel
+[2022.04.11-08.45.10:199][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.04.11-08.45.10:225][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.04.11-08.45.10:248][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.04.11-08.45.10:971][584]SourceControl: Error: Updated 0 paths from the index
+[2022.04.11-08.45.11:095][584]SourceControl: rm 'Cyberpunk2022/Content/Assets/Meshes/barrel/M_barrel.uasset'
+[2022.04.11-08.48.26:500][230]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\3d\wga\assets\board\texture\T_barrel_BC.png)
+[2022.04.11-08.48.26:532][230]LogTexture: Display: Building textures: T_barrel_BC (OODLE_AutoDXT, 1024X1024)
+[2022.04.11-08.48.26:679][230]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.11-08.48.26:750][230]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\3d\wga\assets\board\texture\T_barrel_N.png)
+[2022.04.11-08.48.26:775][230]LogTexture: Display: Building textures: T_barrel_N (OODLE_BC5, 1024X1024)
+[2022.04.11-08.48.26:824][230]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.11-08.48.37:459][945]LogContentBrowser: Deferred new asset file creation: M_master1
+[2022.04.11-08.48.37:510][945]LogContentBrowser: Creating deferred item: M_master1
+[2022.04.11-08.48.43:481][283]LogContentBrowser: Attempting asset rename: M_master1 -> M_board
+[2022.04.11-08.48.43:571][283]LogMaterial: Display: Missing cached shadermap for M_board in PCD3D_SM5, Default, SM5 (DDC key hash: D453B55AEC10C50E6A223269EAB1E90F18DDD44F), compiling. 
+[2022.04.11-08.48.43:666][283]LogShaderCompilers: Display: Submitted 56 shader compile jobs with 'Low' priority
+[2022.04.11-08.48.43:674][283]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 56
+[2022.04.11-08.48.43:674][283]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2022.04.11-08.48.43:674][283]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2022.04.11-08.48.43:674][283]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2022.04.11-08.48.47:282][283]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2022.04.11-08.48.47:282][283]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.04.11-08.48.48:220][283]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2022.04.11-08.48.48:220][283]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.04.11-08.48.48:527][283]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2022.04.11-08.48.48:527][283]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.04.11-08.48.49:335][283]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2022.04.11-08.48.49:335][283]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.04.11-08.48.49:564][283]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2022.04.11-08.48.49:564][283]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.11-08.48.50:184][283]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.04.11-08.48.50:184][283]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.11-08.48.50:184][283]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.11-08.48.50:184][283]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.11-08.48.50:633][283]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.11-08.48.50:633][283]LogShaderCompilers: Display: Total job queries 420, among them cache hits 74 (17.62%)
+[2022.04.11-08.48.50:633][283]LogShaderCompilers: Display: Tracking 239 distinct input hashes that result in 155 distinct outputs (64.85%)
+[2022.04.11-08.48.50:633][283]LogShaderCompilers: Display: RAM used: 0.79 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2022.04.11-08.48.50:633][283]LogShaderCompilers: Display: ================================================
+[2022.04.11-08.48.50:643][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/master/M_board" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Materials/master/M_board.uasset" SILENT=true
+[2022.04.11-08.48.50:657][283]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/M_board893792644BCF356A326D359B63BEAEC8.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Materials/master/M_board.uasset'
+[2022.04.11-08.48.50:922][283]LogContentBrowser: End creating deferred item M_master1
+[2022.04.11-08.48.50:929][283]AssetCheck: New page: Asset Save: M_board
+[2022.04.11-08.48.50:929][283]LogContentValidation: Display: Validating Material /Game/Assets/Materials/master/M_board.M_board
+[2022.04.11-08.48.54:568][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/barrel/M_board" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_board.uasset" SILENT=true
+[2022.04.11-08.48.54:582][507]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/M_board103A23F94BB42E8996F6FB8FF246555F.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_board.uasset'
+[2022.04.11-08.48.54:950][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.04.11-08.48.54:996][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.04.11-08.48.55:019][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.11-08.48.55:141][507]SourceControl: rm 'Cyberpunk2022/Content/Assets/Materials/master/M_board.uasset'
+[2022.04.11-08.48.55:486][507]AssetCheck: New page: Asset Save: M_board
+[2022.04.11-08.48.55:486][507]LogContentValidation: Display: Validating Material /Game/Assets/Meshes/barrel/M_board.M_board
+[2022.04.11-08.48.57:994][682]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Meshes/barrel/M_board.M_board
+[2022.04.11-08.48.57:997][682]LogMaterial: Display: Missing cached shadermap for M_board in PCD3D_SM5, Default, SM5 (DDC key hash: 288DEECE444F721A37CB74AE44FA5B25029EC643), compiling. 
+[2022.04.11-08.48.58:124][682]LogMaterial: Display: Missing cached shadermap for M_board in PCD3D_SM5, Default, SM5 (DDC key hash: 968AD9519C4FB4E6F051E9C4023238C9F3868DB8), compiling. 
+[2022.04.11-08.48.58:129][682]LogMaterial: Display: Missing cached shadermap for M_board in PCD3D_SM5, Default, SM5 (DDC key hash: 239C7510C0A0809851A33DA655F26D959AB3A54A), compiling. 
+[2022.04.11-08.48.58:158][682]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.11-08.48.58:158][682]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.11-08.48.58:158][682]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2022.04.11-08.48.58:249][683]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.11-08.48.58:249][683]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.04.11-08.48.58:249][683]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.11-08.48.58:249][683]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.11-08.48.58:249][683]LogShaderCompilers: Display: Submitted 29 shader compile jobs with 'Normal' priority
+[2022.04.11-08.48.58:249][683]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2022.04.11-08.48.58:249][683]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.48.59:663][776]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2022.04.11-08.48.59:663][776]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.49.00:267][813]LogSlate: Window 'M_board' being destroyed
+[2022.04.11-08.49.00:286][813]LogSlate: Window 'M_board' being destroyed
+[2022.04.11-08.49.00:294][813]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-08.49.00:294][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-08.49.00:400][820]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2022.04.11-08.49.00:400][820]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.49.01:430][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.04.11-08.49.02:212][886]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.11-08.49.02:369][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.04.11-08.49.02:403][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.04.11-08.49.02:431][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.04.11-08.49.02:551][886]SourceControl: rm 'Cyberpunk2022/Content/Assets/Meshes/barrel/M_board.uasset'
+[2022.04.11-08.49.05:644][ 76]LogContentBrowser: Deferred new asset file creation: M_master_Inst
+[2022.04.11-08.49.05:681][ 76]LogContentBrowser: Creating deferred item: M_master_Inst
+[2022.04.11-08.49.13:226][501]LogContentBrowser: Attempting asset rename: M_master_Inst -> M_master_barrel
+[2022.04.11-08.49.13:315][501]LogContentBrowser: End creating deferred item M_master_Inst
+[2022.04.11-08.49.16:468][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/barrel/M_master_barrel" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_master_barrel.uasset" SILENT=true
+[2022.04.11-08.49.16:472][694]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/M_master_barrel4C22C389478FA97242F198A4F52791E3.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_master_barrel.uasset'
+[2022.04.11-08.49.16:783][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.04.11-08.49.16:816][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.04.11-08.49.16:839][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.11-08.49.17:171][694]AssetCheck: New page: Asset Save: M_master_barrel
+[2022.04.11-08.49.17:171][694]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Meshes/barrel/M_master_barrel.M_master_barrel
+[2022.04.11-08.49.29:626][724]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Meshes/barrel/M_master_barrel.M_master_barrel
+[2022.04.11-08.49.33:977][ 19]LogMaterial: Display: Missing cached shadermap for M_master_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: EAC8FA0DED174A28C4693A741F4132542B3F0C77), compiling. 
+[2022.04.11-08.49.34:075][ 19]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.11-08.49.34:083][ 19]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.04.11-08.49.34:083][ 19]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.11-08.49.34:083][ 19]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.11-08.49.34:121][ 19]LogShaderCompilers: Display: Submitted 54 shader compile jobs with 'Normal' priority
+[2022.04.11-08.49.34:121][ 19]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 54
+[2022.04.11-08.49.34:121][ 19]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.49.35:730][123]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2022.04.11-08.49.35:730][123]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.49.36:108][146]LogMaterial: Display: Missing cached shadermap for M_master_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: D4EEC7774912E88CFBE13CEDEA820038FC821AC7), compiling. 
+[2022.04.11-08.49.36:271][146]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.11-08.49.36:271][146]LogShaderCompilers: Display: Submitted 54 shader compile jobs with 'Normal' priority
+[2022.04.11-08.49.37:292][210]LogMaterial: Display: Missing cached shadermap for M_master_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: D1558E008C00F77AED6A9DC62E9B5E63CFDE6D2E), compiling. 
+[2022.04.11-08.49.37:465][210]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.11-08.49.37:465][210]LogShaderCompilers: Display: Submitted 54 shader compile jobs with 'Normal' priority
+[2022.04.11-08.49.37:572][216]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.04.11-08.49.37:572][216]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.11-08.49.39:417][337]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.04.11-08.49.39:417][337]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.11-08.49.40:742][432]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2022.04.11-08.49.40:742][432]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.49.45:993][738]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2022.04.11-08.49.45:993][738]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.49.47:124][823]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2022.04.11-08.49.47:124][823]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.49.47:735][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/barrel/M_master_barrel" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_master_barrel.uasset" SILENT=true
+[2022.04.11-08.49.47:763][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.04.11-08.49.49:499][865]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.04.11-08.49.49:499][865]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.11-08.49.49:499][865]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2022.04.11-08.49.49:499][865]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.49.49:742][865]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2022.04.11-08.49.49:742][865]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.49.50:575][865]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2022.04.11-08.49.50:575][865]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.49.51:561][865]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2022.04.11-08.49.51:561][865]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.49.52:305][865]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.04.11-08.49.52:305][865]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.49.52:320][865]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.04.11-08.49.52:320][865]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.49.53:372][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.04.11-08.49.53:378][865]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/M_master_barrel4F7718414B2AE032C184E79468BA2C63.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_master_barrel.uasset'
+[2022.04.11-08.49.53:395][865]AssetCheck: New page: Asset Save: M_master_barrel
+[2022.04.11-08.49.53:395][865]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Meshes/barrel/M_master_barrel.M_master_barrel
+[2022.04.11-08.50.02:275][571]LogMaterial: Display: Missing cached shadermap for M_master_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: A60DA4EACF03EA75AD7F3B73D47A9FFBA5EBFD7B), compiling. 
+[2022.04.11-08.50.02:436][571]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.11-08.50.02:436][571]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.04.11-08.50.02:436][571]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.11-08.50.02:436][571]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.11-08.50.02:436][571]LogShaderCompilers: Display: Submitted 54 shader compile jobs with 'Normal' priority
+[2022.04.11-08.50.02:436][571]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 54
+[2022.04.11-08.50.02:436][571]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.50.03:567][643]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2022.04.11-08.50.03:567][643]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.50.04:239][691]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2022.04.11-08.50.04:239][691]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.50.11:195][233]LogMaterial: Display: Missing cached shadermap for M_master_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: 8AE0F8D2F02E194F3FEDAD0C785BE05C11C7E47D), compiling. 
+[2022.04.11-08.50.11:378][233]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.11-08.50.11:378][233]LogShaderCompilers: Display: Submitted 54 shader compile jobs with 'Normal' priority
+[2022.04.11-08.50.14:427][436]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.04.11-08.50.14:427][436]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.11-08.50.16:665][605]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.04.11-08.50.16:665][605]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.11-08.50.17:845][699]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 54
+[2022.04.11-08.50.17:845][699]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.50.18:441][745]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2022.04.11-08.50.18:441][745]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.50.18:636][758]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2022.04.11-08.50.18:636][758]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.50.30:481][713]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2022.04.11-08.50.30:481][713]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.50.34:725][ 51]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2022.04.11-08.50.34:725][ 51]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.50.36:056][155]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2022.04.11-08.50.36:056][155]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.50.38:222][232]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.04.11-08.50.38:222][232]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.50.39:882][288]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.04.11-08.50.39:882][288]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.50.40:334][303]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.04.11-08.50.40:334][303]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.55.32:661][684]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Meshes/wall/texture/M_inst_window.M_inst_window
+[2022.04.11-08.55.35:578][890]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-08.55.35:578][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-08.55.48:681][941]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.11-08.55.58:041][537]LogMaterial: Display: Missing cached shadermap for M_master_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: A1103213F5C61E6D74189458A20EF5144ACC4A8E), compiling. 
+[2022.04.11-08.55.58:142][537]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.11-08.55.58:144][537]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.04.11-08.55.58:144][537]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.11-08.55.58:144][537]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.11-08.55.58:187][537]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 46
+[2022.04.11-08.55.58:187][537]LogShaderCompilers: Display: Submitted 54 shader compile jobs with 'Normal' priority
+[2022.04.11-08.55.58:187][537]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.55.59:686][655]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2022.04.11-08.55.59:686][655]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.55.59:690][655]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.11-08.55.59:690][655]LogShaderCompilers: Display: Total job queries 2183, among them cache hits 1470 (67.34%)
+[2022.04.11-08.55.59:690][655]LogShaderCompilers: Display: Tracking 430 distinct input hashes that result in 213 distinct outputs (49.53%)
+[2022.04.11-08.55.59:690][655]LogShaderCompilers: Display: RAM used: 1.22 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.15%
+[2022.04.11-08.55.59:690][655]LogShaderCompilers: Display: ================================================
+[2022.04.11-08.56.00:671][734]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2022.04.11-08.56.00:671][734]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.56.07:925][208]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2022.04.11-08.56.07:925][208]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.56.09:499][313]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.11-08.56.11:021][432]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2022.04.11-08.56.11:021][432]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.56.13:790][656]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2022.04.11-08.56.13:790][656]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.56.15:216][707]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.04.11-08.56.15:216][707]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.56.17:175][777]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.04.11-08.56.17:175][777]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.56.17:576][792]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.04.11-08.56.17:576][792]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-08.57.30:633][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/barrel/M_master_barrel" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_master_barrel.uasset" SILENT=true
+[2022.04.11-08.57.30:663][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.04.11-08.57.30:716][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.11-08.57.30:723][845]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/M_master_barrelBA286C804413F504678FADAA7017D189.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_master_barrel.uasset'
+[2022.04.11-08.57.30:735][845]AssetCheck: New page: Asset Save: M_master_barrel
+[2022.04.11-08.57.30:735][845]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Meshes/barrel/M_master_barrel.M_master_barrel
+[2022.04.11-08.57.35:515][201]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.11-08.57.38:844][458]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.11-08.57.40:664][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/barrel/M_master_barrel" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_master_barrel.uasset" SILENT=true
+[2022.04.11-08.57.40:687][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.11-08.57.40:714][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.11-08.57.40:720][595]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/M_master_barrel010397F74C4912BBDBBB69B707135628.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_master_barrel.uasset'
+[2022.04.11-08.57.40:731][595]AssetCheck: New page: Asset Save: M_master_barrel
+[2022.04.11-08.57.40:731][595]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Meshes/barrel/M_master_barrel.M_master_barrel
+[2022.04.11-09.02.39:579][363]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\3d\wga\assets\board\texture\metal_red\metal_red_BC.png)
+[2022.04.11-09.02.39:746][363]LogTexture: Display: Building textures: metal_red_BC (OODLE_AutoDXT, 2048X2048)
+[2022.04.11-09.02.40:514][363]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.11-09.02.40:514][363]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.11-09.02.40:615][363]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\3d\wga\assets\board\texture\metal_red\metal_red_N.png)
+[2022.04.11-09.02.40:741][363]LogTexture: Display: Building textures: metal_red_N (OODLE_BC5, 2048X2048)
+[2022.04.11-09.02.40:880][363]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.11-09.02.40:881][363]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.11-09.02.41:043][363]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\3d\wga\assets\board\texture\metal_red\metal_red_ORM.png)
+[2022.04.11-09.02.41:150][363]LogTexture: Display: Building textures: metal_red_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.04.11-09.02.41:780][363]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.11-09.02.41:780][363]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.11-09.02.51:741][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/barrel/M_master_barrel" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_master_barrel.uasset" SILENT=true
+[2022.04.11-09.02.51:768][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.04.11-09.02.51:800][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.04.11-09.02.51:815][994]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/M_master_barrel27E7FDE94709B32035A5E6946A29D2CE.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_master_barrel.uasset'
+[2022.04.11-09.02.51:828][994]AssetCheck: New page: Asset Save: M_master_barrel
+[2022.04.11-09.02.51:828][994]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Meshes/barrel/M_master_barrel.M_master_barrel
+[2022.04.11-09.02.52:793][ 57]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Meshes/floor+new/texture/metal/metal_red_ORM.metal_red_ORM
+[2022.04.11-09.02.54:418][181]LogTexture: Display: Building textures: metal_red_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.04.11-09.02.55:005][181]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.11-09.02.55:005][181]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.11-09.02.55:030][181]LogMaterial: Display: Missing cached shadermap for M_master in PCD3D_SM5, Default, SM5 (DDC key hash: 79C8474F274108AD60B43C08B6024D569D3E93B3), compiling. 
+[2022.04.11-09.02.55:036][181]LogMaterial: Display: Missing cached shadermap for M_master_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: 4652477C1DD3246165D16385F4FFB7BB2837CA0C), compiling. 
+[2022.04.11-09.02.55:206][181]LogShaderCompilers: Display: Submitted 34 shader compile jobs with 'Normal' priority
+[2022.04.11-09.02.55:208][181]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2022.04.11-09.02.55:208][181]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2022.04.11-09.02.55:208][181]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2022.04.11-09.02.55:208][181]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.02.55:267][182]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.11-09.02.55:268][182]LogShaderCompilers: Display: Total job queries 3482, among them cache hits 2735 (78.55%)
+[2022.04.11-09.02.55:268][182]LogShaderCompilers: Display: Tracking 485 distinct input hashes that result in 230 distinct outputs (47.42%)
+[2022.04.11-09.02.55:268][182]LogShaderCompilers: Display: RAM used: 1.37 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.17%
+[2022.04.11-09.02.55:268][182]LogShaderCompilers: Display: ================================================
+[2022.04.11-09.02.56:368][233]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/metal_red_ORM7EBCDB9B423FB190C880F2B46CDC06A7.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/texture/metal/metal_red_ORM.uasset'
+[2022.04.11-09.02.56:806][233]AssetCheck: New page: Asset Save: metal_red_ORM
+[2022.04.11-09.02.56:806][233]LogContentValidation: Display: Validating Texture2D /Game/Assets/Meshes/floor+new/texture/metal/metal_red_ORM.metal_red_ORM
+[2022.04.11-09.03.00:403][501]LogMaterial: Display: Missing cached shadermap for M_master_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: 994D6F40992EE93365C9F159118AA375F70F8070), compiling. 
+[2022.04.11-09.03.00:540][501]LogShaderCompilers: Display: Submitted 24 shader compile jobs with 'Normal' priority
+[2022.04.11-09.03.05:744][673]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2022.04.11-09.03.05:744][673]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.03.06:454][692]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2022.04.11-09.03.06:454][692]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.03.08:726][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/barrel/M_master_barrel" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_master_barrel.uasset" SILENT=true
+[2022.04.11-09.03.08:752][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.04.11-09.03.09:606][761]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.11-09.03.09:606][761]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.11-09.03.09:606][761]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2022.04.11-09.03.09:606][761]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.03.09:606][761]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2022.04.11-09.03.09:606][761]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.03.11:391][761]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.04.11-09.03.11:391][761]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.03.11:892][761]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.04.11-09.03.11:892][761]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.03.12:502][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.04.11-09.03.12:511][761]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/M_master_barrelB60BCE914B756BBAEAFE3E8331621DF0.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_master_barrel.uasset'
+[2022.04.11-09.03.12:525][761]AssetCheck: New page: Asset Save: M_master_barrel
+[2022.04.11-09.03.12:525][761]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Meshes/barrel/M_master_barrel.M_master_barrel
+[2022.04.11-09.03.16:157][999]LogMaterial: Display: Missing cached shadermap for M_master_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: 475F65ABD0A054B534DC1BC64C0E4378966C2088), compiling. 
+[2022.04.11-09.03.24:800][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/barrel/M_master_barrel" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_master_barrel.uasset" SILENT=true
+[2022.04.11-09.03.24:824][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.04.11-09.03.24:864][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.11-09.03.24:872][629]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/M_master_barrelF983EA264025CA3DBC6FC9AAE142E14E.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_master_barrel.uasset'
+[2022.04.11-09.03.24:883][629]AssetCheck: New page: Asset Save: M_master_barrel
+[2022.04.11-09.03.24:883][629]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Meshes/barrel/M_master_barrel.M_master_barrel
+[2022.04.11-09.03.40:924][816]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ART/SM_barrel.SM_barrel
+[2022.04.11-09.03.54:557][592]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\Assets\Meshes\barrel\SM_barrel.uasset: Failed to load '/Game/Assets/Meshes/barrel/M_barrel': Can't find file.
+[2022.04.11-09.03.54:557][592]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\Assets\Meshes\barrel\SM_barrel.uasset: Failed to load '/Game/Assets/Meshes/barrel/M_barrel': Can't find file.
+[2022.04.11-09.03.54:557][592]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\Assets\Meshes\barrel\SM_barrel.uasset: Failed to load '/Game/Assets/Meshes/barrel/M_barrel': Can't find file.
+[2022.04.11-09.03.54:558][592]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\Assets\Meshes\barrel\SM_barrel.uasset: Failed to load '/Game/Assets/Meshes/barrel/M_barrel': Can't find file.
+[2022.04.11-09.03.54:558][592]LoadErrors: Failed to load /Game/Assets/Meshes/barrel/M_barrel.M_barrel Referenced by SM_barrel
+[2022.04.11-09.03.54:558][592]LogLinker: Warning: [AssetLog] D:\UE4\WargamingAcademy\Cyberpunk2022\Content\Assets\Meshes\barrel\SM_barrel.uasset: Failed to load '/Game/Assets/Meshes/barrel/M_barrel': Can't find file.
+[2022.04.11-09.03.54:598][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.04.11-09.03.55:707][592]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.11-09.03.55:848][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.04.11-09.03.55:878][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.04.11-09.03.55:900][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.04.11-09.03.56:658][592]SourceControl: Error: Updated 0 paths from the index
+[2022.04.11-09.03.56:782][592]SourceControl: rm 'Cyberpunk2022/Content/Assets/Meshes/barrel/SM_barrel.uasset'
+[2022.04.11-09.03.58:520][693]LogStaticMesh: Building static mesh SM_barrel...
+[2022.04.11-09.03.58:565][693]LogStaticMesh: Built static mesh [0.04s] /Game/ART/SM_barrel.SM_barrel
+[2022.04.11-09.04.52:534][792]LogSlate: Window 'SM_barrel' being destroyed
+[2022.04.11-09.04.52:551][792]LogSlate: Window 'SM_barrel' being destroyed
+[2022.04.11-09.04.52:586][792]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-09.04.52:586][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-09.04.52:608][792]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-09.04.52:609][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-09.11.41:193][742]LogEditorFactories: Performing atomic reimport of [D:/3d/wga/assets/board/SM_barrel.fbx]
+[2022.04.11-09.11.41:259][742]LogFbx: Loading FBX Scene from D:/3d/wga/assets/board/SM_barrel.fbx
+[2022.04.11-09.11.41:268][742]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.11-09.11.41:287][742]LogFbx: Display: Triangulating static mesh Cylinder_low
+[2022.04.11-09.11.41:336][742]LogFbx: Display: Triangulating static mesh Cylinder_low.001
+[2022.04.11-09.11.41:353][742]LogFbx: Display: Triangulating static mesh Cylinder_low.0011
+[2022.04.11-09.11.41:370][742]LogStaticMesh: Building static mesh SM_barrel...
+[2022.04.11-09.11.41:390][742]LogStaticMesh: Built static mesh [0.02s] /Game/ART/SM_barrel.SM_barrel
+[2022.04.11-09.11.41:463][742]LogEditorFactories: -- imported successfully
+[2022.04.11-09.11.41:466][742]FBXImport: FBX File Loading: Found name clash, node 'Cylinder_low.001' was renamed to 'Cylinder_low.0011' 
+[2022.04.11-09.11.41:466][742]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.11-09.11.44:054][884]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ART/SM_barrel.SM_barrel
+[2022.04.11-09.11.57:487][794]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Meshes/barrel/M_master_barrel.M_master_barrel
+[2022.04.11-09.12.05:882][333]LogMaterial: Display: Missing cached shadermap for M_master_barrel in PCD3D_SM5, Default, SM5 (DDC key hash: BCFED51253BC4865A51BD4328D2C9DB41036CC71), compiling. 
+[2022.04.11-09.12.06:051][333]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.11-09.12.06:051][333]LogShaderCompilers: Display: Submitted 7 shader compile jobs with 'Normal' priority
+[2022.04.11-09.12.06:051][333]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.04.11-09.12.06:051][333]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.04.11-09.12.06:051][333]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.11-09.12.06:051][333]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2022.04.11-09.12.06:051][333]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.12.06:051][333]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.11-09.12.06:051][333]LogShaderCompilers: Display: Submitted 37 shader compile jobs with 'Normal' priority
+[2022.04.11-09.12.07:575][430]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.04.11-09.12.07:575][430]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.11-09.12.07:586][430]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.11-09.12.07:586][430]LogShaderCompilers: Display: Total job queries 5522, among them cache hits 4695 (85.02%)
+[2022.04.11-09.12.07:586][430]LogShaderCompilers: Display: Tracking 544 distinct input hashes that result in 239 distinct outputs (43.93%)
+[2022.04.11-09.12.07:586][430]LogShaderCompilers: Display: RAM used: 1.47 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.18%
+[2022.04.11-09.12.07:586][430]LogShaderCompilers: Display: ================================================
+[2022.04.11-09.12.10:017][589]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.11-09.12.10:017][589]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.11-09.12.10:311][606]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2022.04.11-09.12.10:311][606]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.12.10:615][606]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2022.04.11-09.12.10:615][606]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.12.11:299][606]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2022.04.11-09.12.11:299][606]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.12.14:556][606]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2022.04.11-09.12.14:556][606]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.12.15:075][606]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2022.04.11-09.12.15:075][606]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.12.15:215][606]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2022.04.11-09.12.15:215][606]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.12.16:769][617]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2022.04.11-09.12.16:770][617]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.12.17:025][619]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.04.11-09.12.17:026][619]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.12.17:739][638]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.11-09.12.17:739][638]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.11-09.12.21:911][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/barrel/M_master_barrel" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_master_barrel.uasset" SILENT=true
+[2022.04.11-09.12.21:943][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.04.11-09.12.21:996][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.04.11-09.12.22:004][891]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/M_master_barrelF5DBEAB9439DBAFEC93DF198042F6012.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/M_master_barrel.uasset'
+[2022.04.11-09.12.22:014][891]AssetCheck: New page: Asset Save: M_master_barrel
+[2022.04.11-09.12.22:014][891]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Meshes/barrel/M_master_barrel.M_master_barrel
+[2022.04.11-09.12.23:216][975]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-09.12.23:216][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-09.12.24:713][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/SM_barrel" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/ART/SM_barrel.uasset" SILENT=true
+[2022.04.11-09.12.24:724][ 72]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/SM_barrelFB2B2F1947088A1B9A21519EDC253471.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/ART/SM_barrel.uasset'
+[2022.04.11-09.12.24:747][ 72]AssetCheck: New page: Asset Save: SM_barrel
+[2022.04.11-09.12.24:747][ 72]LogContentValidation: Display: Validating StaticMesh /Game/ART/SM_barrel.SM_barrel
+[2022.04.11-09.13.33:335][203]LogEditorFactories: Performing atomic reimport of [D:/3d/wga/assets/board/texture/T_barrel_BC.png]
+[2022.04.11-09.13.33:337][203]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/3d/wga/assets/board/texture/T_barrel_BC.png)
+[2022.04.11-09.13.33:375][203]LogTexture: Display: Building textures: T_barrel_BC (OODLE_AutoDXT, 1024X1024)
+[2022.04.11-09.13.33:513][203]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.11-09.13.33:514][203]LogEditorFactories: -- imported successfully
+[2022.04.11-09.13.36:900][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/SM_barrel" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/ART/SM_barrel.uasset" SILENT=true
+[2022.04.11-09.13.36:906][374]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/SM_barrelE1780EDB41DCA3077B37D8A36B1F7D09.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/ART/SM_barrel.uasset'
+[2022.04.11-09.13.36:918][374]AssetCheck: New page: Asset Save: SM_barrel
+[2022.04.11-09.13.36:919][374]LogContentValidation: Display: Validating StaticMesh /Game/ART/SM_barrel.SM_barrel
+[2022.04.11-09.13.42:264][766]LogSlate: Window 'SM_barrel' being destroyed
+[2022.04.11-09.13.42:284][766]LogSlate: Window 'SM_barrel' being destroyed
+[2022.04.11-09.13.42:316][766]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-09.13.42:316][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-09.13.43:710][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_low_full3)
+[2022.04.11-09.13.46:246][ 64]LogEditorViewport: Clicking on Actor (LMB): BP_Barrel_C (BP_Barrel8)
+[2022.04.11-09.18.06:803][ 20]SourceControl: Error: fatal: pathspec 'D:/UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/SM_barrel.uasset' did not match any files
+[2022.04.11-09.18.10:611][ 20]LogSlate: Window 'Message' being destroyed
+[2022.04.11-09.18.10:615][ 20]Message dialog closed, result: Ok, title: Message, text: Failed to revert package which was marked for delete.
+[2022.04.11-09.18.13:192][294]LogEditorViewport: Clicking on Actor (LMB): BP_Barrel_C (BP_Barrel4)
+[2022.04.11-09.18.19:154][732]LogEditorFactories: Performing atomic reimport of [D:/3d/wga/assets/board/SM_barrel.fbx]
+[2022.04.11-09.18.19:182][732]LogFbx: Loading FBX Scene from D:/3d/wga/assets/board/SM_barrel.fbx
+[2022.04.11-09.18.19:189][732]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.11-09.18.19:780][732]LogFbx: Display: Triangulating static mesh Cylinder_low
+[2022.04.11-09.18.19:838][732]LogStaticMesh: Building static mesh SM_barrel...
+[2022.04.11-09.18.19:862][732]LogStaticMesh: Built static mesh [0.02s] /Game/ART/SM_barrel.SM_barrel
+[2022.04.11-09.18.19:878][732]LogEditorFactories: -- imported successfully
+[2022.04.11-09.18.19:881][732]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.11-09.18.40:814][715]LogEditorFactories: Performing atomic reimport of [D:/3d/wga/assets/board/SM_barrel.fbx]
+[2022.04.11-09.18.40:844][715]LogFbx: Loading FBX Scene from D:/3d/wga/assets/board/SM_barrel.fbx
+[2022.04.11-09.18.40:852][715]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.11-09.18.40:870][715]LogFbx: Display: Triangulating static mesh Cylinder_low
+[2022.04.11-09.18.40:937][715]LogStaticMesh: Building static mesh SM_barrel...
+[2022.04.11-09.18.40:961][715]LogStaticMesh: Built static mesh [0.02s] /Game/ART/SM_barrel.SM_barrel
+[2022.04.11-09.18.40:976][715]LogEditorFactories: -- imported successfully
+[2022.04.11-09.18.40:979][715]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.11-09.18.43:010][834]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.04.11-09.19.24:278][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/barrel/SM_barrel" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/SM_barrel.uasset" SILENT=true
+[2022.04.11-09.19.24:289][664]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/SM_barrel4F2210554574F4E6066F6F8E827EB620.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/SM_barrel.uasset'
+[2022.04.11-09.19.24:436][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/SM_barrel" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/ART/SM_barrel.uasset" SILENT=true
+[2022.04.11-09.19.24:436][664]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/SM_barrelDEE61C134A38400542D36096F8DCE82E.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/ART/SM_barrel.uasset'
+[2022.04.11-09.19.24:927][664]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.11-09.19.24:927][664]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/barrel/SM_barrel.SM_barrel
+[2022.04.11-09.19.24:927][664]LogContentValidation: Display: Validating ObjectRedirector /Game/ART/SM_barrel.SM_barrel
+[2022.04.11-09.19.31:185][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.04.11-09.19.32:307][147]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/cyberpunk202260174DCE49D2FC2D89A6CEBD1EB7F570.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Maps/cyberpunk2022.umap'
+[2022.04.11-09.19.32:320][147]LogFileHelpers: Saving map 'cyberpunk2022' took 1.169
+[2022.04.11-09.19.32:331][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonCPP/AI/BP_Barrel" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/AI/BP_Barrel.uasset" SILENT=true
+[2022.04.11-09.19.32:367][147]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/BP_Barrel3D312CF647F7E316656B719A076BC4D8.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/AI/BP_Barrel.uasset'
+[2022.04.11-09.19.32:371][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/barrel/T_barrel_BC" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/T_barrel_BC.uasset" SILENT=true
+[2022.04.11-09.19.32:437][147]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/T_barrel_BC062A836B44E1B4038B37268160C1A907.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/T_barrel_BC.uasset'
+[2022.04.11-09.19.32:657][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/barrel/T_barrel_N" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/T_barrel_N.uasset" SILENT=true
+[2022.04.11-09.19.32:697][147]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/T_barrel_N34E5DD9447155984398440B6B496A35E.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/barrel/T_barrel_N.uasset'
+[2022.04.11-09.19.33:104][147]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/metal_red_BC8D5A07BC409F23BDF538E4B571535201.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/texture/metal/metal_red_BC.uasset'
+[2022.04.11-09.19.33:739][147]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/metal_red_NA05B08004D5E5ED86A2EC78504638189.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/texture/metal/metal_red_N.uasset'
+[2022.04.11-09.19.34:103][147]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.11-09.19.34:103][147]LogContentValidation: Display: Validating Texture2D /Game/Assets/Meshes/barrel/T_barrel_BC.T_barrel_BC
+[2022.04.11-09.19.34:104][147]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonCPP/AI/BP_Barrel.BP_Barrel
+[2022.04.11-09.19.34:104][147]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022
+[2022.04.11-09.19.34:104][147]LogContentValidation: Display: Validating Texture2D /Game/Assets/Meshes/floor+new/texture/metal/metal_red_N.metal_red_N
+[2022.04.11-09.19.34:104][147]LogContentValidation: Display: Validating Texture2D /Game/Assets/Meshes/floor+new/texture/metal/metal_red_BC.metal_red_BC
+[2022.04.11-09.19.34:104][147]LogContentValidation: Display: Validating Texture2D /Game/Assets/Meshes/barrel/T_barrel_N.T_barrel_N
