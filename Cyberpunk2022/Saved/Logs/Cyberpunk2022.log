@@ -1062,3 +1062,100 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.11-11.05.57:134][386]LogFileHelpers: Saving map 'cyberpunk2022' took 1.060
 [2022.04.11-11.05.57:165][386]AssetCheck: New page: Asset Save: cyberpunk2022
 [2022.04.11-11.05.57:165][386]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022
+[2022.04.11-11.07.58:841][847]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.11-11.07.58:841][847]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.11-11.10.21:071][100]LogEditorViewport: Clicking on Actor (LMB): BP_Barrel_C (BP_Barrel4)
+[2022.04.11-11.10.24:664][459]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/AI/BP_Barrel.BP_Barrel
+[2022.04.11-11.10.30:262][891]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/StarterContent/Particles/P_Explosion.P_Explosion
+[2022.04.11-11.10.30:400][891]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cascade' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2022.04.11-11.12.34:107][933]LogSlate: Window 'Message' being destroyed
+[2022.04.11-11.12.34:111][933]Message dialog closed, result: Cancel, title: Message, text: Disable soloing to perform the following:
+Toggle Enable on Emitter
+[2022.04.11-11.12.42:212][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Explosion" FILE="../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/StarterContent/Particles/P_Explosion.uasset" SILENT=true
+[2022.04.11-11.12.42:245][563]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/P_Explosion6EC56B0241E0EA4CD18F1EA85652AD0A.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/StarterContent/Particles/P_Explosion.uasset'
+[2022.04.11-11.12.42:261][563]AssetCheck: New page: Asset Save: P_Explosion
+[2022.04.11-11.12.42:261][563]LogContentValidation: Display: Validating ParticleSystem /Game/StarterContent/Particles/P_Explosion.P_Explosion
+[2022.04.11-11.12.43:038][630]LogCascade: Quitting Cascade. FXSystem=0x00000254BB45EF80
+[2022.04.11-11.12.43:047][630]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-11.12.43:047][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-11.12.46:001][853]BlueprintLog: New page: Compile BP_Barrel
+[2022.04.11-11.12.46:124][853]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2022.04.11-11.12.47:090][923]LogSlate: Window 'BP_Barrel' being destroyed
+[2022.04.11-11.12.47:094][923]LogSlate: Window 'BP_Barrel' being destroyed
+[2022.04.11-11.12.47:097][923]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-11.12.47:097][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-11.12.48:585][ 58]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.11-11.12.48:591][ 58]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.11-11.12.48:591][ 58]LogPlayLevel: [PlayLevel] Compiling cyberpunk2022 before play...
+[2022.04.11-11.12.48:801][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.04.11-11.12.48:803][ 58]LogPlayLevel: PlayLevel: Blueprint regeneration took 211 ms (1 blueprints)
+[2022.04.11-11.12.48:810][ 58]PIE: New page: PIE session: cyberpunk2022 (11 апр. 2022 г., 17:12:48)
+[2022.04.11-11.12.48:811][ 58]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.11-11.12.48:813][ 58]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.11-11.12.48:813][ 58]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022
+[2022.04.11-11.12.49:198][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.385509s)
+[2022.04.11-11.12.49:199][ 58]LogAIModule: Creating AISystem for world cyberpunk2022
+[2022.04.11-11.12.49:200][ 58]LogPlayLevel: PIE: World Init took: (0.001627s)
+[2022.04.11-11.12.49:200][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022 to /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022 (0.387647s)
+[2022.04.11-11.12.49:252][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.04.11-11.12.49:253][ 58]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.11-11.12.49:253][ 58]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.11-11.12.49:253][ 58]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.11-11.12.49:253][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.11-11.12.49:253][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.11-11.12.49:253][ 58]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.11-11.12.49:253][ 58]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.11-11.12.49:253][ 58]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.11-11.12.49:253][ 58]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.11-11.12.49:254][ 58]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.11-11.12.49:254][ 58]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.11-11.12.49:254][ 58]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.11-11.12.49:254][ 58]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.11-11.12.49:256][ 58]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.11-11.12.49:256][ 58]LogAudioMixer: Display: 1: FrontRight
+[2022.04.11-11.12.49:266][ 58]LogAudioMixer: Display: Using Audio Device Динамики (USB PnP Sound Device)
+[2022.04.11-11.12.49:266][ 58]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.11-11.12.49:266][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.11-11.12.49:266][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.11-11.12.49:267][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.11-11.12.49:267][ 58]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.11-11.12.49:267][ 58]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.11-11.12.49:268][ 58]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.11-11.12.49:268][ 58]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.11-11.12.49:268][ 58]LogInit: FAudioDevice initialized.
+[2022.04.11-11.12.49:268][ 58]LogAudio: Display: Audio Device (ID: 2) registered with world 'cyberpunk2022'.
+[2022.04.11-11.12.49:845][ 58]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2022.04.11-11.12.49:922][ 58]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022 up for play (max tick rate 0) at 2022.04.11-14.12.49
+[2022.04.11-11.12.49:924][ 58]LogWorld: Bringing up level for play took: 0.078044
+[2022.04.11-11.12.49:924][ 58]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.04.11-11.12.49:941][ 58]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.04.11-11.12.49:948][ 58]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.11-11.12.49:950][ 58]PIE: Server logged in
+[2022.04.11-11.12.49:952][ 58]PIE: Play in editor total start time 1,361 seconds.
+[2022.04.11-11.12.51:172][154]LogTemp: randX: 0.000000
+[2022.04.11-11.12.51:172][154]LogTemp: randY: -0.000000
+[2022.04.11-11.12.51:278][165]LogTemp: randX: -2.505188
+[2022.04.11-11.12.51:278][165]LogTemp: randY: -0.000002
+[2022.04.11-11.12.51:978][239]LogTemp: randX: -14.381233
+[2022.04.11-11.12.51:978][239]LogTemp: randY: 0.000000
+[2022.04.11-11.12.52:079][250]LogTemp: randX: -5.612305
+[2022.04.11-11.12.52:079][250]LogTemp: randY: 0.000000
+[2022.04.11-11.12.52:181][259]LogTemp: randX: 106.650742
+[2022.04.11-11.12.52:181][259]LogTemp: randY: -0.000006
+[2022.04.11-11.12.57:143][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.11-11.12.57:143][704]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022
+[2022.04.11-11.12.57:145][704]LogWorld: UWorld::CleanupWorld for cyberpunk2022, bSessionEnded=true, bCleanupResources=true
+[2022.04.11-11.12.57:158][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-11.12.57:171][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.11-11.12.57:183][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.11-11.12.57:215][704]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.11-11.12.57:223][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.11-11.12.57:224][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.11-11.12.57:226][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.11-11.12.57:277][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.04.11-11.12.57:312][705]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.04.11-11.12.59:001][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.04.11-11.13.00:003][850]LogSavePackage: Moving '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Saved/cyberpunk202209FCAF9141A7499A88C3309DC8163ACA.tmp' to '../../../../../../UE4/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Maps/cyberpunk2022.umap'
+[2022.04.11-11.13.00:016][850]LogFileHelpers: Saving map 'cyberpunk2022' took 1.059
+[2022.04.11-11.13.00:036][850]AssetCheck: New page: Asset Save: cyberpunk2022
+[2022.04.11-11.13.00:036][850]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022
