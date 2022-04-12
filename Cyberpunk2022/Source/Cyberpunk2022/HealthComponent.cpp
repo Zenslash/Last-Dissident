@@ -50,7 +50,7 @@ void UHealthComponent::UpdateHealth(int value)
 
 void UHealthComponent::ApplyResist(float value)
 {
-
+	_resist = value;
 }
 
 

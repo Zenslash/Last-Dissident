@@ -13,8 +13,6 @@ UBuffComponent::UBuffComponent()
 	// off to improve performance if you don't need them.
 	PrimaryComponentTick.bCanEverTick = true;
 
-	_factory = NewObject<UBuffFactory>();
-
 	// ...
 }
 
@@ -24,6 +22,9 @@ void UBuffComponent::BeginPlay()
 {
 	Super::BeginPlay();
 
+	_factory = NewObject<UBuffFactory>();
+	_activeBuff = std::vector<UBuff*>();
+	//_activeBuff = std::vector<UBuff>();
 	// ...
 	
 }
@@ -45,6 +46,7 @@ void UBuffComponent::AddBuff(EBuffType type, UCharacterStats* stats, AItem* sour
 		if(_activeBuff[i]->GetBuffType() == type)
 		{
 			_activeBuff[i]->ResetEffect();
+			_activeBuff[i]->ApplyEffect();
 			return;
 		}
 	}

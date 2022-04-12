@@ -11,13 +11,20 @@ void UDamageResistBuff::ApplyEffect()
 
 	if(_sourceItem == nullptr)
 	{
+		UE_LOG(LogTemp, Warning, TEXT("SourceItem is null!"));
 		return;
 	}
 
 	AShieldPickup* pickup = Cast<AShieldPickup>(_sourceItem);
+	if(pickup == nullptr)
+	{
+		UE_LOG(LogTemp,Warning,TEXT("Invalid cast! Trying cast sourceItem to AShieldPickup"));
+		return;
+	}
 	_characterStats->SetDamageResistMultiplier(pickup->GetShieldResist());
 
 	//Init Timer
+	pickup->GetWorld()->GetTimerManager().SetTimer(_timerHandle, this, &UDamageResistBuff::RemoveEffect, pickup->GetShieldDuration());
 }
 
 void UDamageResistBuff::RemoveEffect()

@@ -719,16 +719,22 @@ void ACyberpunk2022Character::PickupHealth(AHealthPickup* health)
 void ACyberpunk2022Character::PickupSpeed(ASpeedPickup* speed)
 {
 	_buffComponent->AddBuff(EBuffType::SPEED, _characterStats, speed);
+
+	speed->Destroy();
 }
 
 void ACyberpunk2022Character::PickupDamage(ADamagePickup* damage)
 {
 	_buffComponent->AddBuff(EBuffType::DAMAGE, _characterStats, damage);
+
+	damage->Destroy();
 }
 
-void ACyberpunk2022Character::PickupShield(AShieldPickup* health)
+void ACyberpunk2022Character::PickupShield(AShieldPickup* shield)
 {
-	_buffComponent->AddBuff(EBuffType::RESIST, _characterStats, health);
+	_buffComponent->AddBuff(EBuffType::RESIST, _characterStats, shield);
+
+	shield->Destroy();
 }
 
 void ACyberpunk2022Character::GetPickupItem(AItem* item)
