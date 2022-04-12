@@ -8,6 +8,7 @@
 #include "CharacterStats.h"
 #include "Buff.generated.h"
 
+class AItem;
 /**
  * 
  */
@@ -32,9 +33,13 @@ public:
 	{
 		_characterStats = stats;
 	}
+	void SetSourceItem(AItem* item)
+	{
+		_sourceItem = item;
+	}
 
-	void RemoveEffect();
 	void ResetEffect();
+	virtual void RemoveEffect();
 	virtual void ApplyEffect();
 
 protected:
@@ -42,6 +47,7 @@ protected:
 	EBuffType _buffType;
 	UCharacterStats* _characterStats;
 	FTimerHandle _timerHandle;
+	AItem* _sourceItem;
 
 	//Get timer from pickup or data asset?
 

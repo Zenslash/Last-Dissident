@@ -6,6 +6,8 @@
 #include "UObject/NoExportTypes.h"
 #include "CharacterStats.generated.h"
 
+DECLARE_DELEGATE_OneParam(OnDamageResistModifiedSignature, float)
+
 /**
  * 
  */
@@ -20,6 +22,8 @@ private:
 	float _damageResistModifier;
 
 public:
+
+	OnDamageResistModifiedSignature OnDamageResistModified;
 
 	UCharacterStats();
 	UCharacterStats(float speed, float damage, float resist);
@@ -48,6 +52,7 @@ public:
 	void SetDamageResistMultiplier(float value)
 	{
 		_damageResistModifier = value;
+		OnDamageResistModified.ExecuteIfBound(value);
 	}
 	
 };

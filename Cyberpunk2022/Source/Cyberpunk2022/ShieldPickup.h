@@ -36,6 +36,14 @@ private:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Ammo, meta = (AllowPrivateAccess = "true"))
 		class USphereComponent* _collisionSphere;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Shield, meta = (AllowPrivateAccess = "true"))
+	float _shieldResist;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Shield, meta = (AllowPrivateAccess = "true"))
+	float _shieldDuration;
+
 public:
 	FORCEINLINE UStaticMeshComponent* GetPickupMesh() const { return _pickupMesh; }
+	FORCEINLINE float GetShieldResist() const { return _shieldResist; }
+	FORCEINLINE float GetShieldDuration() const { return _shieldDuration; }
 };

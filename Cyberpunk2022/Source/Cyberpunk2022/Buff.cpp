@@ -2,6 +2,7 @@
 
 
 #include "Buff.h"
+#include "Item.h"
 
 UBuff::UBuff()
 {
@@ -20,7 +21,7 @@ void UBuff::RemoveEffect()
 
 void UBuff::ResetEffect()
 {
-	
+	GetWorld()->GetTimerManager().ClearTimer(_timerHandle);
 }
 
 void UBuff::ApplyEffect()

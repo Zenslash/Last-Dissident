@@ -93,6 +93,8 @@ void ACyberpunk2022Character::BeginPlay()
 
 	_healthComponent = Cast<UHealthComponent>(GetComponentByClass(UHealthComponent::StaticClass()));
 	_healthComponent->ApplyResist(_characterStats->GetDamageResistModifier());
+	//Bind func
+	_characterStats->OnDamageResistModified.BindUObject(_healthComponent, &UHealthComponent::ApplyResist);
 
 	_buffComponent = Cast<UBuffComponent>(GetComponentByClass(UBuffComponent::StaticClass()));
 

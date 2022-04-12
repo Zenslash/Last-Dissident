@@ -13,5 +13,10 @@ UCLASS()
 class CYBERPUNK2022_API UDamageResistBuff : public UBuff
 {
 	GENERATED_BODY()
-	
+
+
+public:
+
+	void ApplyEffect() override;
+	void RemoveEffect() override;
 };

@@ -49,6 +49,8 @@ void UBuffComponent::AddBuff(EBuffType type, UCharacterStats* stats, AItem* sour
 		}
 	}
 
-	_activeBuff.push_back(_factory->ConstructBuff(type, stats, sourceItem));
+	UBuff* buff = _factory->ConstructBuff(type, stats, sourceItem);
+	_activeBuff.push_back(buff);
+	buff->ApplyEffect();
 }
 

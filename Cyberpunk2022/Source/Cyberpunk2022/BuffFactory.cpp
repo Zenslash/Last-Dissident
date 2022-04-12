@@ -24,5 +24,12 @@ UBuff* UBuffFactory::ConstructBuff(EBuffType type, UCharacterStats* stats, AItem
 		break;
 	}
 
+	if(result != nullptr)
+	{
+		result->SetBuffType(type);
+		result->SetCharacterStats(stats);
+		result->SetSourceItem(sourceItem);
+	}
+
 	return result;
 }
