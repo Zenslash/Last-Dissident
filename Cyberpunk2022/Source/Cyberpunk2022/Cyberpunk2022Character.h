@@ -168,6 +168,9 @@ public:
 	/** Returns Mesh1P subobject **/
 	UFUNCTION(BlueprintCallable)
 	USkeletalMeshComponent* GetMesh1P() const { return Mesh1P; }
+
+	UFUNCTION(BlueprintCallable)
+	UCharacterStats* GetCharacterStats() const { return _characterStats; }
 	/** Returns FirstPersonCameraComponent subobject **/
 	UCameraComponent* GetFirstPersonCameraComponent() const { return FirstPersonCameraComponent; }
 
@@ -227,13 +230,15 @@ private:
 	bool _bFireButtonPressed;
 	bool _bShouldFire;
 	FTimerHandle _fireTimer;
-
 	float _shootTimeDuration;
 	bool _bFiringBullet;
 	FTimerHandle _crosshairShootTimer;
 	UHealthComponent* _healthComponent;
+
 	UCharacterStats* _characterStats;
 	UBuffComponent* _buffComponent;
+	float _baseWalkSpeed;
+	
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
 	FTransform _clipTransform;
@@ -242,6 +247,8 @@ private:
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Combat, meta = (AllowPrivateAccess = "true"))
 	USceneComponent* _handSceneComponent;
+
+	void UpdateWalkSpeed(float value);
 
 };
 

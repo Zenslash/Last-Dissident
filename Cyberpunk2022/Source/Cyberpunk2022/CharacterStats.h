@@ -6,7 +6,7 @@
 #include "UObject/NoExportTypes.h"
 #include "CharacterStats.generated.h"
 
-DECLARE_DELEGATE_OneParam(OnDamageResistModifiedSignature, float)
+DECLARE_DELEGATE_OneParam(OnCharacterStatModifiedSignature, float)
 
 /**
  * 
@@ -23,19 +23,23 @@ private:
 
 public:
 
-	OnDamageResistModifiedSignature OnDamageResistModified;
+	OnCharacterStatModifiedSignature OnDamageResistModified;
+	OnCharacterStatModifiedSignature OnSpeedModified;
 
 	UCharacterStats();
 	UCharacterStats(float speed, float damage, float resist);
 
+	UFUNCTION(BlueprintCallable)
 	FORCEINLINE float GetSpeedModifier() const
 	{
 		return _speedModifier;
 	}
+	UFUNCTION(BlueprintCallable)
 	FORCEINLINE float GetDamageModifier() const
 	{
 		return _damageModifier;
 	}
+	UFUNCTION(BlueprintCallable)
 	FORCEINLINE float GetDamageResistModifier() const
 	{
 		return _damageResistModifier;
@@ -44,6 +48,7 @@ public:
 	void SetSpeedMultiplier(float value)
 	{
 		_speedModifier = value;
+		OnSpeedModified.ExecuteIfBound(_speedModifier);
 	}
 	void SetDamageMultiplier(float value)
 	{

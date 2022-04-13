@@ -18,5 +18,10 @@ public:
 
 	UDamageBuff();
 	UDamageBuff(UCharacterStats* stats);
+
+public:
+
+	void ApplyEffect() override;
+	void RemoveEffect() override;
 	
 };

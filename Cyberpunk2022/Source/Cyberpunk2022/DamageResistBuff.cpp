@@ -31,5 +31,10 @@ void UDamageResistBuff::RemoveEffect()
 {
 	Super::RemoveEffect();
 
+	if (_characterStats == nullptr)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("CharacterStats is nullptr!"));
+		return;
+	}
 	_characterStats->SetDamageResistMultiplier(0);
 }

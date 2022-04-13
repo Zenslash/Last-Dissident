@@ -96,6 +96,9 @@ void ACyberpunk2022Character::BeginPlay()
 	//Bind func
 	_characterStats->OnDamageResistModified.BindUObject(_healthComponent, &UHealthComponent::ApplyResist);
 
+	_baseWalkSpeed = GetCharacterMovement()->MaxWalkSpeed;
+	_characterStats->OnSpeedModified.BindUObject(this, &ACyberpunk2022Character::UpdateWalkSpeed);
+
 	_buffComponent = Cast<UBuffComponent>(GetComponentByClass(UBuffComponent::StaticClass()));
 
 	EquipWeapon(SpawnDefaultWeapon());
@@ -249,7 +252,7 @@ void ACyberpunk2022Character::MoveForward(float Value)
 	if (Value != 0.0f)
 	{
 		// add movement in that direction
-		AddMovementInput(GetActorForwardVector(), Value * _characterStats->GetSpeedModifier());
+		AddMovementInput(GetActorForwardVector(), Value);
 	}
 }
 
@@ -259,7 +262,7 @@ void ACyberpunk2022Character::MoveRight(float Value)
 	if (Value != 0.0f)
 	{
 		// add movement in that direction
-		AddMovementInput(GetActorRightVector(), Value * _characterStats->GetSpeedModifier());
+		AddMovementInput(GetActorRightVector(), Value);
 	}
 }
 
@@ -418,8 +421,6 @@ void ACyberpunk2022Character::ReloadWeapon()
 		return;
 	}
 
-	//TODO Create bool CarryingAmmo()
-	//Do we have ammo?
 	if(CarryingAmmo())
 	{
 		_combatState = ECombatState::ECS_Reloading;
@@ -775,4 +776,9 @@ void ACyberpunk2022Character::GetPickupItem(AItem* item)
 		PickupSpeed(speed);
 		return;
 	}
+}
+
+void ACyberpunk2022Character::UpdateWalkSpeed(float value)
+{
+	GetCharacterMovement()->MaxWalkSpeed = _baseWalkSpeed * value;
 }

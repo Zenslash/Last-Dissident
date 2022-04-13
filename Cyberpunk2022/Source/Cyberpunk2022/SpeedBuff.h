@@ -13,5 +13,9 @@ UCLASS()
 class CYBERPUNK2022_API USpeedBuff : public UBuff
 {
 	GENERATED_BODY()
-	
+
+public:
+
+	void ApplyEffect() override;
+	void RemoveEffect() override;
 };

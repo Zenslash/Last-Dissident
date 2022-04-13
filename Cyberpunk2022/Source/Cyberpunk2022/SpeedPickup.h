@@ -36,7 +36,15 @@ private:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Ammo, meta = (AllowPrivateAccess = "true"))
 		class USphereComponent* _collisionSphere;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Buff, meta = (AllowPrivateAccess = "true"))
+		float _speedMultiplier;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Buff, meta = (AllowPrivateAccess = "true"))
+		float _buffDuration;
+
 public:
 	FORCEINLINE UStaticMeshComponent* GetPickupMesh() const { return _pickupMesh; }
+	FORCEINLINE float GetSpeedMultiplier() const { return _speedMultiplier; }
+	FORCEINLINE float GetBuffDuration() const { return _buffDuration; }
 	
 };
