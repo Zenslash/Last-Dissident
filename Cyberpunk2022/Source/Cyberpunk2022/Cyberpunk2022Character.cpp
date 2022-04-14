@@ -75,18 +75,17 @@ ACyberpunk2022Character::ACyberpunk2022Character()
 	GunOffset = FVector(100.0f, 0.0f, 10.0f);
 
 	_handSceneComponent = CreateDefaultSubobject<USceneComponent>(TEXT("HandSceneComp"));
-
-	_characterStats = NewObject<UCharacterStats>();
-	_characterStats->SetSpeedMultiplier(1.f);
-	_characterStats->SetDamageMultiplier(1.f);
-	_characterStats->SetDamageResistMultiplier(0.f);
-
 }
 
 void ACyberpunk2022Character::BeginPlay()
 {
 	// Call the base class  
 	Super::BeginPlay();
+
+	_characterStats = NewObject<UCharacterStats>();
+	_characterStats->SetSpeedMultiplier(1.f);
+	_characterStats->SetDamageMultiplier(1.f);
+	_characterStats->SetDamageResistMultiplier(0.f);
 
 	// Show or hide the two versions of the gun based on whether or not we're using motion controllers.
 	Mesh1P->SetHiddenInGame(false, true);
