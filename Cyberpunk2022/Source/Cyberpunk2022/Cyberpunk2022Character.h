@@ -235,6 +235,7 @@ private:
 	FTimerHandle _crosshairShootTimer;
 	UHealthComponent* _healthComponent;
 
+	UPROPERTY()
 	UCharacterStats* _characterStats;
 	UBuffComponent* _buffComponent;
 	float _baseWalkSpeed;
