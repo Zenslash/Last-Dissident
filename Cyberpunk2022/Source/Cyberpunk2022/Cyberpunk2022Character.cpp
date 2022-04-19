@@ -294,6 +294,10 @@ void ACyberpunk2022Character::FireWeapon()
 
 		StartFireTimer();
 	}
+	else
+	{
+		OnPlayerEmptyEvent.Broadcast();
+	}
 }
 
 void ACyberpunk2022Character::PlayFireSound() const
@@ -312,6 +316,8 @@ void ACyberpunk2022Character::SendBullet()
 	{
 		UE_LOG(LogTemp, Error, TEXT("Weapon doesnt have USkeletalMeshComponent!"));
 	}
+
+	OnPlayerShotEvent.Broadcast();
 
 	const USkeletalMeshSocket* barrelSocket = itemMesh->GetSocketByName("BarrelPoint");
 	if (barrelSocket)
@@ -500,6 +506,7 @@ void ACyberpunk2022Character::ReleaseClip()
 
 void ACyberpunk2022Character::FinishReloading()
 {
+	OnPlayerReloadEvent.Broadcast();
 	_combatState = ECombatState::ECS_Unoccupied;
 
 	if(_equippedWeapon == nullptr)

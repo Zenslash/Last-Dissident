@@ -19,6 +19,10 @@ class UMotionControllerComponent;
 class UAnimMontage;
 class USoundBase;
 
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnPlayerShotSignature);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnPlayerReloadSignature);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnPlayerEmptySignature);
+
 UENUM(BlueprintType)
 enum class ECombatState : uint8
 {
@@ -81,6 +85,13 @@ public:
 	/** Whether to use motion controller location for aiming. */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
 	uint8 bUsingMotionControllers : 1;
+
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerShotSignature OnPlayerShotEvent;
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerReloadSignature OnPlayerReloadEvent;
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerEmptySignature OnPlayerEmptyEvent;
 
 protected:
 	
