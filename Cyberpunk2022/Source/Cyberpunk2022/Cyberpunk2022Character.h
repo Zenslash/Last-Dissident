@@ -19,9 +19,8 @@ class UMotionControllerComponent;
 class UAnimMontage;
 class USoundBase;
 
-DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnPlayerShotSignature);
-DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnPlayerReloadSignature);
-DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnPlayerEmptySignature);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnPlayerStateSignature);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnPlayerTimedStateSignature, float, time);
 
 UENUM(BlueprintType)
 enum class ECombatState : uint8
@@ -86,12 +85,28 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
 	uint8 bUsingMotionControllers : 1;
 
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = Callback)
+	int _lowAmmoBorder = 90;
+
 	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
-	FOnPlayerShotSignature OnPlayerShotEvent;
+	FOnPlayerStateSignature OnPlayerShotEvent;
 	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
-	FOnPlayerReloadSignature OnPlayerReloadEvent;
+	FOnPlayerStateSignature OnPlayerReloadEvent;
 	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
-	FOnPlayerEmptySignature OnPlayerEmptyEvent;
+	FOnPlayerStateSignature OnPlayerEmptyEvent;
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerStateSignature OnPlayerLowAmmoEvent;
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerStateSignature OnPlayerFulfillAmmoEvent;
+
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerStateSignature OnPlayerHealthPickupEvent;
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerTimedStateSignature OnPlayerShieldPickupEvent;
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerTimedStateSignature OnPlayerDamagePickupEvent;
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerTimedStateSignature OnPlayerSpeedPickupEvent;
 
 protected:
 	

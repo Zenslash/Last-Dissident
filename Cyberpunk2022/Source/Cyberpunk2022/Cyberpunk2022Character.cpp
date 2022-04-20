@@ -535,6 +535,11 @@ void ACyberpunk2022Character::FinishReloading()
 			carriedAmmo -= magEmptySpace;
 		}
 		_ammoMap.Add(ammoType, carriedAmmo);
+
+		if(carriedAmmo <= _lowAmmoBorder)
+		{
+			OnPlayerLowAmmoEvent.Broadcast();
+		}
 	}
 }
 
@@ -696,6 +701,11 @@ void ACyberpunk2022Character::PickupAmmo(AAmmo* ammo)
 		int32 ammoCount{ _ammoMap[ammo->GetAmmoType()] };
 		ammoCount += ammo->GetItemCount();
 		_ammoMap[ammo->GetAmmoType()] = ammoCount;
+
+		if(ammoCount > _lowAmmoBorder)
+		{
+			OnPlayerFulfillAmmoEvent.Broadcast();
+		}
 	}
 
 	if(_equippedWeapon->GetAmmoType() == ammo->GetAmmoType())
@@ -713,6 +723,7 @@ void ACyberpunk2022Character::PickupHealth(AHealthPickup* health)
 {
 	if(_healthComponent)
 	{
+		OnPlayerHealthPickupEvent.Broadcast();
 		_healthComponent->UpdateHealth(health->GetItemCount());
 	}
 	else
