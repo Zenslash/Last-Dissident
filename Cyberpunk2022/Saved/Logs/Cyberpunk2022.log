@@ -2009,3 +2009,1425 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.24-08.05.09:936][308]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/wall/door/close/SM_door_left.SM_door_left
 [2022.04.24-08.05.09:936][308]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/wall/door/close/SM_door.SM_door
 [2022.04.24-08.05.09:936][308]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022
+[2022.04.24-08.08.41:730][398]LogTemp: Warning: Select a mesh. Switch tools to paint vertex colors, blend between textures, or paint directly onto a texture file.
+[2022.04.24-08.08.43:515][498]LogTemp: Warning: Paint vertex colors on selected meshes.  Use the Color View Mode to preview your applied changes.
+[2022.04.24-08.09.20:108][410]LogEditorViewport: Clicking on Actor (LMB): BP_InteractableDoor_C (BP_InteractableDoor6)
+[2022.04.24-08.09.22:849][563]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.04.24-08.09.23:846][612]LogEditorViewport: Clicking on Actor (LMB): BP_InteractableDoor_C (BP_InteractableDoor6)
+[2022.04.24-08.09.31:505][ 46]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.04.24-08.09.33:150][135]LogEditorViewport: Clicking on Actor (LMB): BP_DoorPanel_C (BP_DoorPanel6)
+[2022.04.24-08.09.34:443][200]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/InteractableDoor/BP_DoorPanel.BP_DoorPanel
+[2022.04.24-08.09.38:269][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan11)
+[2022.04.24-08.10.14:313][ 24]BlueprintLog: New page: Compile BP_DoorPanel
+[2022.04.24-08.10.14:316][ 24]LogBlueprint: Error: [AssetLog] D:\UE4\test\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\InteractableDoor\BP_DoorPanel.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2022.04.24-08.10.14:378][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.04.24-08.10.19:595][281]LogEditorTransaction: Undo Remove Components
+[2022.04.24-08.11.36:382][ 92]BlueprintLog: New page: Compile BP_DoorPanel
+[2022.04.24-08.11.36:386][ 92]LogBlueprint: Error: [AssetLog] D:\UE4\test\WargamingAcademy\Cyberpunk2022\Content\FirstPersonCPP\InteractableDoor\BP_DoorPanel.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2022.04.24-08.11.36:442][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2022.04.24-08.11.38:388][181]LogEditorTransaction: Undo Rename Component Variable
+[2022.04.24-08.11.39:265][207]LogEditorTransaction: Undo Remove Components
+[2022.04.24-08.12.04:675][416]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UPrimitiveComponent::SetMaterial' [Не найден указанный модуль.]
+[2022.04.24-08.12.11:404][762]BlueprintLog: New page: Compile BP_DoorPanel
+[2022.04.24-08.12.11:479][762]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2022.04.24-08.12.32:553][850]BlueprintLog: New page: Compile BP_DoorPanel
+[2022.04.24-08.12.32:617][850]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.04.24-08.12.35:680][996]LogSlate: Window 'BP_DoorPanel' being destroyed
+[2022.04.24-08.12.35:687][996]LogSlate: Window 'BP_DoorPanel' being destroyed
+[2022.04.24-08.12.35:696][996]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.12.35:696][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-08.12.37:605][ 97]LogEditorViewport: Clicking on Actor (LMB): BP_DoorPanel_C (BP_DoorPanel6)
+[2022.04.24-08.12.38:998][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan11)
+[2022.04.24-08.12.40:028][219]Cmd: DELETE
+[2022.04.24-08.12.40:028][219]Cmd: ACTOR DELETE
+[2022.04.24-08.12.40:172][219]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.12.40:201][219]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.04.24-08.12.40:204][219]LogEditorActor: Deleted 1 Actors (0.176 secs)
+[2022.04.24-08.12.40:597][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_222)
+[2022.04.24-08.12.41:394][285]Cmd: SELECT NONE
+[2022.04.24-08.12.41:785][307]LogEditorViewport: Clicking on Actor (LMB): BP_DoorPanel_C (BP_DoorPanel6)
+[2022.04.24-08.13.01:501][270]LogEditorViewport: Clicking on Actor (LMB): BP_DoorPanel_C (BP_DoorPanel7)
+[2022.04.24-08.13.14:578][890]LogEditorViewport: Clicking on Actor (LMB): BP_DoorPanel_C (BP_DoorPanel9)
+[2022.04.24-08.13.32:398][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan10)
+[2022.04.24-08.13.33:300][846]Cmd: DELETE
+[2022.04.24-08.13.33:301][846]Cmd: ACTOR DELETE
+[2022.04.24-08.13.33:478][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.13.33:510][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.04.24-08.13.33:519][846]LogEditorActor: Deleted 1 Actors (0.219 secs)
+[2022.04.24-08.13.33:951][871]LogEditorViewport: Clicking on Actor (LMB): BP_DoorPanel_C (BP_DoorPanel8)
+[2022.04.24-08.13.44:699][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan9)
+[2022.04.24-08.13.45:446][462]Cmd: DELETE
+[2022.04.24-08.13.45:446][462]Cmd: ACTOR DELETE
+[2022.04.24-08.13.45:582][462]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.13.45:610][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.04.24-08.13.45:616][462]LogEditorActor: Deleted 1 Actors (0.169 secs)
+[2022.04.24-08.13.51:902][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan2)
+[2022.04.24-08.13.52:651][877]Cmd: DELETE
+[2022.04.24-08.13.52:651][877]Cmd: ACTOR DELETE
+[2022.04.24-08.13.52:786][877]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.13.52:812][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.04.24-08.13.52:816][877]LogEditorActor: Deleted 1 Actors (0.165 secs)
+[2022.04.24-08.13.59:074][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan5)
+[2022.04.24-08.13.59:834][289]Cmd: DELETE
+[2022.04.24-08.13.59:834][289]Cmd: ACTOR DELETE
+[2022.04.24-08.13.59:970][289]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.13.59:995][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.24-08.13.59:999][289]LogEditorActor: Deleted 1 Actors (0.165 secs)
+[2022.04.24-08.14.02:222][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan6)
+[2022.04.24-08.14.03:146][469]Cmd: DELETE
+[2022.04.24-08.14.03:146][469]Cmd: ACTOR DELETE
+[2022.04.24-08.14.03:282][469]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.14.03:308][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.04.24-08.14.03:309][469]LogEditorActor: Deleted 1 Actors (0.163 secs)
+[2022.04.24-08.14.05:544][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan8)
+[2022.04.24-08.14.06:289][640]Cmd: DELETE
+[2022.04.24-08.14.06:289][640]Cmd: ACTOR DELETE
+[2022.04.24-08.14.06:425][640]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.14.06:450][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.24-08.14.06:451][640]LogEditorActor: Deleted 1 Actors (0.162 secs)
+[2022.04.24-08.14.09:409][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan18)
+[2022.04.24-08.14.10:817][876]Cmd: DELETE
+[2022.04.24-08.14.10:817][876]Cmd: ACTOR DELETE
+[2022.04.24-08.14.10:953][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.14.10:978][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.04.24-08.14.10:980][876]LogEditorActor: Deleted 1 Actors (0.163 secs)
+[2022.04.24-08.14.11:646][915]LogEditorViewport: Clicking on Actor (LMB): BP_DoorPanel_C (BP_DoorPanel2)
+[2022.04.24-08.14.20:444][342]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.24-08.14.20:453][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.24-08.14.20:453][342]PIE: New page: PIE session: cyberpunk2022 (24 апр. 2022 г., 14:14:20)
+[2022.04.24-08.14.20:482][342]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022
+[2022.04.24-08.14.20:949][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.467372s)
+[2022.04.24-08.14.20:950][342]LogAIModule: Creating AISystem for world cyberpunk2022
+[2022.04.24-08.14.20:951][342]LogPlayLevel: PIE: World Init took: (0.001718s)
+[2022.04.24-08.14.20:951][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022 to /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022 (0.469594s)
+[2022.04.24-08.14.20:979][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.04.24-08.14.20:982][342]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.04.24-08.14.20:983][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.24-08.14.20:983][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.24-08.14.20:983][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.24-08.14.20:983][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.24-08.14.20:983][342]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.24-08.14.20:983][342]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.24-08.14.20:983][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.24-08.14.20:983][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.24-08.14.20:983][342]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.24-08.14.20:983][342]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.24-08.14.20:983][342]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.24-08.14.20:983][342]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.24-08.14.20:986][342]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.24-08.14.20:986][342]LogAudioMixer: Display: 1: FrontRight
+[2022.04.24-08.14.21:014][342]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.04.24-08.14.21:014][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.24-08.14.21:014][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.24-08.14.21:014][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.24-08.14.21:015][342]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.24-08.14.21:015][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.24-08.14.21:015][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.24-08.14.21:017][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.24-08.14.21:017][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.24-08.14.21:017][342]LogInit: FAudioDevice initialized.
+[2022.04.24-08.14.21:017][342]LogAudio: Display: Audio Device (ID: 10) registered with world 'cyberpunk2022'.
+[2022.04.24-08.14.21:043][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-08.14.21:044][342]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2022.04.24-08.14.21:150][342]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022 up for play (max tick rate 60) at 2022.04.24-11.14.21
+[2022.04.24-08.14.21:154][342]LogWorld: Bringing up level for play took: 0.109757
+[2022.04.24-08.14.21:154][342]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.04.24-08.14.21:169][342]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.24-08.14.21:174][342]PIE: Server logged in
+[2022.04.24-08.14.21:176][342]PIE: Play in editor total start time 0,724 seconds.
+[2022.04.24-08.14.23:525][419]LogScript: Warning: Accessed None trying to read property Target
+	BP_Turret1_C /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BP_Turret1_2
+	Function /Game/FirstPersonCPP/AI/Turret/BP_Turret1.BP_Turret1_C:ExecuteUbergraph_BP_Turret1:03E5
+[2022.04.24-08.14.23:525][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Blueprint:  BP_Turret1 Function:  Execute Ubergraph BP Turret 1 Graph:  EventGraph Node:  SetWorldRotation
+[2022.04.24-08.14.23:525][419]LogScript: Warning: Accessed None trying to read property Target
+	BP_Turret1_C /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BP_Turret1_2
+	Function /Game/FirstPersonCPP/AI/Turret/BP_Turret1.BP_Turret1_C:ExecuteUbergraph_BP_Turret1:05E0
+[2022.04.24-08.14.23:525][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Blueprint:  BP_Turret1 Function:  Execute Ubergraph BP Turret 1 Graph:  EventGraph Node:  SetWorldRotation
+[2022.04.24-08.14.23:525][419]LogScript: Warning: Accessed None trying to read property Target
+	BP_Turret1_C /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BP_Turret1_2
+	Function /Game/FirstPersonCPP/AI/Turret/BP_Turret1.BP_Turret1_C:ExecuteUbergraph_BP_Turret1:0612
+[2022.04.24-08.14.23:525][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Blueprint:  BP_Turret1 Function:  Execute Ubergraph BP Turret 1 Graph:  EventGraph Node:  SetWorldRotation
+[2022.04.24-08.14.26:034][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-08.14.26:034][515]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022
+[2022.04.24-08.14.26:034][515]LogSlate: Window 'Cyberpunk2022 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.24-08.14.26:048][515]LogWorld: UWorld::CleanupWorld for cyberpunk2022, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.14.26:072][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-08.14.26:088][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.24-08.14.26:106][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-08.14.26:150][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.24-08.14.26:151][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.24-08.14.26:152][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.24-08.14.26:179][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.04.24-08.14.26:303][516]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.04.24-08.14.27:385][559]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-08.14.27:391][559]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-08.14.29:844][660]LogEditorViewport: Clicking on Actor (LMB): BP_DoorPanel_C (BP_DoorPanel5)
+[2022.04.24-08.14.43:228][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan17)
+[2022.04.24-08.14.44:123][296]Cmd: DELETE
+[2022.04.24-08.14.44:123][296]Cmd: ACTOR DELETE
+[2022.04.24-08.14.44:263][296]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.14.44:290][296]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.04.24-08.14.44:297][296]LogEditorActor: Deleted 1 Actors (0.173 secs)
+[2022.04.24-08.14.48:924][541]LogEditorViewport: Clicking on Actor (LMB): BP_InteractableDoor_C (BP_InteractableDoor2)
+[2022.04.24-08.14.52:901][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan16)
+[2022.04.24-08.14.54:943][833]Cmd: DELETE
+[2022.04.24-08.14.54:943][833]Cmd: ACTOR DELETE
+[2022.04.24-08.14.55:082][833]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.14.55:109][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.04.24-08.14.55:112][833]LogEditorActor: Deleted 1 Actors (0.169 secs)
+[2022.04.24-08.14.55:573][856]LogEditorViewport: Clicking on Actor (LMB): BP_DoorPanel_C (BP_DoorPanel4)
+[2022.04.24-08.15.10:672][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CopierMFP)
+[2022.04.24-08.15.19:738][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_floor_p6)
+[2022.04.24-08.15.22:411][ 48]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.24-08.15.22:419][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.24-08.15.22:419][ 48]PIE: New page: PIE session: cyberpunk2022 (24 апр. 2022 г., 14:15:22)
+[2022.04.24-08.15.22:419][ 48]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022
+[2022.04.24-08.15.22:889][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.470030s)
+[2022.04.24-08.15.22:890][ 48]LogAIModule: Creating AISystem for world cyberpunk2022
+[2022.04.24-08.15.22:891][ 48]LogPlayLevel: PIE: World Init took: (0.001749s)
+[2022.04.24-08.15.22:892][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022 to /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022 (0.472234s)
+[2022.04.24-08.15.22:919][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.04.24-08.15.22:926][ 48]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.04.24-08.15.22:926][ 48]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.24-08.15.22:926][ 48]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.24-08.15.22:926][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.24-08.15.22:926][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.24-08.15.22:926][ 48]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.24-08.15.22:926][ 48]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.24-08.15.22:926][ 48]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.24-08.15.22:926][ 48]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.24-08.15.22:926][ 48]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.24-08.15.22:926][ 48]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.24-08.15.22:926][ 48]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.24-08.15.22:926][ 48]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.24-08.15.22:928][ 48]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.24-08.15.22:928][ 48]LogAudioMixer: Display: 1: FrontRight
+[2022.04.24-08.15.22:957][ 48]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.04.24-08.15.22:957][ 48]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.24-08.15.22:957][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.24-08.15.22:957][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.24-08.15.22:958][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.24-08.15.22:958][ 48]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.24-08.15.22:958][ 48]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.24-08.15.22:960][ 48]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.24-08.15.22:960][ 48]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.24-08.15.22:960][ 48]LogInit: FAudioDevice initialized.
+[2022.04.24-08.15.22:960][ 48]LogAudio: Display: Audio Device (ID: 11) registered with world 'cyberpunk2022'.
+[2022.04.24-08.15.22:987][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-08.15.22:987][ 48]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2022.04.24-08.15.23:097][ 48]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022 up for play (max tick rate 60) at 2022.04.24-11.15.23
+[2022.04.24-08.15.23:101][ 48]LogWorld: Bringing up level for play took: 0.113317
+[2022.04.24-08.15.23:102][ 48]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.04.24-08.15.23:118][ 48]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.24-08.15.23:124][ 48]PIE: Server logged in
+[2022.04.24-08.15.23:126][ 48]PIE: Play in editor total start time 0,708 seconds.
+[2022.04.24-08.15.24:854][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-08.15.24:854][101]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022
+[2022.04.24-08.15.24:855][101]LogSlate: Window 'Cyberpunk2022 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.24-08.15.24:878][101]LogWorld: UWorld::CleanupWorld for cyberpunk2022, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.15.24:900][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-08.15.24:912][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.24-08.15.24:940][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-08.15.24:982][101]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.24-08.15.24:983][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.24-08.15.24:984][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.24-08.15.25:032][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.04.24-08.15.25:072][102]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.04.24-08.15.27:314][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan15)
+[2022.04.24-08.15.29:045][271]Cmd: DELETE
+[2022.04.24-08.15.29:045][271]Cmd: ACTOR DELETE
+[2022.04.24-08.15.29:181][271]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.15.29:209][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.04.24-08.15.29:211][271]LogEditorActor: Deleted 1 Actors (0.165 secs)
+[2022.04.24-08.15.29:547][286]LogEditorViewport: Clicking on Actor (LMB): BP_DoorPanel_C (BP_DoorPanel3)
+[2022.04.24-08.15.53:241][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan14)
+[2022.04.24-08.15.54:015][310]Cmd: DELETE
+[2022.04.24-08.15.54:015][310]Cmd: ACTOR DELETE
+[2022.04.24-08.15.54:155][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.15.54:183][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.04.24-08.15.54:189][310]LogEditorActor: Deleted 1 Actors (0.173 secs)
+[2022.04.24-08.15.55:938][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan13)
+[2022.04.24-08.15.56:477][406]Cmd: DELETE
+[2022.04.24-08.15.56:477][406]Cmd: ACTOR DELETE
+[2022.04.24-08.15.56:615][406]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.15.56:641][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.04.24-08.15.56:643][406]LogEditorActor: Deleted 1 Actors (0.165 secs)
+[2022.04.24-08.15.57:775][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan)
+[2022.04.24-08.15.58:560][503]Cmd: DELETE
+[2022.04.24-08.15.58:560][503]Cmd: ACTOR DELETE
+[2022.04.24-08.15.58:695][503]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.15.58:720][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.04.24-08.15.58:721][503]LogEditorActor: Deleted 1 Actors (0.162 secs)
+[2022.04.24-08.16.01:203][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan12)
+[2022.04.24-08.16.02:176][696]Cmd: DELETE
+[2022.04.24-08.16.02:176][696]Cmd: ACTOR DELETE
+[2022.04.24-08.16.02:311][696]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.16.02:336][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.04.24-08.16.02:337][696]LogEditorActor: Deleted 1 Actors (0.161 secs)
+[2022.04.24-08.16.07:505][961]LogEditorViewport: Clicking on Actor (LMB): BP_InteractableDoor_C (BP_InteractableDoor4)
+[2022.04.24-08.16.22:143][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_door_close2)
+[2022.04.24-08.16.23:130][664]Cmd: DELETE
+[2022.04.24-08.16.23:130][664]Cmd: ACTOR DELETE
+[2022.04.24-08.16.23:266][664]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.16.23:296][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.04.24-08.16.23:303][664]LogEditorActor: Deleted 1 Actors (0.173 secs)
+[2022.04.24-08.16.23:673][685]LogEditorViewport: Clicking on Actor (LMB): BP_InteractableDoor_C (BP_InteractableDoor8)
+[2022.04.24-08.16.41:698][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan20)
+[2022.04.24-08.16.42:441][587]Cmd: DELETE
+[2022.04.24-08.16.42:441][587]Cmd: ACTOR DELETE
+[2022.04.24-08.16.42:578][587]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.16.42:608][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.04.24-08.16.42:614][587]LogEditorActor: Deleted 1 Actors (0.173 secs)
+[2022.04.24-08.16.44:607][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan3)
+[2022.04.24-08.16.45:340][685]Cmd: DELETE
+[2022.04.24-08.16.45:340][685]Cmd: ACTOR DELETE
+[2022.04.24-08.16.45:477][685]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.16.45:501][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.24-08.16.45:502][685]LogEditorActor: Deleted 1 Actors (0.162 secs)
+[2022.04.24-08.16.49:094][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan22)
+[2022.04.24-08.16.50:332][910]Cmd: DELETE
+[2022.04.24-08.16.50:332][910]Cmd: ACTOR DELETE
+[2022.04.24-08.16.50:468][910]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.16.50:494][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.04.24-08.16.50:495][910]LogEditorActor: Deleted 1 Actors (0.163 secs)
+[2022.04.24-08.16.52:085][967]LogEditorViewport: Clicking on Actor (LMB): JumpPad_C (JumpPad4)
+[2022.04.24-08.16.52:825][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan24)
+[2022.04.24-08.16.54:512][ 48]Cmd: DELETE
+[2022.04.24-08.16.54:512][ 48]Cmd: ACTOR DELETE
+[2022.04.24-08.16.54:649][ 48]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.16.54:675][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.04.24-08.16.54:677][ 48]LogEditorActor: Deleted 1 Actors (0.165 secs)
+[2022.04.24-08.16.56:398][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan23)
+[2022.04.24-08.16.57:187][135]Cmd: DELETE
+[2022.04.24-08.16.57:187][135]Cmd: ACTOR DELETE
+[2022.04.24-08.16.57:330][135]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.16.57:355][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.04.24-08.16.57:356][135]LogEditorActor: Deleted 1 Actors (0.169 secs)
+[2022.04.24-08.16.59:304][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan21)
+[2022.04.24-08.16.59:987][240]Cmd: DELETE
+[2022.04.24-08.16.59:987][240]Cmd: ACTOR DELETE
+[2022.04.24-08.17.00:136][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.17.00:162][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.04.24-08.17.00:163][240]LogEditorActor: Deleted 1 Actors (0.176 secs)
+[2022.04.24-08.17.02:481][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan26)
+[2022.04.24-08.17.03:271][355]Cmd: DELETE
+[2022.04.24-08.17.03:271][355]Cmd: ACTOR DELETE
+[2022.04.24-08.17.03:412][355]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.17.03:436][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.24-08.17.03:438][355]LogEditorActor: Deleted 1 Actors (0.167 secs)
+[2022.04.24-08.17.05:404][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan25)
+[2022.04.24-08.17.06:254][453]Cmd: DELETE
+[2022.04.24-08.17.06:254][453]Cmd: ACTOR DELETE
+[2022.04.24-08.17.06:389][453]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.17.06:414][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.24-08.17.06:415][453]LogEditorActor: Deleted 1 Actors (0.162 secs)
+[2022.04.24-08.17.10:830][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan27)
+[2022.04.24-08.17.11:536][713]Cmd: DELETE
+[2022.04.24-08.17.11:536][713]Cmd: ACTOR DELETE
+[2022.04.24-08.17.11:672][713]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.17.11:698][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.04.24-08.17.11:699][713]LogEditorActor: Deleted 1 Actors (0.162 secs)
+[2022.04.24-08.17.12:619][767]LogEditorViewport: Clicking on Actor (LMB): BP_DoorPanel_C (BP_DoorPanel)
+[2022.04.24-08.17.15:670][921]Cmd: DELETE
+[2022.04.24-08.17.15:670][921]Cmd: ACTOR DELETE
+[2022.04.24-08.17.15:808][921]LogEditorActor: Deleted Actor: BP_DoorPanel_C
+[2022.04.24-08.17.15:834][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.04.24-08.17.15:836][921]LogEditorActor: Deleted 1 Actors (0.166 secs)
+[2022.04.24-08.17.20:816][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan19)
+[2022.04.24-08.17.21:556][182]Cmd: DELETE
+[2022.04.24-08.17.21:556][182]Cmd: ACTOR DELETE
+[2022.04.24-08.17.21:691][182]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.17.21:717][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.24-08.17.21:721][182]LogEditorActor: Deleted 1 Actors (0.165 secs)
+[2022.04.24-08.17.24:168][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EyeScan4)
+[2022.04.24-08.17.24:863][337]Cmd: DELETE
+[2022.04.24-08.17.24:863][337]Cmd: ACTOR DELETE
+[2022.04.24-08.17.25:002][337]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-08.17.25:028][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.04.24-08.17.25:029][337]LogEditorActor: Deleted 1 Actors (0.166 secs)
+[2022.04.24-08.17.33:243][704]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.24-08.17.33:252][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.24-08.17.33:252][704]PIE: New page: PIE session: cyberpunk2022 (24 апр. 2022 г., 14:17:33)
+[2022.04.24-08.17.33:291][704]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022
+[2022.04.24-08.17.33:772][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.479795s)
+[2022.04.24-08.17.33:773][704]LogAIModule: Creating AISystem for world cyberpunk2022
+[2022.04.24-08.17.33:774][704]LogPlayLevel: PIE: World Init took: (0.001902s)
+[2022.04.24-08.17.33:774][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022 to /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022 (0.482248s)
+[2022.04.24-08.17.33:802][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.04.24-08.17.33:804][704]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.04.24-08.17.33:804][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.24-08.17.33:804][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.24-08.17.33:804][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.24-08.17.33:804][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.24-08.17.33:804][704]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.24-08.17.33:804][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.24-08.17.33:804][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.24-08.17.33:804][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.24-08.17.33:804][704]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.24-08.17.33:804][704]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.24-08.17.33:804][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.24-08.17.33:804][704]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.24-08.17.33:807][704]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.24-08.17.33:807][704]LogAudioMixer: Display: 1: FrontRight
+[2022.04.24-08.17.33:839][704]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.04.24-08.17.33:840][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.24-08.17.33:840][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.24-08.17.33:840][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.24-08.17.33:840][704]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.24-08.17.33:840][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.24-08.17.33:840][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.24-08.17.33:842][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.24-08.17.33:842][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.24-08.17.33:842][704]LogInit: FAudioDevice initialized.
+[2022.04.24-08.17.33:842][704]LogAudio: Display: Audio Device (ID: 12) registered with world 'cyberpunk2022'.
+[2022.04.24-08.17.33:874][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-08.17.33:875][704]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2022.04.24-08.17.33:995][704]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022 up for play (max tick rate 60) at 2022.04.24-11.17.33
+[2022.04.24-08.17.34:000][704]LogWorld: Bringing up level for play took: 0.124602
+[2022.04.24-08.17.34:000][704]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.04.24-08.17.34:016][704]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.24-08.17.34:021][704]PIE: Server logged in
+[2022.04.24-08.17.34:023][704]PIE: Play in editor total start time 0,772 seconds.
+[2022.04.24-08.17.36:877][784]LogScript: Warning: Accessed None trying to read property Target
+	BP_Turret1_C /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BP_Turret1_2
+	Function /Game/FirstPersonCPP/AI/Turret/BP_Turret1.BP_Turret1_C:ExecuteUbergraph_BP_Turret1:03E5
+[2022.04.24-08.17.36:877][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Blueprint:  BP_Turret1 Function:  Execute Ubergraph BP Turret 1 Graph:  EventGraph Node:  SetWorldRotation
+[2022.04.24-08.17.36:877][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Blueprint:  BP_Turret1 Function:  Execute Ubergraph BP Turret 1 Graph:  EventGraph Node:  SetWorldRotation
+[2022.04.24-08.17.36:877][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Blueprint:  BP_Turret1 Function:  Execute Ubergraph BP Turret 1 Graph:  EventGraph Node:  SetWorldRotation
+[2022.04.24-08.17.40:224][883]LogBlueprintUserMessages: [BotMaster_C_1] 80
+[2022.04.24-08.17.40:860][899]LogBlueprintUserMessages: [BotMaster_C_3] 80
+[2022.04.24-08.17.41:621][919]LogBlueprintUserMessages: [BotMaster_C_2] 80
+[2022.04.24-08.17.44:677][999]LogBlueprintUserMessages: [BotMaster_C_1] 50
+[2022.04.24-08.17.44:783][  2]LogBlueprintUserMessages: [BotMaster_C_1] 20
+[2022.04.24-08.17.44:900][  5]LogBlueprintUserMessages: [BotMaster_C_1] -10
+[2022.04.24-08.17.44:900][  5]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_1.FP_Gun'
+[2022.04.24-08.17.45:582][ 23]LogBlueprintUserMessages: [BotMaster_C_3] 60
+[2022.04.24-08.17.45:696][ 26]LogBlueprintUserMessages: [BotMaster_C_3] 30
+[2022.04.24-08.17.46:038][ 35]LogBlueprintUserMessages: [BotMaster_C_3] 0
+[2022.04.24-08.17.46:038][ 35]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_3.FP_Gun'
+[2022.04.24-08.17.48:796][108]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.17.51:883][196]LogBlueprintUserMessages: [JumpPad7] X=-44.321 Y=-898.906 Z=0.000
+[2022.04.24-08.17.51:883][196]LogBlueprintUserMessages: [JumpPad7] X=0.000 Y=0.000 Z=0.000
+[2022.04.24-08.17.54:014][261]LogBlueprintUserMessages: [BotMaster_C_0] 80
+[2022.04.24-08.17.56:751][354]LogBlueprintUserMessages: [BotMaster_C_4] 80
+[2022.04.24-08.17.58:135][393]LogBlueprintUserMessages: [BotMaster_C_4] 60
+[2022.04.24-08.18.02:258][517]LogBlueprintUserMessages: [BP_Barrel12_44] bot
+[2022.04.24-08.18.02:258][517]LogBlueprintUserMessages: [BotMaster_C_2] -20
+[2022.04.24-08.18.02:258][517]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_2.FP_Gun'
+[2022.04.24-08.18.02:259][517]LogBlueprintUserMessages: [BP_Barrel12_44] bot
+[2022.04.24-08.18.02:259][517]LogBlueprintUserMessages: [BotMaster_C_4] -40
+[2022.04.24-08.18.02:260][517]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_4.FP_Gun'
+[2022.04.24-08.18.02:261][517]LogScript: Warning: UGameplayStatics::SpawnDecalAttached: NULL AttachComponent specified!
+[2022.04.24-08.18.02:477][523]LogBlueprintUserMessages: [BP_Barrel12_44] Hit
+[2022.04.24-08.18.03:684][559]LogBlueprintUserMessages: [BotMaster_C_0] 50
+[2022.04.24-08.18.05:688][618]LogBlueprintUserMessages: [BotMaster_C_0] 20
+[2022.04.24-08.18.05:788][621]LogBlueprintUserMessages: [BotMaster_C_0] -10
+[2022.04.24-08.18.05:788][621]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_0.FP_Gun'
+[2022.04.24-08.18.06:535][643]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.18.07:884][683]LogBlueprintUserMessages: [AI_ControllerTurret_C_0] потеря
+[2022.04.24-08.18.13:174][841]LogBlueprintUserMessages: [AI_ControllerTurret_C_0] потеря
+[2022.04.24-08.18.17:951][976]LogBlueprintUserMessages: [BotMaster_C_9] 80
+[2022.04.24-08.18.22:038][ 92]LogBlueprintUserMessages: [BotMaster_C_7] 80
+[2022.04.24-08.18.24:288][155]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2022.04.24-08.18.24:521][162]LogBlueprintUserMessages: [BotMaster_C_6] 80
+[2022.04.24-08.18.24:852][172]LogBlueprintUserMessages: [BotMaster_C_14] 90
+[2022.04.24-08.18.24:891][173]LogBlueprintUserMessages: [BotMaster_C_14] 80
+[2022.04.24-08.18.25:039][177]LogBlueprintUserMessages: [BotMaster_C_14] 70
+[2022.04.24-08.18.28:211][263]LogBlueprintUserMessages: [BotMaster_C_5] 80
+[2022.04.24-08.18.29:374][295]LogBlueprintUserMessages: [BotMaster_C_6] 50
+[2022.04.24-08.18.29:492][298]LogBlueprintUserMessages: [BotMaster_C_6] 20
+[2022.04.24-08.18.31:101][341]LogBlueprintUserMessages: [BotMaster_C_13] 70
+[2022.04.24-08.18.31:214][344]LogBlueprintUserMessages: [BotMaster_C_13] 40
+[2022.04.24-08.18.31:327][347]LogBlueprintUserMessages: [BotMaster_C_13] 10
+[2022.04.24-08.18.31:925][363]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.18.33:473][403]LogBlueprintUserMessages: [BotMaster_C_6] 0
+[2022.04.24-08.18.33:474][403]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_6.FP_Gun'
+[2022.04.24-08.18.42:635][649]LogBlueprintUserMessages: [BotMaster_C_9] 50
+[2022.04.24-08.18.42:986][658]LogBlueprintUserMessages: [BotMaster_C_9] 20
+[2022.04.24-08.18.44:273][693]LogBlueprintUserMessages: [BotMaster_C_9] -10
+[2022.04.24-08.18.44:274][693]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_9.FP_Gun'
+[2022.04.24-08.18.45:007][713]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.18.48:307][810]LogBlueprintUserMessages: [BotMaster_C_5] 60
+[2022.04.24-08.18.48:856][827]LogBlueprintUserMessages: [BotMaster_C_5] 40
+[2022.04.24-08.18.49:520][845]LogBlueprintUserMessages: [BotMaster_C_7] 60
+[2022.04.24-08.18.49:971][857]LogBlueprintUserMessages: [BotMaster_C_7] 30
+[2022.04.24-08.18.50:401][869]LogBlueprintUserMessages: [BotMaster_C_7] 10
+[2022.04.24-08.18.50:766][878]LogBlueprintUserMessages: [BotMaster_C_7] -20
+[2022.04.24-08.18.50:766][878]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_7.FP_Gun'
+[2022.04.24-08.18.51:548][901]LogBlueprintUserMessages: [BotMaster_C_10] 80
+[2022.04.24-08.18.51:820][909]LogBlueprintUserMessages: [BotMaster_C_14] 50
+[2022.04.24-08.18.52:096][917]LogBlueprintUserMessages: [BotMaster_C_11] 80
+[2022.04.24-08.18.52:427][926]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.18.53:905][970]LogBlueprintUserMessages: [BotMaster_C_11] 60
+[2022.04.24-08.18.54:509][987]LogBlueprintUserMessages: [BotMaster_C_11] 40
+[2022.04.24-08.18.54:737][993]LogBlueprintUserMessages: [BotMaster_C_12] 80
+[2022.04.24-08.18.55:019][  0]LogBlueprintUserMessages: [BotMaster_C_14] 20
+[2022.04.24-08.18.55:056][  1]LogBlueprintUserMessages: [BotMaster_C_12] 60
+[2022.04.24-08.18.55:145][  3]LogBlueprintUserMessages: [BotMaster_C_12] 30
+[2022.04.24-08.18.55:265][  6]LogBlueprintUserMessages: [BotMaster_C_12] 0
+[2022.04.24-08.18.55:265][  6]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_12.FP_Gun'
+[2022.04.24-08.18.55:764][ 18]LogBlueprintUserMessages: [BotMaster_C_14] -10
+[2022.04.24-08.18.55:765][ 18]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_14.FP_Gun'
+[2022.04.24-08.18.55:885][ 21]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.24-08.18.55:927][ 22]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.24-08.18.56:291][ 31]LogBlueprintUserMessages: [BotMaster_C_11] 10
+[2022.04.24-08.18.57:502][ 65]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.18.59:350][116]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.24-08.18.59:487][119]LogBlueprintUserMessages: [BotMaster_C_11] -20
+[2022.04.24-08.18.59:487][119]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_11.FP_Gun'
+[2022.04.24-08.18.59:619][122]LogBlueprintUserMessages: [BotMaster_C_13] Headshoot!
+[2022.04.24-08.18.59:621][122]LogBlueprintUserMessages: [BotMaster_C_13] -290
+[2022.04.24-08.18.59:621][122]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_13.FP_Gun'
+[2022.04.24-08.18.59:750][125]LogBlueprintUserMessages: [BotMaster_C_10] Headshoot!
+[2022.04.24-08.18.59:752][125]LogBlueprintUserMessages: [BotMaster_C_10] -220
+[2022.04.24-08.18.59:752][125]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_10.FP_Gun'
+[2022.04.24-08.19.00:002][131]LogBlueprintUserMessages: [BotMaster_C_8] 70
+[2022.04.24-08.19.01:243][162]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2022.04.24-08.19.02:033][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-08.19.02:033][182]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022
+[2022.04.24-08.19.02:034][182]LogSlate: Window 'Cyberpunk2022 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.24-08.19.02:048][182]LogWorld: UWorld::CleanupWorld for cyberpunk2022, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.19.02:077][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-08.19.02:094][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.24-08.19.02:107][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-08.19.02:156][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.24-08.19.02:157][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.24-08.19.02:188][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.04.24-08.19.02:315][183]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.04.24-08.19.03:379][231]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-08.19.03:384][231]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-08.19.15:818][815]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/ScienceLab/Meshes/ScientificDevice/SM_EyeScan.SM_EyeScan
+[2022.04.24-08.19.28:845][272]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/ScienceLab/Materials/ScientificDevice/MI_EyeScanA.MI_EyeScanA
+[2022.04.24-08.19.33:262][428]LogSlate: Window 'MI_EyeScanA' being destroyed
+[2022.04.24-08.19.33:270][428]LogSlate: Window 'MI_EyeScanA' being destroyed
+[2022.04.24-08.19.33:276][428]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.19.33:276][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-08.19.33:330][428]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.19.33:330][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-08.19.42:387][884]LogEditorViewport: Clicking on Actor (LMB): BP_DoorPanel_C (BP_DoorPanel3)
+[2022.04.24-08.19.46:637][ 75]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/ScienceLab/Meshes/ScientificDevice/SM_EyeScan.SM_EyeScan
+[2022.04.24-08.19.50:157][189]LogStaticMesh: Building static mesh SM_EyeScan...
+[2022.04.24-08.19.50:255][189]LogStaticMesh: Built static mesh [0.10s] /Game/Assets/ScienceLab/Meshes/ScientificDevice/SM_EyeScan.SM_EyeScan
+[2022.04.24-08.19.53:842][341]LogSavePackage: Moving '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Saved/SM_EyeScan732DF75A4EED803C8D652BB9BF2992E7.tmp' to '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Content/Assets/ScienceLab/Meshes/ScientificDevice/SM_EyeScan.uasset'
+[2022.04.24-08.19.53:860][341]AssetCheck: New page: Asset Save: SM_EyeScan
+[2022.04.24-08.19.53:860][341]LogContentValidation: Display: Validating StaticMesh /Game/Assets/ScienceLab/Meshes/ScientificDevice/SM_EyeScan.SM_EyeScan
+[2022.04.24-08.20.04:021][866]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2022.04.24-08.21.01:763][386]LogEditorViewport: Clicking on Actor (LMB): BP_DoorPanel_C (BP_DoorPanel3)
+[2022.04.24-08.21.09:394][686]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/ScienceLab/Materials/ScientificDevice/MI_EyeScanA.MI_EyeScanA
+[2022.04.24-08.21.16:035][911]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.24-08.21.17:280][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.04.24-08.21.17:344][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.04.24-08.21.17:352][946]LogSavePackage: Moving '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Saved/MI_EyeScanA8E101C1B4AA6E0EA7FB3A78A1DACACA4.tmp' to '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Content/Assets/ScienceLab/Materials/ScientificDevice/MI_EyeScanA.uasset'
+[2022.04.24-08.21.17:367][946]AssetCheck: New page: Asset Save: MI_EyeScanA
+[2022.04.24-08.21.17:367][946]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/ScienceLab/Materials/ScientificDevice/MI_EyeScanA.MI_EyeScanA
+[2022.04.24-08.21.18:192][973]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.21.18:192][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-08.21.21:108][ 68]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/ScienceLab/Materials/ScientificDevice/MI_EyeScanA.MI_EyeScanA
+[2022.04.24-08.21.28:020][282]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.24-08.21.35:833][550]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.24-08.21.38:461][641]LogMaterial: Display: Missing cached shadermap for MI_EyeScanA in PCD3D_SM5, Default, SM5 (DDC key hash: 792F88F1AE9C4A8E5B9AFA801BBAEE393FBF9F55), compiling. 
+[2022.04.24-08.21.38:647][641]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.04.24-08.21.38:647][641]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.24-08.21.38:648][641]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.24-08.21.38:648][641]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.24-08.21.38:648][641]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.04.24-08.21.38:648][641]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.04.24-08.21.38:648][641]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.24-08.21.38:825][641]LogShaderCompilers: Display: Submitted 148 shader compile jobs with 'Normal' priority
+[2022.04.24-08.21.38:825][641]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 148
+[2022.04.24-08.21.38:825][641]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.21.38:883][641]LogShaderCompilers: Display: Submitted 146 shader compile jobs with 'Normal' priority
+[2022.04.24-08.21.39:539][650]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.04.24-08.21.39:539][650]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.24-08.21.39:568][650]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.24-08.21.39:568][650]LogShaderCompilers: Display: Total job queries 318, among them cache hits 8 (2.52%)
+[2022.04.24-08.21.39:568][650]LogShaderCompilers: Display: Tracking 14 distinct input hashes that result in 13 distinct outputs (92.86%)
+[2022.04.24-08.21.39:568][650]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.04.24-08.21.39:568][650]LogShaderCompilers: Display: ================================================
+[2022.04.24-08.21.39:974][657]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.04.24-08.21.39:974][657]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.24-08.21.40:142][658]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.04.24-08.21.40:142][658]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.24-08.21.40:469][660]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.04.24-08.21.40:469][660]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.24-08.21.40:773][663]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.24-08.21.40:773][663]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.24-08.21.41:398][670]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 276
+[2022.04.24-08.21.41:398][670]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.21.41:542][671]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 266
+[2022.04.24-08.21.41:542][671]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.21.41:671][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 256
+[2022.04.24-08.21.41:671][672]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.21.45:632][704]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 246
+[2022.04.24-08.21.45:632][704]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.21.46:960][716]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 236
+[2022.04.24-08.21.46:960][716]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.21.48:512][731]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 226
+[2022.04.24-08.21.48:512][731]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.21.49:085][736]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 216
+[2022.04.24-08.21.49:085][736]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.21.52:106][762]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 206
+[2022.04.24-08.21.52:106][762]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.21.52:640][768]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 196
+[2022.04.24-08.21.52:640][768]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.21.53:896][781]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 186
+[2022.04.24-08.21.53:897][781]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.21.55:313][796]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 176
+[2022.04.24-08.21.55:313][796]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.21.56:955][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 166
+[2022.04.24-08.21.56:955][812]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.21.58:228][824]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 156
+[2022.04.24-08.21.58:228][824]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.21.58:946][831]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 146
+[2022.04.24-08.21.58:946][831]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.02:232][851]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 136
+[2022.04.24-08.22.02:232][851]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.03:916][860]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.24-08.22.04:127][861]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 126
+[2022.04.24-08.22.04:128][861]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.04:707][864]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 116
+[2022.04.24-08.22.04:707][864]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.05:095][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 106
+[2022.04.24-08.22.05:095][867]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.09:940][908]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2022.04.24-08.22.09:940][908]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.10:029][909]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 86
+[2022.04.24-08.22.10:029][909]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.11:630][920]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 76
+[2022.04.24-08.22.11:630][920]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.11:766][920]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2022.04.24-08.22.11:855][920]LogUObjectHash: Compacting FUObjectHashTables data took  11.02ms
+[2022.04.24-08.22.11:871][920]LogSavePackage: Moving '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Saved/MI_EyeScanAEB9C543B4D9C988723363DB4B1FC7855.tmp' to '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Content/Assets/ScienceLab/Materials/ScientificDevice/MI_EyeScanA.uasset'
+[2022.04.24-08.22.11:902][920]AssetCheck: New page: Asset Save: MI_EyeScanA
+[2022.04.24-08.22.11:902][920]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/ScienceLab/Materials/ScientificDevice/MI_EyeScanA.MI_EyeScanA
+[2022.04.24-08.22.12:320][923]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2022.04.24-08.22.12:320][923]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.13:039][930]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.22.13:039][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-08.22.14:426][948]LogSlate: Window 'SM_EyeScan' being destroyed
+[2022.04.24-08.22.14:519][948]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.22.14:519][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-08.22.16:741][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2022.04.24-08.22.16:741][974]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.16:929][977]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2022.04.24-08.22.16:930][977]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.18:354][992]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2022.04.24-08.22.18:354][992]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.18:363][992]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/ScienceLab/Materials/ScientificDevice/MI_EyeScanA.MI_EyeScanA
+[2022.04.24-08.22.19:099][992]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2022.04.24-08.22.19:099][992]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.22:260][ 19]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2022.04.24-08.22.22:260][ 19]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.22:326][ 20]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.04.24-08.22.22:326][ 20]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.23:491][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2022.04.24-08.22.23:491][ 30]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.24:258][ 36]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2022.04.24-08.22.24:258][ 36]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.24:801][ 41]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.04.24-08.22.24:801][ 41]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.25:470][ 46]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2022.04.24-08.22.25:470][ 46]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.25:613][ 47]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.04.24-08.22.25:613][ 47]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.25:710][ 48]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.04.24-08.22.25:710][ 48]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.24-08.22.27:045][ 74]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.24-08.22.28:180][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.04.24-08.22.28:212][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.04.24-08.22.28:221][110]LogSavePackage: Moving '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Saved/MI_EyeScanA656599E34BC0317E74165EB332F0924D.tmp' to '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Content/Assets/ScienceLab/Materials/ScientificDevice/MI_EyeScanA.uasset'
+[2022.04.24-08.22.28:236][110]AssetCheck: New page: Asset Save: MI_EyeScanA
+[2022.04.24-08.22.28:236][110]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/ScienceLab/Materials/ScientificDevice/MI_EyeScanA.MI_EyeScanA
+[2022.04.24-08.22.29:457][160]LogSlate: Window 'MI_EyeScanA' being destroyed
+[2022.04.24-08.22.29:511][160]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.22.29:512][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-08.22.33:000][354]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.24-08.22.33:008][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.24-08.22.33:008][354]PIE: New page: PIE session: cyberpunk2022 (24 апр. 2022 г., 14:22:33)
+[2022.04.24-08.22.33:031][354]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022
+[2022.04.24-08.22.33:506][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.475334s)
+[2022.04.24-08.22.33:507][354]LogAIModule: Creating AISystem for world cyberpunk2022
+[2022.04.24-08.22.33:508][354]LogPlayLevel: PIE: World Init took: (0.001792s)
+[2022.04.24-08.22.33:509][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022 to /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022 (0.477617s)
+[2022.04.24-08.22.33:537][354]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.04.24-08.22.33:538][354]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.04.24-08.22.33:539][354]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.24-08.22.33:539][354]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.24-08.22.33:539][354]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.24-08.22.33:539][354]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.24-08.22.33:539][354]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.24-08.22.33:539][354]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.24-08.22.33:539][354]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.24-08.22.33:539][354]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.24-08.22.33:539][354]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.24-08.22.33:539][354]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.24-08.22.33:539][354]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.24-08.22.33:539][354]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.24-08.22.33:542][354]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.24-08.22.33:542][354]LogAudioMixer: Display: 1: FrontRight
+[2022.04.24-08.22.33:570][354]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.04.24-08.22.33:571][354]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.24-08.22.33:571][354]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.24-08.22.33:571][354]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.24-08.22.33:571][354]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.24-08.22.33:571][354]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.24-08.22.33:572][354]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.24-08.22.33:573][354]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.24-08.22.33:573][354]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.24-08.22.33:573][354]LogInit: FAudioDevice initialized.
+[2022.04.24-08.22.33:573][354]LogAudio: Display: Audio Device (ID: 13) registered with world 'cyberpunk2022'.
+[2022.04.24-08.22.33:604][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-08.22.33:604][354]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2022.04.24-08.22.33:721][354]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022 up for play (max tick rate 60) at 2022.04.24-11.22.33
+[2022.04.24-08.22.33:726][354]LogWorld: Bringing up level for play took: 0.120622
+[2022.04.24-08.22.33:726][354]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.04.24-08.22.33:741][354]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.24-08.22.33:747][354]PIE: Server logged in
+[2022.04.24-08.22.33:749][354]PIE: Play in editor total start time 0,742 seconds.
+[2022.04.24-08.22.37:563][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Blueprint:  BP_Turret1 Function:  Execute Ubergraph BP Turret 1 Graph:  EventGraph Node:  SetWorldRotation
+[2022.04.24-08.22.37:563][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Blueprint:  BP_Turret1 Function:  Execute Ubergraph BP Turret 1 Graph:  EventGraph Node:  SetWorldRotation
+[2022.04.24-08.22.37:563][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Blueprint:  BP_Turret1 Function:  Execute Ubergraph BP Turret 1 Graph:  EventGraph Node:  SetWorldRotation
+[2022.04.24-08.22.40:375][575]LogBlueprintUserMessages: [JumpPad4] X=-879.652 Y=190.297 Z=0.000
+[2022.04.24-08.22.40:375][575]LogBlueprintUserMessages: [JumpPad4] X=0.000 Y=0.000 Z=0.000
+[2022.04.24-08.22.41:222][602]LogBlueprintUserMessages: [BotMaster_C_2] 80
+[2022.04.24-08.22.43:143][664]LogBlueprintUserMessages: [BotMaster_C_3] 70
+[2022.04.24-08.22.43:760][684]LogBlueprintUserMessages: [BotMaster_C_3] 40
+[2022.04.24-08.22.43:879][688]LogBlueprintUserMessages: [BotMaster_C_3] 10
+[2022.04.24-08.22.45:585][742]LogBlueprintUserMessages: [BotMaster_C_0] 70
+[2022.04.24-08.22.46:449][770]LogBlueprintUserMessages: [BotMaster_C_0] Headshoot!
+[2022.04.24-08.22.46:452][770]LogBlueprintUserMessages: [BotMaster_C_0] -230
+[2022.04.24-08.22.46:452][770]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_0.FP_Gun'
+[2022.04.24-08.22.47:069][789]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.22.49:115][848]LogBlueprintUserMessages: [BotMaster_C_2] Headshoot!
+[2022.04.24-08.22.49:118][848]LogBlueprintUserMessages: [BotMaster_C_2] -220
+[2022.04.24-08.22.49:118][848]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_2.FP_Gun'
+[2022.04.24-08.22.49:943][873]LogBlueprintUserMessages: [BotMaster_C_1] 70
+[2022.04.24-08.22.50:076][877]LogBlueprintUserMessages: [BotMaster_C_1] 40
+[2022.04.24-08.22.50:208][881]LogBlueprintUserMessages: [BotMaster_C_1] Headshoot!
+[2022.04.24-08.22.50:210][881]LogBlueprintUserMessages: [BotMaster_C_1] -260
+[2022.04.24-08.22.50:210][881]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_1.FP_Gun'
+[2022.04.24-08.22.51:464][918]LogBlueprintUserMessages: [BotMaster_C_3] -20
+[2022.04.24-08.22.51:464][918]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_3.FP_Gun'
+[2022.04.24-08.22.52:150][938]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.22.54:951][ 39]LogBlueprintUserMessages: [BotMaster_C_4] 70
+[2022.04.24-08.22.55:198][ 47]LogBlueprintUserMessages: [BotMaster_C_4] Headshoot!
+[2022.04.24-08.22.55:200][ 47]LogBlueprintUserMessages: [BotMaster_C_4] -230
+[2022.04.24-08.22.55:200][ 47]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_4.FP_Gun'
+[2022.04.24-08.22.55:730][ 65]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.22.59:095][179]LogBlueprintUserMessages: [AI_ControllerTurret_C_0] потеря
+[2022.04.24-08.23.08:433][472]LogBlueprintUserMessages: [BotMaster_C_11] 90
+[2022.04.24-08.23.08:486][474]LogBlueprintUserMessages: [BotMaster_C_11] 80
+[2022.04.24-08.23.08:621][479]LogBlueprintUserMessages: [BotMaster_C_11] 70
+[2022.04.24-08.23.09:888][529]LogBlueprintUserMessages: [BotMaster_C_7] 90
+[2022.04.24-08.23.09:947][531]LogBlueprintUserMessages: [BotMaster_C_7] 80
+[2022.04.24-08.23.10:075][534]LogBlueprintUserMessages: [BotMaster_C_7] 70
+[2022.04.24-08.23.10:162][536]LogBlueprintUserMessages: [BotMaster_C_6] 90
+[2022.04.24-08.23.10:239][538]LogBlueprintUserMessages: [BotMaster_C_6] 80
+[2022.04.24-08.23.11:337][569]LogBlueprintUserMessages: [BotMaster_C_14] 70
+[2022.04.24-08.23.11:459][573]LogBlueprintUserMessages: [BotMaster_C_14] 40
+[2022.04.24-08.23.11:580][577]LogBlueprintUserMessages: [BotMaster_C_14] 10
+[2022.04.24-08.23.11:706][581]LogBlueprintUserMessages: [BotMaster_C_14] -20
+[2022.04.24-08.23.11:706][581]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_14.FP_Gun'
+[2022.04.24-08.23.12:711][612]LogBlueprintUserMessages: [BotMaster_C_11] 50
+[2022.04.24-08.23.13:169][624]LogBlueprintUserMessages: [BotMaster_C_9] 80
+[2022.04.24-08.23.14:209][652]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.23.17:009][734]LogBlueprintUserMessages: [BotMaster_C_5] 70
+[2022.04.24-08.23.17:377][745]LogBlueprintUserMessages: [BotMaster_C_5] 40
+[2022.04.24-08.23.19:074][796]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.23.20:419][836]LogBlueprintUserMessages: [BotMaster_C_6] 60
+[2022.04.24-08.23.21:470][867]LogBlueprintUserMessages: [BP_Barrel11_38] bot
+[2022.04.24-08.23.21:471][867]LogBlueprintUserMessages: [BotMaster_C_11] -50
+[2022.04.24-08.23.21:471][867]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_11.FP_Gun'
+[2022.04.24-08.23.21:471][867]LogBlueprintUserMessages: [BP_Barrel11_38] bot
+[2022.04.24-08.23.21:472][867]LogBlueprintUserMessages: [BotMaster_C_6] -40
+[2022.04.24-08.23.21:472][867]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_6.FP_Gun'
+[2022.04.24-08.23.21:697][873]LogBlueprintUserMessages: [BP_Barrel11_38] Hit
+[2022.04.24-08.23.22:266][888]LogBlueprintUserMessages: [BotMaster_C_5] 30
+[2022.04.24-08.23.22:267][888]LogBlueprintUserMessages: [BotMaster_C_5] 20
+[2022.04.24-08.23.22:460][892]LogBlueprintUserMessages: [BotMaster_C_5] 10
+[2022.04.24-08.23.22:665][897]LogBlueprintUserMessages: [BotMaster_C_5] 0
+[2022.04.24-08.23.22:665][897]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_5.FP_Gun'
+[2022.04.24-08.23.22:695][898]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.23.23:336][918]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2022.04.24-08.23.25:820][983]LogBlueprintUserMessages: [BotMaster_C_9] 60
+[2022.04.24-08.23.30:441][107]LogBlueprintUserMessages: [BotMaster_C_12] 80
+[2022.04.24-08.23.31:329][133]LogBlueprintUserMessages: [BotMaster_C_13] 80
+[2022.04.24-08.23.31:871][149]LogBlueprintUserMessages: [BotMaster_C_8] 90
+[2022.04.24-08.23.31:905][150]LogBlueprintUserMessages: [BotMaster_C_8] 80
+[2022.04.24-08.23.31:975][152]LogBlueprintUserMessages: [BotMaster_C_8] 70
+[2022.04.24-08.23.32:047][154]LogBlueprintUserMessages: [BotMaster_C_8] 60
+[2022.04.24-08.23.32:079][155]LogBlueprintUserMessages: [BotMaster_C_12] 60
+[2022.04.24-08.23.32:360][163]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.23.32:537][168]LogBlueprintUserMessages: [BotMaster_C_10] 90
+[2022.04.24-08.23.32:573][169]LogBlueprintUserMessages: [BotMaster_C_10] 80
+[2022.04.24-08.23.32:672][172]LogBlueprintUserMessages: [BotMaster_C_9] 50
+[2022.04.24-08.23.32:710][173]LogBlueprintUserMessages: [BotMaster_C_9] 40
+[2022.04.24-08.23.32:771][175]LogBlueprintUserMessages: [BotMaster_C_9] 30
+[2022.04.24-08.23.35:877][266]LogBlueprintUserMessages: [BotMaster_C_7] 50
+[2022.04.24-08.23.36:438][283]LogBlueprintUserMessages: [BotMaster_C_8] 30
+[2022.04.24-08.23.36:543][286]LogBlueprintUserMessages: [BotMaster_C_8] 0
+[2022.04.24-08.23.36:543][286]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_8.FP_Gun'
+[2022.04.24-08.23.36:643][289]LogBlueprintUserMessages: [BotMaster_C_10] 50
+[2022.04.24-08.23.36:755][292]LogBlueprintUserMessages: [BotMaster_C_10] 20
+[2022.04.24-08.23.36:857][295]LogBlueprintUserMessages: [BotMaster_C_10] -10
+[2022.04.24-08.23.36:857][295]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_10.FP_Gun'
+[2022.04.24-08.23.36:966][298]LogBlueprintUserMessages: [BotMaster_C_9] 0
+[2022.04.24-08.23.36:966][298]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_9.FP_Gun'
+[2022.04.24-08.23.37:847][324]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.23.39:953][387]LogBlueprintUserMessages: [BotMaster_C_7] 30
+[2022.04.24-08.23.41:656][435]LogBlueprintUserMessages: [BotMaster_C_13] 50
+[2022.04.24-08.23.41:765][438]LogBlueprintUserMessages: [BotMaster_C_13] 20
+[2022.04.24-08.23.41:872][441]LogBlueprintUserMessages: [BotMaster_C_13] -10
+[2022.04.24-08.23.41:872][441]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_13.FP_Gun'
+[2022.04.24-08.23.42:946][471]LogBlueprintUserMessages: [BotMaster_C_12] 30
+[2022.04.24-08.23.43:052][474]LogBlueprintUserMessages: [BotMaster_C_12] Headshoot!
+[2022.04.24-08.23.43:054][474]LogBlueprintUserMessages: [BotMaster_C_12] -270
+[2022.04.24-08.23.43:054][474]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_12.FP_Gun'
+[2022.04.24-08.23.43:676][492]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.23.45:011][531]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2022.04.24-08.23.45:243][538]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2022.04.24-08.23.47:503][605]LogBlueprintUserMessages: [JumpPad7] X=18.471 Y=-899.813 Z=0.000
+[2022.04.24-08.23.47:503][605]LogBlueprintUserMessages: [JumpPad7] X=0.000 Y=0.000 Z=0.000
+[2022.04.24-08.23.51:991][747]LogBlueprintUserMessages: [AI_ControllerTurret_C_0] потеря
+[2022.04.24-08.23.52:621][765]LogBlueprintUserMessages: [BotMaster_C_7] 0
+[2022.04.24-08.23.52:621][765]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_7.FP_Gun'
+[2022.04.24-08.23.53:354][786]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.23.57:144][909]LogBlueprintUserMessages: [AI_ControllerTurret_C_0] потеря
+[2022.04.24-08.24.02:247][ 55]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2022.04.24-08.24.02:957][ 76]LogAudio: Warning: Detected orphaned looping sound 'Smoke01_Cue'.
+[2022.04.24-08.24.03:647][ 98]LogBlueprintUserMessages: [BotMaster_C_17] 80
+[2022.04.24-08.24.03:858][105]LogBlueprintUserMessages: [BotMaster_C_22] 80
+[2022.04.24-08.24.04:082][112]LogBlueprintUserMessages: [BotMaster_C_16] 90
+[2022.04.24-08.24.04:203][116]LogBlueprintUserMessages: [BotMaster_C_16] 80
+[2022.04.24-08.24.04:232][117]LogBlueprintUserMessages: [BotMaster_C_16] 70
+[2022.04.24-08.24.04:271][118]LogBlueprintUserMessages: [BotMaster_C_16] 60
+[2022.04.24-08.24.04:415][123]LogBlueprintUserMessages: [BotMaster_C_22] Headshoot!
+[2022.04.24-08.24.04:415][123]LogBlueprintUserMessages: [BotMaster_C_22] -120
+[2022.04.24-08.24.04:416][123]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_22.FP_Gun'
+[2022.04.24-08.24.04:478][125]LogBlueprintUserMessages: [BotMaster_C_16] 50
+[2022.04.24-08.24.04:565][128]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.24.05:808][164]LogBlueprintUserMessages: [BotMaster_C_15] 90
+[2022.04.24-08.24.05:887][166]LogBlueprintUserMessages: [BotMaster_C_27] 80
+[2022.04.24-08.24.05:956][168]LogBlueprintUserMessages: [BotMaster_C_15] 80
+[2022.04.24-08.24.06:001][169]LogBlueprintUserMessages: [BotMaster_C_15] 70
+[2022.04.24-08.24.06:224][175]LogBlueprintUserMessages: [BotMaster_C_15] 60
+[2022.04.24-08.24.07:848][224]LogBlueprintUserMessages: [BotMaster_C_15] 40
+[2022.04.24-08.24.08:170][232]LogBlueprintUserMessages: [BotMaster_C_23] 80
+[2022.04.24-08.24.08:489][239]LogBlueprintUserMessages: [JumpPad4] X=-381.480 Y=-815.153 Z=0.000
+[2022.04.24-08.24.08:489][239]LogBlueprintUserMessages: [JumpPad4] X=0.000 Y=0.000 Z=0.000
+[2022.04.24-08.24.08:494][239]LogBlueprintUserMessages: [BotMaster_C_27] 60
+[2022.04.24-08.24.11:335][307]LogBlueprintUserMessages: [BotMaster_C_15] 20
+[2022.04.24-08.24.11:632][314]LogBlueprintUserMessages: [BotMaster_C_25] 80
+[2022.04.24-08.24.12:296][330]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.24.13:670][365]LogBlueprintUserMessages: [BotMaster_C_27] 40
+[2022.04.24-08.24.14:033][373]LogBlueprintUserMessages: [BP_Barrel12_44] bot
+[2022.04.24-08.24.14:034][373]PIE: Warning: Invalid Simulate Options: Body (BotMaster_C_1.FP_Gun SM_AssaultRifle) is set to simulate physics but Collision Enabled is incompatible
+[2022.04.24-08.24.14:034][373]PIE: Warning: Invalid Simulate Options: Body (BotMaster_C_1.FP_Gun SM_AssaultRifle) is set to simulate physics but Collision Enabled is incompatible
+[2022.04.24-08.24.14:034][373]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_1.FP_Gun'
+[2022.04.24-08.24.14:035][373]LogBlueprintUserMessages: [BP_Barrel12_44] bot
+[2022.04.24-08.24.14:035][373]PIE: Warning: Invalid Simulate Options: Body (BotMaster_C_2.FP_Gun SM_AssaultRifle) is set to simulate physics but Collision Enabled is incompatible
+[2022.04.24-08.24.14:035][373]PIE: Warning: Invalid Simulate Options: Body (BotMaster_C_2.FP_Gun SM_AssaultRifle) is set to simulate physics but Collision Enabled is incompatible
+[2022.04.24-08.24.14:035][373]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_2.FP_Gun'
+[2022.04.24-08.24.14:036][373]LogBlueprintUserMessages: [BP_Barrel12_44] bot
+[2022.04.24-08.24.14:036][373]PIE: Warning: Invalid Simulate Options: Body (BotMaster_C_3.FP_Gun SM_AssaultRifle) is set to simulate physics but Collision Enabled is incompatible
+[2022.04.24-08.24.14:036][373]PIE: Warning: Invalid Simulate Options: Body (BotMaster_C_3.FP_Gun SM_AssaultRifle) is set to simulate physics but Collision Enabled is incompatible
+[2022.04.24-08.24.14:036][373]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_3.FP_Gun'
+[2022.04.24-08.24.14:245][378]LogBlueprintUserMessages: [BP_Barrel12_44] Hit
+[2022.04.24-08.24.15:272][403]LogBlueprintUserMessages: [BotMaster_C_16] 20
+[2022.04.24-08.24.16:524][433]LogBlueprintUserMessages: [BotMaster_C_17] 60
+[2022.04.24-08.24.18:605][488]LogBlueprintUserMessages: [BotMaster_C_16] -10
+[2022.04.24-08.24.18:605][488]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_16.FP_Gun'
+[2022.04.24-08.24.19:311][508]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.24.21:944][583]LogBlueprintUserMessages: [BotMaster_C_15] -10
+[2022.04.24-08.24.21:945][583]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_15.FP_Gun'
+[2022.04.24-08.24.22:279][593]LogBlueprintUserMessages: [BotMaster_C_27] 10
+[2022.04.24-08.24.22:725][606]LogBlueprintUserMessages: [BotMaster_C_27] -20
+[2022.04.24-08.24.22:725][606]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_27.FP_Gun'
+[2022.04.24-08.24.22:833][609]LogBlueprintUserMessages: [BotMaster_C_23] 50
+[2022.04.24-08.24.23:206][620]LogBlueprintUserMessages: [BotMaster_C_23] Headshoot!
+[2022.04.24-08.24.23:208][620]LogBlueprintUserMessages: [BotMaster_C_23] -250
+[2022.04.24-08.24.23:208][620]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_23.FP_Gun'
+[2022.04.24-08.24.23:328][623]LogBlueprintUserMessages: [BotMaster_C_18] Headshoot!
+[2022.04.24-08.24.23:330][623]LogBlueprintUserMessages: [BotMaster_C_18] -200
+[2022.04.24-08.24.23:330][623]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_18.FP_Gun'
+[2022.04.24-08.24.23:475][627]LogBlueprintUserMessages: [BotMaster_C_20] 80
+[2022.04.24-08.24.23:702][633]LogBlueprintUserMessages: [BotMaster_C_21] Headshoot!
+[2022.04.24-08.24.23:704][633]LogBlueprintUserMessages: [BotMaster_C_21] -200
+[2022.04.24-08.24.23:704][633]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_21.FP_Gun'
+[2022.04.24-08.24.23:819][636]LogBlueprintUserMessages: [BotMaster_C_17] 30
+[2022.04.24-08.24.24:160][645]LogBlueprintUserMessages: [BotMaster_C_17] Headshoot!
+[2022.04.24-08.24.24:162][645]LogBlueprintUserMessages: [BotMaster_C_17] -270
+[2022.04.24-08.24.24:162][645]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_17.FP_Gun'
+[2022.04.24-08.24.25:900][690]LogBlueprintUserMessages: [BotMaster_C_24] 70
+[2022.04.24-08.24.26:252][699]LogBlueprintUserMessages: [BotMaster_C_24] 40
+[2022.04.24-08.24.26:444][704]LogBlueprintUserMessages: [BotMaster_C_24] 20
+[2022.04.24-08.24.26:488][705]LogBlueprintUserMessages: [BotMaster_C_24] -10
+[2022.04.24-08.24.26:488][705]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_24.FP_Gun'
+[2022.04.24-08.24.27:469][730]LogBlueprintUserMessages: [BotMaster_C_25] 50
+[2022.04.24-08.24.28:176][748]LogBlueprintUserMessages: [BotMaster_C_25] 20
+[2022.04.24-08.24.28:427][754]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.24.30:262][797]LogBlueprintUserMessages: [BotMaster_C_25] Headshoot!
+[2022.04.24-08.24.30:264][797]LogBlueprintUserMessages: [BotMaster_C_25] -280
+[2022.04.24-08.24.30:264][797]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_25.FP_Gun'
+[2022.04.24-08.24.30:883][812]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.24.32:684][856]LogBlueprintUserMessages: [BotMaster_C_28] 70
+[2022.04.24-08.24.32:817][859]LogBlueprintUserMessages: [BotMaster_C_28] Headshoot!
+[2022.04.24-08.24.32:818][859]LogBlueprintUserMessages: [BotMaster_C_28] -230
+[2022.04.24-08.24.32:818][859]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_28.FP_Gun'
+[2022.04.24-08.24.33:795][883]LogBlueprintUserMessages: [BotMaster_C_20] Headshoot!
+[2022.04.24-08.24.33:795][883]LogBlueprintUserMessages: [BotMaster_C_20] -220
+[2022.04.24-08.24.33:795][883]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_20.FP_Gun'
+[2022.04.24-08.24.34:487][900]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.24.37:272][969]LogBlueprintUserMessages: [BotMaster_C_26] Headshoot!
+[2022.04.24-08.24.37:274][969]LogBlueprintUserMessages: [BotMaster_C_26] -200
+[2022.04.24-08.24.37:274][969]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_26.FP_Gun'
+[2022.04.24-08.24.37:390][972]LogBlueprintUserMessages: [BotMaster_C_19] 70
+[2022.04.24-08.24.37:467][974]LogBlueprintUserMessages: [BotMaster_C_19] 50
+[2022.04.24-08.24.37:629][978]LogBlueprintUserMessages: [BotMaster_C_19] 20
+[2022.04.24-08.24.37:747][981]LogBlueprintUserMessages: [BotMaster_C_19] -10
+[2022.04.24-08.24.37:747][981]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_19.FP_Gun'
+[2022.04.24-08.24.38:402][998]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.24.42:699][104]LogBlueprintUserMessages: [BotMaster_C_29] Headshoot!
+[2022.04.24-08.24.42:701][104]LogBlueprintUserMessages: [BotMaster_C_29] -200
+[2022.04.24-08.24.42:702][104]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022.cyberpunk2022:PersistentLevel.BotMaster_C_29.FP_Gun'
+[2022.04.24-08.24.47:944][226]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.24.53:149][363]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.24.59:543][516]LogBlueprintUserMessages: [JumpPad7] X=-726.879 Y=-530.706 Z=0.000
+[2022.04.24-08.24.59:543][516]LogBlueprintUserMessages: [JumpPad7] X=0.000 Y=0.000 Z=0.000
+[2022.04.24-08.25.01:571][580]LogBlueprintUserMessages: [BP_Barrel3_11] fps
+[2022.04.24-08.25.01:572][580]LogScript: Warning: UGameplayStatics::SpawnDecalAttached: NULL AttachComponent specified!
+[2022.04.24-08.25.01:924][591]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.25.06:725][741]LogAnimMontage: Warning: JumpToSectionName Reload_SMG bEndOfSection: 0 failed for Montage Reload_Montagne
+[2022.04.24-08.25.10:614][856]LogBlueprintUserMessages: [JumpPad4] X=-860.342 Y=264.214 Z=0.000
+[2022.04.24-08.25.10:614][856]LogBlueprintUserMessages: [JumpPad4] X=0.000 Y=0.000 Z=0.000
+[2022.04.24-08.25.12:009][889]LogBlueprintUserMessages: [JumpPad7] X=-772.126 Y=462.409 Z=0.000
+[2022.04.24-08.25.12:009][889]LogBlueprintUserMessages: [JumpPad7] X=0.000 Y=0.000 Z=0.000
+[2022.04.24-08.25.13:276][920]LogScript: Warning: Script Msg: ParkourMovement ResetWallRunSuppression SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.04.24-08.25.16:395][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-08.25.16:395][997]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_cyberpunk2022
+[2022.04.24-08.25.16:395][997]LogSlate: Window 'Cyberpunk2022 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.24-08.25.16:420][997]LogWorld: UWorld::CleanupWorld for cyberpunk2022, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.25.16:453][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-08.25.16:466][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.24-08.25.16:485][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-08.25.16:536][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.24-08.25.16:538][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.24-08.25.16:569][997]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.04.24-08.25.16:703][998]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.04.24-08.25.17:758][ 50]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-08.25.17:765][ 50]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-08.25.20:050][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_roof_4x18)
+[2022.04.24-08.25.20:558][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_balk29)
+[2022.04.24-08.25.22:639][255]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Meshes/floor+new/SM_balk.SM_balk
+[2022.04.24-08.25.27:360][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/floor+new/SM_balk" FILE="../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/SM_balk.uasset" SILENT=true
+[2022.04.24-08.25.27:368][447]LogSavePackage: Moving '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Saved/SM_balk1ABA7E9845FF18DFDABF5CA8B8E13CB1.tmp' to '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Content/Assets/Meshes/floor+new/SM_balk.uasset'
+[2022.04.24-08.25.27:389][447]AssetCheck: New page: Asset Save: SM_balk
+[2022.04.24-08.25.27:390][447]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Meshes/floor+new/SM_balk.SM_balk
+[2022.04.24-08.25.28:578][503]LogSlate: Window 'SM_balk' being destroyed
+[2022.04.24-08.25.28:585][503]LogSlate: Window 'SM_balk' being destroyed
+[2022.04.24-08.25.28:592][503]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.25.28:592][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-08.25.58:180][790]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.04.24-08.25.59:638][790]LogSavePackage: Moving '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Saved/cyberpunk2022_Auto164DE4AB747F83F4ED7C968A4E0CF578F.tmp' to '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Saved/Autosaves/Game/FirstPersonCPP/Maps/cyberpunk2022_Auto1.umap'
+[2022.04.24-08.25.59:642][790]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonCPP/Maps/cyberpunk2022' took 1.492
+[2022.04.24-08.25.59:642][790]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.492
+[2022.04.24-08.25.59:643][790]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonCPP/InteractableDoor/BP_DoorPanel] ([4] browsable assets)...
+[2022.04.24-08.25.59:666][790]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonCPP/InteractableDoor/BP_DoorPanel.BP_DoorPanel]
+[2022.04.24-08.25.59:690][790]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonCPP/InteractableDoor/BP_DoorPanel.BP_DoorPanel]
+[2022.04.24-08.25.59:690][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonCPP/InteractableDoor/BP_DoorPanel]
+[2022.04.24-08.25.59:708][790]LogSavePackage: Moving '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Saved/BP_DoorPanel_Auto17F2BB65D48FC029E55490AA2EC651C0D.tmp' to '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Saved/Autosaves/Game/FirstPersonCPP/InteractableDoor/BP_DoorPanel_Auto1.uasset'
+[2022.04.24-08.25.59:708][790]LogFileHelpers: Auto-saving content packages took 0.066
+[2022.04.24-08.27.07:330][993]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.24-08.27.07:330][993]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.24-08.27.11:507][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.04.24-08.27.12:819][172]LogSavePackage: Moving '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Saved/cyberpunk2022975A9E6448C07777F477A392BA8386D5.tmp' to '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/Maps/cyberpunk2022.umap'
+[2022.04.24-08.27.12:840][172]LogFileHelpers: Saving map 'cyberpunk2022' took 1.363
+[2022.04.24-08.27.12:851][172]LogSavePackage: Moving '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Saved/BP_DoorPanel190A8AD34026D8857AEC17B754E4A09C.tmp' to '../../../../../../UE4/test/WargamingAcademy/Cyberpunk2022/Content/FirstPersonCPP/InteractableDoor/BP_DoorPanel.uasset'
+[2022.04.24-08.27.12:884][172]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.24-08.27.12:884][172]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonCPP/InteractableDoor/BP_DoorPanel.BP_DoorPanel
+[2022.04.24-08.27.12:884][172]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/cyberpunk2022.cyberpunk2022
+[2022.04.24-08.27.15:228][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.04.24-08.27.15:257][306]LogSlate: Window 'Cyberpunk2022 - Unreal Editor' being destroyed
+[2022.04.24-08.27.15:498][307]Cmd: QUIT_EDITOR
+[2022.04.24-08.27.15:498][307]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.04.24-08.27.15:506][307]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.24-08.27.15:601][307]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.04.24-08.27.15:601][307]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.04.24-08.27.15:601][307]LogAudio: Display: Audio Device unregistered from world 'cyberpunk2022'.
+[2022.04.24-08.27.15:631][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.24-08.27.15:633][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.24-08.27.15:699][307]LogAudio: Display: Audio Device Manager Shutdown
+[2022.04.24-08.27.15:700][307]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.24-08.27.15:705][307]LogExit: Preparing to exit.
+[2022.04.24-08.27.16:305][307]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2022.04.24-08.27.16:619][307]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.27.16:625][307]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.27.16:631][307]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.27.16:636][307]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.27.16:641][307]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.27.16:645][307]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.27.16:855][307]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.04.24-08.27.16:911][307]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-08.27.16:917][307]LogExit: Editor shut down
+[2022.04.24-08.27.16:919][307]LogExit: Transaction tracking system shut down
+[2022.04.24-08.27.17:724][307]LogExit: Object subsystem successfully closed.
+[2022.04.24-08.27.17:748][307]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.24-08.27.17:749][307]LogShaderCompilers: Display: Total job queries 4430, among them cache hits 4120 (93.00%)
+[2022.04.24-08.27.17:749][307]LogShaderCompilers: Display: Tracking 310 distinct input hashes that result in 221 distinct outputs (71.29%)
+[2022.04.24-08.27.17:749][307]LogShaderCompilers: Display: RAM used: 1.11 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2022.04.24-08.27.17:749][307]LogShaderCompilers: Display: ================================================
+[2022.04.24-08.27.17:776][307]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.04.24-08.27.17:861][307]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (886)
+[2022.04.24-08.27.17:861][307]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (884)
+[2022.04.24-08.27.17:861][307]LogModuleManager: Shutting down and abandoning module BlueprintGraph (882)
+[2022.04.24-08.27.17:861][307]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (880)
+[2022.04.24-08.27.17:861][307]LogModuleManager: Shutting down and abandoning module Voice (878)
+[2022.04.24-08.27.17:862][307]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (876)
+[2022.04.24-08.27.17:862][307]LogModuleManager: Shutting down and abandoning module SceneOutliner (874)
+[2022.04.24-08.27.17:862][307]LogModuleManager: Shutting down and abandoning module AddContentDialog (872)
+[2022.04.24-08.27.17:865][307]LogModuleManager: Shutting down and abandoning module WidgetCarousel (871)
+[2022.04.24-08.27.17:866][307]LogModuleManager: Shutting down and abandoning module EditorWidgets (868)
+[2022.04.24-08.27.17:866][307]LogModuleManager: Shutting down and abandoning module StatsViewer (866)
+[2022.04.24-08.27.17:866][307]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (864)
+[2022.04.24-08.27.17:867][307]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (862)
+[2022.04.24-08.27.17:867][307]LogModuleManager: Shutting down and abandoning module AutomationWorker (860)
+[2022.04.24-08.27.17:867][307]LogModuleManager: Shutting down and abandoning module SteamVREditor (858)
+[2022.04.24-08.27.17:867][307]LogModuleManager: Shutting down and abandoning module OculusMR (856)
+[2022.04.24-08.27.17:867][307]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (854)
+[2022.04.24-08.27.17:871][307]LogModuleManager: Shutting down and abandoning module TakeRecorder (853)
+[2022.04.24-08.27.17:872][307]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (850)
+[2022.04.24-08.27.17:872][307]LogModuleManager: Shutting down and abandoning module TakesCore (848)
+[2022.04.24-08.27.17:872][307]LogModuleManager: Shutting down and abandoning module OpenXRInput (846)
+[2022.04.24-08.27.17:873][307]LogModuleManager: Shutting down and abandoning module GooglePADEditor (844)
+[2022.04.24-08.27.17:873][307]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (842)
+[2022.04.24-08.27.17:873][307]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (840)
+[2022.04.24-08.27.17:874][307]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (838)
+[2022.04.24-08.27.17:874][307]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (836)
+[2022.04.24-08.27.17:876][307]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (834)
+[2022.04.24-08.27.17:877][307]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (832)
+[2022.04.24-08.27.17:877][307]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (830)
+[2022.04.24-08.27.17:877][307]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (828)
+[2022.04.24-08.27.17:877][307]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2022.04.24-08.27.17:877][307]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2022.04.24-08.27.17:877][307]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (822)
+[2022.04.24-08.27.17:877][307]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (820)
+[2022.04.24-08.27.17:877][307]LogModuleManager: Shutting down and abandoning module WebMMedia (818)
+[2022.04.24-08.27.17:878][307]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2022.04.24-08.27.17:879][307]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2022.04.24-08.27.17:881][307]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2022.04.24-08.27.17:881][307]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (810)
+[2022.04.24-08.27.17:881][307]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (808)
+[2022.04.24-08.27.17:881][307]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (806)
+[2022.04.24-08.27.17:881][307]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (804)
+[2022.04.24-08.27.17:881][307]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (802)
+[2022.04.24-08.27.17:881][307]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (800)
+[2022.04.24-08.27.17:881][307]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (798)
+[2022.04.24-08.27.17:881][307]LogModuleManager: Shutting down and abandoning module PlanarCut (796)
+[2022.04.24-08.27.17:881][307]LogModuleManager: Shutting down and abandoning module CharacterAI (794)
+[2022.04.24-08.27.17:881][307]LogModuleManager: Shutting down and abandoning module TextureAlignMode (792)
+[2022.04.24-08.27.17:881][307]LogModuleManager: Shutting down and abandoning module BspMode (790)
+[2022.04.24-08.27.17:881][307]LogModuleManager: Shutting down and abandoning module GeometryMode (788)
+[2022.04.24-08.27.17:882][307]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (786)
+[2022.04.24-08.27.17:882][307]LogModuleManager: Shutting down and abandoning module SmartSnapping (784)
+[2022.04.24-08.27.17:883][307]LogModuleManager: Shutting down and abandoning module SessionServices (782)
+[2022.04.24-08.27.17:883][307]LogModuleManager: Shutting down and abandoning module MeshPaint (780)
+[2022.04.24-08.27.17:884][307]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (778)
+[2022.04.24-08.27.17:884][307]LogModuleManager: Shutting down and abandoning module FoliageEdit (776)
+[2022.04.24-08.27.17:885][307]LogModuleManager: Shutting down and abandoning module LandscapeEditor (774)
+[2022.04.24-08.27.17:887][307]LogModuleManager: Shutting down and abandoning module MeshPaintMode (772)
+[2022.04.24-08.27.17:887][307]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (770)
+[2022.04.24-08.27.17:887][307]LogModuleManager: Shutting down and abandoning module ActorPickerMode (768)
+[2022.04.24-08.27.17:887][307]LogModuleManager: Shutting down and abandoning module PlacementMode (766)
+[2022.04.24-08.27.17:887][307]LogModuleManager: Shutting down and abandoning module ViewportSnapping (764)
+[2022.04.24-08.27.17:887][307]LogModuleManager: Shutting down and abandoning module ViewportInteraction (762)
+[2022.04.24-08.27.17:887][307]LogModuleManager: Shutting down and abandoning module ClothPainter (760)
+[2022.04.24-08.27.17:889][307]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (759)
+[2022.04.24-08.27.17:890][307]LogModuleManager: Shutting down and abandoning module LogVisualizer (756)
+[2022.04.24-08.27.17:892][307]LogModuleManager: Shutting down and abandoning module IntroTutorials (754)
+[2022.04.24-08.27.17:893][307]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (753)
+[2022.04.24-08.27.17:893][307]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (750)
+[2022.04.24-08.27.17:893][307]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (748)
+[2022.04.24-08.27.17:894][307]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (746)
+[2022.04.24-08.27.17:894][307]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (745)
+[2022.04.24-08.27.18:370][307]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (742)
+[2022.04.24-08.27.18:370][307]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (740)
+[2022.04.24-08.27.18:370][307]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (738)
+[2022.04.24-08.27.18:370][307]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (736)
+[2022.04.24-08.27.18:370][307]LogModuleManager: Shutting down and abandoning module TraceInsights (734)
+[2022.04.24-08.27.18:373][307]MemoryProfiler: Shutdown
+[2022.04.24-08.27.18:373][307]NetworkingProfiler: Shutdown
+[2022.04.24-08.27.18:373][307]LoadingProfiler: Shutdown
+[2022.04.24-08.27.18:375][307]TimingProfiler: Shutdown
+[2022.04.24-08.27.18:377][307]LogModuleManager: Shutting down and abandoning module TraceServices (733)
+[2022.04.24-08.27.18:378][307]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (730)
+[2022.04.24-08.27.18:378][307]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (728)
+[2022.04.24-08.27.18:378][307]LogModuleManager: Shutting down and abandoning module InputBindingEditor (726)
+[2022.04.24-08.27.18:380][307]LogModuleManager: Shutting down and abandoning module MergeActors (724)
+[2022.04.24-08.27.18:381][307]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (722)
+[2022.04.24-08.27.18:381][307]LogModuleManager: Shutting down and abandoning module LocalizationService (721)
+[2022.04.24-08.27.18:381][307]LogModuleManager: Shutting down and abandoning module HardwareTargeting (718)
+[2022.04.24-08.27.18:381][307]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (716)
+[2022.04.24-08.27.18:382][307]LogModuleManager: Shutting down and abandoning module UndoHistory (714)
+[2022.04.24-08.27.18:382][307]LogModuleManager: Shutting down and abandoning module XmlParser (712)
+[2022.04.24-08.27.18:382][307]LogModuleManager: Shutting down and abandoning module Blutility (710)
+[2022.04.24-08.27.18:382][307]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (708)
+[2022.04.24-08.27.18:382][307]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (707)
+[2022.04.24-08.27.18:383][307]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (704)
+[2022.04.24-08.27.18:383][307]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (703)
+[2022.04.24-08.27.18:383][307]LogModuleManager: Shutting down and abandoning module SettingsEditor (700)
+[2022.04.24-08.27.18:384][307]LogModuleManager: Shutting down and abandoning module ProjectLauncher (698)
+[2022.04.24-08.27.18:384][307]LogModuleManager: Shutting down and abandoning module SessionFrontend (696)
+[2022.04.24-08.27.18:385][307]LogModuleManager: Shutting down and abandoning module ProfilerClient (694)
+[2022.04.24-08.27.18:386][307]LogModuleManager: Shutting down and abandoning module DeviceManager (692)
+[2022.04.24-08.27.18:386][307]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (691)
+[2022.04.24-08.27.18:417][307]LogModuleManager: Shutting down and abandoning module AutomationController (688)
+[2022.04.24-08.27.18:417][307]LogModuleManager: Shutting down and abandoning module AutomationWindow (686)
+[2022.04.24-08.27.18:418][307]LogModuleManager: Shutting down and abandoning module Layers (684)
+[2022.04.24-08.27.18:421][307]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (682)
+[2022.04.24-08.27.18:421][307]LogModuleManager: Shutting down and abandoning module DetailCustomizations (680)
+[2022.04.24-08.27.18:421][307]LogModuleManager: Shutting down and abandoning module PackagesDialog (678)
+[2022.04.24-08.27.18:422][307]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (676)
+[2022.04.24-08.27.18:423][307]LogModuleManager: Shutting down and abandoning module Persona (674)
+[2022.04.24-08.27.18:423][307]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (673)
+[2022.04.24-08.27.18:423][307]LogModuleManager: Shutting down and abandoning module Kismet (670)
+[2022.04.24-08.27.18:438][307]LogModuleManager: Shutting down and abandoning module KismetWidgets (669)
+[2022.04.24-08.27.18:438][307]LogModuleManager: Shutting down and abandoning module GraphEditor (666)
+[2022.04.24-08.27.18:438][307]LogModuleManager: Shutting down and abandoning module StructViewer (664)
+[2022.04.24-08.27.18:438][307]LogModuleManager: Shutting down and abandoning module ClassViewer (662)
+[2022.04.24-08.27.18:438][307]LogModuleManager: Shutting down and abandoning module Toolbox (660)
+[2022.04.24-08.27.18:438][307]LogModuleManager: Shutting down and abandoning module ModuleUI (658)
+[2022.04.24-08.27.18:439][307]LogModuleManager: Shutting down and abandoning module OutputLog (656)
+[2022.04.24-08.27.18:441][307]LogModuleManager: Shutting down and abandoning module GammaUI (654)
+[2022.04.24-08.27.18:442][307]LogModuleManager: Shutting down and abandoning module Documentation (652)
+[2022.04.24-08.27.18:442][307]LogModuleManager: Shutting down and abandoning module LiveCoding (650)
+[2022.04.24-08.27.18:442][307]LogModuleManager: Shutting down and abandoning module LevelSequence (648)
+[2022.04.24-08.27.18:442][307]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (646)
+[2022.04.24-08.27.18:442][307]LogModuleManager: Shutting down and abandoning module MovieScene (644)
+[2022.04.24-08.27.18:442][307]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (642)
+[2022.04.24-08.27.18:443][307]LogModuleManager: Shutting down and abandoning module LauncherPlatform (640)
+[2022.04.24-08.27.18:443][307]LogModuleManager: Shutting down and abandoning module AnalyticsET (638)
+[2022.04.24-08.27.18:443][307]LogModuleManager: Shutting down and abandoning module PortalServices (636)
+[2022.04.24-08.27.18:443][307]LogModuleManager: Shutting down and abandoning module PortalRpc (634)
+[2022.04.24-08.27.18:443][307]LogModuleManager: Shutting down and abandoning module MessagingRpc (632)
+[2022.04.24-08.27.18:443][307]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (630)
+[2022.04.24-08.27.18:443][307]LogModuleManager: Shutting down and abandoning module AudioMixerCore (629)
+[2022.04.24-08.27.18:443][307]LogModuleManager: Shutting down and abandoning module AIModule (626)
+[2022.04.24-08.27.18:443][307]LogModuleManager: Shutting down and abandoning module GameplayDebugger (625)
+[2022.04.24-08.27.18:443][307]LogModuleManager: Shutting down and abandoning module AITestSuite (623)
+[2022.04.24-08.27.18:444][307]LogModuleManager: Shutting down and abandoning module NavigationSystem (621)
+[2022.04.24-08.27.18:444][307]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (618)
+[2022.04.24-08.27.18:444][307]LogModuleManager: Shutting down and abandoning module ProfilerService (616)
+[2022.04.24-08.27.18:537][307]LogModuleManager: Shutting down and abandoning module TaskGraph (614)
+[2022.04.24-08.27.18:539][307]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (612)
+[2022.04.24-08.27.18:539][307]LogModuleManager: Shutting down and abandoning module OculusEditor (610)
+[2022.04.24-08.27.18:542][307]LogModuleManager: Shutting down and abandoning module OculusInput (608)
+[2022.04.24-08.27.18:542][307]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (606)
+[2022.04.24-08.27.18:542][307]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (604)
+[2022.04.24-08.27.18:542][307]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (602)
+[2022.04.24-08.27.18:542][307]LogModuleManager: Shutting down and abandoning module CollectionManager (601)
+[2022.04.24-08.27.18:543][307]LogModuleManager: Shutting down and abandoning module TakeSequencer (598)
+[2022.04.24-08.27.18:543][307]LogModuleManager: Shutting down and abandoning module TakeMovieScene (596)
+[2022.04.24-08.27.18:543][307]LogModuleManager: Shutting down and abandoning module ScreenshotTools (594)
+[2022.04.24-08.27.18:544][307]LogModuleManager: Shutting down and abandoning module SynthesisEditor (592)
+[2022.04.24-08.27.18:544][307]LogModuleManager: Shutting down and abandoning module Synthesis (590)
+[2022.04.24-08.27.18:545][307]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (588)
+[2022.04.24-08.27.18:545][307]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (586)
+[2022.04.24-08.27.18:545][307]LogModuleManager: Shutting down and abandoning module OpenXREditor (584)
+[2022.04.24-08.27.18:546][307]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (582)
+[2022.04.24-08.27.18:546][307]LogModuleManager: Shutting down and abandoning module GooglePAD (580)
+[2022.04.24-08.27.18:546][307]LogModuleManager: Shutting down and abandoning module EditableMesh (578)
+[2022.04.24-08.27.18:546][307]LogModuleManager: Shutting down and abandoning module CableComponent (576)
+[2022.04.24-08.27.18:546][307]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (574)
+[2022.04.24-08.27.18:546][307]LogModuleManager: Shutting down and abandoning module AssetTags (572)
+[2022.04.24-08.27.18:546][307]LogModuleManager: Shutting down and abandoning module AudioCapture (570)
+[2022.04.24-08.27.18:546][307]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (569)
+[2022.04.24-08.27.18:546][307]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (566)
+[2022.04.24-08.27.18:546][307]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (564)
+[2022.04.24-08.27.18:546][307]LogModuleManager: Shutting down and abandoning module AppleImageUtils (562)
+[2022.04.24-08.27.18:546][307]LogModuleManager: Shutting down and abandoning module AndroidPermission (560)
+[2022.04.24-08.27.18:546][307]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (558)
+[2022.04.24-08.27.18:547][307]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (556)
+[2022.04.24-08.27.18:547][307]LogModuleManager: Shutting down and abandoning module TemplateSequence (554)
+[2022.04.24-08.27.18:547][307]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (552)
+[2022.04.24-08.27.18:547][307]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (550)
+[2022.04.24-08.27.18:547][307]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (548)
+[2022.04.24-08.27.18:547][307]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (546)
+[2022.04.24-08.27.18:547][307]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (544)
+[2022.04.24-08.27.18:547][307]LogModuleManager: Shutting down and abandoning module MediaCompositing (542)
+[2022.04.24-08.27.18:547][307]LogModuleManager: Shutting down and abandoning module ImgMedia (540)
+[2022.04.24-08.27.18:547][307]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (538)
+[2022.04.24-08.27.18:548][307]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (536)
+[2022.04.24-08.27.18:548][307]LogOpenImageDenoise: OIDN shutting down
+[2022.04.24-08.27.18:548][307]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (534)
+[2022.04.24-08.27.18:548][307]LogModuleManager: Shutting down and abandoning module MotoSynth (532)
+[2022.04.24-08.27.18:548][307]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (530)
+[2022.04.24-08.27.18:548][307]LogModuleManager: Shutting down and abandoning module MeshConversion (528)
+[2022.04.24-08.27.18:549][307]LogModuleManager: Shutting down and abandoning module DynamicMesh (526)
+[2022.04.24-08.27.18:549][307]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (524)
+[2022.04.24-08.27.18:550][307]LogModuleManager: Shutting down and abandoning module GeometricObjects (522)
+[2022.04.24-08.27.18:551][307]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (520)
+[2022.04.24-08.27.18:551][307]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (519)
+[2022.04.24-08.27.18:551][307]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (516)
+[2022.04.24-08.27.18:551][307]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (514)
+[2022.04.24-08.27.18:551][307]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (512)
+[2022.04.24-08.27.18:551][307]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (510)
+[2022.04.24-08.27.18:551][307]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (508)
+[2022.04.24-08.27.18:551][307]LogModuleManager: Shutting down and abandoning module ChaosNiagara (506)
+[2022.04.24-08.27.18:551][307]LogModuleManager: Shutting down and abandoning module FractureEditor (504)
+[2022.04.24-08.27.18:553][307]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (503)
+[2022.04.24-08.27.18:553][307]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (500)
+[2022.04.24-08.27.18:553][307]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (498)
+[2022.04.24-08.27.18:553][307]LogModuleManager: Shutting down and abandoning module AutomationUtils (496)
+[2022.04.24-08.27.18:553][307]LogModuleManager: Shutting down and abandoning module BackChannel (494)
+[2022.04.24-08.27.18:554][307]LogModuleManager: Shutting down and abandoning module AlembicImporter (492)
+[2022.04.24-08.27.18:554][307]LogModuleManager: Shutting down and abandoning module AlembicLibrary (491)
+[2022.04.24-08.27.18:554][307]LogModuleManager: Shutting down and abandoning module GeometryCache (490)
+[2022.04.24-08.27.18:554][307]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (489)
+[2022.04.24-08.27.18:554][307]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (484)
+[2022.04.24-08.27.18:556][307]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (482)
+[2022.04.24-08.27.18:556][307]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (480)
+[2022.04.24-08.27.18:556][307]LogModuleManager: Shutting down and abandoning module CryptoKeys (478)
+[2022.04.24-08.27.18:556][307]LogModuleManager: Shutting down and abandoning module PluginBrowser (476)
+[2022.04.24-08.27.18:558][307]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (474)
+[2022.04.24-08.27.18:559][307]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (472)
+[2022.04.24-08.27.18:559][307]LogModuleManager: Shutting down and abandoning module CurveEditorTools (470)
+[2022.04.24-08.27.18:560][307]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (468)
+[2022.04.24-08.27.18:560][307]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (466)
+[2022.04.24-08.27.18:560][307]LogModuleManager: Shutting down and abandoning module UObjectPlugin (464)
+[2022.04.24-08.27.18:560][307]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (462)
+[2022.04.24-08.27.18:560][307]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (460)
+[2022.04.24-08.27.18:562][307]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (458)
+[2022.04.24-08.27.18:562][307]LogModuleManager: Shutting down and abandoning module PluginUtils (456)
+[2022.04.24-08.27.18:562][307]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (454)
+[2022.04.24-08.27.18:563][307]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (452)
+[2022.04.24-08.27.18:566][307]LogModuleManager: Shutting down and abandoning module GitSourceControl (450)
+[2022.04.24-08.27.18:566][307]LogModuleManager: Shutting down and abandoning module SourceControl (449)
+[2022.04.24-08.27.18:566][307]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (446)
+[2022.04.24-08.27.18:566][307]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (444)
+[2022.04.24-08.27.18:566][307]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (442)
+[2022.04.24-08.27.18:566][307]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (440)
+[2022.04.24-08.27.18:566][307]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (438)
+[2022.04.24-08.27.18:566][307]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (436)
+[2022.04.24-08.27.18:566][307]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (434)
+[2022.04.24-08.27.18:566][307]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (432)
+[2022.04.24-08.27.18:566][307]LogModuleManager: Shutting down and abandoning module LiveLink (430)
+[2022.04.24-08.27.18:628][307]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (428)
+[2022.04.24-08.27.18:628][307]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (426)
+[2022.04.24-08.27.18:628][307]LogModuleManager: Shutting down and abandoning module Paper2DEditor (424)
+[2022.04.24-08.27.18:631][307]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (422)
+[2022.04.24-08.27.18:631][307]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (420)
+[2022.04.24-08.27.18:631][307]LogModuleManager: Shutting down and abandoning module Cyberpunk2022 (418)
+[2022.04.24-08.27.18:631][307]LogModuleManager: Shutting down and abandoning module AnimGraph (417)
+[2022.04.24-08.27.18:631][307]LogModuleManager: Shutting down and abandoning module SoundFields (414)
+[2022.04.24-08.27.18:631][307]LogModuleManager: Shutting down and abandoning module SignificanceManager (412)
+[2022.04.24-08.27.18:631][307]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (410)
+[2022.04.24-08.27.18:631][307]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (408)
+[2022.04.24-08.27.18:631][307]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (406)
+[2022.04.24-08.27.18:632][307]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (402)
+[2022.04.24-08.27.18:632][307]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (400)
+[2022.04.24-08.27.18:632][307]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (398)
+[2022.04.24-08.27.18:632][307]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (396)
+[2022.04.24-08.27.18:633][307]LogModuleManager: Shutting down and abandoning module ApexDestruction (394)
+[2022.04.24-08.27.18:633][307]LogModuleManager: Shutting down and abandoning module UdpMessaging (392)
+[2022.04.24-08.27.18:735][307]LogModuleManager: Shutting down and abandoning module ActorSequence (390)
+[2022.04.24-08.27.18:735][307]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2022.04.24-08.27.18:836][307]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (386)
+[2022.04.24-08.27.18:836][307]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (384)
+[2022.04.24-08.27.18:836][307]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (382)
+[2022.04.24-08.27.18:836][307]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (380)
+[2022.04.24-08.27.18:837][307]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (378)
+[2022.04.24-08.27.18:837][307]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.04.24-08.27.18:837][307]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (376)
+[2022.04.24-08.27.18:837][307]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (374)
+[2022.04.24-08.27.18:837][307]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (372)
+[2022.04.24-08.27.18:838][307]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (370)
+[2022.04.24-08.27.18:838][307]LogModuleManager: Shutting down and abandoning module MagicLeapController (368)
+[2022.04.24-08.27.18:838][307]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (366)
+[2022.04.24-08.27.18:838][307]LogModuleManager: Shutting down and abandoning module MagicLeapAR (364)
+[2022.04.24-08.27.18:838][307]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (362)
+[2022.04.24-08.27.18:838][307]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (360)
+[2022.04.24-08.27.18:838][307]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2022.04.24-08.27.18:838][307]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2022.04.24-08.27.18:839][307]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2022.04.24-08.27.18:839][307]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2022.04.24-08.27.18:840][307]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2022.04.24-08.27.18:840][307]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (348)
+[2022.04.24-08.27.18:840][307]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (346)
+[2022.04.24-08.27.18:840][307]LogModuleManager: Shutting down and abandoning module FacialAnimation (344)
+[2022.04.24-08.27.18:840][307]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2022.04.24-08.27.18:840][307]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2022.04.24-08.27.18:841][307]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2022.04.24-08.27.18:844][307]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2022.04.24-08.27.18:844][307]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2022.04.24-08.27.18:844][307]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2022.04.24-08.27.18:845][307]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2022.04.24-08.27.18:846][307]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2022.04.24-08.27.18:846][307]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2022.04.24-08.27.18:846][307]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2022.04.24-08.27.18:846][307]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2022.04.24-08.27.18:846][307]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (320)
+[2022.04.24-08.27.18:846][307]LogModuleManager: Shutting down and abandoning module GameplayCameras (318)
+[2022.04.24-08.27.18:846][307]LogModuleManager: Shutting down and abandoning module AnimationSharing (316)
+[2022.04.24-08.27.18:846][307]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.04.24-08.27.18:846][307]LogModuleManager: Shutting down and abandoning module Paper2D (312)
+[2022.04.24-08.27.18:847][307]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (310)
+[2022.04.24-08.27.18:848][307]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.04.24-08.27.18:860][307]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.04.24-08.27.18:860][307]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.04.24-08.27.18:860][307]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.04.24-08.27.18:860][307]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.04.24-08.27.18:861][307]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.04.24-08.27.18:862][307]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.04.24-08.27.18:862][307]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.04.24-08.27.18:862][307]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.04.24-08.27.18:862][307]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.04.24-08.27.18:863][307]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.04.24-08.27.18:863][307]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.04.24-08.27.18:863][307]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.04.24-08.27.18:864][307]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.04.24-08.27.18:865][307]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.04.24-08.27.18:866][307]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.04.24-08.27.18:866][307]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.04.24-08.27.18:866][307]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.04.24-08.27.18:867][307]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.04.24-08.27.18:867][307]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.04.24-08.27.18:870][307]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.04.24-08.27.18:870][307]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.04.24-08.27.18:871][307]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.04.24-08.27.18:871][307]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.04.24-08.27.18:871][307]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.04.24-08.27.18:871][307]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.04.24-08.27.18:871][307]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.04.24-08.27.18:871][307]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.04.24-08.27.18:872][307]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.04.24-08.27.18:872][307]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.04.24-08.27.18:872][307]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.04.24-08.27.18:872][307]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.04.24-08.27.18:873][307]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.04.24-08.27.18:875][307]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.04.24-08.27.18:876][307]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.04.24-08.27.18:878][307]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.04.24-08.27.18:878][307]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.04.24-08.27.18:878][307]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.04.24-08.27.18:879][307]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.04.24-08.27.18:879][307]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.04.24-08.27.18:879][307]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.04.24-08.27.18:880][307]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.04.24-08.27.18:880][307]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.04.24-08.27.18:881][307]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.04.24-08.27.18:881][307]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.04.24-08.27.18:882][307]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.04.24-08.27.18:882][307]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.04.24-08.27.18:883][307]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.04.24-08.27.18:883][307]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.04.24-08.27.18:884][307]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.04.24-08.27.18:884][307]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.04.24-08.27.18:885][307]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.04.24-08.27.18:885][307]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.04.24-08.27.18:886][307]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.04.24-08.27.18:886][307]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.04.24-08.27.18:886][307]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.04.24-08.27.18:886][307]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.04.24-08.27.18:886][307]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.04.24-08.27.18:887][307]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.04.24-08.27.18:887][307]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.04.24-08.27.18:887][307]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.04.24-08.27.18:887][307]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.04.24-08.27.18:887][307]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.04.24-08.27.18:887][307]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.04.24-08.27.18:887][307]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.04.24-08.27.18:887][307]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.04.24-08.27.18:888][307]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.04.24-08.27.18:888][307]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.04.24-08.27.18:888][307]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.04.24-08.27.18:894][307]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.04.24-08.27.18:894][307]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.04.24-08.27.18:894][307]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.04.24-08.27.18:894][307]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.04.24-08.27.18:894][307]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.04.24-08.27.18:906][307]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.04.24-08.27.18:906][307]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.04.24-08.27.18:906][307]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.04.24-08.27.18:906][307]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.04.24-08.27.18:906][307]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.04.24-08.27.18:906][307]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.04.24-08.27.18:906][307]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.04.24-08.27.18:906][307]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.04.24-08.27.18:906][307]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.04.24-08.27.18:911][307]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.04.24-08.27.18:930][307]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.04.24-08.27.18:930][307]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.04.24-08.27.18:930][307]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.04.24-08.27.18:930][307]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.04.24-08.27.18:930][307]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.04.24-08.27.18:931][307]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.04.24-08.27.18:931][307]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.04.24-08.27.18:931][307]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.04.24-08.27.18:931][307]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.04.24-08.27.18:932][307]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.04.24-08.27.18:932][307]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.04.24-08.27.18:932][307]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.04.24-08.27.18:932][307]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.04.24-08.27.18:932][307]LogHMD: Freeing OpenVRDLLHandle.
+[2022.04.24-08.27.18:932][307]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.04.24-08.27.18:933][307]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.04.24-08.27.18:934][307]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.04.24-08.27.18:934][307]LogModuleManager: Shutting down and abandoning module OpenXRAR (106)
+[2022.04.24-08.27.18:934][307]LogModuleManager: Shutting down and abandoning module AugmentedReality (105)
+[2022.04.24-08.27.18:934][307]LogModuleManager: Shutting down and abandoning module OpenXRHMD (102)
+[2022.04.24-08.27.18:935][307]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (100)
+[2022.04.24-08.27.18:936][307]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.04.24-08.27.18:936][307]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.04.24-08.27.18:937][307]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.04.24-08.27.18:937][307]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.04.24-08.27.18:937][307]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.04.24-08.27.18:938][307]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.04.24-08.27.18:940][307]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.04.24-08.27.18:957][307]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.04.24-08.27.18:957][307]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.04.24-08.27.18:957][307]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD20A5C64-4061-7162-CA78-B0ABEB154EEE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=7bcbe2794def56f1e5101dbeaa1095b9%7Cb3dbbd790e744f5eb7ae69004ec5b206%7C055a92f6-8208-4b79-b881-4a6d8395a9ca&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.04.24-08.27.18:957][307]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.04.24-08.27.18:976][307]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.04.24-08.27.18:978][307]LogModuleManager: Shutting down and abandoning module MLSDK (74)
+[2022.04.24-08.27.18:979][307]LogModuleManager: Shutting down and abandoning module MagicLeap (72)
+[2022.04.24-08.27.18:979][307]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2022.04.24-08.27.18:982][307]LogModuleManager: Shutting down and abandoning module Media (69)
+[2022.04.24-08.27.18:984][307]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2022.04.24-08.27.18:984][307]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2022.04.24-08.27.18:985][307]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2022.04.24-08.27.18:985][307]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2022.04.24-08.27.18:985][307]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2022.04.24-08.27.18:985][307]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2022.04.24-08.27.18:985][307]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2022.04.24-08.27.18:985][307]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.04.24-08.27.18:985][307]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.04.24-08.27.18:985][307]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.04.24-08.27.18:985][307]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.04.24-08.27.18:986][307]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.04.24-08.27.18:986][307]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.04.24-08.27.18:986][307]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.04.24-08.27.18:986][307]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.04.24-08.27.18:986][307]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.04.24-08.27.18:987][307]LogXGEController: Cleaning working directory: C:/Users/PCv/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.04.24-08.27.18:987][307]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.04.24-08.27.18:988][307]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.04.24-08.27.18:989][307]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.04.24-08.27.18:989][307]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.04.24-08.27.18:989][307]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.04.24-08.27.18:989][307]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.04.24-08.27.18:989][307]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.04.24-08.27.18:991][307]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.04.24-08.27.18:992][307]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.04.24-08.27.18:992][307]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.04.24-08.27.18:992][307]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.04.24-08.27.18:992][307]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.04.24-08.27.18:993][307]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.04.24-08.27.18:993][307]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.04.24-08.27.18:993][307]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.04.24-08.27.18:993][307]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.04.24-08.27.18:993][307]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.04.24-08.27.18:994][307]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.04.24-08.27.19:026][307]LogD3D11RHI: Shutdown
+[2022.04.24-08.27.19:026][307]LogD3D11RHI: CleanupD3DDevice
+[2022.04.24-08.27.19:037][307]LogExit: Exiting.
+[2022.04.24-08.27.19:048][307]Log file closed, 04/24/22 11:27:19
