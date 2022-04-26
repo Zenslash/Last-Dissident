@@ -48,6 +48,11 @@ void UHealthComponent::UpdateHealth(int value)
 	}
 }
 
+void UHealthComponent::SetCurrentHealth(int value)
+{
+	_currentHealth = value;
+}
+
 void UHealthComponent::ApplyResist(float value)
 {
 	_resist = value;

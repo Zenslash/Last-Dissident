@@ -31,6 +31,9 @@ public:
 	UFUNCTION(BlueprintCallable)
 	void UpdateHealth(int value);
 
+	UFUNCTION(BlueprintCallable)
+	void SetCurrentHealth(int value);
+
 	void ApplyResist(float value);
 
 private:
