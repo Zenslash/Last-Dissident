@@ -255,6 +255,7 @@ private:
 
 	bool _bFireButtonPressed;
 	bool _bShouldFire;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Timers, meta = (AllowPrivateAccess = "true"))
 	FTimerHandle _fireTimer;
 	float _shootTimeDuration;
 	bool _bFiringBullet;
