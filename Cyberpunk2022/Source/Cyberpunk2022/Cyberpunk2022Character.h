@@ -19,6 +19,9 @@ class UMotionControllerComponent;
 class UAnimMontage;
 class USoundBase;
 
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnPlayerStateSignature);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnPlayerTimedStateSignature, float, time);
+
 UENUM(BlueprintType)
 enum class ECombatState : uint8
 {
@@ -81,6 +84,29 @@ public:
 	/** Whether to use motion controller location for aiming. */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
 	uint8 bUsingMotionControllers : 1;
+
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = Callback)
+	int _lowAmmoBorder = 90;
+
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerStateSignature OnPlayerShotEvent;
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerStateSignature OnPlayerReloadEvent;
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerStateSignature OnPlayerEmptyEvent;
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerStateSignature OnPlayerLowAmmoEvent;
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerStateSignature OnPlayerFulfillAmmoEvent;
+
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerStateSignature OnPlayerHealthPickupEvent;
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerTimedStateSignature OnPlayerShieldPickupEvent;
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerTimedStateSignature OnPlayerDamagePickupEvent;
+	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
+	FOnPlayerTimedStateSignature OnPlayerSpeedPickupEvent;
 
 protected:
 	
@@ -229,12 +255,14 @@ private:
 
 	bool _bFireButtonPressed;
 	bool _bShouldFire;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Timers, meta = (AllowPrivateAccess = "true"))
 	FTimerHandle _fireTimer;
 	float _shootTimeDuration;
 	bool _bFiringBullet;
 	FTimerHandle _crosshairShootTimer;
 	UHealthComponent* _healthComponent;
 
+	UPROPERTY()
 	UCharacterStats* _characterStats;
 	UBuffComponent* _buffComponent;
 	float _baseWalkSpeed;

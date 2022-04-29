@@ -75,18 +75,17 @@ ACyberpunk2022Character::ACyberpunk2022Character()
 	GunOffset = FVector(100.0f, 0.0f, 10.0f);
 
 	_handSceneComponent = CreateDefaultSubobject<USceneComponent>(TEXT("HandSceneComp"));
-
-	_characterStats = NewObject<UCharacterStats>();
-	_characterStats->SetSpeedMultiplier(1.f);
-	_characterStats->SetDamageMultiplier(1.f);
-	_characterStats->SetDamageResistMultiplier(0.f);
-
 }
 
 void ACyberpunk2022Character::BeginPlay()
 {
 	// Call the base class  
 	Super::BeginPlay();
+
+	_characterStats = NewObject<UCharacterStats>();
+	_characterStats->SetSpeedMultiplier(1.f);
+	_characterStats->SetDamageMultiplier(1.f);
+	_characterStats->SetDamageResistMultiplier(0.f);
 
 	// Show or hide the two versions of the gun based on whether or not we're using motion controllers.
 	Mesh1P->SetHiddenInGame(false, true);
@@ -295,6 +294,10 @@ void ACyberpunk2022Character::FireWeapon()
 
 		StartFireTimer();
 	}
+	else
+	{
+		OnPlayerEmptyEvent.Broadcast();
+	}
 }
 
 void ACyberpunk2022Character::PlayFireSound() const
@@ -313,6 +316,8 @@ void ACyberpunk2022Character::SendBullet()
 	{
 		UE_LOG(LogTemp, Error, TEXT("Weapon doesnt have USkeletalMeshComponent!"));
 	}
+
+	OnPlayerShotEvent.Broadcast();
 
 	const USkeletalMeshSocket* barrelSocket = itemMesh->GetSocketByName("BarrelPoint");
 	if (barrelSocket)
@@ -344,7 +349,7 @@ void ACyberpunk2022Character::SendBullet()
 			bool bImplTakingDamage = UKismetSystemLibrary::DoesImplementInterface(hitInfo.GetActor(), UTakingDamageInterface::StaticClass());
 			if (bImplTakingDamage)
 			{
-				ITakingDamageInterface::Execute_TakingDamage(hitInfo.GetActor(), hitInfo.BoneName, _equippedWeapon->GetDamagePerBullet() * _characterStats->GetDamageModifier(), hitInfo.ImpactNormal);
+				ITakingDamageInterface::Execute_TakingDamage(hitInfo.GetActor(), hitInfo.BoneName, _equippedWeapon->GetDamagePerBullet() * _characterStats->GetDamageModifier(), hitInfo.ImpactNormal, GetActorLocation());
 			}
 
 			beamEndPoint = hitInfo.Location;
@@ -501,6 +506,7 @@ void ACyberpunk2022Character::ReleaseClip()
 
 void ACyberpunk2022Character::FinishReloading()
 {
+	OnPlayerReloadEvent.Broadcast();
 	_combatState = ECombatState::ECS_Unoccupied;
 
 	if(_equippedWeapon == nullptr)
@@ -529,6 +535,11 @@ void ACyberpunk2022Character::FinishReloading()
 			carriedAmmo -= magEmptySpace;
 		}
 		_ammoMap.Add(ammoType, carriedAmmo);
+
+		if(carriedAmmo <= _lowAmmoBorder)
+		{
+			OnPlayerLowAmmoEvent.Broadcast();
+		}
 	}
 }
 
@@ -690,6 +701,11 @@ void ACyberpunk2022Character::PickupAmmo(AAmmo* ammo)
 		int32 ammoCount{ _ammoMap[ammo->GetAmmoType()] };
 		ammoCount += ammo->GetItemCount();
 		_ammoMap[ammo->GetAmmoType()] = ammoCount;
+
+		if(ammoCount > _lowAmmoBorder)
+		{
+			OnPlayerFulfillAmmoEvent.Broadcast();
+		}
 	}
 
 	if(_equippedWeapon->GetAmmoType() == ammo->GetAmmoType())
@@ -707,6 +723,7 @@ void ACyberpunk2022Character::PickupHealth(AHealthPickup* health)
 {
 	if(_healthComponent)
 	{
+		OnPlayerHealthPickupEvent.Broadcast();
 		_healthComponent->UpdateHealth(health->GetItemCount());
 	}
 	else
