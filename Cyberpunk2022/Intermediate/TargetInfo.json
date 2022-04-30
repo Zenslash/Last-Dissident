@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Cyberpunk2022",
-			"Path": "E:\\UE4\\Projects\\WargamingAcademy\\Cyberpunk2022\\Source\\Cyberpunk2022.Target.cs",
+			"Path": "C:\\3D\\Wargaming\\GIT\\WargamingAcademy\\Cyberpunk2022\\Source\\Cyberpunk2022.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "Cyberpunk2022Editor",
-			"Path": "E:\\UE4\\Projects\\WargamingAcademy\\Cyberpunk2022\\Source\\Cyberpunk2022Editor.Target.cs",
+			"Path": "C:\\3D\\Wargaming\\GIT\\WargamingAcademy\\Cyberpunk2022\\Source\\Cyberpunk2022Editor.Target.cs",
 			"Type": "Editor"
 		}
 	]
