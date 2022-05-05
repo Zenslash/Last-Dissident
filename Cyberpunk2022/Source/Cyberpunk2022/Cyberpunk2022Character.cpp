@@ -44,6 +44,7 @@ ACyberpunk2022Character::ACyberpunk2022Character()
 	// set our turn rates for input
 	BaseTurnRate = 45.f;
 	BaseLookUpRate = 45.f;
+	_turnRateMultiplier = 1.f;
 
 	// Create a CameraComponent	
 	FirstPersonCameraComponent = CreateDefaultSubobject<UCameraComponent>(TEXT("FirstPersonCamera"));
@@ -268,13 +269,13 @@ void ACyberpunk2022Character::MoveRight(float Value)
 void ACyberpunk2022Character::TurnAtRate(float Rate)
 {
 	// calculate delta for this frame from the rate information
-	AddControllerYawInput(Rate * BaseTurnRate * GetWorld()->GetDeltaSeconds());
+	AddControllerYawInput(Rate * BaseTurnRate * _turnRateMultiplier * GetWorld()->GetDeltaSeconds());
 }
 
 void ACyberpunk2022Character::LookUpAtRate(float Rate)
 {
 	// calculate delta for this frame from the rate information
-	AddControllerPitchInput(Rate * BaseLookUpRate * GetWorld()->GetDeltaSeconds());
+	AddControllerPitchInput(Rate * BaseLookUpRate * _turnRateMultiplier * GetWorld()->GetDeltaSeconds());
 }
 
 void ACyberpunk2022Character::FireWeapon()
