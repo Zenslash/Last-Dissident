@@ -7,7 +7,7 @@
 #include "DamageResistBuff.h"
 #include "SpeedBuff.h"
 
-UBuff* UBuffFactory::ConstructBuff(EBuffType type, UCharacterStats* stats, AItem* sourceItem)
+UBuff* UBuffFactory::ConstructBuff(EBuffType type, UCharacterStats* stats, AItem* item, AActor* sourceActor)
 {
 	UBuff* result = nullptr;
 
@@ -28,7 +28,8 @@ UBuff* UBuffFactory::ConstructBuff(EBuffType type, UCharacterStats* stats, AItem
 	{
 		result->SetBuffType(type);
 		result->SetCharacterStats(stats);
-		result->SetSourceItem(sourceItem);
+		result->SetSourceItem(item);
+		result->SetSourceActor(sourceActor);
 	}
 
 	return result;

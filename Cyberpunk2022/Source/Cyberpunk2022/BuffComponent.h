@@ -30,11 +30,11 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
-	void AddBuff(EBuffType type, UCharacterStats* stats, AItem* sourceItem);
+	void AddBuff(EBuffType type, UCharacterStats* stats, AItem* item, AActor* sourceActor);
 
 
 private:
-
+	UPROPERTY()
 	class UBuffFactory* _factory;
 
 	std::vector<UBuff*> _activeBuff;

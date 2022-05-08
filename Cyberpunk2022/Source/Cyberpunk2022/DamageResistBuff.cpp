@@ -9,6 +9,11 @@ void UDamageResistBuff::ApplyEffect()
 {
 	Super::ApplyEffect();
 
+	if(_sourceActor == nullptr)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("SourceActor is null!"));
+		return;
+	}
 	if(_sourceItem == nullptr)
 	{
 		UE_LOG(LogTemp, Warning, TEXT("SourceItem is null!"));
@@ -24,7 +29,7 @@ void UDamageResistBuff::ApplyEffect()
 	_characterStats->SetDamageResistMultiplier(pickup->GetShieldResist());
 
 	//Init Timer
-	pickup->GetWorld()->GetTimerManager().SetTimer(_timerHandle, this, &UDamageResistBuff::RemoveEffect, pickup->GetShieldDuration());
+	_sourceActor->GetWorld()->GetTimerManager().SetTimer(_timerHandle, this, &UDamageResistBuff::RemoveEffect, pickup->GetShieldDuration());
 }
 
 void UDamageResistBuff::RemoveEffect()

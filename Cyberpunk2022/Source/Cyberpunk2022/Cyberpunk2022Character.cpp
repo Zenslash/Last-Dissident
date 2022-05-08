@@ -737,21 +737,24 @@ void ACyberpunk2022Character::PickupHealth(AHealthPickup* health)
 
 void ACyberpunk2022Character::PickupSpeed(ASpeedPickup* speed)
 {
-	_buffComponent->AddBuff(EBuffType::SPEED, _characterStats, speed);
+	_buffComponent->AddBuff(EBuffType::SPEED, _characterStats, speed, this);
+	OnPlayerSpeedPickupEvent.Broadcast(speed->GetBuffDuration());
 
 	speed->Destroy();
 }
 
 void ACyberpunk2022Character::PickupDamage(ADamagePickup* damage)
 {
-	_buffComponent->AddBuff(EBuffType::DAMAGE, _characterStats, damage);
+	_buffComponent->AddBuff(EBuffType::DAMAGE, _characterStats, damage, this);
+	OnPlayerDamagePickupEvent.Broadcast(damage->GetBuffDuration());
 
 	damage->Destroy();
 }
 
 void ACyberpunk2022Character::PickupShield(AShieldPickup* shield)
 {
-	_buffComponent->AddBuff(EBuffType::RESIST, _characterStats, shield);
+	_buffComponent->AddBuff(EBuffType::RESIST, _characterStats, shield, this);
+	OnPlayerShieldPickupEvent.Broadcast(shield->GetShieldDuration());
 
 	shield->Destroy();
 }

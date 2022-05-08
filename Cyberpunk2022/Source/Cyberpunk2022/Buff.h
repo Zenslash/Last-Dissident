@@ -33,6 +33,10 @@ public:
 	{
 		_characterStats = stats;
 	}
+	void SetSourceActor(AActor* actor)
+	{
+		_sourceActor = actor;
+	}
 	void SetSourceItem(AItem* item)
 	{
 		_sourceItem = item;
@@ -45,8 +49,12 @@ public:
 protected:
 
 	EBuffType _buffType;
+	UPROPERTY()
 	UCharacterStats* _characterStats;
 	FTimerHandle _timerHandle;
+	UPROPERTY()
+	AActor* _sourceActor;
+	UPROPERTY()
 	AItem* _sourceItem;
 
 	//Get timer from pickup or data asset?

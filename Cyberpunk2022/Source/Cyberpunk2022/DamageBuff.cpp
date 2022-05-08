@@ -18,6 +18,11 @@ void UDamageBuff::ApplyEffect()
 {
 	Super::ApplyEffect();
 
+	if (_sourceActor == nullptr)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("SourceActor is null!"));
+		return;
+	}
 	if (_sourceItem == nullptr)
 	{
 		UE_LOG(LogTemp, Warning, TEXT("SourceItem is null!"));
@@ -33,7 +38,7 @@ void UDamageBuff::ApplyEffect()
 	_characterStats->SetDamageMultiplier(pickup->GetDamageMultiplier());
 
 	//Init Timer
-	pickup->GetWorld()->GetTimerManager().SetTimer(_timerHandle, this, &UDamageBuff::RemoveEffect, pickup->GetBuffDuration());
+	_sourceActor->GetWorld()->GetTimerManager().SetTimer(_timerHandle, this, &UDamageBuff::RemoveEffect, pickup->GetBuffDuration());
 }
 
 void UDamageBuff::RemoveEffect()

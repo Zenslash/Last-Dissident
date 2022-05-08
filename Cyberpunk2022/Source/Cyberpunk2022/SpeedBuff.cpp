@@ -9,6 +9,11 @@ void USpeedBuff::ApplyEffect()
 {
 	Super::ApplyEffect();
 
+	if (_sourceActor == nullptr)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("SourceActor is null!"));
+		return;
+	}
 	if (_sourceItem == nullptr)
 	{
 		UE_LOG(LogTemp, Warning, TEXT("SourceItem is null!"));
@@ -24,7 +29,7 @@ void USpeedBuff::ApplyEffect()
 	_characterStats->SetSpeedMultiplier(pickup->GetSpeedMultiplier());
 
 	//Init Timer
-	pickup->GetWorld()->GetTimerManager().SetTimer(_timerHandle, this, &USpeedBuff::RemoveEffect, pickup->GetBuffDuration());
+	_sourceActor->GetWorld()->GetTimerManager().SetTimer(_timerHandle, this, &USpeedBuff::RemoveEffect, pickup->GetBuffDuration());
 }
 
 void USpeedBuff::RemoveEffect()

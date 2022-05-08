@@ -262,10 +262,12 @@ private:
 	float _shootTimeDuration;
 	bool _bFiringBullet;
 	FTimerHandle _crosshairShootTimer;
+	UPROPERTY()
 	UHealthComponent* _healthComponent;
 
 	UPROPERTY()
 	UCharacterStats* _characterStats;
+	UPROPERTY()
 	UBuffComponent* _buffComponent;
 	float _baseWalkSpeed;
 	

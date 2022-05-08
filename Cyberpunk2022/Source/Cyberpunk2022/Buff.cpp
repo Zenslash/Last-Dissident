@@ -21,7 +21,10 @@ void UBuff::RemoveEffect()
 
 void UBuff::ResetEffect()
 {
-	_sourceItem->GetWorld()->GetTimerManager().ClearTimer(_timerHandle);
+	if(_sourceActor != nullptr)
+	{
+		_sourceActor->GetWorld()->GetTimerManager().ClearTimer(_timerHandle);
+	}
 }
 
 void UBuff::ApplyEffect()

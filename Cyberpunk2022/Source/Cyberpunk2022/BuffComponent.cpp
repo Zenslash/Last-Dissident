@@ -39,7 +39,7 @@ void UBuffComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActorC
 	// ...
 }
 
-void UBuffComponent::AddBuff(EBuffType type, UCharacterStats* stats, AItem* sourceItem)
+void UBuffComponent::AddBuff(EBuffType type, UCharacterStats* stats, AItem* item, AActor* sourceActor)
 {
 	for(int i = 0; i < _activeBuff.size(); i++)
 	{
@@ -51,7 +51,7 @@ void UBuffComponent::AddBuff(EBuffType type, UCharacterStats* stats, AItem* sour
 		}
 	}
 
-	UBuff* buff = _factory->ConstructBuff(type, stats, sourceItem);
+	UBuff* buff = _factory->ConstructBuff(type, stats, item, sourceActor);
 	_activeBuff.push_back(buff);
 	buff->ApplyEffect();
 }
