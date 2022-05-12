@@ -23,7 +23,6 @@ void UBuffComponent::BeginPlay()
 	Super::BeginPlay();
 
 	_factory = NewObject<UBuffFactory>();
-	_activeBuff = std::vector<UBuff*>();
 	//_activeBuff = std::vector<UBuff>();
 	// ...
 	
@@ -41,18 +40,18 @@ void UBuffComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActorC
 
 void UBuffComponent::AddBuff(EBuffType type, UCharacterStats* stats, AItem* item, AActor* sourceActor)
 {
-	for(int i = 0; i < _activeBuff.size(); i++)
+	for(int i = 0; i < _activeBuff.Num(); i++)
 	{
 		if(_activeBuff[i]->GetBuffType() == type)
 		{
-			_activeBuff[i]->ResetEffect();
-			_activeBuff[i]->ApplyEffect();
-			return;
+			_activeBuff[i]->RemoveEffect();
+			_activeBuff.RemoveAt(i);
+			break;
 		}
 	}
 
 	UBuff* buff = _factory->ConstructBuff(type, stats, item, sourceActor);
-	_activeBuff.push_back(buff);
+	_activeBuff.Add(buff);
 	buff->ApplyEffect();
 }
 

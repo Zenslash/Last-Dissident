@@ -16,7 +16,10 @@ UBuff::UBuff(UCharacterStats* stats)
 
 void UBuff::RemoveEffect()
 {
-
+	if (_sourceActor != nullptr)
+	{
+		_sourceActor->GetWorld()->GetTimerManager().ClearTimer(_timerHandle);
+	}
 }
 
 void UBuff::ResetEffect()

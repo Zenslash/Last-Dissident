@@ -37,6 +37,7 @@ private:
 	UPROPERTY()
 	class UBuffFactory* _factory;
 
-	std::vector<UBuff*> _activeBuff;
+	UPROPERTY()
+	TArray<UBuff*> _activeBuff;
 		
 };

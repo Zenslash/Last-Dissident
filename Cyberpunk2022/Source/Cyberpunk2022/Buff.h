@@ -51,6 +51,7 @@ protected:
 	EBuffType _buffType;
 	UPROPERTY()
 	UCharacterStats* _characterStats;
+	UPROPERTY()
 	FTimerHandle _timerHandle;
 	UPROPERTY()
 	AActor* _sourceActor;
