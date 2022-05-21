@@ -297,6 +297,7 @@ void ACyberpunk2022Character::FireWeapon()
 	}
 	else
 	{
+		ReloadWeapon();
 		OnPlayerEmptyEvent.Broadcast();
 	}
 }
@@ -697,6 +698,8 @@ bool ACyberpunk2022Character::WeaponHasAmmo()
 
 void ACyberpunk2022Character::PickupAmmo(AAmmo* ammo)
 {
+	ammo->PlayPickupSound();
+
 	if(_ammoMap.Find(ammo->GetAmmoType()))
 	{
 		int32 ammoCount{ _ammoMap[ammo->GetAmmoType()] };
@@ -724,6 +727,11 @@ void ACyberpunk2022Character::PickupHealth(AHealthPickup* health)
 {
 	if(_healthComponent)
 	{
+		if(_healthComponent->IsFullHP())
+		{
+			return;
+		}
+
 		OnPlayerHealthPickupEvent.Broadcast();
 		_healthComponent->UpdateHealth(health->GetItemCount());
 	}
@@ -732,11 +740,14 @@ void ACyberpunk2022Character::PickupHealth(AHealthPickup* health)
 		UE_LOG(LogTemp, Error, TEXT("HealthComponent is null! Cannot pickup item"));
 	}
 
+	health->PlayPickupSound();
 	health->Destroy();
 }
 
 void ACyberpunk2022Character::PickupSpeed(ASpeedPickup* speed)
 {
+	speed->PlayPickupSound();
+
 	_buffComponent->AddBuff(EBuffType::SPEED, _characterStats, speed, this);
 	OnPlayerSpeedPickupEvent.Broadcast(speed->GetBuffDuration());
 
@@ -745,6 +756,8 @@ void ACyberpunk2022Character::PickupSpeed(ASpeedPickup* speed)
 
 void ACyberpunk2022Character::PickupDamage(ADamagePickup* damage)
 {
+	damage->PlayPickupSound();
+
 	_buffComponent->AddBuff(EBuffType::DAMAGE, _characterStats, damage, this);
 	OnPlayerDamagePickupEvent.Broadcast(damage->GetBuffDuration());
 
@@ -753,6 +766,8 @@ void ACyberpunk2022Character::PickupDamage(ADamagePickup* damage)
 
 void ACyberpunk2022Character::PickupShield(AShieldPickup* shield)
 {
+	shield->PlayPickupSound();
+
 	_buffComponent->AddBuff(EBuffType::RESIST, _characterStats, shield, this);
 	OnPlayerShieldPickupEvent.Broadcast(shield->GetShieldDuration());
 
@@ -761,8 +776,6 @@ void ACyberpunk2022Character::PickupShield(AShieldPickup* shield)
 
 void ACyberpunk2022Character::GetPickupItem(AItem* item)
 {
-	item->PlayPickupSound();
-
 	auto Ammo = Cast<AAmmo>(item);
 	if (Ammo)
 	{

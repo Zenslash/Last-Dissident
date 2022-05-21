@@ -34,6 +34,11 @@ public:
 	UFUNCTION(BlueprintCallable)
 	void SetCurrentHealth(int value);
 
+	bool IsFullHP() const
+	{
+		return _currentHealth >= _maxHealth;
+	}
+
 	void ApplyResist(float value);
 
 private:
