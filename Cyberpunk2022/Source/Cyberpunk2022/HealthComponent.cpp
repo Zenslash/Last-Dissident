@@ -18,7 +18,7 @@ void UHealthComponent::BeginPlay()
 {
 	Super::BeginPlay();
 
-	_currentHealth = _maxHealth;
+	//_currentHealth = _maxHealth;
 	_resist = 0.f;
 
 	// ...
