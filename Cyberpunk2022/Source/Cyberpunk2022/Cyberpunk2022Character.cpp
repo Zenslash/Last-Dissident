@@ -297,6 +297,7 @@ void ACyberpunk2022Character::FireWeapon()
 	}
 	else
 	{
+		UGameplayStatics::PlaySound2D(this, MagEmptySound, MagEmptySound->GetVolumeMultiplier());
 		ReloadWeapon();
 		OnPlayerEmptyEvent.Broadcast();
 	}
@@ -444,6 +445,8 @@ void ACyberpunk2022Character::ReloadWeapon()
 			weaponInstance->Montage_Play(_equippedWeapon->GetReloadAnimation());
 			weaponInstance->Montage_JumpToSection(_equippedWeapon->GetReloadMontage());
 		}
+
+		UGameplayStatics::PlaySound2D(this, MagOutSound, MagOutSound->GetVolumeMultiplier());
 	}
 }
 
@@ -503,6 +506,7 @@ void ACyberpunk2022Character::GrabClip()
 
 void ACyberpunk2022Character::ReleaseClip()
 {
+	UGameplayStatics::PlaySound2D(this, MagInSound, MagInSound->GetVolumeMultiplier());
 	_equippedWeapon->SetMovingClip(false);
 }
 
