@@ -329,7 +329,8 @@ void ACyberpunk2022Character::SendBullet()
 
 		if (_equippedWeapon->GetMuzzleFlash())
 		{
-			UParticleSystemComponent* muzzle = UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), _equippedWeapon->GetMuzzleFlash(), socketTransform);
+			UParticleSystemComponent* muzzle = UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), _equippedWeapon->GetMuzzleFlash(), socketTransform, 
+				true, EPSCPoolMethod::AutoRelease);
 			muzzle->AttachTo((USceneComponent*)itemMesh);
 		}
 
@@ -359,7 +360,8 @@ void ACyberpunk2022Character::SendBullet()
 
 			if (_equippedWeapon->GetImpactParticles())
 			{
-				UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), _equippedWeapon->GetImpactParticles(), hitInfo.Location);
+				UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), _equippedWeapon->GetImpactParticles(), hitInfo.Location, FRotator::ZeroRotator, FVector(1),\
+																true, EPSCPoolMethod::AutoRelease);
 			}
 
 			//Spawn bullet hole
