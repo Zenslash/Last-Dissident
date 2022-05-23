@@ -98,6 +98,9 @@ public:
 	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = Callback)
 	int _lowAmmoBorder = 90;
 
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = Callback)
+	int _upperAmmoBorder = 120;
+
 	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)
 	FOnPlayerStateSignature OnPlayerShotEvent;
 	UPROPERTY(BlueprintAssignable, EditAnywhere, Category = Callback)

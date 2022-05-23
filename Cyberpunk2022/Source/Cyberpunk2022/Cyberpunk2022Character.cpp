@@ -704,12 +704,20 @@ bool ACyberpunk2022Character::WeaponHasAmmo()
 
 void ACyberpunk2022Character::PickupAmmo(AAmmo* ammo)
 {
-	ammo->PlayPickupSound();
-
 	if(_ammoMap.Find(ammo->GetAmmoType()))
 	{
 		int32 ammoCount{ _ammoMap[ammo->GetAmmoType()] };
+		if(ammoCount >= _upperAmmoBorder)
+		{
+			return;
+		}
+
 		ammoCount += ammo->GetItemCount();
+		if(ammoCount > _upperAmmoBorder)
+		{
+			ammoCount = _upperAmmoBorder;
+		}
+
 		_ammoMap[ammo->GetAmmoType()] = ammoCount;
 
 		if(ammoCount > _lowAmmoBorder)
@@ -725,6 +733,7 @@ void ACyberpunk2022Character::PickupAmmo(AAmmo* ammo)
 			ReloadWeapon();
 		}
 	}
+	ammo->PlayPickupSound();
 
 	ammo->Destroy();
 }

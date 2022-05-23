@@ -41,6 +41,10 @@ void UHealthComponent::UpdateHealth(int value)
 		value *= 1 - _resist;
 	}
 	_currentHealth -= value;
+	if(_currentHealth > _maxHealth)
+	{
+		_currentHealth = _maxHealth;
+	}
 
 	if(_currentHealth <= 0)
 	{
