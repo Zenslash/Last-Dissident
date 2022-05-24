@@ -269,13 +269,15 @@ void ACyberpunk2022Character::MoveRight(float Value)
 void ACyberpunk2022Character::TurnAtRate(float Rate)
 {
 	// calculate delta for this frame from the rate information
-	AddControllerYawInput(Rate * BaseTurnRate * _turnRateMultiplier * GetWorld()->GetDeltaSeconds());
+	//AddControllerYawInput(Rate * BaseTurnRate * _turnRateMultiplier * GetWorld()->GetDeltaSeconds());
+	AddControllerYawInput(Rate * BaseTurnRate * _turnRateMultiplier * FApp::GetFixedDeltaTime());
 }
 
 void ACyberpunk2022Character::LookUpAtRate(float Rate)
 {
 	// calculate delta for this frame from the rate information
-	AddControllerPitchInput(Rate * BaseLookUpRate * _turnRateMultiplier * GetWorld()->GetDeltaSeconds());
+	//AddControllerPitchInput(Rate * BaseLookUpRate * _turnRateMultiplier * GetWorld()->GetDeltaSeconds());
+	AddControllerPitchInput(Rate * BaseLookUpRate * _turnRateMultiplier * FApp::GetFixedDeltaTime());
 }
 
 void ACyberpunk2022Character::FireWeapon()
