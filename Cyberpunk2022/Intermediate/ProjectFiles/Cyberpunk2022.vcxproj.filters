@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Cyberpunk2022.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{2CAEFB24-3691-449D-8E14-72B68DAA3632}</UniqueIdentifier>
+      <UniqueIdentifier>{7D4EAED0-6BA2-4B0D-88C0-C5A435C51E89}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Cyberpunk2022.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\AdvancedGlassPack414.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{F3C490FD-17AB-44C5-AB0C-6D0AA1A5E513}</UniqueIdentifier>
+      <UniqueIdentifier>{C284B650-9DE1-4F41-A32F-343CD50468D1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -31,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Cyberpunk2022">
-      <UniqueIdentifier>{1216C2E7-8562-405A-873C-C66B9439CCEC}</UniqueIdentifier>
+      <UniqueIdentifier>{E88028D5-1A7E-4EDC-B90B-34B27B59F2EC}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Cyberpunk2022\Ammo.cpp">
       <Filter>Source\Cyberpunk2022</Filter>
